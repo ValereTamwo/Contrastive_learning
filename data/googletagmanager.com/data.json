@@ -1,0 +1,20 @@
+{
+    "raw_html": "<HTML lang=\"en\"><A href=\"//www.google.com/\"><SPAN id=\"logo\" aria-label=\"Google\" class=\"possible-clickable-element\" data-testid=\"A\"></SPAN></A><text>404.</text><text>That’s an error.</text><text>The requested URL</text><text>/</text><text>was not found on this server.</text><text>That’s all we know.</text></HTML>",
+    "parsed_html": "\n<\n  body|\n  <span[A]| >\n  <text| 404. >\n  <text| That’s an error. >\n  <text| The requested URL >\n  <text| / >\n  <text| was not found on this server. >\n  <text| That’s all we know. >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 337.5,
+                "top": 132.5,
+                "right": 487.5,
+                "bottom": 186.5,
+                "width": 150,
+                "height": 54
+            },
+            "tag": "span",
+            "text": ""
+        }
+    ]
+}

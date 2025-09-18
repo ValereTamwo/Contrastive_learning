@@ -1,0 +1,370 @@
+{
+    "raw_html": "<A id=\"skip-to-content\" href=\"#skip-target\" class=\"visually-hidden\"><text>Skip to main content</text></A><DIV data-active=\"false\" class=\"BigNavstyles__InnerHeader-sc-1mttgq7-2 kuxyBF\"><DIV class=\"BigNavstyles__NavBar-sc-1mttgq7-3 caTbTe\"><A aria-current=\"page\" href=\"/home\" data-uuid=\"MJFtCCgVhXrVl7v9HA7EH_logo\" class=\"Logostyles__LogoLink-sc-mm495s-0 hHvFIJ\" data-testid=\"logo_link\"><svg aria-label=\"Atlassian Trello\" height=\"37.5\" role=\"img\" viewBox=\"0 0 312 105\" width=\"111.42857142857143\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" class=\"Logo-sc-1anfgcw-0 gguOta\"><path d=\"m55.3 40.6h-47.5c-4.1 0-7.4 3.3-7.4 7.4v47.6c0 4.1 3.3 7.4 7.4 7.4h47.5c4.1 0 7.4-3.3 7.4-7.4v-47.6c0-4.1-3.3-7.4-7.4-7.4zm-28.1 44.9c0 1.4-1.1 2.5-2.5 2.5h-10.4c-1.4 0-2.5-1.1-2.5-2.5v-30.9c0-1.4 1.1-2.5 2.5-2.5h10.4c1.4 0 2.5 1.1 2.5 2.5zm24-14.2c0 1.4-1.1 2.5-2.4 2.5h-10.5c-1.4 0-2.5-1.1-2.5-2.5v-16.7c0-1.4 1.1-2.5 2.5-2.5h10.4c1.4 0 2.5 1.1 2.5 2.5z\" fill=\"url(#trello-logo-gradient-defaultMJFtCCgVhXrVl7v9HA7EH)\" class=\"possible-clickable-element\" data-testid=\"A\"></path><g fill=\"#253858\" transform=\"translate(87 40)\"><path d=\"m42.6 5.2v12.1h-14.3v45.7h-13.8v-45.8h-14.3v-12z\" class=\"possible-clickable-element\" data-testid=\"B\"></path><path d=\"m60.2 63h-12.7v-45h12.7v8.6c2.4-6.1 6.3-9.7 13.2-9.2v13.3c-9-.7-13.2 1.5-13.2 8.7z\"></path><path d=\"m143 63.4c-8.4 0-13.6-4-13.6-13.5v-49.3h12.8v47.5c0 2.7 1.8 3.7 4 3.7.6 0 1.3 0 1.9-.1v11.1c-1.7.4-3.4.6-5.1.6z\" class=\"possible-clickable-element\" data-testid=\"C\"></path><path d=\"m169.8 63.4c-8.4 0-13.6-4-13.6-13.5v-49.3h12.8v47.5c0 2.7 1.8 3.7 4 3.7.6 0 1.3 0 1.9-.1v11.1c-1.7.4-3.4.6-5.1.6z\" class=\"possible-clickable-element\" data-testid=\"D\"></path><path d=\"m181 40.5c0-13.9 8-23.4 21.8-23.4s21.6 9.5 21.6 23.4-7.9 23.6-21.6 23.6-21.8-9.8-21.8-23.6zm12.5 0c0 6.8 2.8 12.1 9.3 12.1s9.1-5.4 9.1-12.1-2.8-12-9.1-12-9.3 5.2-9.3 12z\"></path><path d=\"m90.6 44.6c3.6.4 7.2.6 10.7.6 9.8 0 18-2.6 18-12.1 0-9.2-8.5-16.1-18.7-16.1-13.7 0-22.5 10-22.5 23.8 0 14.4 7.6 23 24.7 23 5.1.1 10.1-.8 14.9-2.6v-10.8c-4.4 1.4-9.4 2.8-14.4 2.8-6.8.1-11.5-2.2-12.7-8.6zm9.8-17.7c3.6 0 6.5 2.4 6.5 5.8 0 4.3-4.6 5.7-9.8 5.7-2.2 0-4.5-.2-6.7-.5.2-2.1.8-4.1 1.8-6 1.6-3.1 4.8-5 8.2-5z\" class=\"possible-clickable-element\" data-testid=\"E\"></path></g><g fill=\"#0052cc\" transform=\"translate(94)\"><path d=\"m98.9 16.7c0-4-2.6-5.8-7.4-7-3-.8-3.7-1.4-3.7-2.4 0-1.2 1.1-1.8 3.1-1.8 2.4.1 4.8.7 7 1.8v-5c-2.1-1-4.5-1.5-6.8-1.5-5.3 0-8.2 2.5-8.2 6.6 0 3.9 2.6 5.9 7 6.9 3.1.7 4 1.2 4 2.5 0 1-.7 1.8-3 1.8-2.8-.1-5.6-.9-8.1-2.3v5.3c2.5 1.2 5.2 1.9 8 1.9 5.4 0 8.1-2.7 8.1-6.8z\" class=\"possible-clickable-element\" data-testid=\"F\"></path><path d=\"m159.3 1.2v22h4.7v-16.8l2 4.4 6.6 12.3h5.9v-22h-4.7v14.2l-1.8-4.1-5.3-10.1h-7.4z\" class=\"possible-clickable-element\" data-testid=\"G\"></path><path d=\"m129.6 1.2h-5.1v22h5.1z\" class=\"possible-clickable-element\" data-testid=\"H\"></path><path d=\"m43.2 1.2v22h10.5l1.6-4.8h-7v-17.2z\"></path><path d=\"m22.4 1.2v4.8h5.7v17.2h5.1v-17.2h6.1v-4.8z\" class=\"possible-clickable-element\" data-testid=\"I\"></path><path d=\"m15 1.2h-6.7l-7.7 22h5.9l1.1-3.7c1.3.4 2.7.6 4.1.6s2.8-.2 4.1-.6l1.1 3.7h5.9zm-3.4 14.3c-1 0-1.9-.1-2.8-.4l2.8-9.6 2.8 9.6c-.9.3-1.8.4-2.8.4z\"></path><path d=\"m71.7 1.2h-6.7l-7.7 22h5.9l1.1-3.7c1.3.4 2.7.6 4.1.6s2.8-.2 4.1-.6l1.1 3.7h5.9zm-3.3 14.3c-1 0-1.9-.1-2.8-.4l2.8-9.6 2.8 9.6c-.9.3-1.9.4-2.8.4z\"></path><path d=\"m148 1.2h-6.7l-7.7 22h5.9l1.1-3.7c1.3.4 2.7.6 4.1.6s2.8-.2 4.1-.6l1.1 3.7h5.9zm-3.4 14.3c-1 0-1.9-.1-2.8-.4l2.8-9.6 2.8 9.6c-.9.3-1.8.4-2.8.4z\"></path><path d=\"m119.2 16.7c0-4-2.6-5.8-7.4-7-3-.8-3.7-1.4-3.7-2.4 0-1.2 1.1-1.8 3-1.8 2.4.1 4.8.7 7 1.8v-5c-2.2-1-4.5-1.5-6.9-1.5-5.3 0-8.2 2.5-8.2 6.6 0 3.9 2.6 5.9 7 6.9 3.1.7 4 1.2 4 2.5 0 1-.7 1.8-3 1.8-2.8-.1-5.6-.9-8.1-2.3v5.3c2.5 1.2 5.2 1.9 8 1.9 5.7 0 8.3-2.7 8.3-6.8z\" class=\"possible-clickable-element\" data-testid=\"J\"></path></g></svg></A><DIV class=\"Tabsstyles__TabGroup-sc-1grh34k-2 hniXih\"><BUTTON aria-expanded=\"false\" data-active=\"false\" data-testid=\"bignav-tab\" class=\"Tabsstyles__Tab-sc-1grh34k-1 fvBJJk\"><text>Features</text><svg fill=\"currentColor\" height=\"8\" viewBox=\"0 0 13 8\" width=\"13\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"K\"><path d=\"m11.7305.59279c.3626.362629.3885.93447.0777 1.32699l-.0777.08722-4.99999 4.99999c-.36263.36263-.93446.38853-1.32697.0777l-.08725-.0777-4.999959-4.99997c-.3905249-.39052-.3905242-1.023685 0-1.414209.362629-.36263.934469-.388553 1.326989-.077728l.08722.077728 4.29292 4.292139 4.29284-4.29216c.3626-.36263.9345-.388532 1.327-.077707z\"></path></svg></BUTTON><BUTTON aria-expanded=\"false\" data-active=\"false\" data-testid=\"bignav-tab\" class=\"Tabsstyles__Tab-sc-1grh34k-1 fvBJJk\"><text>Solutions</text><svg fill=\"currentColor\" height=\"8\" viewBox=\"0 0 13 8\" width=\"13\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"L\"><path d=\"m11.7305.59279c.3626.362629.3885.93447.0777 1.32699l-.0777.08722-4.99999 4.99999c-.36263.36263-.93446.38853-1.32697.0777l-.08725-.0777-4.999959-4.99997c-.3905249-.39052-.3905242-1.023685 0-1.414209.362629-.36263.934469-.388553 1.326989-.077728l.08722.077728 4.29292 4.292139 4.29284-4.29216c.3626-.36263.9345-.388532 1.327-.077707z\"></path></svg></BUTTON><BUTTON aria-expanded=\"false\" data-active=\"false\" data-testid=\"bignav-tab\" class=\"Tabsstyles__Tab-sc-1grh34k-1 fvBJJk\"><text>Plans</text><svg fill=\"currentColor\" height=\"8\" viewBox=\"0 0 13 8\" width=\"13\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"M\"><path d=\"m11.7305.59279c.3626.362629.3885.93447.0777 1.32699l-.0777.08722-4.99999 4.99999c-.36263.36263-.93446.38853-1.32697.0777l-.08725-.0777-4.999959-4.99997c-.3905249-.39052-.3905242-1.023685 0-1.414209.362629-.36263.934469-.388553 1.326989-.077728l.08722.077728 4.29292 4.292139 4.29284-4.29216c.3626-.36263.9345-.388532 1.327-.077707z\"></path></svg></BUTTON><A href=\"/pricing\" class=\"Tabsstyles__Link-sc-1grh34k-0 ILpDE possible-clickable-element\" data-testid=\"N\"><text>Pricing</text></A><BUTTON aria-expanded=\"false\" data-active=\"false\" data-testid=\"bignav-tab\" class=\"Tabsstyles__Tab-sc-1grh34k-1 fvBJJk\"><text>Resources</text><svg fill=\"currentColor\" height=\"8\" viewBox=\"0 0 13 8\" width=\"13\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"O\"><path d=\"m11.7305.59279c.3626.362629.3885.93447.0777 1.32699l-.0777.08722-4.99999 4.99999c-.36263.36263-.93446.38853-1.32697.0777l-.08725-.0777-4.999959-4.99997c-.3905249-.39052-.3905242-1.023685 0-1.414209.362629-.36263.934469-.388553 1.326989-.077728l.08722.077728 4.29292 4.292139 4.29284-4.29216c.3626-.36263.9345-.388532 1.327-.077707z\"></path></svg></BUTTON></DIV><DIV class=\"Buttonsstyles__ButtonGroup-sc-1jwidxo-3 jnMZCI\"><A href=\"https://id.atlassian.com/login?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D\" data-uuid=\"MJFtCCgVhXrVl7v9HA7EH_login\" class=\"Buttonsstyles__Button-sc-1jwidxo-0 kTwZBr possible-clickable-element\" data-testid=\"P\"><text>Log in</text></A><A href=\"https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D\" data-uuid=\"MJFtCCgVhXrVl7v9HA7EH_signup\" class=\"Buttonsstyles__Button-sc-1jwidxo-0 Buttonsstyles__PrimaryButton-sc-1jwidxo-1 kTwZBr lhSFdZ possible-clickable-element\" data-testid=\"Q\"><text>Get Trello for free</text></A></DIV></DIV></DIV><SECTION class=\"UiSectionstyles__Section-sc-4xxafg-0 giGyPu ui-section\"><DIV class=\"grid__Container-sc-p40pqe-0 ctsbPE ui-section__container\"><DIV class=\"grid__Row-sc-p40pqe-1 oFuOf ui-section__row\"><DIV class=\"grid__StyledColumn-sc-p40pqe-2 eFxVbw ui-column\"><DIV class=\"UiTextBlock__TextBlock-sc-18qp69o-0 hEevuu\"><text>Accelerate your teams' work with Atlassian Intelligence (AI) features 🤖 now available for all Premium and Enterprise!</text><A href=\"https://www.atlassian.com/software/artificial-intelligence\" target=\"_blank\" rel=\"noopener\" class=\"possible-clickable-element\" data-testid=\"R\"><text>Learn more.</text></A></DIV></DIV></DIV></DIV></SECTION><SECTION class=\"UiSectionstyles__Section-sc-4xxafg-0 huKOyS ui-section\"><DIV class=\"grid__Container-sc-p40pqe-0 ctsbPE ui-section__container\"><DIV class=\"grid__Row-sc-p40pqe-1 esQJBv ui-section__row\"><DIV class=\"grid__StyledColumn-sc-p40pqe-2 eXMZwc ui-column lg-text-left\"><DIV class=\"UiTextBlock__TextBlock-sc-18qp69o-0 emERQn\"><text>Capture, organize, and tackle your to-dos from anywhere.</text><text>Escape the clutter and chaos—unleash your productivity with Trello.</text></DIV><DIV class=\"UiSpacerstyles__Spacer-sc-3m9z76-0 emazsG\"></DIV><FORM action=\"https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D\" data-testid=\"ui-email-signup-form\" data-uuid=\"2vnd61JpVoeKM6WavABI4B\" class=\"UiEmailSignupstyles__Form-sc-9nggyw-0 HlPFN\"><INPUT type=\"email\" aria-label=\"Email\" data-testid=\"S\" name=\"email\" placeholder=\"Email\" class=\"UiEmailSignupstyles__InputEmail-sc-9nggyw-1 ZIPtJ possible-clickable-element\" style=\"F56D131189EB6A2FE22DEA97F28EEFCF\"></INPUT><DIV class=\"link-buttonstyles__BxpButton-sc-1utqn26-1 inwKxu\"><BUTTON type=\"submit\" aria-label=\"Sign up for Trello - it’s free!\" class=\"possible-clickable-element\" data-testid=\"T\"><text>Sign up - it’s free!</text></BUTTON></DIV></FORM><DIV class=\"UiSpacerstyles__Spacer-sc-3m9z76-0 jAuYNL\"></DIV><DIV class=\"UiMarkdownstyled__StyledMarkdown-sc-1my9sa9-0 cwtuGl\"><P translate=\"no\"><text>By entering my email, I acknowledge the</text><A data-uuid=\"text-1-42-0\" href=\"https://www.atlassian.com/legal/privacy-policy\" target=\"_blank\" rel=\"noopener\"><text>Atlassian Privacy Policy</text></A></P></DIV><DIV class=\"UiSpacerstyles__Spacer-sc-3m9z76-0 jAuYNL\"></DIV><SPAN data-testid=\"ui-modal-trigger\" class=\"styled__ModalTrigger-sc-m8hkdo-4 oKpLa\"><DIV class=\"link-buttonstyles__BxpLink-sc-1utqn26-0 ldaPGy\"><A data-uuid=\"2Wmphdxwx9KTtdIcn3RFYb\" href=\"#video\"><text>Watch video</text><svg fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m5 5h14v14h-14z\"></path><path clip-rule=\"evenodd\" d=\"m10.0138 16.3878c-.83597.4912-1.5138.105-1.5138-.8645v-7.04491c0-.97008.6755-1.358 1.5138-.86566l6.465 3.79747c.5548.3261.5589.8517 0 1.1801z\" fill=\"currentColor\" fill-rule=\"evenodd\"></path><circle cx=\"12\" cy=\"12\" r=\"11.5\" stroke=\"currentColor\"></circle></svg></A></DIV></SPAN></DIV><DIV class=\"grid__StyledColumn-sc-p40pqe-2 iokEFl ui-column\"><VIDEO data-testid=\"U\" muted=\"F56D131189EB6A2FE22DEA97F28EEFCF\" class=\"Video__ResponsiveVideo-sc-8pffl7-0 kUOkVw possible-clickable-element\"></VIDEO></DIV></DIV></DIV></SECTION><DIV id=\"onetrust-banner-sdk\" class=\"otFlat bottom ot-wo-title vertical-align-content\" tabindex=\"0\" role=\"region\" aria-label=\"Cookie banner\" style=\"bottom: 0px;\"><DIV role=\"dialog\" aria-label=\"Privacy\"><DIV class=\"ot-sdk-container\"><DIV class=\"ot-sdk-row\"><DIV id=\"onetrust-group-container\" class=\"ot-sdk-eight ot-sdk-columns\"><DIV id=\"onetrust-policy\"><DIV id=\"onetrust-policy-text\"><text>This site uses cookies to improve your browsing experience, perform analytics and research, and conduct advertising. To change your preferences, click Manage preferences. Otherwise, clicking Accept all cookies indicates you agree to our use of cookies on your device.</text><SPAN id=\"onetrust-reject-all-banner-desc\"><text>Clicking Reject all cookies means you do not agree to our use of non-strictly necessary cookies on your device</text></SPAN><text>.</text><A class=\"ot-cookie-policy-link possible-clickable-element\" href=\"https://www.atlassian.com/legal/cookies\" aria-label=\"More information about your privacy, opens in a new tab\" rel=\"noopener\" target=\"_blank\" data-testid=\"V\"><text>Atlassian Cookies and Tracking Notice</text></A></DIV></DIV></DIV><DIV id=\"onetrust-button-group-parent\" class=\"ot-sdk-three ot-sdk-columns has-reject-all-button\"><DIV id=\"onetrust-button-group\"><BUTTON id=\"onetrust-pc-btn-handler\" class=\"cookie-setting-link possible-clickable-element\" data-testid=\"W\"><text>Manage preferences</text></BUTTON><BUTTON id=\"onetrust-reject-all-handler\" class=\"possible-clickable-element\" data-testid=\"X\"><text>Reject all cookies</text></BUTTON><BUTTON id=\"onetrust-accept-btn-handler\" class=\"possible-clickable-element\" data-testid=\"Y\"><text>Accept all cookies</text></BUTTON></DIV></DIV></DIV></DIV><DIV id=\"onetrust-close-btn-container\"><BUTTON class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon possible-clickable-element\" style=\"background-image: url(\"https://cdn.cookielaw.org/logos/static/ot_close.svg\");\" aria-label=\"Close\" data-testid=\"Z\"></BUTTON></DIV></DIV></DIV>",
+    "parsed_html": "\n<\n  div|\n  <a| Skip to main content >\n  <\n    div|\n    <\n      a[logo_link]|\n      <path[A]| >\n      <path[B]| >\n      <path[C]| >\n      <path[D]| >\n      <path[E]| >\n      <path[F]| >\n      <path[G]| >\n      <path[H]| >\n      <path[I]| >\n      <path[J]| >\n    >\n    <\n      div|\n      <\n        button[bignav-tab]|\n        <text| Features >\n        <svg[K]| >\n      >\n      <\n        button[bignav-tab]|\n        <text| Solutions >\n        <svg[L]| >\n      >\n      <\n        button[bignav-tab]|\n        <text| Plans >\n        <svg[M]| >\n      >\n      <a[N]| Pricing >\n      <\n        button[bignav-tab]|\n        <text| Resources >\n        <svg[O]| >\n      >\n    >\n    <\n      div|\n      <a[P]| Log in >\n      <a[Q]| Get Trello for free >\n    >\n  >\n  <\n    div|\n    <text| Accelerate your teams' work with Atlassian Intelligence (AI) features 🤖 now available for all Premium and Enterprise! >\n    <a[R]| Learn more. >\n  >\n  <\n    div|\n    <div| Capture, organize, and tackle your to-dos from anywhere. Escape the clutter and chaos—unleash your productivity with Trello. >\n    <\n      form[ui-email-signup-form]|\n      <input[S]| Email >\n      <button[T]| Sign up - it’s free! >\n    >\n    <\n      p|\n      <text| By entering my email, I acknowledge the >\n      <a| Atlassian Privacy Policy >\n    >\n    <\n      span[ui-modal-trigger]|\n      <a| Watch video >\n    >\n  >\n  <video[U]| >\n  <\n    div|\n    <\n      div|\n      <text| This site uses cookies to improve your browsing experience, perform analytics and research, and conduct advertising. To change your preferences, click Manage preferences. Otherwise, clicking Accept all cookies indicates you agree to our use of cookies on your device. >\n      <span| Clicking Reject all cookies means you do not agree to our use of non-strictly necessary cookies on your device >\n      <text| . >\n      <a[V]| Atlassian Cookies and Tracking Notice >\n    >\n    <\n      div|\n      <button[W]| Manage preferences >\n      <button[X]| Reject all cookies >\n      <button[Y]| Accept all cookies >\n    >\n  >\n  <button[Z]| >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 16.16238021850586,
+                "top": 25.7535400390625,
+                "right": 38.393836975097656,
+                "bottom": 48.02068328857422,
+                "width": 22.231456756591797,
+                "height": 22.26714324951172
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 47.13654708862305,
+                "top": 27.395030975341797,
+                "right": 62.266788482666016,
+                "bottom": 48.02068328857422,
+                "width": 15.130241394042969,
+                "height": 20.625652313232422
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 93.24095153808594,
+                "top": 25.753543853759766,
+                "right": 99.91395568847656,
+                "bottom": 48.163421630859375,
+                "width": 6.673004150390625,
+                "height": 22.40987777709961
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 102.80440521240234,
+                "top": 25.753543853759766,
+                "right": 109.47740936279297,
+                "bottom": 48.163421630859375,
+                "width": 6.673004150390625,
+                "height": 22.40987777709961
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 74.93478393554688,
+                "top": 31.605804443359375,
+                "right": 89.63681030273438,
+                "bottom": 48.308841705322266,
+                "width": 14.7020263671875,
+                "height": 16.70303726196289
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 79.10987854003906,
+                "top": 11.551101684570312,
+                "right": 84.85508728027344,
+                "bottom": 19.6514892578125,
+                "width": 5.745208740234375,
+                "height": 8.100387573242188
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 106.4085464477539,
+                "top": 11.65815544128418,
+                "right": 113.25997161865234,
+                "bottom": 19.54443359375,
+                "width": 6.8514251708984375,
+                "height": 7.88627815246582
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 93.99032592773438,
+                "top": 11.693839073181152,
+                "right": 95.81024169921875,
+                "bottom": 19.54443359375,
+                "width": 1.819915771484375,
+                "height": 7.850594520568848
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 57.55643081665039,
+                "top": 11.693839073181152,
+                "right": 63.58710861206055,
+                "bottom": 19.54443359375,
+                "width": 6.030677795410156,
+                "height": 7.850594520568848
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 86.282470703125,
+                "top": 11.551101684570312,
+                "right": 92.09905242919922,
+                "bottom": 19.6514892578125,
+                "width": 5.816581726074219,
+                "height": 8.100387573242188
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 230.375,
+                "top": 29.53125,
+                "right": 238.375,
+                "bottom": 34.453125,
+                "width": 8,
+                "height": 4.921875
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 347.375,
+                "top": 29.53125,
+                "right": 355.375,
+                "bottom": 34.453125,
+                "width": 8,
+                "height": 4.921875
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 434.375,
+                "top": 29.53125,
+                "right": 442.375,
+                "bottom": 34.453125,
+                "width": 8,
+                "height": 4.921875
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 458.375,
+                "top": 0,
+                "right": 542.375,
+                "bottom": 60,
+                "width": 84,
+                "height": 60
+            },
+            "tag": "a",
+            "text": "Pricing"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 640.375,
+                "top": 29.53125,
+                "right": 648.375,
+                "bottom": 34.453125,
+                "width": 8,
+                "height": 4.921875
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 968,
+                "top": 0,
+                "right": 1071,
+                "bottom": 60,
+                "width": 103,
+                "height": 60
+            },
+            "tag": "a",
+            "text": "Log in"
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 1071,
+                "top": 0,
+                "right": 1280,
+                "bottom": 60,
+                "width": 209,
+                "height": 60
+            },
+            "tag": "a",
+            "text": "Get Trello for free"
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 1049.5,
+                "top": 81,
+                "right": 1139.5,
+                "bottom": 102,
+                "width": 90,
+                "height": 21
+            },
+            "tag": "a",
+            "text": "Learn more."
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 86,
+                "top": 528,
+                "right": 386,
+                "bottom": 577.984375,
+                "width": 300,
+                "height": 49.984375
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 402,
+                "top": 528,
+                "right": 567,
+                "bottom": 577.984375,
+                "width": 165,
+                "height": 49.984375
+            },
+            "tag": "button",
+            "text": "Sign up - it’s free!"
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 656,
+                "top": 464.984375,
+                "right": 1280,
+                "bottom": 614.984375,
+                "width": 624,
+                "height": 150
+            },
+            "tag": "video",
+            "text": "Hero"
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 417,
+                "top": 686.484375,
+                "right": 660,
+                "bottom": 704.484375,
+                "width": 243,
+                "height": 18
+            },
+            "tag": "a",
+            "text": "Atlassian Cookies and Tracking Notice"
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 755.640625,
+                "top": 640.6640625,
+                "right": 889.984375,
+                "bottom": 680.2734375,
+                "width": 134.34375,
+                "height": 39.609375
+            },
+            "tag": "button",
+            "text": "Manage preferences"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 906.984375,
+                "top": 639.6640625,
+                "right": 1044.328125,
+                "bottom": 681.2734375,
+                "width": 137.34375,
+                "height": 41.609375
+            },
+            "tag": "button",
+            "text": "Reject all cookies"
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 1061.328125,
+                "top": 639.6640625,
+                "right": 1200.671875,
+                "bottom": 681.2734375,
+                "width": 139.34375,
+                "height": 41.609375
+            },
+            "tag": "button",
+            "text": "Accept all cookies"
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 1223.59375,
+                "top": 636.96875,
+                "right": 1267.59375,
+                "bottom": 680.96875,
+                "width": 44,
+                "height": 44
+            },
+            "tag": "button",
+            "text": ""
+        }
+    ]
+}

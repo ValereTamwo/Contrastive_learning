@@ -1,0 +1,76 @@
+{
+    "raw_html": "<SECTION class=\"home-banner col text-center\"><text>WARNING:</text><text>Fake DOI schemes</text><A href=\"/more-info\" class=\"possible-clickable-element\" data-testid=\"A\"><text>Learn more</text></A><I class=\"fa-solid fa-arrow-right-long hover-move-right\"></I></SECTION><DIV class=\"row\"><DIV class=\"col logo\"><A href=\"https://www.doi.org/\"><IMG class=\"header-logo possible-clickable-element\" src=\"/images/logos/ header_logo_cropped_registered.svg\" data-testid=\"B\"></IMG></A></DIV></DIV><UL class=\"menu-items\"><SPAN class=\"nolink\"><text>The Foundation</text></SPAN><I class=\"fa-solid fa-fw fa-angle-down\"></I><SPAN class=\"nolink\"><text>The Community</text></SPAN><I class=\"fa-solid fa-fw fa-angle-down\"></I><SPAN class=\"nolink\"><text>The Identifier</text></SPAN><I class=\"fa-solid fa-fw fa-angle-down\"></I></UL><SECTION class=\"home-top\"><DIV class=\"background\" style=\"background-image:url(/images/binary-eye@2x.png)\"></DIV><DIV class=\"row\"><DIV class=\"col left\"><DIV class=\"maintext\"><text>The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.</text></DIV><DIV class=\"subtext\"><text>Read more about us, our operations and our community of communities from construction to entertainment to scholarly research.</text></DIV><DIV class=\"link\"><A href=\"/the-foundation/about-us/\" class=\"possible-clickable-element\" data-testid=\"C\"><text>learn more</text></A><I class=\"fa-solid fa-fw fa-arrow-right-long\"></I></DIV></DIV><DIV class=\"col right\"></DIV></DIV></SECTION><DIV class=\"sticky-socials\"><UL class=\"socials-side\"><A href=\"https://www.linkedin.com/company/doi-foundation-inc/\"><I class=\"fa-brands fa-fw fa-linkedin possible-clickable-element\" data-testid=\"D\"></I></A><A href=\"mailto:info@doi.org\"><I class=\"fa-solid fa-fw fa-envelope possible-clickable-element\" data-testid=\"E\"></I></A></UL></DIV>",
+    "parsed_html": "\n<\n  div|\n  <\n    section|\n    <text| WARNING: >\n    <text| Fake DOI schemes >\n    <a[A]| Learn more >\n  >\n  <img[B]| >\n  <\n    ul|\n    <span| The Foundation >\n    <span| The Community >\n    <span| The Identifier >\n  >\n  <\n    div|\n    <div| The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies. >\n    <div| Read more about us, our operations and our community of communities from construction to entertainment to scholarly research. >\n    <a[C]| learn more >\n  >\n  <i[D]| >\n  <i[E]| >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 694.5,
+                "top": 10,
+                "right": 789.5,
+                "bottom": 33,
+                "width": 95,
+                "height": 23
+            },
+            "tag": "a",
+            "text": "Learn more"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 128,
+                "top": 83,
+                "right": 378,
+                "bottom": 141.25,
+                "width": 250,
+                "height": 58.25
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 128,
+                "top": 608,
+                "right": 238,
+                "bottom": 631,
+                "width": 110,
+                "height": 23
+            },
+            "tag": "a",
+            "text": "learn more"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 1234,
+                "top": 345,
+                "right": 1264,
+                "bottom": 369,
+                "width": 30,
+                "height": 24
+            },
+            "tag": "i",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 1234,
+                "top": 381,
+                "right": 1264,
+                "bottom": 405,
+                "width": 30,
+                "height": 24
+            },
+            "tag": "i",
+            "text": ""
+        }
+    ]
+}

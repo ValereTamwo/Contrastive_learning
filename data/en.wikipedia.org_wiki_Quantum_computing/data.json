@@ -1,0 +1,958 @@
+{
+    "raw_html": "<HTML class=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-toc-available vector-animations-ready ve-available\" lang=\"en\" dir=\"ltr\"><BODY class=\"skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Quantum_computing rootpage-Quantum_computing skin-vector-2022 action-view uls-dialog-sticky-hide\"><text>Jump to content</text><DIV class=\"vector-header-container\"><HEADER class=\"vector-header mw-header no-font-mode-scale\"><DIV class=\"vector-header-start\"><NAV class=\"vector-main-menu-landmark\" aria-label=\"Site\"><DIV id=\"vector-main-menu-dropdown\" class=\"vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right\" title=\"Main menu\"><INPUT type=\"checkbox\" id=\"vector-main-menu-dropdown-checkbox\" role=\"button\" aria-haspopup=\"true\" data-event-name=\"ui.dropdown-vector-main-menu-dropdown\" class=\"vector-dropdown-checkbox possible-clickable-element\" aria-label=\"Main menu\" data-testid=\"A\" style=\"oo-ui-element-hidden\"></INPUT><LABEL id=\"vector-main-menu-dropdown-label\" for=\"vector-main-menu-dropdown-checkbox\" class=\"vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only\" aria-hidden=\"true\"><SPAN class=\"vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu\"></SPAN><SPAN class=\"vector-dropdown-label-text\"><text>Main menu</text></SPAN></LABEL><DIV class=\"vector-dropdown-content\"><DIV id=\"vector-main-menu-unpinned-container\" class=\"vector-unpinned-container\"><DIV id=\"vector-main-menu\" class=\"vector-main-menu vector-pinnable-element\"><DIV class=\"vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned\" data-feature-name=\"main-menu-pinned\" data-pinnable-element-id=\"vector-main-menu\" data-pinned-container-id=\"vector-main-menu-pinned-container\" data-unpinned-container-id=\"vector-main-menu-unpinned-container\" data-saved-pinned-state=\"false\"><DIV class=\"vector-pinnable-header-label\"><text>Main menu</text></DIV><BUTTON class=\"vector-pinnable-header-toggle-button vector-pinnable-header-pin-button\" data-event-name=\"pinnable-header.vector-main-menu.pin\"><text>move to sidebar</text></BUTTON></DIV><DIV id=\"p-navigation\" class=\"vector-menu mw-portlet mw-portlet-navigation\"><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI id=\"n-mainpage-description\" class=\"mw-list-item\"><A href=\"/wiki/Main_Page\" title=\"Visit the main page [alt-z]\" accesskey=\"z\"><text>Main page</text></A></LI><LI id=\"n-contents\" class=\"mw-list-item\"><A href=\"/wiki/Wikipedia:Contents\" title=\"Guides to browsing Wikipedia\"><text>Contents</text></A></LI><LI id=\"n-currentevents\" class=\"mw-list-item\"><A href=\"/wiki/Portal:Current_events\" title=\"Articles related to current events\"><text>Current events</text></A></LI><LI id=\"n-randompage\" class=\"mw-list-item\"><A href=\"/wiki/Special:Random\" title=\"Visit a randomly selected article [alt-x]\" accesskey=\"x\"><text>Random article</text></A></LI><LI id=\"n-aboutsite\" class=\"mw-list-item\"><A href=\"/wiki/Wikipedia:About\" title=\"Learn about Wikipedia and how it works\"><text>About Wikipedia</text></A></LI><LI id=\"n-contactpage\" class=\"mw-list-item\"><A href=\"//en.wikipedia.org/wiki/Wikipedia:Contact_us\" title=\"How to contact Wikipedia\"><text>Contact us</text></A></LI></UL></DIV></DIV><DIV id=\"p-interaction\" class=\"vector-menu mw-portlet mw-portlet-interaction\"><DIV class=\"vector-menu-heading\"><text>Contribute</text></DIV><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI id=\"n-help\" class=\"mw-list-item\"><A href=\"/wiki/Help:Contents\" title=\"Guidance on how to use and edit Wikipedia\"><text>Help</text></A></LI><LI id=\"n-introduction\" class=\"mw-list-item\"><A href=\"/wiki/Help:Introduction\" title=\"Learn how to edit Wikipedia\"><text>Learn to edit</text></A></LI><LI id=\"n-portal\" class=\"mw-list-item\"><A href=\"/wiki/Wikipedia:Community_portal\" title=\"The hub for editors\"><text>Community portal</text></A></LI><LI id=\"n-recentchanges\" class=\"mw-list-item\"><A href=\"/wiki/Special:RecentChanges\" title=\"A list of recent changes to Wikipedia [alt-r]\" accesskey=\"r\"><text>Recent changes</text></A></LI><LI id=\"n-upload\" class=\"mw-list-item\"><A href=\"/wiki/Wikipedia:File_upload_wizard\" title=\"Add images or other media for use on Wikipedia\"><text>Upload file</text></A></LI><LI id=\"n-specialpages\" class=\"mw-list-item\"><A href=\"/wiki/Special:SpecialPages\"><text>Special pages</text></A></LI></UL></DIV></DIV></DIV></DIV></DIV></DIV></NAV><A href=\"/wiki/Main_Page\" class=\"mw-logo\"><IMG class=\"mw-logo-icon possible-clickable-element\" src=\"/static/images/icons/wikipedia.png\" alt=\"oo-ui-element-hidden\" aria-hidden=\"true\" height=\"50\" width=\"50\" data-testid=\"B\"></IMG><SPAN class=\"mw-logo-container skin-invert\"><IMG class=\"mw-logo-wordmark possible-clickable-element\" alt=\"Wikipedia\" src=\"/static/images/mobile/copyright/wikipedia-wordmark-en.svg\" style=\"width: 7.5em; height: 1.125em;\" data-testid=\"C\"></IMG><IMG class=\"mw-logo-tagline possible-clickable-element\" alt=\"The Free Encyclopedia\" src=\"/static/images/mobile/copyright/wikipedia-tagline-en.svg\" width=\"117\" height=\"13\" style=\"width: 7.3125em; height: 0.8125em;\" data-testid=\"D\"></IMG></SPAN></A></DIV><DIV class=\"vector-header-end\"><DIV id=\"p-search\" role=\"search\" class=\"vector-search-box-vue vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box\"><DIV class=\"vector-typeahead-search-container\"><DIV class=\"cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width\"><FORM action=\"/w/index.php\" id=\"searchform\" class=\"cdx-search-input cdx-search-input--has-end-button\"><DIV id=\"simpleSearch\" class=\"cdx-search-input__input-wrapper\" data-search-loc=\"header-moved\"><DIV class=\"cdx-text-input cdx-text-input--has-start-icon\"><INPUT class=\"cdx-text-input__input mw-searchInput possible-clickable-element\" autocomplete=\"off\" type=\"search\" name=\"search\" placeholder=\"Search Wikipedia\" aria-label=\"Search Wikipedia\" autocapitalize=\"sentences\" spellcheck=\"false\" title=\"Search Wikipedia [alt-f]\" accesskey=\"f\" id=\"searchInput\" data-testid=\"E\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-text-input__icon cdx-text-input__start-icon\"></SPAN></DIV></DIV><BUTTON class=\"cdx-button cdx-search-input__end-button possible-clickable-element\" data-testid=\"F\"><text>Search</text></BUTTON></FORM></DIV></DIV></DIV><NAV class=\"vector-user-links vector-user-links-wide\" aria-label=\"Personal tools\"><DIV class=\"vector-user-links-main\"><DIV id=\"p-vector-user-menu-overflow\" class=\"vector-menu mw-portlet\"><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI id=\"pt-sitesupport-2\" class=\"user-links-collapsible-item mw-list-item user-links-collapsible-item\"><A data-mw=\"interface\" href=\"https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en\" class=\"oo-ui-element-hidden\"><SPAN class=\"possible-clickable-element\" data-testid=\"G\"><text>Donate</text></SPAN></A></LI><LI id=\"pt-createaccount-2\" class=\"user-links-collapsible-item mw-list-item user-links-collapsible-item\"><A data-mw=\"interface\" href=\"/w/index.php?title=Special:CreateAccount&returnto=Quantum+computing\" title=\"You are encouraged to create an account and log in; however, it is not mandatory\" class=\"oo-ui-element-hidden\"><SPAN class=\"possible-clickable-element\" data-testid=\"H\"><text>Create account</text></SPAN></A></LI><LI id=\"pt-login-2\" class=\"user-links-collapsible-item mw-list-item user-links-collapsible-item\"><A data-mw=\"interface\" href=\"/w/index.php?title=Special:UserLogin&returnto=Quantum+computing\" title=\"You're encouraged to log in; however, it's not mandatory. [alt-o]\" accesskey=\"o\" class=\"oo-ui-element-hidden\"><SPAN class=\"possible-clickable-element\" data-testid=\"I\"><text>Log in</text></SPAN></A></LI></UL></DIV></DIV></DIV><DIV id=\"vector-user-links-dropdown\" class=\"vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out\" title=\"Log in and more options\"><INPUT type=\"checkbox\" id=\"vector-user-links-dropdown-checkbox\" role=\"button\" aria-haspopup=\"true\" data-event-name=\"ui.dropdown-vector-user-links-dropdown\" class=\"vector-dropdown-checkbox possible-clickable-element\" aria-label=\"Personal tools\" data-testid=\"J\" style=\"oo-ui-element-hidden\"></INPUT><LABEL id=\"vector-user-links-dropdown-label\" for=\"vector-user-links-dropdown-checkbox\" class=\"vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only\" aria-hidden=\"true\"><SPAN class=\"vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis\"></SPAN><SPAN class=\"vector-dropdown-label-text\"><text>Personal tools</text></SPAN></LABEL><DIV class=\"vector-dropdown-content\"><DIV id=\"p-user-menu-anon-editor\" class=\"vector-menu mw-portlet mw-portlet-user-menu-anon-editor\"><DIV class=\"vector-menu-heading\"><text>Pages for logged out editors</text><A href=\"/wiki/Help:Introduction\" aria-label=\"Learn more about editing\"><text>learn more</text></A></DIV><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI id=\"pt-anoncontribs\" class=\"mw-list-item\"><A href=\"/wiki/Special:MyContributions\" title=\"A list of edits made from this IP address [alt-y]\" accesskey=\"y\"><text>Contributions</text></A></LI><LI id=\"pt-anontalk\" class=\"mw-list-item\"><A href=\"/wiki/Special:MyTalk\" title=\"Discussion about edits from this IP address [alt-n]\" accesskey=\"n\"><text>Talk</text></A></LI></UL></DIV></DIV></DIV></DIV></NAV></DIV></HEADER></DIV><DIV class=\"vector-sitenotice-container\"></DIV><DIV class=\"vector-sticky-pinned-container\"><NAV id=\"mw-panel-toc\" aria-label=\"Contents\" data-event-name=\"ui.sidebar-toc\" class=\"mw-table-of-contents-container vector-toc-landmark\"><DIV id=\"vector-toc-pinned-container\" class=\"vector-pinned-container\"><DIV id=\"vector-toc\" class=\"vector-toc vector-pinnable-element\"><DIV class=\"vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned\" data-feature-name=\"toc-pinned\" data-pinnable-element-id=\"vector-toc\"><H2 class=\"vector-pinnable-header-label\"><text>Contents</text></H2><BUTTON class=\"vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button possible-clickable-element\" data-event-name=\"pinnable-header.vector-toc.unpin\" data-testid=\"K\"><text>hide</text></BUTTON></DIV><UL class=\"vector-toc-contents\" id=\"mw-panel-toc-list\"><LI id=\"toc-mw-content-text\" class=\"vector-toc-list-item vector-toc-level-1 vector-toc-level-1-active vector-toc-list-item-active\"><A href=\"#\" class=\"vector-toc-link\"><DIV class=\"vector-toc-text possible-clickable-element\" data-testid=\"L\"><text>(Top)</text></DIV></A></LI><LI id=\"toc-History\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#History\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"M\"><text>History</text></SPAN></DIV></A></LI><LI id=\"toc-Quantum_information_processing\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Quantum_information_processing\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"N\"><text>Quantum information processing</text></SPAN></DIV></A><BUTTON aria-controls=\"toc-Quantum_information_processing-sublist\" class=\"cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle possible-clickable-element\" aria-expanded=\"false\" data-testid=\"O\"><SPAN class=\"vector-icon mw-ui-icon-wikimedia-expand\"></SPAN><text>Toggle Quantum information processing subsection</text></BUTTON></LI><LI id=\"toc-Communication\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Communication\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"P\"><text>Communication</text></SPAN></DIV></A></LI><LI id=\"toc-Algorithms\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Algorithms\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"Q\"><text>Algorithms</text></SPAN></DIV></A><BUTTON aria-controls=\"toc-Algorithms-sublist\" class=\"cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle possible-clickable-element\" aria-expanded=\"false\" data-testid=\"R\"><SPAN class=\"vector-icon mw-ui-icon-wikimedia-expand\"></SPAN><text>Toggle Algorithms subsection</text></BUTTON></LI><LI id=\"toc-Engineering\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Engineering\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"S\"><text>Engineering</text></SPAN></DIV></A><BUTTON aria-controls=\"toc-Engineering-sublist\" class=\"cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle possible-clickable-element\" aria-expanded=\"false\" data-testid=\"T\"><SPAN class=\"vector-icon mw-ui-icon-wikimedia-expand\"></SPAN><text>Toggle Engineering subsection</text></BUTTON></LI><LI id=\"toc-Potential_applications\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Potential_applications\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"U\"><text>Potential applications</text></SPAN></DIV></A></LI><LI id=\"toc-Theory\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Theory\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"V\"><text>Theory</text></SPAN></DIV></A><BUTTON aria-controls=\"toc-Theory-sublist\" class=\"cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle possible-clickable-element\" aria-expanded=\"false\" data-testid=\"W\"><SPAN class=\"vector-icon mw-ui-icon-wikimedia-expand\"></SPAN><text>Toggle Theory subsection</text></BUTTON></LI><LI id=\"toc-See_also\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#See_also\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"X\"><text>See also</text></SPAN></DIV></A></LI><LI id=\"toc-Notes\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Notes\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"Y\"><text>Notes</text></SPAN></DIV></A></LI><LI id=\"toc-References\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#References\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"Z\"><text>References</text></SPAN></DIV></A></LI><LI id=\"toc-Sources\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Sources\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"AA\"><text>Sources</text></SPAN></DIV></A></LI><LI id=\"toc-Further_reading\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#Further_reading\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"AB\"><text>Further reading</text></SPAN></DIV></A><BUTTON aria-controls=\"toc-Further_reading-sublist\" class=\"cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle possible-clickable-element\" aria-expanded=\"false\" data-testid=\"AC\"><SPAN class=\"vector-icon mw-ui-icon-wikimedia-expand\"></SPAN><text>Toggle Further reading subsection</text></BUTTON></LI><LI id=\"toc-External_links\" class=\"vector-toc-list-item vector-toc-level-1\"><A class=\"vector-toc-link\" href=\"#External_links\"><DIV class=\"vector-toc-text\"><SPAN class=\"possible-clickable-element\" data-testid=\"AD\"><text>External links</text></SPAN></DIV></A></LI></UL></DIV></DIV></NAV></DIV><HEADER class=\"mw-body-header vector-page-titlebar no-font-mode-scale\"><H1 id=\"firstHeading\" class=\"firstHeading mw-first-heading\"><SPAN class=\"mw-page-title-main\"><text>Quantum computing</text></SPAN></H1><DIV id=\"p-lang-btn\" class=\"vector-dropdown mw-portlet mw-portlet-lang\"><INPUT type=\"checkbox\" id=\"p-lang-btn-checkbox\" role=\"button\" aria-haspopup=\"true\" data-event-name=\"ui.dropdown-p-lang-btn\" class=\"vector-dropdown-checkbox mw-interlanguage-selector possible-clickable-element\" aria-label=\"Go to an article in another language. Available in 39 languages\" data-testid=\"AE\" style=\"oo-ui-element-hidden\"></INPUT><LABEL id=\"p-lang-btn-label\" for=\"p-lang-btn-checkbox\" class=\"vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-39\" aria-hidden=\"true\"><SPAN class=\"vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive\"></SPAN><SPAN class=\"vector-dropdown-label-text\"><text>39 languages</text></SPAN></LABEL></DIV></HEADER><DIV class=\"vector-page-toolbar vector-feature-custom-font-size-clientpref--excluded\"><DIV class=\"vector-page-toolbar-container\"><DIV id=\"left-navigation\"><NAV aria-label=\"Namespaces\"><DIV id=\"p-associated-pages\" class=\"vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages\"><LI id=\"ca-nstab-main\" class=\"selected vector-tab-noicon mw-list-item\"><A href=\"/wiki/Quantum_computing\" title=\"View the content page [alt-c]\" accesskey=\"c\"><SPAN class=\"possible-clickable-element\" data-testid=\"AF\"><text>Article</text></SPAN></A></LI><LI id=\"ca-talk\" class=\"vector-tab-noicon mw-list-item\"><A href=\"/wiki/Talk:Quantum_computing\" rel=\"discussion\" title=\"Discuss improvements to the content page [alt-t]\" accesskey=\"t\"><SPAN class=\"possible-clickable-element\" data-testid=\"AG\"><text>Talk</text></SPAN></A></LI></DIV></NAV></DIV><DIV id=\"right-navigation\" class=\"vector-collapsible\"><NAV aria-label=\"Views\"><DIV id=\"p-views\" class=\"vector-menu vector-menu-tabs mw-portlet mw-portlet-views\"><LI id=\"ca-view\" class=\"selected vector-tab-noicon mw-list-item\"><A href=\"/wiki/Quantum_computing\"><SPAN class=\"possible-clickable-element\" data-testid=\"AH\"><text>Read</text></SPAN></A></LI><LI id=\"ca-edit\" class=\"vector-tab-noicon mw-list-item\"><A href=\"/w/index.php?title=Quantum_computing&action=edit\" title=\"Edit this page [alt-e]\" accesskey=\"e\"><SPAN class=\"possible-clickable-element\" data-testid=\"AI\"><text>Edit</text></SPAN></A></LI><LI id=\"ca-history\" class=\"vector-tab-noicon mw-list-item\"><A href=\"/w/index.php?title=Quantum_computing&action=history\" title=\"Past revisions of this page [alt-h]\" accesskey=\"h\"><SPAN class=\"possible-clickable-element\" data-testid=\"AJ\"><text>View history</text></SPAN></A></LI></DIV></NAV><NAV class=\"vector-page-tools-landmark\" aria-label=\"Page tools\"><DIV id=\"vector-page-tools-dropdown\" class=\"vector-dropdown vector-page-tools-dropdown\"><INPUT type=\"checkbox\" id=\"vector-page-tools-dropdown-checkbox\" role=\"button\" aria-haspopup=\"true\" data-event-name=\"ui.dropdown-vector-page-tools-dropdown\" class=\"vector-dropdown-checkbox possible-clickable-element\" aria-label=\"Tools\" data-testid=\"AK\" style=\"oo-ui-element-hidden\"></INPUT><LABEL id=\"vector-page-tools-dropdown-label\" for=\"vector-page-tools-dropdown-checkbox\" class=\"vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet\" aria-hidden=\"true\"><SPAN class=\"vector-dropdown-label-text\"><text>Tools</text></SPAN></LABEL><DIV class=\"vector-dropdown-content\"><DIV id=\"vector-page-tools-unpinned-container\" class=\"vector-unpinned-container\"><DIV id=\"vector-page-tools\" class=\"vector-page-tools vector-pinnable-element\"><DIV class=\"vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned\" data-feature-name=\"page-tools-pinned\" data-pinnable-element-id=\"vector-page-tools\" data-pinned-container-id=\"vector-page-tools-pinned-container\" data-unpinned-container-id=\"vector-page-tools-unpinned-container\" data-saved-pinned-state=\"false\"><DIV class=\"vector-pinnable-header-label\"><text>Tools</text></DIV><BUTTON class=\"vector-pinnable-header-toggle-button vector-pinnable-header-pin-button\" data-event-name=\"pinnable-header.vector-page-tools.pin\"><text>move to sidebar</text></BUTTON></DIV><DIV id=\"p-tb\" class=\"vector-menu mw-portlet mw-portlet-tb\"><DIV class=\"vector-menu-heading\"><text>General</text></DIV><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI id=\"t-whatlinkshere\" class=\"mw-list-item\"><A href=\"/wiki/Special:WhatLinksHere/Quantum_computing\" title=\"List of all English Wikipedia pages containing links to this page [alt-j]\" accesskey=\"j\"><text>What links here</text></A></LI><LI id=\"t-recentchangeslinked\" class=\"mw-list-item\"><A href=\"/wiki/Special:RecentChangesLinked/Quantum_computing\" rel=\"nofollow\" title=\"Recent changes in pages linked from this page [alt-k]\" accesskey=\"k\"><text>Related changes</text></A></LI><LI id=\"t-permalink\" class=\"mw-list-item\"><A href=\"https://en.wikipedia.org/w/index.php?title=Quantum_computing&oldid=1310314955\" title=\"Permanent link to this revision of this page\"><text>Permanent link</text></A></LI><LI id=\"t-info\" class=\"mw-list-item\"><A href=\"/w/index.php?title=Quantum_computing&action=info\" title=\"More information about this page\"><text>Page information</text></A></LI><LI id=\"t-cite\" class=\"mw-list-item\"><A href=\"/w/index.php?title=Special:CiteThisPage&page=Quantum_computing&id=1310314955&wpFormIdentifier=titleform\" title=\"Information on how to cite this page\"><text>Cite this page</text></A></LI><LI id=\"t-urlshortener\" class=\"mw-list-item\"><A href=\"/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FQuantum_computing\" aria-haspopup=\"dialog\"><text>Get shortened URL</text></A></LI><LI id=\"t-urlshortener-qrcode\" class=\"mw-list-item\"><A href=\"/w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FQuantum_computing\"><text>Download QR code</text></A></LI><LI class=\"mw-list-item mw-list-item-js\" id=\"t-collapsible-toggle-all\"><A href=\"#\" title=\"Expand all collapsible elements on the current page\" role=\"button\" aria-expanded=\"false\"><text>Expand all</text></A></LI><LI class=\"mw-list-item mw-list-item-js\" id=\"wbc-editpage\"><A href=\"https://www.wikidata.org/wiki/Special:EntityPage/Q17995793#sitelinks-wikipedia\" title=\"Edit interlanguage links\"><text>Edit interlanguage links</text></A></LI></UL></DIV></DIV><DIV id=\"p-coll-print_export\" class=\"vector-menu mw-portlet mw-portlet-coll-print_export\"><DIV class=\"vector-menu-heading\"><text>Print/export</text></DIV><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI id=\"coll-download-as-rl\" class=\"mw-list-item\"><A href=\"/w/index.php?title=Special:DownloadAsPdf&page=Quantum_computing&action=show-download-screen\" title=\"Download this page as a PDF file\"><text>Download as PDF</text></A></LI><LI id=\"t-print\" class=\"mw-list-item\"><A href=\"/w/index.php?title=Quantum_computing&printable=yes\" title=\"Printable version of this page [alt-p]\" accesskey=\"p\"><text>Printable version</text></A></LI></UL></DIV></DIV><DIV id=\"p-wikibase-otherprojects\" class=\"vector-menu mw-portlet mw-portlet-wikibase-otherprojects\"><DIV class=\"vector-menu-heading\"><text>In other projects</text></DIV><LI class=\"wb-otherproject-link wb-otherproject-commons mw-list-item\"><A href=\"https://commons.wikimedia.org/wiki/Category:Quantum_computing\" hreflang=\"en\"><text>Wikimedia Commons</text></A></LI><LI class=\"wb-otherproject-link wb-otherproject-wikiquote mw-list-item\"><A href=\"https://en.wikiquote.org/wiki/Quantum_computing\" hreflang=\"en\"><text>Wikiquote</text></A></LI></DIV></DIV></DIV></DIV></DIV></NAV></DIV></DIV></DIV><DIV class=\"vector-sticky-pinned-container\"><NAV class=\"vector-appearance-landmark\" aria-label=\"Appearance\"><DIV id=\"vector-appearance-pinned-container\" class=\"vector-pinned-container\"><DIV id=\"vector-appearance\" class=\"vector-appearance vector-pinnable-element\"><DIV class=\"vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned\" data-feature-name=\"appearance-pinned\" data-pinnable-element-id=\"vector-appearance\" data-pinned-container-id=\"vector-appearance-pinned-container\" data-unpinned-container-id=\"vector-appearance-unpinned-container\" data-saved-pinned-state=\"true\"><DIV class=\"vector-pinnable-header-label\"><text>Appearance</text></DIV><BUTTON class=\"vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button possible-clickable-element\" data-event-name=\"pinnable-header.vector-appearance.unpin\" data-testid=\"AL\"><text>hide</text></BUTTON></DIV><DIV class=\"mw-portlet mw-portlet-skin-client-prefs-vector-feature-custom-font-size vector-menu\" id=\"skin-client-prefs-vector-feature-custom-font-size\"><DIV class=\"vector-menu-heading\"><text>Text</text></DIV><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI class=\"mw-list-item mw-list-item-js\"><DIV class=\"oo-ui-element-hidden\"><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-vector-feature-custom-font-size-group\" id=\"skin-client-pref-vector-feature-custom-font-size-value-0\" type=\"radio\" value=\"0\" data-event-name=\"skin-client-pref-vector-feature-custom-font-size-value-0\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"AM\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-vector-feature-custom-font-size-value-0\" data-testid=\"AN\"><SPAN class=\"cdx-label__label__text\"><text>Small</text></SPAN></LABEL></DIV><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-vector-feature-custom-font-size-group\" id=\"skin-client-pref-vector-feature-custom-font-size-value-1\" type=\"radio\" value=\"1\" data-event-name=\"skin-client-pref-vector-feature-custom-font-size-value-1\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"AO\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-vector-feature-custom-font-size-value-1\" data-testid=\"AP\"><SPAN class=\"cdx-label__label__text\"><text>Standard</text></SPAN></LABEL></DIV><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-vector-feature-custom-font-size-group\" id=\"skin-client-pref-vector-feature-custom-font-size-value-2\" type=\"radio\" value=\"2\" data-event-name=\"skin-client-pref-vector-feature-custom-font-size-value-2\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"AQ\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-vector-feature-custom-font-size-value-2\" data-testid=\"AR\"><SPAN class=\"cdx-label__label__text\"><text>Large</text></SPAN></LABEL></DIV></DIV></LI></UL></DIV></DIV><DIV class=\"mw-portlet mw-portlet-skin-client-prefs-vector-feature-limited-width vector-menu\" id=\"skin-client-prefs-vector-feature-limited-width\"><DIV class=\"vector-menu-heading\"><text>Width</text></DIV><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI class=\"mw-list-item mw-list-item-js\"><DIV class=\"oo-ui-element-hidden\"><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-vector-feature-limited-width-group\" id=\"skin-client-pref-vector-feature-limited-width-value-1\" type=\"radio\" value=\"1\" data-event-name=\"skin-client-pref-vector-feature-limited-width-value-1\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"AS\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-vector-feature-limited-width-value-1\" data-testid=\"AT\"><SPAN class=\"cdx-label__label__text\"><text>Standard</text></SPAN></LABEL></DIV><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-vector-feature-limited-width-group\" id=\"skin-client-pref-vector-feature-limited-width-value-0\" type=\"radio\" value=\"0\" data-event-name=\"skin-client-pref-vector-feature-limited-width-value-0\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"AU\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-vector-feature-limited-width-value-0\" data-testid=\"AV\"><SPAN class=\"cdx-label__label__text\"><text>Wide</text></SPAN></LABEL></DIV></DIV></LI></UL></DIV></DIV><DIV class=\"mw-portlet mw-portlet-skin-client-prefs-skin-theme vector-menu\" id=\"skin-client-prefs-skin-theme\"><DIV class=\"vector-menu-heading\"><text>Color</text><text>(beta)</text></DIV><DIV class=\"vector-menu-content\"><UL class=\"vector-menu-content-list\"><LI class=\"mw-list-item mw-list-item-js\"><DIV class=\"oo-ui-element-hidden\"><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-skin-theme-group\" id=\"skin-client-pref-skin-theme-value-os\" type=\"radio\" value=\"os\" data-event-name=\"skin-client-pref-skin-theme-value-os\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"AW\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-skin-theme-value-os\" data-testid=\"AX\"><SPAN class=\"cdx-label__label__text\"><text>Automatic</text></SPAN></LABEL></DIV><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-skin-theme-group\" id=\"skin-client-pref-skin-theme-value-day\" type=\"radio\" value=\"day\" data-event-name=\"skin-client-pref-skin-theme-value-day\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"AY\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-skin-theme-value-day\" data-testid=\"AZ\"><SPAN class=\"cdx-label__label__text\"><text>Light</text></SPAN></LABEL></DIV><DIV class=\"cdx-radio\"><INPUT name=\"skin-client-pref-skin-theme-group\" id=\"skin-client-pref-skin-theme-value-night\" type=\"radio\" value=\"night\" data-event-name=\"skin-client-pref-skin-theme-value-night\" class=\"cdx-radio__input possible-clickable-element\" data-testid=\"BA\" style=\"oo-ui-element-hidden\"></INPUT><SPAN class=\"cdx-radio__icon\"></SPAN><LABEL class=\"cdx-label cdx-radio__label possible-clickable-element\" for=\"skin-client-pref-skin-theme-value-night\" data-testid=\"BB\"><SPAN class=\"cdx-label__label__text\"><text>Dark</text></SPAN></LABEL></DIV></DIV></LI></UL></DIV></DIV></DIV></DIV></NAV></DIV><DIV class=\"vector-body-before-content\"><DIV id=\"siteSub\" class=\"noprint\"><text>From Wikipedia, the free encyclopedia</text></DIV></DIV><FIGURE class=\"mw-default-size\" typeof=\"mw:File/Thumb\"><A href=\"/wiki/File:Bloch_sphere.svg\" class=\"mw-file-description\"><IMG src=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/250px-Bloch_sphere.svg.png\" decoding=\"async\" width=\"250\" height=\"265\" class=\"mw-file-element possible-clickable-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/375px-Bloch_sphere.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/500px-Bloch_sphere.svg.png 2x\" data-file-width=\"238\" data-file-height=\"252\" data-testid=\"BC\"></IMG></A><A href=\"/wiki/Bloch_sphere\" title=\"Bloch sphere\" class=\"possible-clickable-element\" data-testid=\"BD\"><text>Bloch sphere</text></A><text>representation of a qubit. The state</text><SPAN class=\"mwe-math-element mwe-math-element-inline\"><SPAN class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\" alttext=\"{\\displaystyle |\\psi \\rangle =\\alpha |0\\rangle +\\beta |1\\rangle }\"><mrow class=\"MJX-TeXAtom-ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow class=\"MJX-TeXAtom-ORD\"><mo stretchy=\"false\"><text>|</text></mo></mrow><text>ψ</text><mo fence=\"false\" stretchy=\"false\"><text>⟩</text></mo><text>=</text><text>α</text><mrow class=\"MJX-TeXAtom-ORD\"><mo stretchy=\"false\"><text>|</text></mo></mrow><text>0</text><mo fence=\"false\" stretchy=\"false\"><text>⟩</text></mo><text>+</text><text>β</text><mrow class=\"MJX-TeXAtom-ORD\"><mo stretchy=\"false\"><text>|</text></mo></mrow><text>1</text><mo fence=\"false\" stretchy=\"false\"><text>⟩</text></mo></mstyle></mrow></math></SPAN><IMG src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/259aaac5393082d769c30b0b58fd0fafe4032d8d\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align: -0.838ex; width:17.251ex; height:2.843ex;\" alt=\"{\\displaystyle |\\psi \\rangle =\\alpha |0\\rangle +\\beta |1\\rangle }\"></IMG></SPAN><text>is a point on the surface of the sphere, partway between the poles,</text><SPAN class=\"mwe-math-element mwe-math-element-inline\"><SPAN class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\" alttext=\"{\\displaystyle |0\\rangle }\"><mrow class=\"MJX-TeXAtom-ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow class=\"MJX-TeXAtom-ORD\"><mo stretchy=\"false\"><text>|</text></mo></mrow><text>0</text><mo fence=\"false\" stretchy=\"false\"><text>⟩</text></mo></mstyle></mrow></math></SPAN><IMG src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/ed066a3ad158da0ad6d6a421a606b1c8a35eb95b\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align: -0.838ex; width:2.714ex; height:2.843ex;\" alt=\"{\\displaystyle |0\\rangle }\"></IMG></SPAN><text>and</text><SPAN class=\"mwe-math-element mwe-math-element-inline\"><SPAN class=\"mwe-math-mathml-inline mwe-math-mathml-a11y\" style=\"display: none;\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\" alttext=\"{\\displaystyle |1\\rangle }\"><mrow class=\"MJX-TeXAtom-ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow class=\"MJX-TeXAtom-ORD\"><mo stretchy=\"false\"><text>|</text></mo></mrow><text>1</text><mo fence=\"false\" stretchy=\"false\"><text>⟩</text></mo></mstyle></mrow></math></SPAN><IMG src=\"https://wikimedia.org/api/rest_v1/media/math/render/svg/2f53021ca18e77477ee5bd3c1523e5830189ec5c\" class=\"mwe-math-fallback-image-inline mw-invert skin-invert\" aria-hidden=\"true\" style=\"vertical-align: -0.838ex; width:2.714ex; height:2.843ex;\" alt=\"{\\displaystyle |1\\rangle }\"></IMG></SPAN><text>.</text></FIGURE><text>A</text><text>quantum computer</text><text>is a (real or theoretical)</text><A href=\"/wiki/Computer\" title=\"Computer\" class=\"possible-clickable-element\" data-testid=\"BE\"><text>computer</text></A><text>that uses</text><A href=\"/wiki/Quantum_mechanical\" class=\"mw-redirect possible-clickable-element\" title=\"Quantum mechanical\" data-testid=\"BF\"><text>quantum mechanical</text></A><text>phenomena in an essential way: it exploits</text><A href=\"/wiki/Quantum_superposition\" title=\"Quantum superposition\" class=\"possible-clickable-element\" data-testid=\"BG\"><text>superposed</text></A><text>and</text><A href=\"/wiki/Quantum_entanglement\" title=\"Quantum entanglement\" class=\"possible-clickable-element\" data-testid=\"BH\"><text>entangled</text></A><A href=\"/wiki/Quantum_state\" title=\"Quantum state\" class=\"possible-clickable-element\" data-testid=\"BI\"><text>states</text></A><text>, and the intrinsically</text><A href=\"/wiki/Non-deterministic\" class=\"mw-redirect mw-disambig possible-clickable-element\" title=\"Non-deterministic\" data-testid=\"BJ\"><text>non-deterministic</text></A><text>outcomes of</text><A href=\"/wiki/Quantum_measurement\" class=\"mw-redirect possible-clickable-element\" title=\"Quantum measurement\" data-testid=\"BK\"><text>quantum measurements</text></A><text>, as features of its computation. Quantum computers can be viewed as sampling from quantum systems that evolve in ways classically described as operating on an enormous number of possibilities simultaneously, though still subject to strict computational constraints. By contrast, ordinary (\"classical\") computers operate according to deterministic rules. Any classical computer can, in principle, be replicated by a (</text><A href=\"/wiki/Classical_physics\" title=\"Classical physics\" class=\"possible-clickable-element\" data-testid=\"BL\"><text>classical</text></A><text>) mechanical device such as a</text><A href=\"/wiki/Turing_machine\" title=\"Turing machine\" class=\"possible-clickable-element\" data-testid=\"BM\"><text>Turing machine</text></A><text>, with only polynomial overhead in time. Quantum computers, on the other hand are believed to require</text><A href=\"/wiki/Exponential_growth\" title=\"Exponential growth\" class=\"possible-clickable-element\" data-testid=\"BN\"><text>exponentially</text></A><text>more resources to simulate classically. It is widely believed that a scalable quantum computer could perform</text><text>some</text><text>calculations exponentially faster than any classical computer. Theoretically, a large-scale quantum computer could</text><A href=\"/wiki/Post-quantum_cryptography\" title=\"Post-quantum cryptography\" class=\"possible-clickable-element\" data-testid=\"BO\"><text>break some widely used public-key cryptographic schemes</text></A><text>and aid physicists in performing</text><A href=\"/wiki/Quantum_simulator\" title=\"Quantum simulator\" class=\"possible-clickable-element\" data-testid=\"BP\"><text>physical simulations</text></A><text>. However, current hardware implementations of quantum computation are largely experimental and only suitable for specialized tasks.</text><DIV class=\"mw-portlet mw-portlet-dock-bottom emptyPortlet\" id=\"p-dock-bottom\"></DIV></BODY></HTML>",
+    "parsed_html": "\n<\n  body|\n  <text| Jump to content >\n  <\n    header|\n    <\n      div| Main menu\n      <input[A]| >\n      <span| Main menu >\n      <\n        div|\n        <\n          div|\n          <div| Main menu >\n          <button| move to sidebar >\n        >\n        <\n          ul|\n          <a| Visit the main page [alt-z] Main page >\n          <a| Guides to browsing Wikipedia Contents >\n          <a| Articles related to current events Current events >\n          <a| Visit a randomly selected article [alt-x] Random article >\n          <a| Learn about Wikipedia and how it works About Wikipedia >\n          <a| How to contact Wikipedia Contact us >\n        >\n        <\n          div|\n          <div| Contribute >\n          <\n            ul|\n            <a| Guidance on how to use and edit Wikipedia Help >\n            <a| Learn how to edit Wikipedia Learn to edit >\n            <a| The hub for editors Community portal >\n            <a| A list of recent changes to Wikipedia [alt-r] Recent changes >\n            <a| Add images or other media for use on Wikipedia Upload file >\n            <a| Special pages >\n          >\n        >\n      >\n    >\n    <img[B]| >\n    <img[C]| >\n    <img[D]| >\n    <\n      div|\n      <\n        form|\n        <input[E]| Search Wikipedia [alt-f]; Search Wikipedia >\n        <button[F]| Search >\n      >\n      <\n        nav|\n        <\n          ul|\n          <span[G]| Donate >\n          <\n            a| You are encouraged to create an account and log in; however, it is not mandatory\n            <span[H]| Create account >\n          >\n          <\n            a| You're encouraged to log in; however, it's not mandatory. [alt-o]\n            <span[I]| Log in >\n          >\n        >\n        <\n          div| Log in and more options\n          <input[J]| >\n          <span| Personal tools >\n          <\n            div|\n            <\n              div|\n              <text| Pages for logged out editors >\n              <a| learn more >\n            >\n            <\n              ul|\n              <a| A list of edits made from this IP address [alt-y] Contributions >\n              <a| Discussion about edits from this IP address [alt-n] Talk >\n            >\n          >\n        >\n      >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <h2| Contents >\n      <button[K]| hide >\n    >\n    <\n      ul|\n      <div[L]| (Top) >\n      <span[M]| History >\n      <\n        li|\n        <span[N]| Quantum information processing >\n        <button[O]| Toggle Quantum information processing subsection >\n      >\n      <span[P]| Communication >\n      <\n        li|\n        <span[Q]| Algorithms >\n        <button[R]| Toggle Algorithms subsection >\n      >\n      <\n        li|\n        <span[S]| Engineering >\n        <button[T]| Toggle Engineering subsection >\n      >\n      <span[U]| Potential applications >\n      <\n        li|\n        <span[V]| Theory >\n        <button[W]| Toggle Theory subsection >\n      >\n      <span[X]| See also >\n      <span[Y]| Notes >\n      <span[Z]| References >\n      <span[AA]| Sources >\n      <\n        li|\n        <span[AB]| Further reading >\n        <button[AC]| Toggle Further reading subsection >\n      >\n      <span[AD]| External links >\n    >\n  >\n  <\n    header|\n    <span| Quantum computing >\n    <input[AE]| >\n    <span| 39 languages >\n  >\n  <\n    div|\n    <\n      div|\n      <\n        a| View the content page [alt-c]\n        <span[AF]| Article >\n      >\n      <\n        a| Discuss improvements to the content page [alt-t]\n        <span[AG]| Talk >\n      >\n    >\n    <\n      div|\n      <\n        div|\n        <span[AH]| Read >\n        <\n          a| Edit this page [alt-e]\n          <span[AI]| Edit >\n        >\n        <\n          a| Past revisions of this page [alt-h]\n          <span[AJ]| View history >\n        >\n      >\n      <\n        div|\n        <input[AK]| >\n        <span| Tools >\n        <\n          div|\n          <\n            div|\n            <div| Tools >\n            <button| move to sidebar >\n          >\n          <\n            div|\n            <div| General >\n            <\n              ul|\n              <a| List of all English Wikipedia pages containing links to this page [alt-j] What links here >\n              <a| Recent changes in pages linked from this page [alt-k] Related changes >\n              <a| Permanent link to this revision of this page Permanent link >\n              <a| More information about this page Page information >\n              <a| Information on how to cite this page Cite this page >\n              <a| Get shortened URL >\n              <a| Download QR code >\n              <a| Expand all collapsible elements on the current page Expand all >\n              <a| Edit interlanguage links Edit interlanguage links >\n            >\n          >\n          <\n            div|\n            <div| Print/export >\n            <\n              ul|\n              <a| Download this page as a PDF file Download as PDF >\n              <a| Printable version of this page [alt-p] Printable version >\n            >\n          >\n          <\n            div|\n            <div| In other projects >\n            <a| Wikimedia Commons >\n            <a| Wikiquote >\n          >\n        >\n      >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <div| Appearance >\n      <button[AL]| hide >\n    >\n    <\n      div|\n      <div| Text >\n      <\n        div|\n        <\n          div|\n          <input[AM]| 0 >\n          <\n            label[AN]|\n            <span| Small >\n          >\n        >\n        <\n          div|\n          <input[AO]| 1 >\n          <\n            label[AP]|\n            <span| Standard >\n          >\n        >\n        <\n          div|\n          <input[AQ]| 2 >\n          <\n            label[AR]|\n            <span| Large >\n          >\n        >\n      >\n    >\n    <\n      div|\n      <div| Width >\n      <\n        div|\n        <\n          div|\n          <input[AS]| 1 >\n          <\n            label[AT]|\n            <span| Standard >\n          >\n        >\n        <\n          div|\n          <input[AU]| 0 >\n          <\n            label[AV]|\n            <span| Wide >\n          >\n        >\n      >\n    >\n    <\n      div|\n      <div| Color (beta) >\n      <\n        div|\n        <\n          div|\n          <input[AW]| os >\n          <\n            label[AX]|\n            <span| Automatic >\n          >\n        >\n        <\n          div|\n          <input[AY]| day >\n          <\n            label[AZ]|\n            <span| Light >\n          >\n        >\n        <\n          div|\n          <input[BA]| night >\n          <\n            label[BB]|\n            <span| Dark >\n          >\n        >\n      >\n    >\n  >\n  <div| From Wikipedia, the free encyclopedia >\n  <\n    figure|\n    <img[BC]| >\n    <a[BD]| Bloch sphere Bloch sphere >\n    <text| representation of a qubit. The state >\n    <\n      mstyle|\n      <mo| | >\n      <text| ψ >\n      <mo| ⟩ >\n      <text| = >\n      <text| α >\n      <mo| | >\n      <text| 0 >\n      <mo| ⟩ >\n      <text| + >\n      <text| β >\n      <mo| | >\n      <text| 1 >\n      <mo| ⟩ >\n    >\n    <text| is a point on the surface of the sphere, partway between the poles, >\n    <\n      mstyle|\n      <mo| | >\n      <text| 0 >\n      <mo| ⟩ >\n    >\n    <text| and >\n    <\n      mstyle|\n      <mo| | >\n      <text| 1 >\n      <mo| ⟩ >\n    >\n    <text| . >\n  >\n  <text| A >\n  <text| quantum computer >\n  <text| is a (real or theoretical) >\n  <a[BE]| Computer computer >\n  <text| that uses >\n  <a[BF]| Quantum mechanical quantum mechanical >\n  <text| phenomena in an essential way: it exploits >\n  <a[BG]| Quantum superposition superposed >\n  <text| and >\n  <a[BH]| Quantum entanglement entangled >\n  <a[BI]| Quantum state states >\n  <text| , and the intrinsically >\n  <a[BJ]| Non-deterministic non-deterministic >\n  <text| outcomes of >\n  <a[BK]| Quantum measurement quantum measurements >\n  <text| , as features of its computation. Quantum computers can be viewed as sampling from quantum systems that evolve in ways classically described as operating on an enormous number of possibilities simultaneously, though still subject to strict computational constraints. By contrast, ordinary (\"classical\") computers operate according to deterministic rules. Any classical computer can, in principle, be replicated by a ( >\n  <a[BL]| Classical physics classical >\n  <text| ) mechanical device such as a >\n  <a[BM]| Turing machine Turing machine >\n  <text| , with only polynomial overhead in time. Quantum computers, on the other hand are believed to require >\n  <a[BN]| Exponential growth exponentially >\n  <text| more resources to simulate classically. It is widely believed that a scalable quantum computer could perform >\n  <text| some >\n  <text| calculations exponentially faster than any classical computer. Theoretically, a large-scale quantum computer could >\n  <a[BO]| Post-quantum cryptography break some widely used public-key cryptographic schemes >\n  <text| and aid physicists in performing >\n  <a[BP]| Quantum simulator physical simulations >\n  <text| . However, current hardware implementations of quantum computation are largely experimental and only suitable for specialized tasks. >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 38,
+                "top": 17,
+                "right": 70,
+                "bottom": 49,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 84,
+                "top": 8,
+                "right": 134,
+                "bottom": 58,
+                "width": 50,
+                "height": 50
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 144,
+                "top": 15,
+                "right": 264,
+                "bottom": 33,
+                "width": 120,
+                "height": 18
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 145.5,
+                "top": 38,
+                "right": 262.5,
+                "bottom": 51,
+                "width": 117,
+                "height": 13
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 306,
+                "top": 17,
+                "right": 710.296875,
+                "bottom": 49,
+                "width": 404.296875,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 709.296875,
+                "top": 17,
+                "right": 780,
+                "bottom": 49,
+                "width": 70.703125,
+                "height": 32
+            },
+            "tag": "button",
+            "text": "Search"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 988.734375,
+                "top": 25,
+                "right": 1033.890625,
+                "bottom": 41,
+                "width": 45.15625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Donate"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 1041.890625,
+                "top": 25,
+                "right": 1136.84375,
+                "bottom": 41,
+                "width": 94.953125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Create account"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 1144.84375,
+                "top": 25,
+                "right": 1183,
+                "bottom": 41,
+                "width": 38.15625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Log in"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 1187,
+                "top": 17,
+                "right": 1227,
+                "bottom": 49,
+                "width": 40,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 132.5625,
+                "top": 136.84375,
+                "right": 171.25,
+                "bottom": 158.84375,
+                "width": 38.6875,
+                "height": 22
+            },
+            "tag": "button",
+            "text": "hide"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 60,
+                "top": 172.328125,
+                "right": 240,
+                "bottom": 200.328125,
+                "width": 180,
+                "height": 28
+            },
+            "tag": "div",
+            "text": "(Top)"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 60,
+                "top": 206.328125,
+                "right": 103.5625,
+                "bottom": 222.328125,
+                "width": 43.5625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "History"
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 60,
+                "top": 234.328125,
+                "right": 190.734375,
+                "bottom": 250.328125,
+                "width": 130.734375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Quantum information processing"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 37,
+                "top": 229.328125,
+                "right": 59,
+                "bottom": 251.328125,
+                "width": 22,
+                "height": 22
+            },
+            "tag": "button",
+            "text": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 60,
+                "top": 278.328125,
+                "right": 157.265625,
+                "bottom": 294.328125,
+                "width": 97.265625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Communication"
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 60,
+                "top": 306.328125,
+                "right": 126.140625,
+                "bottom": 322.328125,
+                "width": 66.140625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Algorithms"
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 37,
+                "top": 301.328125,
+                "right": 59,
+                "bottom": 323.328125,
+                "width": 22,
+                "height": 22
+            },
+            "tag": "button",
+            "text": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 60,
+                "top": 334.328125,
+                "right": 134.734375,
+                "bottom": 350.328125,
+                "width": 74.734375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Engineering"
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 37,
+                "top": 329.328125,
+                "right": 59,
+                "bottom": 351.328125,
+                "width": 22,
+                "height": 22
+            },
+            "tag": "button",
+            "text": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 60,
+                "top": 362.328125,
+                "right": 192.3125,
+                "bottom": 378.328125,
+                "width": 132.3125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Potential applications"
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 60,
+                "top": 390.328125,
+                "right": 103.578125,
+                "bottom": 406.328125,
+                "width": 43.578125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Theory"
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 37,
+                "top": 385.328125,
+                "right": 59,
+                "bottom": 407.328125,
+                "width": 22,
+                "height": 22
+            },
+            "tag": "button",
+            "text": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 60,
+                "top": 418.328125,
+                "right": 114.484375,
+                "bottom": 434.328125,
+                "width": 54.484375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "See also"
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 60,
+                "top": 446.328125,
+                "right": 96.578125,
+                "bottom": 462.328125,
+                "width": 36.578125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Notes"
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 60,
+                "top": 474.328125,
+                "right": 131.59375,
+                "bottom": 490.328125,
+                "width": 71.59375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "References"
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 60,
+                "top": 502.328125,
+                "right": 111.359375,
+                "bottom": 518.328125,
+                "width": 51.359375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Sources"
+        },
+        {
+            "keep": true,
+            "id": "AB",
+            "rects": {
+                "left": 60,
+                "top": 530.328125,
+                "right": 155.71875,
+                "bottom": 546.328125,
+                "width": 95.71875,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Further reading"
+        },
+        {
+            "keep": true,
+            "id": "AC",
+            "rects": {
+                "left": 37,
+                "top": 525.328125,
+                "right": 59,
+                "bottom": 547.328125,
+                "width": 22,
+                "height": 22
+            },
+            "tag": "button",
+            "text": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "AD",
+            "rects": {
+                "left": 60,
+                "top": 558.328125,
+                "right": 143.265625,
+                "bottom": 574.328125,
+                "width": 83.265625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "External links"
+        },
+        {
+            "keep": true,
+            "id": "AE",
+            "rects": {
+                "left": 849.296875,
+                "top": 93.84375,
+                "right": 1013,
+                "bottom": 125.84375,
+                "width": 163.703125,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AF",
+            "rects": {
+                "left": 264,
+                "top": 141.640625,
+                "right": 302.90625,
+                "bottom": 157.640625,
+                "width": 38.90625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Article"
+        },
+        {
+            "keep": true,
+            "id": "AG",
+            "rects": {
+                "left": 318.90625,
+                "top": 141.640625,
+                "right": 343.8125,
+                "bottom": 157.640625,
+                "width": 24.90625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Talk"
+        },
+        {
+            "keep": true,
+            "id": "AH",
+            "rects": {
+                "left": 762.5,
+                "top": 141.640625,
+                "right": 795.96875,
+                "bottom": 157.640625,
+                "width": 33.46875,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Read"
+        },
+        {
+            "keep": true,
+            "id": "AI",
+            "rects": {
+                "left": 811.96875,
+                "top": 141.640625,
+                "right": 836.09375,
+                "bottom": 157.640625,
+                "width": 24.125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Edit"
+        },
+        {
+            "keep": true,
+            "id": "AJ",
+            "rects": {
+                "left": 852.09375,
+                "top": 141.640625,
+                "right": 927.3125,
+                "bottom": 157.640625,
+                "width": 75.21875,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "View history"
+        },
+        {
+            "keep": true,
+            "id": "AK",
+            "rects": {
+                "left": 943.3125,
+                "top": 129.640625,
+                "right": 1001,
+                "bottom": 163.640625,
+                "width": 57.6875,
+                "height": 34
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AL",
+            "rects": {
+                "left": 1133.046875,
+                "top": 136.84375,
+                "right": 1171.734375,
+                "bottom": 158.84375,
+                "width": 38.6875,
+                "height": 22
+            },
+            "tag": "button",
+            "text": "hide"
+        },
+        {
+            "keep": true,
+            "id": "AM",
+            "rects": {
+                "left": 1041,
+                "top": 214.328125,
+                "right": 1061,
+                "bottom": 234.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AN",
+            "rects": {
+                "left": 1041,
+                "top": 213.328125,
+                "right": 1205,
+                "bottom": 239.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AO",
+            "rects": {
+                "left": 1041,
+                "top": 246.328125,
+                "right": 1061,
+                "bottom": 266.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AP",
+            "rects": {
+                "left": 1041,
+                "top": 245.328125,
+                "right": 1205,
+                "bottom": 271.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AQ",
+            "rects": {
+                "left": 1041,
+                "top": 278.328125,
+                "right": 1061,
+                "bottom": 298.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AR",
+            "rects": {
+                "left": 1041,
+                "top": 277.328125,
+                "right": 1205,
+                "bottom": 303.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AS",
+            "rects": {
+                "left": 1041,
+                "top": 357.328125,
+                "right": 1061,
+                "bottom": 377.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AT",
+            "rects": {
+                "left": 1041,
+                "top": 356.328125,
+                "right": 1205,
+                "bottom": 382.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AU",
+            "rects": {
+                "left": 1041,
+                "top": 389.328125,
+                "right": 1061,
+                "bottom": 409.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AV",
+            "rects": {
+                "left": 1041,
+                "top": 388.328125,
+                "right": 1205,
+                "bottom": 414.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AW",
+            "rects": {
+                "left": 1041,
+                "top": 468.328125,
+                "right": 1061,
+                "bottom": 488.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AX",
+            "rects": {
+                "left": 1041,
+                "top": 467.328125,
+                "right": 1205,
+                "bottom": 493.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AY",
+            "rects": {
+                "left": 1041,
+                "top": 500.328125,
+                "right": 1061,
+                "bottom": 520.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AZ",
+            "rects": {
+                "left": 1041,
+                "top": 499.328125,
+                "right": 1205,
+                "bottom": 525.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BA",
+            "rects": {
+                "left": 1041,
+                "top": 532.328125,
+                "right": 1061,
+                "bottom": 552.328125,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BB",
+            "rects": {
+                "left": 1041,
+                "top": 531.328125,
+                "right": 1205,
+                "bottom": 557.328125,
+                "width": 164,
+                "height": 26
+            },
+            "tag": "label",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BC",
+            "rects": {
+                "left": 745,
+                "top": 225.390625,
+                "right": 997,
+                "bottom": 492.390625,
+                "width": 252,
+                "height": 267
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BD",
+            "rects": {
+                "left": 748,
+                "top": 496.390625,
+                "right": 830.453125,
+                "bottom": 512.390625,
+                "width": 82.453125,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Bloch sphere"
+        },
+        {
+            "keep": true,
+            "id": "BE",
+            "rects": {
+                "left": 595.640625,
+                "top": 217.390625,
+                "right": 662.34375,
+                "bottom": 234.390625,
+                "width": 66.703125,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "computer"
+        },
+        {
+            "keep": true,
+            "id": "BF",
+            "rects": {
+                "left": 302.25,
+                "top": 243.390625,
+                "right": 449.890625,
+                "bottom": 260.390625,
+                "width": 147.640625,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "quantum mechanical"
+        },
+        {
+            "keep": true,
+            "id": "BG",
+            "rects": {
+                "left": 322.703125,
+                "top": 269.390625,
+                "right": 406.328125,
+                "bottom": 286.390625,
+                "width": 83.625,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "superposed"
+        },
+        {
+            "keep": true,
+            "id": "BH",
+            "rects": {
+                "left": 441.921875,
+                "top": 269.390625,
+                "right": 512.21875,
+                "bottom": 286.390625,
+                "width": 70.296875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "entangled"
+        },
+        {
+            "keep": true,
+            "id": "BI",
+            "rects": {
+                "left": 516.671875,
+                "top": 269.390625,
+                "right": 559.359375,
+                "bottom": 286.390625,
+                "width": 42.6875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "states"
+        },
+        {
+            "keep": true,
+            "id": "BJ",
+            "rects": {
+                "left": 264,
+                "top": 295.390625,
+                "right": 385.828125,
+                "bottom": 312.390625,
+                "width": 121.828125,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "non-deterministic"
+        },
+        {
+            "keep": true,
+            "id": "BK",
+            "rects": {
+                "left": 481.875,
+                "top": 295.390625,
+                "right": 654.40625,
+                "bottom": 312.390625,
+                "width": 172.53125,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "quantum measurements"
+        },
+        {
+            "keep": true,
+            "id": "BL",
+            "rects": {
+                "left": 269.328125,
+                "top": 503.390625,
+                "right": 329.796875,
+                "bottom": 520.390625,
+                "width": 60.46875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "classical"
+        },
+        {
+            "keep": true,
+            "id": "BM",
+            "rects": {
+                "left": 548.28125,
+                "top": 503.390625,
+                "right": 657.96875,
+                "bottom": 520.390625,
+                "width": 109.6875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Turing machine"
+        },
+        {
+            "keep": true,
+            "id": "BN",
+            "rects": {
+                "left": 508.609375,
+                "top": 555.390625,
+                "right": 602.015625,
+                "bottom": 572.390625,
+                "width": 93.40625,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "exponentially"
+        },
+        {
+            "keep": true,
+            "id": "BO",
+            "rects": {
+                "left": 264,
+                "top": 659.390625,
+                "right": 681.078125,
+                "bottom": 676.390625,
+                "width": 417.078125,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "break some widely used public-key cryptographic schemes"
+        },
+        {
+            "keep": true,
+            "id": "BP",
+            "rects": {
+                "left": 914.078125,
+                "top": 659.390625,
+                "right": 971.890625,
+                "bottom": 676.390625,
+                "width": 57.8125,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "physical simulations"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "raw_html": "<DIV class=\"ch-scroll-buffer\" id=\"scroll-buffer\"></DIV><DIV class=\"ch-landing\"><DIV class=\"ch-landing-img-container ch-avatar-group-block\" id=\"ch-hand-logo-container\"><DIV class=\"ch-hand-wave-img-container\"><IMG class=\"ch-wave-img\" alt=\"clubhouse wave\" src=\"https://static-assets.clubhouseapi.com/static/img/img_hand_wave.3454a59f2b06.svg\" height=\"64\"></IMG><IMG class=\"ch-wave-img\" alt=\"clubhouse wave\" src=\"https://static-assets.clubhouseapi.com/static/img/img_hand_wave_yellow.cc074c4a4081.svg\" style=\"clip-path: inset(100% 0 0 0)\" id=\"ch-hand-logo-dark-theme\"></IMG></DIV></DIV><UL class=\"ch-nav-links ch-theme ch-avatar-group-block\" data-theme=\"light\"><A href=\"https://clubhouse.com/jobs\"><LI class=\"possible-clickable-element\" data-testid=\"A\"><text>Jobs</text></LI></A><BUTTON class=\"ch-btn--transparent ch-header-btn possible-clickable-element\" id=\"ch-header-cta-btn\" data-testid=\"B\"><text>Get Clubhouse</text></BUTTON></UL><DIV class=\"ch-main-content-container\"><DIV id=\"ch-logo-arrow-container\"><DIV class=\"ch-landing-img-container ch-avatar-group-block\" id=\"ch-logo-container\"><IMG class=\"ch-landing-img ch-mount-animation--slide-bottom\" src=\"https://static-assets.clubhouseapi.com/static/img/clubhouse_logo_dark.2677abb66623.svg\" alt=\"Clubhouse logo\" id=\"ch-image-light\"></IMG><IMG class=\"ch-landing-img\" src=\"https://static-assets.clubhouseapi.com/static/img/clubhouse_logo_yellow.adc55ed3bf9b.svg\" alt=\"Clubhouse logo\" id=\"ch-image-dark-theme\" style=\"clip-path: inset(100% 0 0 0)\"></IMG></DIV><DIV class=\"ch-floating-arrow\" id=\"floating-arrow\" style=\"opacity: 1;\"><IMG src=\"https://static-assets.clubhouseapi.com/static/img/icon_arrow_down.30d965af62c2.svg\" alt=\"scroll for more\" height=\"36\"></IMG></DIV></DIV></DIV><DIV class=\"ch-scroll-cta--text\"><text>Scroll for more</text></DIV></DIV><FOOTER class=\"ch-device-restricted--desktop\"><UL class=\"ch-footer-links ch-avatar-group-block\"><A href=\"https://privacy.clubhouse.com/\" class=\"possible-clickable-element\" data-testid=\"C\"><text>Privacy</text></A><A href=\"https://tos.clubhouse.com/\" class=\"possible-clickable-element\" data-testid=\"D\"><text>Terms</text></A><A href=\"https://support.clubhouse.com/\" class=\"possible-clickable-element\" data-testid=\"E\"><text>FAQs</text></A><A href=\"https://www.twitter.com/clubhouse\"><IMG src=\"https://static-assets.clubhouseapi.com/static/img/icon_twitter_web.1c0f7d2297c1.svg\" alt=\"Clubhouse twitter\" class=\"ch-social-icon possible-clickable-element\" height=\"16\" data-testid=\"F\"></IMG></A><A href=\"https://www.instagram.com/clubhouse\"><IMG src=\"https://static-assets.clubhouseapi.com/static/img/icon_instagram_web.44646a2643e5.svg\" alt=\"Clubhouse instagram\" class=\"ch-social-icon possible-clickable-element\" height=\"16\" data-testid=\"G\"></IMG></A></UL><DIV class=\"ch-copyright ch-avatar-group-block\"><text>©</text><SPAN class=\"ch-copyright-year\"><text>2023</text></SPAN><text>Alpha Exploration Co.</text></DIV></FOOTER>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      ul|\n      <li[A]| Jobs >\n      <button[B]| Get Clubhouse >\n    >\n    <div| Scroll for more >\n  >\n  <\n    footer|\n    <\n      ul|\n      <a[C]| Privacy >\n      <a[D]| Terms >\n      <a[E]| FAQs >\n      <img[F]| >\n      <img[G]| >\n    >\n    <\n      div|\n      <text| © >\n      <span| 2023 >\n      <text| Alpha Exploration Co. >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 973,
+                "top": 71,
+                "right": 1004,
+                "bottom": 93,
+                "width": 31,
+                "height": 22
+            },
+            "tag": "li",
+            "text": "Jobs"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 1052,
+                "top": 52,
+                "right": 1216,
+                "bottom": 112,
+                "width": 164,
+                "height": 60
+            },
+            "tag": "button",
+            "text": "Get Clubhouse"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 72,
+                "top": 646,
+                "right": 129,
+                "bottom": 668,
+                "width": 57,
+                "height": 22
+            },
+            "tag": "a",
+            "text": "Privacy"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 161,
+                "top": 646,
+                "right": 208,
+                "bottom": 668,
+                "width": 47,
+                "height": 22
+            },
+            "tag": "a",
+            "text": "Terms"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 240,
+                "top": 646,
+                "right": 281,
+                "bottom": 668,
+                "width": 41,
+                "height": 22
+            },
+            "tag": "a",
+            "text": "FAQs"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 313,
+                "top": 646,
+                "right": 332.75,
+                "bottom": 662,
+                "width": 19.75,
+                "height": 16
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 364.75,
+                "top": 646,
+                "right": 380.75,
+                "bottom": 662,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "img",
+            "text": ""
+        }
+    ]
+}

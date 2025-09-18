@@ -1,0 +1,90 @@
+{
+    "raw_html": "<text>Skip to main content</text><HEADER class=\"site-header site-header--theme-dark site-header--position-fixed\" data-js=\"site-header\" aria-label=\"Harvard University\"><DIV class=\"site-header__wrapper\"><DIV class=\"site-header__brand\"><DIV class=\"site-header__brand-inner\"><DIV class=\"logo\" data-js=\"logo\"><A href=\"https://www.harvard.edu/\" class=\"logo__wrap svgicon possible-clickable-element\" rel=\"home\" data-testid=\"A\"><SPAN class=\"u-visually-hidden\"><text>Harvard University</text></SPAN></A></DIV><DIV class=\"site-triggers site-triggers--have-search\"><DIV class=\"site-trigger-item site-trigger-item--hot-links site-hot-links--single\" data-js=\"site-hot-links\"><NAV class=\"nav-hot-links\" id=\"site-hot-links\" aria-label=\"Site Notifications\"><DIV class=\"nav-hot-links__wrapper\"><OL class=\"nav-hot-links__list\"><LI class=\"nav-hot-links__item\" style=\"transition-delay: 0s;\"><A href=\"https://www.harvard.edu/federal-lawsuits/\" class=\"nav-hot-links__action possible-clickable-element\" data-attribute=\"latest-covid-information\" data-testid=\"B\"><text>Learn about our lawsuits to protect our students and researchers</text></A></LI></OL></DIV></NAV></DIV><DIV class=\"site-triggers__main-item-wrap\" role=\"navigation\" aria-label=\"Search and Navigation\"><DIV class=\"site-trigger-item site-trigger-item--search\"><BUTTON id=\"site-trigger-search-open\" class=\"site-trigger site-trigger--primary site-trigger--search-open\" data-js=\"site-trigger-search-open\" aria-label=\"Open Site Search\" aria-expanded=\"false\" aria-controls=\"site-search\"><SPAN class=\"site-trigger__icon icon icon-search possible-clickable-element\" aria-hidden=\"true\" title=\"Open Site Search\" data-testid=\"C\"></SPAN><SPAN class=\"site-trigger__text possible-clickable-element\" data-testid=\"D\"><text>Search</text></SPAN></BUTTON><DIV class=\"site-header__search\" data-js=\"site-search-form\" data-placeholder=\"Search Harvard University\"><DIV id=\"___gcse_0\"><DIV class=\"gsc-control-searchbox-only gsc-control-searchbox-only-en\" dir=\"ltr\"><FORM class=\"gsc-search-box gsc-search-box-tools\" accept-charset=\"utf-8\"><TABLE cellspacing=\"0\" cellpadding=\"0\" role=\"presentation\" class=\"gsc-search-box\"><TD class=\"gsc-input\"><DIV class=\"gsc-input-box\" id=\"gsc-iw-id1\"><TABLE cellspacing=\"0\" cellpadding=\"0\" role=\"presentation\" id=\"gs_id50\" class=\"gstl_50 gsc-input\" style=\"width: 100%; padding: 0px;\"><TD id=\"gs_tti50\" class=\"gsib_a\"><INPUT autocomplete=\"off\" type=\"text\" size=\"10\" class=\"gsc-input\" name=\"search\" title=\"search\" aria-label=\"search\" id=\"gsc-i-id1\" dir=\"ltr\" spellcheck=\"false\" style=\"width: 100%; padding: 0px; border: none; margin: 0px; height: auto; background: url(\"https://www.google.com/cse/static/images/1x/en/branding.png\") left center no-repeat rgb(255, 255, 255); outline: none;\"></INPUT></TD></TABLE></DIV></TD><BUTTON class=\"gsc-search-button gsc-search-button-v2\"></BUTTON></TABLE></FORM></DIV></DIV></DIV><NAV class=\"nav-quick-links-search\" aria-labelledby=\"quick_links_search-label\"><DIV class=\"nav-quick-links-search__wrapper\"><STRONG class=\"nav-quick-links-search__label\" id=\"quick_links_search-label\"><SPAN class=\"u-visually-hidden\"><text>Search</text></SPAN><text>Quick Links</text></STRONG><OL class=\"nav-quick-links-search__list\"><LI class=\"nav-quick-links-search__item\"><A href=\"https://www.harvard.edu/a-to-z/\" class=\"nav-quick-links-search__action\" data-attribute=\"7753\"><text>A to Z index</text></A></LI></OL></DIV></NAV><BUTTON id=\"site-trigger-search-close\" class=\"site-trigger site-trigger--search-close\" data-js=\"site-trigger-search-close\" aria-label=\"Close Site Search\" aria-expanded=\"false\" aria-controls=\"site-search\"><SPAN class=\"site-trigger__icon icon icon-close\" aria-hidden=\"true\" title=\"Close Site Search\"></SPAN></BUTTON></DIV><DIV class=\"site-trigger-item\"><BUTTON id=\"site-trigger-nav-open\" class=\"site-trigger site-trigger--primary site-trigger--nav site-trigger--nav-open\" data-js=\"site-trigger-nav-open\" aria-expanded=\"false\" aria-controls=\"site-nav\"><SPAN class=\"site-trigger__icon icon icon-menu possible-clickable-element\" aria-hidden=\"true\" title=\"Open Site Navigation\" data-testid=\"E\"></SPAN><SPAN class=\"site-trigger__text possible-clickable-element\" data-testid=\"F\"><text>Menu</text></SPAN></BUTTON></DIV></DIV></DIV></DIV></DIV><OL class=\"nav-primary__list\"><LI class=\"nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children\" style=\"transition-delay: 0.2s;\"><BUTTON title=\"Toggle Sub-Menu\" data-js=\"trigger-child-menu\" id=\"menu-item-6683\" data-id=\"6683\" data-id-parent=\"0\" aria-expanded=\"false\" aria-controls=\"menu-item-child-6683\" data-depth=\"0\" data-attribute=\"academics\" class=\"nav-primary__action nav-primary__action--depth-0 nav-primary__action--has-children\"><SPAN class=\"nav-primary__action-text\"><text>Academics</text></SPAN></BUTTON></LI><LI class=\"nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children\" style=\"transition-delay: 0.22s;\"><BUTTON title=\"Toggle Sub-Menu\" data-js=\"trigger-child-menu\" id=\"menu-item-6734\" data-id=\"6734\" data-id-parent=\"0\" aria-expanded=\"false\" aria-controls=\"menu-item-child-6734\" data-bgd-image-id=\"0-6734-0\" data-depth=\"0\" data-attribute=\"campus\" class=\"nav-primary__action nav-primary__action--depth-0 nav-primary__action--has-children\"><SPAN class=\"nav-primary__action-text\"><text>Campus</text></SPAN></BUTTON></LI><LI class=\"nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children\" style=\"transition-delay: 0.24s;\"><BUTTON title=\"Toggle Sub-Menu\" data-js=\"trigger-child-menu\" id=\"menu-item-61337\" data-id=\"61337\" data-id-parent=\"0\" aria-expanded=\"false\" aria-controls=\"menu-item-child-61337\" data-depth=\"0\" data-attribute=\"in-focus\" class=\"nav-primary__action nav-primary__action--depth-0 nav-primary__action--has-children\"><SPAN class=\"nav-primary__action-text\"><text>In Focus</text></SPAN></BUTTON></LI><LI class=\"nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children\" style=\"transition-delay: 0.26s;\"><BUTTON title=\"Toggle Sub-Menu\" data-js=\"trigger-child-menu\" id=\"menu-item-5404\" data-id=\"5404\" data-id-parent=\"0\" aria-expanded=\"false\" aria-controls=\"menu-item-child-5404\" data-bgd-image-id=\"0-5404-0\" data-depth=\"0\" data-attribute=\"visit\" class=\"nav-primary__action nav-primary__action--depth-0 nav-primary__action--has-children\"><SPAN class=\"nav-primary__action-text\"><text>Visit</text></SPAN></BUTTON></LI><LI class=\"nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children\" style=\"transition-delay: 0.28s;\"><BUTTON title=\"Toggle Sub-Menu\" data-js=\"trigger-child-menu\" id=\"menu-item-9083\" data-id=\"9083\" data-id-parent=\"0\" aria-expanded=\"false\" aria-controls=\"menu-item-child-9083\" data-bgd-image-id=\"0-9083-0\" data-depth=\"0\" data-attribute=\"about\" class=\"nav-primary__action nav-primary__action--depth-0 nav-primary__action--has-children\"><SPAN class=\"nav-primary__action-text\"><text>About</text></SPAN></BUTTON></LI><LI class=\"nav-primary__item nav-primary__item--depth-0 nav-primary__item--has-children\" style=\"transition-delay: 0.3s;\"><BUTTON title=\"Toggle Sub-Menu\" data-js=\"trigger-child-menu\" id=\"menu-item-1671\" data-id=\"1671\" data-id-parent=\"0\" aria-expanded=\"false\" aria-controls=\"menu-item-child-1671\" data-bgd-image-id=\"0-1671-0\" data-depth=\"0\" data-attribute=\"news\" class=\"nav-primary__action nav-primary__action--depth-0 nav-primary__action--has-children\"><SPAN class=\"nav-primary__action-text\"><text>News</text></SPAN></BUTTON></LI></OL><NAV class=\"nav-quick-links-nav\" aria-labelledby=\"quick_links_nav-label\"><DIV class=\"nav-quick-links-nav__wrapper\"><STRONG class=\"nav-quick-links-nav__label\" id=\"quick_links_nav-label\"><SPAN class=\"u-visually-hidden\"><text>Navigation</text></SPAN><text>Quick Links</text><SPAN class=\"icon icon-chevron-right\" aria-hidden=\"true\"></SPAN></STRONG><OL class=\"nav-quick-links-nav__list\"><LI class=\"nav-quick-links-nav__item\"><A href=\"https://www.harvard.edu/a-to-z/\" class=\"nav-quick-links-nav__action\" data-attribute=\"find-a-department\"><text>A to Z index</text></A></LI><LI class=\"nav-quick-links-nav__item\"><A href=\"https://connections.harvard.edu/\" class=\"nav-quick-links-nav__action\" data-attribute=\"find-a-person\"><text>Find a person</text></A></LI><LI class=\"nav-quick-links-nav__item\"><A href=\"https://news.harvard.edu/gazette/harvard-events/\" class=\"nav-quick-links-nav__action\" data-attribute=\"events\"><text>Events</text></A></LI><LI class=\"nav-quick-links-nav__item\"><A href=\"/media-relations\" class=\"nav-quick-links-nav__action\" data-attribute=\"media-relations\"><text>Media Relations</text></A></LI><LI class=\"nav-quick-links-nav__item\"><A href=\"https://alumni.harvard.edu/\" class=\"nav-quick-links-nav__action\" data-attribute=\"alumni-association\"><text>Alumni</text></A></LI><LI class=\"nav-quick-links-nav__item\"><A href=\"https://alumni.harvard.edu/giving/givenow\" class=\"nav-quick-links-nav__action\" data-attribute=\"give-now\"><text>Give Now</text></A></LI><LI class=\"nav-quick-links-nav__item\"><A href=\"https://www.harvard.edu/emergency/\" class=\"nav-quick-links-nav__action\" data-attribute=\"43122\"><text>Emergency</text></A></LI></OL></DIV></NAV><DIV class=\"site-nav__brand\"><DIV class=\"site-nav__brand-inner\"><DIV class=\"logo\" data-js=\"logo\"><A href=\"https://www.harvard.edu/\" class=\"logo__wrap svgicon\" rel=\"home\"><SPAN class=\"u-visually-hidden\"><text>Harvard University</text></SPAN></A></DIV><BUTTON id=\"site-trigger-nav-close\" class=\"site-trigger site-trigger--nav site-trigger--nav-close\" data-js=\"site-trigger-nav-close\" aria-label=\"Close Site Navigation\" aria-expanded=\"false\" aria-controls=\"site-nav\"><SPAN class=\"site-trigger__text\"><text>Close</text></SPAN><SPAN class=\"site-trigger__icon icon icon-close\" aria-hidden=\"true\" title=\"Close Site Navigation\"></SPAN></BUTTON></DIV></DIV></DIV></HEADER><text>Harvard University</text><SECTION class=\"c-block b-hero no-caption no-cta no-featured-story an-no-animate\"><DIV class=\"b-hero__container l-container\"><DIV class=\"b-hero__img c-image__image lazyloaded\" role=\"img\" aria-label=\"A rendering of a heart\" data-expand=\"200\" data-bgset=\"https://www.harvard.edu/wp-content/uploads/2025/08/AdobeStock_418911722.jpg?w=2000 2000w 1125h, https://www.harvard.edu/wp-content/uploads/2025/08/AdobeStock_418911722.jpg?w=1152 1152w 648h\" style=\"background-image: url(\"https://www.harvard.edu/wp-content/uploads/2025/08/AdobeStock_418911722.jpg?w=2000\");\"></DIV><DIV class=\"b-hero__content\"><HEADER class=\"c-block__content-block c-block__header b-hero__content-container c-content-block c-content-block--layout-center\"><H2 class=\"c-block__title b-hero__title b-hero__title--large c-content-block__title\"><text>Heart Health</text></H2><P class=\"c-block__underline b-hero__underline c-content-block__underline\"><text>Cardiovascular diseases continue to be the number one cause of death worldwide. Harvard experts are leading the way on advancements in prevention, treatment, risk assessment, and innovative breakthroughs.</text></P></HEADER></DIV></DIV></SECTION>",
+    "parsed_html": "\n<\n  div|\n  <text| Skip to main content >\n  <\n    div|\n    <\n      div|\n      <\n        a[A]|\n        <span| Harvard University >\n      >\n      <\n        div|\n        <a[B]| Learn about our lawsuits to protect our students and researchers >\n        <\n          div|\n          <\n            div|\n            <\n              button|\n              <span[C]| Open Site Search >\n              <span[D]| Search >\n            >\n            <input| search >\n            <\n              div|\n              <\n                strong|\n                <span| Search >\n                <text| Quick Links >\n              >\n              <a| A to Z index >\n            >\n            <span| Close Site Search >\n          >\n          <\n            button|\n            <span[E]| Open Site Navigation >\n            <span[F]| Menu >\n          >\n        >\n      >\n    >\n    <\n      ol|\n      <\n        button| Toggle Sub-Menu\n        <span| Academics >\n      >\n      <\n        button| Toggle Sub-Menu\n        <span| Campus >\n      >\n      <\n        button| Toggle Sub-Menu\n        <span| In Focus >\n      >\n      <\n        button| Toggle Sub-Menu\n        <span| Visit >\n      >\n      <\n        button| Toggle Sub-Menu\n        <span| About >\n      >\n      <\n        button| Toggle Sub-Menu\n        <span| News >\n      >\n    >\n    <\n      div|\n      <\n        strong|\n        <span| Navigation >\n        <text| Quick Links >\n      >\n      <\n        ol|\n        <a| A to Z index >\n        <a| Find a person >\n        <a| Events >\n        <a| Media Relations >\n        <a| Alumni >\n        <a| Give Now >\n        <a| Emergency >\n      >\n    >\n    <\n      div|\n      <span| Harvard University >\n      <\n        button|\n        <span| Close >\n        <span| Close Site Navigation >\n      >\n    >\n  >\n  <text| Harvard University >\n  <\n    header|\n    <h2| Heart Health >\n    <p| Cardiovascular diseases continue to be the number one cause of death worldwide. Harvard experts are leading the way on advancements in prevention, treatment, risk assessment, and innovative breakthroughs. >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 40,
+                "top": 21,
+                "right": 230,
+                "bottom": 69,
+                "width": 190,
+                "height": 48
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 268,
+                "top": 32,
+                "right": 809.609375,
+                "bottom": 59,
+                "width": 541.609375,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Learn about our lawsuits to protect our students and researchers"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 980.984375,
+                "top": 29.5,
+                "right": 1011.984375,
+                "bottom": 60.5,
+                "width": 31,
+                "height": 31
+            },
+            "tag": "span",
+            "text": "\n\t\t\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 1021.984375,
+                "top": 31.5,
+                "right": 1078.390625,
+                "bottom": 58.5,
+                "width": 56.40625,
+                "height": 27
+            },
+            "tag": "span",
+            "text": "\n\t\t\t\t\t\tSearch\t\t\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 1149.390625,
+                "top": 29.5,
+                "right": 1180.390625,
+                "bottom": 60.5,
+                "width": 31,
+                "height": 31
+            },
+            "tag": "span",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 1195.390625,
+                "top": 31.5,
+                "right": 1241,
+                "bottom": 58.5,
+                "width": 45.609375,
+                "height": 27
+            },
+            "tag": "span",
+            "text": "\n\t\t\t\t\tMenu\t\t\t\t"
+        }
+    ]
+}

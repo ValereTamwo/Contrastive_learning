@@ -1,0 +1,286 @@
+{
+    "raw_html": "<HTML lang=\"en\" style=\"--vh: 7.2px;\"><BODY style=\"overflow: unset;\"><HEADER class=\"sc-cVmcbw bJspdK\"><NAV class=\"sc-gKWOzz egbwaJ\"><DIV class=\"sc-kcsKfN dQFMph\"><DIV class=\"sc-dOCdTy cStcwe\"><A role=\"button\" tabindex=\"0\" href=\"https://ui.com/us/en?s=us&l=en\" class=\"sc-eUxDpt gWQwgf\"><DIV class=\"sc-hvigdm bWmCEe possible-clickable-element\" data-testid=\"A\"></DIV></A><NAV class=\"sc-bYcSJs cfXwLV\"><BUTTON class=\"sc-ixyMIc fWxiWn\"><SPAN tabindex=\"0\" role=\"button\" class=\"sc-hUZldv eFgVSD\"><text>Start Here</text><DIV class=\"sc-hvigdm lbrWub sc-eYEAxu jfrnMR possible-clickable-element\" data-testid=\"B\"></DIV></SPAN><DIV class=\"sc-fCWVgB fVFFuw possible-clickable-element\" data-testid=\"C\"></DIV></BUTTON><BUTTON class=\"sc-ixyMIc fWxiWn\"><SPAN tabindex=\"0\" role=\"button\" class=\"sc-hUZldv fxtcZQ possible-clickable-element\" data-testid=\"D\"><text>Cloud Gateways</text></SPAN></BUTTON><BUTTON class=\"sc-ixyMIc fWxiWn\"><SPAN tabindex=\"0\" role=\"button\" class=\"sc-hUZldv fxtcZQ possible-clickable-element\" data-testid=\"E\"><text>Switching</text></SPAN></BUTTON><BUTTON class=\"sc-ixyMIc fWxiWn\"><SPAN tabindex=\"0\" role=\"button\" class=\"sc-hUZldv fxtcZQ possible-clickable-element\" data-testid=\"F\"><text>WiFi</text></SPAN></BUTTON><BUTTON class=\"sc-ixyMIc fWxiWn\"><SPAN tabindex=\"0\" role=\"button\" class=\"sc-hUZldv fxtcZQ possible-clickable-element\" data-testid=\"G\"><text>Physical Security</text></SPAN></BUTTON><BUTTON class=\"sc-ixyMIc fWxiWn\"><SPAN tabindex=\"0\" role=\"button\" class=\"sc-hUZldv fxtcZQ possible-clickable-element\" data-testid=\"H\"><text>Integrations</text></SPAN></BUTTON><DIV class=\"sc-iyBeIh bDEhoq\"></DIV><DIV class=\"sc-cOpnSz kbwMBb\"><DIV class=\"sc-xKhEK yDupl\"><DIV class=\"sc-hldWLq hzESQp sc-dMmcxd dLUiNg\"><DIV class=\"sc-iVnIWt dZdMoM\"></DIV><DIV class=\"sc-jBaHRL sc-ikkVnJ jtCzFe\"><DIV class=\"sc-hvigdm iZUOKS sc-iPXUjb lasxEX\"></DIV></DIV><DIV class=\"sc-jBaHRL sc-gFqXPY joLJMz\"><DIV class=\"sc-hvigdm iZUOKS sc-iPXUjb lasxEX\"></DIV></DIV></DIV></DIV></DIV></NAV></DIV><DIV class=\"sc-fqdHUJ ecQYug\"><A tabindex=\"0\" role=\"button\" href=\"https://ui.com/us/en/whats-new?s=us&l=en\" class=\"sc-knMmLf gPcgAy possible-clickable-element\" data-testid=\"I\"><text>What's New</text></A><A tabindex=\"0\" role=\"button\" href=\"https://help.ui.com/hc/en-us\" class=\"sc-knMmLf biurMg possible-clickable-element\" data-testid=\"J\"><text>Support</text></A><DIV class=\"sc-jytpVa gYpJHT\"><A tabindex=\"0\" role=\"button\" href=\"https://store.ui.com/us/en?s=us&l=en\" target=\"_blank\" data-test-id=\"support-btn\" class=\"sc-eknHtZ eCiPes possible-clickable-element\" data-testid=\"K\"><text>Store</text></A></DIV><DIV aria-hidden=\"true\" tabindex=\"0\" role=\"button\" class=\"sc-cfLHZC ghJIhQ\"><DIV class=\"sc-hvigdm kXXruw header-icon possible-clickable-element\" data-testid=\"L\"></DIV></DIV><DIV aria-hidden=\"true\" tabindex=\"0\" role=\"button\" class=\"sc-cfLHZC ghJIhQ\"><DIV class=\"sc-hvigdm iVceFo header-icon possible-clickable-element\" data-testid=\"M\"></DIV></DIV></DIV></DIV><DIV class=\"sc-gvqKNf isA-Dkz sc-esUyCF bvGYAA\"><DIV class=\"sc-cOpnSz kbwMBb\"><DIV class=\"sc-jqDdtb iKiXhT\"><DIV class=\"sc-biCyHy dzIFEr\"><DIV class=\"sc-lehtBJ gARgKM\"><DIV class=\"sc-gJUwzu iacGhT\"><DIV class=\"sc-fdbPbf cFYxZH\"><BUTTON class=\"sc-bUAJAs cKcTBC\"><DIV class=\"sc-nIccd exFwOk\"><text>How It Works?</text></DIV><DIV class=\"sc-gkYeAe gGWKrE\"><DIV class=\"sc-hvigdm hvnWcd sc-eEfxbP enYzTz\"></DIV></DIV></BUTTON></DIV><DIV class=\"sc-fdbPbf cFYxZH\"><BUTTON class=\"sc-bUAJAs cKcTBC\"><DIV class=\"sc-nIccd exFwOk\"><text>Cloud Gateways</text></DIV><DIV class=\"sc-gkYeAe gGWKrE\"><DIV class=\"sc-hvigdm hvnWcd sc-eEfxbP enYzTz\"></DIV></DIV></BUTTON></DIV><DIV class=\"sc-fdbPbf cFYxZH\"><BUTTON class=\"sc-bUAJAs cKcTBC\"><DIV class=\"sc-nIccd exFwOk\"><text>Switching</text></DIV><DIV class=\"sc-gkYeAe gGWKrE\"><DIV class=\"sc-hvigdm hvnWcd sc-eEfxbP enYzTz\"></DIV></DIV></BUTTON></DIV><DIV class=\"sc-fdbPbf cFYxZH\"><BUTTON class=\"sc-bUAJAs cKcTBC\"><DIV class=\"sc-nIccd exFwOk\"><text>WiFi</text></DIV><DIV class=\"sc-gkYeAe gGWKrE\"><DIV class=\"sc-hvigdm hvnWcd sc-eEfxbP enYzTz\"></DIV></DIV></BUTTON></DIV><DIV class=\"sc-fdbPbf cFYxZH\"><BUTTON class=\"sc-bUAJAs cKcTBC\"><DIV class=\"sc-nIccd exFwOk\"><text>Physical Security</text></DIV><DIV class=\"sc-gkYeAe gGWKrE\"><DIV class=\"sc-hvigdm hvnWcd sc-eEfxbP enYzTz\"></DIV></DIV></BUTTON></DIV><DIV class=\"sc-fdbPbf cFYxZH\"><BUTTON class=\"sc-bUAJAs cKcTBC\"><DIV class=\"sc-nIccd exFwOk\"><text>Integrations</text></DIV><DIV class=\"sc-gkYeAe gGWKrE\"><DIV class=\"sc-hvigdm hvnWcd sc-eEfxbP enYzTz\"></DIV></DIV></BUTTON></DIV><DIV class=\"sc-fdbPbf cFYxZH\"><BUTTON class=\"sc-bUAJAs cKcTBC\"><DIV class=\"sc-nIccd exFwOk\"><text>More from UI</text></DIV><DIV class=\"sc-gkYeAe gGWKrE\"><DIV class=\"sc-hvigdm hvnWcd sc-eEfxbP enYzTz\"></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV></DIV></NAV></HEADER><DIV class=\"sc-eVrRMb crmRms\"><DIV class=\"sc-ixVVU cMMsdo tour-header\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><DIV class=\"sc-gvqKNf wMMRd sc-hEJUTg AqHha\"><DIV class=\"sc-cOpnSz kbwMBb\"><DIV class=\"sc-kIonhn kgkyZi\"><H1 class=\"sc-bmWQkG cMRXea\"><text>Building the Future of IT. License Free</text></H1></DIV></DIV></DIV><DIV class=\"sc-hldWLq cHKFAs sc-bYXhga blokno\"><DIV class=\"sc-iVnIWt ehMSqA\"><DIV class=\"sc-hWgKua bPqWtL scroll-container-item\"><BUTTON class=\"sc-imTTCS gSSsVY\"><svg id=\"progress-animation-svg\" viewBox=\"0 0 129 33.99998474121094\" fill=\"none\" preserveAspectRatio=\"none\"><rect vector-effect=\"non-scaling-stroke\" x=\"1\" y=\"1\" width=\"127\" height=\"31.999984741210938\" rx=\"15.999992370605469\" stroke-dasharray=\"290.5309474955519\" stroke-dashoffset=\"290.5309474955519\" stroke-width=\"2\"></rect></svg><DIV class=\"sc-dxAgDQ gjmgSS\"><svg viewBox=\"0 0 256 256\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" class=\"Logo-module_logo__2wFoO Logo-module_logo-flat__CO--r logo-light Logo-module_actionable__2rUoS\" lightclassname=\"Logo-module_motif-active__3MNLk\" darkclassname=\"4BCDA332CEB3F403BDBD6CC299AE4EEF\" prefixid=\"b7e5686b-621d-4546-bb69-49b86f5790f4\"><path d=\"M128 98.863c-16.121 0-29.136 13.015-29.136 29.136s13.015 29.137 29.136 29.137 29.137-13.016 29.137-29.137c0-16.121-13.016-29.136-29.137-29.136Z\" fill=\"currentColor\" role=\"flat\" class=\"Logo-module_motif-active__3MNLk\"></path><path d=\"M128 170.446c-23.403 0-42.446-19.042-42.446-42.446 0-23.403 19.043-42.449 42.446-42.449 23.404 0 42.446 19.046 42.446 42.449 0 23.404-19.042 42.446-42.446 42.446Zm-1.592-126.431c-44.912.833-81.557 37.478-82.393 82.39-.882 47.652 37.925 86.462 85.581 85.577 44.911-.833 81.556-37.478 82.389-82.389.882-47.653-37.925-86.46-85.577-85.578Z\" fill=\"currentColor\" role=\"flat\" class=\"Logo-module_motif-active__3MNLk\"></path></svg></DIV><SPAN class=\"sc-ljoEiT cyiopO\"><text>Networking</text></SPAN></BUTTON></DIV><DIV class=\"sc-hWgKua bPqWtL scroll-container-item\"><BUTTON class=\"sc-imTTCS cKtIV\"><svg id=\"progress-animation-svg\" viewBox=\"0 0 160 33.99998474121094\" fill=\"none\" preserveAspectRatio=\"none\" class=\"possible-clickable-element\" data-testid=\"N\"><rect vector-effect=\"non-scaling-stroke\" x=\"1\" y=\"1\" width=\"158\" height=\"31.999984741210938\" rx=\"15.999992370605469\" stroke-dasharray=\"352.5309474955519\" stroke-dashoffset=\"352.5309474955519\" stroke-width=\"2\"></rect></svg><DIV class=\"sc-dxAgDQ gjmgSS\"><svg viewBox=\"0 0 256 256\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" class=\"Logo-module_logo__2wFoO Logo-module_logo-flat__CO--r logo-light Logo-module_actionable__2rUoS\" lightclassname=\"Logo-module_motif-active__3MNLk\" darkclassname=\"4BCDA332CEB3F403BDBD6CC299AE4EEF\" prefixid=\"7e5ffea7-9f22-4d76-8c78-7138919a9510\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M128 59c-12.15 0-22 9.85-22 22s9.85 22 22 22 22-9.85 22-22-9.85-22-22-22Zm9 22a9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9 9 9 0 0 1 9 9Z\" fill=\"currentColor\" role=\"flat\" class=\"Logo-module_motif-active__3MNLk\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M171.94 79.47c0-24.008-19.462-43.47-43.47-43.47S85 55.462 85 79.47V206.1l.013.001c-.009.1-.013.2-.013.301 0 3.464 5.263 7.077 13.69 9.747l.987.304c.5.15 1.01.296 1.53.439l1.054.281.536.137 1.092.267a91.12 91.12 0 0 0 5.811 1.172l1.228.2c5.365.839 11.3 1.326 17.542 1.326 6.242 0 12.177-.487 17.542-1.326l1.228-.2a91.12 91.12 0 0 0 5.811-1.172l1.092-.267.536-.137 1.054-.281a68.97 68.97 0 0 0 1.53-.439l.987-.304c8.427-2.67 13.69-6.283 13.69-9.747a3.35 3.35 0 0 0-.013-.301l.013-.001V79.47ZM128.5 121c17.894 0 32.511-14.002 33.452-31.626H162V78.53h-.012C161.508 60.483 146.699 46 128.5 46c-18.199 0-33.008 14.483-33.488 32.53H95v10.844h.048C95.988 106.998 110.606 121 128.5 121Zm-.5 29a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z\" fill=\"currentColor\" role=\"flat\" class=\"Logo-module_motif-active__3MNLk\"></path></svg></DIV><SPAN class=\"sc-ljoEiT cyiopO\"><text>Physical Security</text></SPAN></BUTTON></DIV><DIV class=\"sc-hWgKua bPqWtL scroll-container-item\"><BUTTON class=\"sc-imTTCS cKtIV\"><svg id=\"progress-animation-svg\" viewBox=\"0 0 129 33.99998474121094\" fill=\"none\" preserveAspectRatio=\"none\" class=\"possible-clickable-element\" data-testid=\"O\"><rect vector-effect=\"non-scaling-stroke\" x=\"1\" y=\"1\" width=\"127\" height=\"31.999984741210938\" rx=\"15.999992370605469\" stroke-dasharray=\"290.5309474955519\" stroke-dashoffset=\"290.5309474955519\" stroke-width=\"2\"></rect></svg><DIV class=\"sc-dxAgDQ gjmgSS\"><svg viewBox=\"0 0 256 256\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" class=\"Logo-module_logo__2wFoO Logo-module_logo-flat__CO--r logo-light Logo-module_actionable__2rUoS\" lightclassname=\"Logo-module_motif-active__3MNLk\" darkclassname=\"4BCDA332CEB3F403BDBD6CC299AE4EEF\" prefixid=\"f8ad1273-4c00-454f-9635-d115758e53fb\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M143.099 97.92h-30.31c-7.273 0-13.172 5.897-13.172 13.174 0 7.273 5.899 13.172 13.172 13.172h30.31c7.276 0 13.174-5.899 13.174-13.172 0-7.277-5.898-13.175-13.174-13.175Zm-.224 23.173a9.965 9.965 0 0 1-9.999-9.999c0-5.5 4.499-10.002 9.999-10.002 5.5 0 9.999 4.502 9.999 10.002 0 5.5-4.499 9.999-9.999 9.999Zm.223 35.683h-30.309c-7.276 0-13.175-5.899-13.175-13.175 0-7.273 5.899-13.172 13.175-13.172h30.309c7.274 0 13.172 5.899 13.172 13.172 0 7.276-5.898 13.175-13.172 13.175Zm-20.086-13.175c0-5.5-4.398-9.999-9.999-9.999-5.501 0-9.999 4.499-9.999 9.999 0 5.5 4.498 10.002 9.999 10.002 5.5 0 9.999-4.502 9.999-10.002Z\" fill=\"currentColor\" role=\"flat\" class=\"Logo-module_motif-active__3MNLk\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M173.8 38H82.2C76.6 38 72 42.502 72 48.1v159.746c0 5.601 4.502 10.1 10.1 10.1h91.7c5.598 0 10.1-4.499 10.1-10.1V48.1c0-5.598-4.502-10.1-10.1-10.1Zm-.031 165.322c0 2.239-1.932 3.966-4.272 3.966H86.39c-2.34 0-4.272-1.828-4.272-3.966V52.623c0-2.235 1.933-3.965 4.273-3.965h83.106c2.34 0 4.272 1.83 4.272 3.965v150.699Z\" fill=\"currentColor\" role=\"flat\" class=\"Logo-module_motif-active__3MNLk\"></path></svg></DIV><SPAN class=\"sc-ljoEiT cyiopO\"><text>Integrations</text></SPAN></BUTTON></DIV><DIV class=\"sc-hWgKua bPqWtL scroll-container-item\"><BUTTON class=\"sc-imTTCS cKtIV\"><svg id=\"progress-animation-svg\" viewBox=\"0 0 117 33.99998474121094\" fill=\"none\" preserveAspectRatio=\"none\" class=\"possible-clickable-element\" data-testid=\"P\"><rect vector-effect=\"non-scaling-stroke\" x=\"1\" y=\"1\" width=\"115\" height=\"31.999984741210938\" rx=\"15.999992370605469\" stroke-dasharray=\"266.5309474955519\" stroke-dashoffset=\"266.5309474955519\" stroke-width=\"2\"></rect></svg><DIV class=\"sc-dxAgDQ gjmgSS\"><svg viewBox=\"0 0 20 20\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" class=\"Icon-module_icon__2a0I8 Icon-module_icon-light__27kpC Icon-module_icon-fill__2zVyT Icon-module_actionable__miOkG\" baseclassname=\"Icon-module_hidden__cSK0B\" twotonedclassname=\"Icon-module_hidden__cSK0B\" fillclassname=\"Icon-module_fill__1THcd\" fillwithtwotoneclassname=\"Icon-module_twoTone__jXINr\" stroke=\"currentColor\" stroke-width=\"0\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 2a8 8 0 0 0-8 8 8 8 0 1 0 16 0 8 8 0 0 0-8-8ZM7.17 3.377c.181.401.584.68 1.052.68.312 0 .471.375.254.599l-.28.29a.4.4 0 0 1-.288.122H6.753a1.2 1.2 0 0 0-1.139.822l-.031.093a1.2 1.2 0 0 0 .14 1.044l.679 1.018a.965.965 0 0 0 1.489.142.165.165 0 0 1 .203-.025l1.828 1.105c.187.113.402.173.621.173h.314a.4.4 0 0 1 .4.4v.235a.4.4 0 0 1-.114.28L9.22 12.317a1.198 1.198 0 0 0-.265.414l-.491 1.294c-.087.23-.102.48-.042.719l.012.049a.4.4 0 0 1-.507.48l-.127-.04a.4.4 0 0 1-.28-.382v-1.62a1.2 1.2 0 0 0-.184-.638l-.994-1.585a.4.4 0 0 1-.056-.282l.2-1.141a1.2 1.2 0 0 0-.449-1.157l-.679-.524c-.051-.04-.072-.107-.051-.168a.953.953 0 0 0-.602-1.201l-.853-.285A7.226 7.226 0 0 1 7.17 3.377Zm8.259 11.352-.274-.629a.397.397 0 0 1 .054-.409l1.061-1.329a.496.496 0 0 0-.141-.739l-.283-.903a1.14 1.14 0 0 0-1.089-.8.341.341 0 0 1-.333-.269l-.18-.827a1.197 1.197 0 0 0-.639-.821l-.14-.069a.4.4 0 0 1-.202-.483l.065-.197a.4.4 0 0 1 .38-.276h.588c.181 0 .36-.041.524-.12l1.31-.636A7.167 7.167 0 0 1 17.2 10c0 1.81-.668 3.464-1.771 4.729Z\" fill=\"currentColor\" class=\"Icon-module_fill__1THcd\"></path></svg></DIV><SPAN class=\"sc-ljoEiT cyiopO\"><text>Multi-Site</text></SPAN></BUTTON></DIV><DIV class=\"sc-hWgKua bPqWtL scroll-container-item\"><BUTTON class=\"sc-imTTCS cKtIV\"><svg id=\"progress-animation-svg\" viewBox=\"0 0 142 33.99998474121094\" fill=\"none\" preserveAspectRatio=\"none\" class=\"possible-clickable-element\" data-testid=\"Q\"><rect vector-effect=\"non-scaling-stroke\" x=\"1\" y=\"1\" width=\"140\" height=\"31.999984741210938\" rx=\"15.999992370605469\" stroke-dasharray=\"316.5309474955519\" stroke-dashoffset=\"316.5309474955519\" stroke-width=\"2\"></rect></svg><DIV class=\"sc-dxAgDQ gjmgSS\"><svg viewBox=\"0 0 20 20\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" class=\"Icon-module_icon__2a0I8 Icon-module_icon-light__27kpC Icon-module_icon-fill__2zVyT Icon-module_actionable__miOkG\" baseclassname=\"Icon-module_hidden__cSK0B\" twotonedclassname=\"Icon-module_hidden__cSK0B\" fillclassname=\"Icon-module_fill__1THcd\" fillwithtwotoneclassname=\"Icon-module_twoTone__jXINr\" stroke=\"currentColor\" stroke-width=\"0\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3 4a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V4Zm3 1.017h-.983V7H6V5.017Zm0 3.961h-.983V11H6V8.978ZM6 16h3v-4H6v4Zm2.978-5H10V8.978H8.978V11Zm0-4H10V5.017H8.978V7ZM13 6h3a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-3V6Z\" fill=\"currentColor\" class=\"Icon-module_fill__1THcd\"></path></svg></DIV><SPAN class=\"sc-ljoEiT cyiopO\"><text>Organizations</text></SPAN></BUTTON></DIV></DIV><DIV class=\"sc-jBaHRL sc-ikkVnJ jtCzFe\"><DIV class=\"sc-hvigdm iZUOKS sc-iPXUjb jTVHfC\"></DIV></DIV><DIV class=\"sc-jBaHRL sc-gFqXPY joLJMz\"><DIV class=\"sc-hvigdm iZUOKS sc-iPXUjb jTVHfC\"></DIV></DIV></DIV></DIV><DIV style=\"opacity: 1;\"><DIV class=\"sc-cPWnoe fhVVQw\"><DIV class=\"sc-hdyiqR dWeCnG\"><DIV class=\"sc-ehdxKQ diMJID\"><VIDEO src=\"/microsite/static/hologram-network-CY_pEWOj.mp4\" poster=\"https://images.svc.ui.com/?u=https%3A%2F%2Fui.com%2Fmicrosite%2Fstatic%2Fhologram-network-BqNL8zKt.jpg&q=75&w=1138\" autoplay=\"4BCDA332CEB3F403BDBD6CC299AE4EEF\" playsinline=\"4BCDA332CEB3F403BDBD6CC299AE4EEF\" class=\"sc-LLdIr hXLbeN\"></VIDEO></DIV><DIV class=\"sc-bzYJek gJRWHz\"><DIV class=\"sc-juCFiw feKfql\"><IMG loading=\"eager\" alt=\"tablet bezel\" src=\"https://images.svc.ui.com/?u=https%3A%2F%2Fui.com%2Fmicrosite%2Fstatic%2Ftablet-bezel-B8HqpI3j.png&q=75&w=1122\" srcset=\"https://images.svc.ui.com/?u=https%3A%2F%2Fui.com%2Fmicrosite%2Fstatic%2Ftablet-bezel-B8HqpI3j.png&q=75&w=2244 2x\" class=\"sc-eYHxxX ctVthm\"></IMG></DIV><DIV class=\"sc-wouEX daIPbR\"><VIDEO playsinline=\"4BCDA332CEB3F403BDBD6CC299AE4EEF\" preload=\"auto\" autoplay=\"4BCDA332CEB3F403BDBD6CC299AE4EEF\" src=\"/microsite/static/network-tablet-CZublcPP.mp4\" poster=\"https://images.svc.ui.com/?u=https%3A%2F%2Fui.com%2Fmicrosite%2Fstatic%2Fnetwork-tablet-C8APlpGB.jpg&q=75&w=2244\" class=\"sc-hSQXhq fLhftI\"></VIDEO></DIV></DIV></DIV></DIV></DIV></DIV><DIV id=\"onetrust-banner-sdk\" class=\"otFloatingRounded ot-bottom-left ot-wo-title vertical-align-content\" tabindex=\"0\" style=\"bottom: 1rem;\"><DIV class=\"ot-sdk-container\" role=\"alertdialog\" aria-describedby=\"onetrust-policy-text\" aria-label=\"Privacy\"><DIV class=\"ot-sdk-row\"><DIV id=\"onetrust-group-container\" class=\"ot-sdk-twelve ot-sdk-columns\"><DIV id=\"onetrust-policy\"><P id=\"onetrust-policy-text\"><text>By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.</text></P></DIV></DIV><DIV id=\"onetrust-button-group-parent\" class=\"ot-sdk-twelve ot-sdk-columns\"><DIV id=\"onetrust-button-group\"><DIV class=\"onetrust-banner-options\"><BUTTON id=\"onetrust-accept-btn-handler\" class=\"possible-clickable-element\" data-testid=\"R\"><text>Accept All Cookies</text></BUTTON></DIV><BUTTON id=\"onetrust-pc-btn-handler\" class=\"cookie-setting-link possible-clickable-element\" data-testid=\"S\"><text>Cookies Settings</text></BUTTON></DIV></DIV><DIV id=\"onetrust-close-btn-container\"><BUTTON class=\"onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon possible-clickable-element\" style=\"background-image: url(\"https://cdn.cookielaw.org/logos/static/ot_close.svg\");\" aria-label=\"Close\" data-testid=\"T\"></BUTTON></DIV></DIV></DIV></DIV></BODY></HTML>",
+    "parsed_html": "\n<\n  body|\n  <\n    nav|\n    <\n      div|\n      <div[A]| >\n      <\n        nav|\n        <text| Start Here >\n        <div[B]| >\n        <div[C]| >\n        <span[D]| Cloud Gateways >\n        <span[E]| Switching >\n        <span[F]| WiFi >\n        <span[G]| Physical Security >\n        <span[H]| Integrations >\n      >\n      <\n        div|\n        <a[I]| What's New >\n        <a[J]| Support >\n        <a[K]| Store >\n        <div[L]| >\n        <div[M]| >\n      >\n    >\n    <\n      div|\n      <div| How It Works? >\n      <div| Cloud Gateways >\n      <div| Switching >\n      <div| WiFi >\n      <div| Physical Security >\n      <div| Integrations >\n      <div| More from UI >\n    >\n  >\n  <\n    div|\n    <h1| Building the Future of IT. License Free >\n    <\n      div|\n      <span| Networking >\n      <svg[N]| >\n      <span| Physical Security >\n      <svg[O]| >\n      <span| Integrations >\n      <svg[P]| >\n      <span| Multi-Site >\n      <svg[Q]| >\n      <span| Organizations >\n    >\n  >\n  <\n    div|\n    <p| By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. >\n    <\n      div|\n      <button[R]| Accept All Cookies >\n      <button[S]| Cookies Settings >\n    >\n    <button[T]| >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 32.5,
+                "top": 17,
+                "right": 78.5,
+                "bottom": 31,
+                "width": 46,
+                "height": 14
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 189,
+                "top": 21.75,
+                "right": 198,
+                "bottom": 26.25,
+                "width": 9,
+                "height": 4.5
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 213,
+                "top": 13,
+                "right": 214,
+                "bottom": 35,
+                "width": 1,
+                "height": 22
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 224,
+                "top": 5,
+                "right": 343,
+                "bottom": 43,
+                "width": 119,
+                "height": 38
+            },
+            "tag": "span",
+            "text": "Cloud Gateways"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 345,
+                "top": 5,
+                "right": 424,
+                "bottom": 43,
+                "width": 79,
+                "height": 38
+            },
+            "tag": "span",
+            "text": "Switching"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 426,
+                "top": 5,
+                "right": 472,
+                "bottom": 43,
+                "width": 46,
+                "height": 38
+            },
+            "tag": "span",
+            "text": "WiFi"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 474,
+                "top": 5,
+                "right": 596,
+                "bottom": 43,
+                "width": 122,
+                "height": 38
+            },
+            "tag": "span",
+            "text": "Physical Security"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 598,
+                "top": 5,
+                "right": 689,
+                "bottom": 43,
+                "width": 91,
+                "height": 38
+            },
+            "tag": "span",
+            "text": "Integrations"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 972.859375,
+                "top": 12,
+                "right": 1046.859375,
+                "bottom": 36,
+                "width": 74,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "What's New"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 1061.359375,
+                "top": 12,
+                "right": 1110.359375,
+                "bottom": 36,
+                "width": 49,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Support"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 1120.859375,
+                "top": 9.5,
+                "right": 1174.5625,
+                "bottom": 38.5,
+                "width": 53.703125,
+                "height": 29
+            },
+            "tag": "a",
+            "text": "Store"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 1185.0625,
+                "top": 15,
+                "right": 1204,
+                "bottom": 33,
+                "width": 18.9375,
+                "height": 18
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 1214.5,
+                "top": 14.5,
+                "right": 1232.5,
+                "bottom": 33.5,
+                "width": 18,
+                "height": 19
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 416,
+                "top": 163,
+                "right": 574,
+                "bottom": 195,
+                "width": 158,
+                "height": 32
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 586,
+                "top": 163,
+                "right": 713,
+                "bottom": 195,
+                "width": 127,
+                "height": 32
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 725,
+                "top": 163,
+                "right": 840,
+                "bottom": 195,
+                "width": 115,
+                "height": 32
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 852,
+                "top": 163,
+                "right": 992,
+                "bottom": 195,
+                "width": 140,
+                "height": 32
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 550.65625,
+                "top": 654.390625,
+                "right": 686,
+                "bottom": 696,
+                "width": 135.34375,
+                "height": 41.609375
+            },
+            "tag": "button",
+            "text": "Accept All Cookies"
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 365.65625,
+                "top": 654.390625,
+                "right": 540.65625,
+                "bottom": 694,
+                "width": 175,
+                "height": 39.609375
+            },
+            "tag": "button",
+            "text": "Cookies Settings"
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 662,
+                "top": 555.359375,
+                "right": 706,
+                "bottom": 599.359375,
+                "width": 44,
+                "height": 44
+            },
+            "tag": "button",
+            "text": ""
+        }
+    ]
+}

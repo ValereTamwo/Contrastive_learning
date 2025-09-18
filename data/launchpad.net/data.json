@@ -1,0 +1,174 @@
+{
+    "raw_html": "<DIV id=\"locationbar\" class=\"login-logout\"><DIV id=\"logincontrol\"><A href=\"https://launchpad.net/+login\" class=\"possible-clickable-element\" data-testid=\"A\"><text>Log in / Register</text></A></DIV></DIV><DIV class=\"top-portlet\"><IMG src=\"/@@/launchpad-logo-and-name.svg\" class=\"homepage__logo\" id=\"launchpad-logo-and-name\" alt=\"Launchpad logo and name\"></IMG></DIV><SECTION class=\"p-strip is-shallow\"><DIV class=\"u-fixed-width\"><FORM id=\"homepage-searchform\" class=\"p-form p-form--inline\" xml:lang=\"en\" lang=\"en\" dir=\"ltr\" method=\"get\" accept-charset=\"UTF-8\" action=\"https://launchpad.net/+search\"><DIV class=\"p-form__group p-form--search\"><LABEL for=\"search-input\" class=\"u-off-screen\"><text>Search</text></LABEL><DIV class=\"p-form__control u-clearfix\"><INPUT id=\"search-input\" type=\"search\" name=\"field.text\" value=\"Facet name: unknown Page type: main_only Has global search: True Has application tabs: True Has side portlets: False At least 23 queries/external actions issued in 0.15 seconds Features: {'profiling.enabled': None, 'hard_timeout': '5000', 'js.yui_version': None, 'app.maintenance_message': None, 'app.mainsite_only.canonical_url': None, 'app.root_blog.enabled': 'true', 'memcache': None, 'baselayout.careers_link.disabled': None, 'visible_render_time': None} r299e6ce\" autofocus=\"Facet name: unknown Page type: main_only Has global search: True Has application tabs: True Has side portlets: False At least 23 queries/external actions issued in 0.15 seconds Features: {'profiling.enabled': None, 'hard_timeout': '5000', 'js.yui_version': None, 'app.maintenance_message': None, 'app.mainsite_only.canonical_url': None, 'app.root_blog.enabled': 'true', 'memcache': None, 'baselayout.careers_link.disabled': None, 'visible_render_time': None} r299e6ce\" class=\"possible-clickable-element\" data-testid=\"B\" style=\"Facet name: unknown Page type: main_only Has global search: True Has application tabs: True Has side portlets: False At least 23 queries/external actions issued in 0.15 seconds Features: {'profiling.enabled': None, 'hard_timeout': '5000', 'js.yui_version': None, 'app.maintenance_message': None, 'app.mainsite_only.canonical_url': None, 'app.root_blog.enabled': 'true', 'memcache': None, 'baselayout.careers_link.disabled': None, 'visible_render_time': None} r299e6ce\"></INPUT></DIV></DIV><BUTTON id=\"search\" class=\"p-button--positive possible-clickable-element\" type=\"submit\" value=\"Search Launchpad\" data-testid=\"C\"><text>Search</text></BUTTON></FORM><DIV id=\"homepage-stats\" class=\"u-text--muted\"><text>47,865</text><text>projects,</text><text>2,071,170</text><text>bugs,</text><text>1,009,469</text><text>branches,</text><text>98,910</text><text>Git repositories,</text><text>3,165,795</text><text>translations,</text><text>820,061</text><text>answers,</text><text>76,246</text><text>blueprints, and counting...</text></DIV></DIV></SECTION><SECTION class=\"p-strip is-shallow\"><DIV class=\"homepage-whatslaunchpad\"><DIV class=\"u-fixed-width u-clearfix\"><text>Launchpad</text><text>A software collaboration platform that provides</text></DIV><DIV class=\"u-fixed-width u-clearfix\"><DIV class=\"row p-divider\"><DIV class=\"col-3 p-divider__block\"><A href=\"https://bugs.launchpad.net/\" class=\"possible-clickable-element\" data-testid=\"D\"><text>Bug tracking</text></A><text>One place to track bugs across project boundaries and tools</text></DIV><DIV class=\"col-3 p-divider__block\"><A href=\"https://code.launchpad.net/\" class=\"possible-clickable-element\" data-testid=\"E\"><text>Code hosting</text></A><text>using</text><A href=\"https://git-scm.com/\" class=\"possible-clickable-element\" data-testid=\"F\"><text>Git</text></A><text>Easy for anyone to get your project's code using Git</text></DIV><DIV class=\"col-3 p-divider__block\"><A href=\"https://help.launchpad.net/Code/Review\" class=\"possible-clickable-element\" data-testid=\"G\"><text>Code reviews</text></A><text>Full control of who can land code in your project remains with you</text></DIV><DIV class=\"col-3 p-divider__block\"><A href=\"https://launchpad.net/ubuntu\" class=\"possible-clickable-element\" data-testid=\"H\"><text>Ubuntu package building and hosting</text></A><text>Publishing your software is simple with Personal Package Archives</text></DIV></DIV><DIV class=\"row p-divider\"><DIV class=\"col-3 p-divider__block\"><A href=\"https://translations.launchpad.net/\" class=\"possible-clickable-element\" data-testid=\"I\"><text>Crowd source translations</text></A><text>Build an open community to translate your software into almost any language</text></DIV><DIV class=\"col-3 p-divider__block\"><A href=\"https://help.launchpad.net/Teams/MailingLists\" class=\"possible-clickable-element\" data-testid=\"J\"><text>Mailing lists</text></A><text>Find and work with the right people by building a social network of individuals and teams around projects</text></DIV><DIV class=\"col-3 p-divider__block\"><A href=\"https://answers.launchpad.net/\" class=\"possible-clickable-element\" data-testid=\"K\"><text>Answer tracking and FAQs</text></A><text>Free software thrives on people helping each other when the unexpected happens</text></DIV><DIV class=\"col-3 p-divider__block\"><A href=\"https://blueprints.launchpad.net/\" class=\"possible-clickable-element\" data-testid=\"L\"><text>Specification tracking</text></A><text>Track ideas and chunks of work as “blueprints”</text></DIV></DIV></DIV></DIV></SECTION>",
+    "parsed_html": "\n<\n  div|\n  <a[A]| Log in / Register >\n  <\n    div|\n    <\n      form|\n      <\n        div|\n        <label| Search >\n        <input[B]| Facet name: unknown Page type: main_only Has global search: True Has application tabs: True Has side portlets: False At least 23 queries/external actions issued in 0.15 seconds Features: {'profiling.enabled': None, 'hard_timeout': '5000', 'js.yui_version': None, 'app.maintenance_message': None, 'app.mainsite_only.canonical_url': None, 'app.root_blog.enabled': 'true', 'memcache': None, 'baselayout.careers_link.disabled': None, 'visible_render_time': None} r299e6ce >\n      >\n      <button[C]| Search Launchpad Search >\n    >\n    <div| 47,865 projects, 2,071,170 bugs, 1,009,469 branches, 98,910 Git repositories, 3,165,795 translations, 820,061 answers, 76,246 blueprints, and counting... >\n  >\n  <\n    div|\n    <div| Launchpad A software collaboration platform that provides >\n    <\n      div|\n      <\n        div|\n        <\n          div|\n          <a[D]| Bug tracking >\n          <text| One place to track bugs across project boundaries and tools >\n        >\n        <\n          div|\n          <a[E]| Code hosting >\n          <text| using >\n          <a[F]| Git >\n          <text| Easy for anyone to get your project's code using Git >\n        >\n        <\n          div|\n          <a[G]| Code reviews >\n          <text| Full control of who can land code in your project remains with you >\n        >\n        <\n          div|\n          <a[H]| Ubuntu package building and hosting >\n          <text| Publishing your software is simple with Personal Package Archives >\n        >\n      >\n      <\n        div|\n        <\n          div|\n          <a[I]| Crowd source translations >\n          <text| Build an open community to translate your software into almost any language >\n        >\n        <\n          div|\n          <a[J]| Mailing lists >\n          <text| Find and work with the right people by building a social network of individuals and teams around projects >\n        >\n        <\n          div|\n          <a[K]| Answer tracking and FAQs >\n          <text| Free software thrives on people helping each other when the unexpected happens >\n        >\n        <\n          div|\n          <a[L]| Specification tracking >\n          <text| Track ideas and chunks of work as “blueprints” >\n        >\n      >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 1167.8125,
+                "top": 21.1875,
+                "right": 1260.8125,
+                "bottom": 35.1875,
+                "width": 93,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Log in / Register"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 152,
+                "top": 134.1875,
+                "right": 1023,
+                "bottom": 169.96875,
+                "width": 871,
+                "height": 35.78125
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 1047,
+                "top": 133.1875,
+                "right": 1128,
+                "bottom": 169.96875,
+                "width": 81,
+                "height": 36.78125
+            },
+            "tag": "button",
+            "text": "Search"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 152,
+                "top": 406.3125,
+                "right": 287,
+                "bottom": 433.3125,
+                "width": 135,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Bug tracking"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 404,
+                "top": 406.3125,
+                "right": 546,
+                "bottom": 433.3125,
+                "width": 142,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Code hosting"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 404,
+                "top": 438.3125,
+                "right": 435,
+                "bottom": 465.3125,
+                "width": 31,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Git"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 656,
+                "top": 406.3125,
+                "right": 798,
+                "bottom": 433.3125,
+                "width": 142,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Code reviews"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 908,
+                "top": 406.3125,
+                "right": 1082,
+                "bottom": 433.3125,
+                "width": 174,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Ubuntu package building and hosting"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 152,
+                "top": 590.28125,
+                "right": 299,
+                "bottom": 617.28125,
+                "width": 147,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Crowd source translations"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 404,
+                "top": 590.28125,
+                "right": 529,
+                "bottom": 617.28125,
+                "width": 125,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Mailing lists"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 656,
+                "top": 590.28125,
+                "right": 873,
+                "bottom": 617.28125,
+                "width": 217,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Answer tracking and FAQs"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 908,
+                "top": 590.28125,
+                "right": 1045,
+                "bottom": 617.28125,
+                "width": 137,
+                "height": 27
+            },
+            "tag": "a",
+            "text": "Specification tracking"
+        }
+    ]
+}

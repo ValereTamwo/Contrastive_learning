@@ -1,0 +1,342 @@
+{
+    "raw_html": "<DIV id=\"artdeco-global-alert-container\" aria-live=\"assertive\" role=\"alert\" class=\"global-alert-banner transition-in\" style=\"height: 192px;\"><DIV class=\"artdeco-global-alert artdeco-global-alert--NOTICE artdeco-global-alert--COOKIE_CONSENT\" alert-id=\"urn:li:alert:10\" aria-hidden=\"false\" severity=\"NOTICE\" type=\"COOKIE_CONSENT\" style=\"height: 192px; visibility: visible;\"><SECTION class=\"artdeco-global-alert__body\"><LI-ICON class=\"artdeco-global-alert__icon\"><svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"24\" width=\"24\"><path d=\"M12,2C6.5,2,2,6.5,2,12c0,5.5,4.5,10,10,10c5.5,0,10-4.5,10-10C22,6.5,17.5,2,12,2zM12,20.2c-4.5,0-8.2-3.7-8.2-8.2S7.5,3.8,12,3.8s8.2,3.7,8.2,8.2S16.5,20.2,12,20.2zM11,10h2v8h-2V10zM11,6h2v2h-2V6z\" fill=\"#fff\"></path></svg></LI-ICON><DIV class=\"artdeco-global-alert__responsive-container\"><text>LinkedIn respects your privacy</text><DIV class=\"artdeco-global-alert__responsive-content-container\"><DIV class=\"artdeco-global-alert__content\"><text>LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including</text><text>professional and job ads</text><text>) on and off LinkedIn. Learn more in our</text><A href=\"https://www.linkedin.com/legal/cookie-policy\" data-tracking-control-name=\"global-alerts-alert-link-cta\" class=\"possible-clickable-element\" data-testid=\"A\"><text>Cookie Policy</text></A><text>.</text><text>Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your</text><A href=\"https://www.linkedin.com/mypreferences/g/guest-cookies\" data-tracking-control-name=\"global-alerts-alert-link-cta\" class=\"possible-clickable-element\" data-testid=\"B\"><text>settings</text></A><text>.</text></DIV></DIV><DIV class=\"artdeco-global-alert-action__wrapper\"><BUTTON class=\"artdeco-global-alert-action artdeco-button artdeco-button--inverse artdeco-button--2 artdeco-button--primary possible-clickable-element\" action-url=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" action-type=\"ACCEPT\" data-tracking-control-name=\"ga-cookie.consent.accept.v4\" data-control-name=\"ga-cookie.consent.accept.v4\" data-testid=\"C\"><text>Accept</text></BUTTON><BUTTON class=\"artdeco-global-alert-action artdeco-button artdeco-button--inverse artdeco-button--2 artdeco-button--primary possible-clickable-element\" action-url=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" action-type=\"DENY\" data-tracking-control-name=\"ga-cookie.consent.deny.v4\" data-control-name=\"ga-cookie.consent.deny.v4\" data-testid=\"D\"><text>Reject</text></BUTTON></DIV></DIV></SECTION></DIV></DIV><DIV id=\"artdeco-global-alerts-cls-offset\" style=\"height: 192px;\"></DIV><NAV class=\"nav pt-1.5 pb-2 flex items-center justify-between relative flex-nowrap babymamabear:py-1.5 babybear:flex-wrap\" aria-label=\"Primary\"><A href=\"/?trk=guest_homepage-basic_nav-header-logo\" class=\"nav__logo-link link-no-visited-state z-1 mr-auto min-h-[52px] flex items-center babybear:z-0 hover:no-underline focus:no-underline active:no-underline\" data-tracking-control-name=\"guest_homepage-basic_nav-header-logo\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><SPAN class=\"sr-only\"><text>LinkedIn</text></SPAN><ICON class=\"block text-color-brand w-[102px] h-[26px] babybear:hidden order-1 lazy-loaded\" data-test-id=\"nav-logo\" aria-hidden=\"true\" aria-busy=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" viewBox=\"0 0 84 21\" preserveAspectRatio=\"xMinYMin meet\" version=\"1.1\" focusable=\"false\" class=\"lazy-loaded\" aria-busy=\"false\"><g class=\"inbug\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><path d=\"M19.479,0 L1.583,0 C0.727,0 0,0.677 0,1.511 L0,19.488 C0,20.323 0.477,21 1.333,21 L19.229,21 C20.086,21 21,20.323 21,19.488 L21,1.511 C21,0.677 20.336,0 19.479,0\" class=\"bug-text-color\" transform=\"translate(63.000000, 0.000000)\"></path><path d=\"M82.479,0 L64.583,0 C63.727,0 63,0.677 63,1.511 L63,19.488 C63,20.323 63.477,21 64.333,21 L82.229,21 C83.086,21 84,20.323 84,19.488 L84,1.511 C84,0.677 83.336,0 82.479,0 Z M71,8 L73.827,8 L73.827,9.441 L73.858,9.441 C74.289,8.664 75.562,7.875 77.136,7.875 C80.157,7.875 81,9.479 81,12.45 L81,18 L78,18 L78,12.997 C78,11.667 77.469,10.5 76.227,10.5 C74.719,10.5 74,11.521 74,13.197 L74,18 L71,18 L71,8 Z M66,18 L69,18 L69,8 L66,8 L66,18 Z M69.375,4.5 C69.375,5.536 68.536,6.375 67.5,6.375 C66.464,6.375 65.625,5.536 65.625,4.5 C65.625,3.464 66.464,2.625 67.5,2.625 C68.536,2.625 69.375,3.464 69.375,4.5 Z\" class=\"background\" fill=\"currentColor\"></path></g><g class=\"linkedin-text\"><path d=\"M60,18 L57.2,18 L57.2,16.809 L57.17,16.809 C56.547,17.531 55.465,18.125 53.631,18.125 C51.131,18.125 48.978,16.244 48.978,13.011 C48.978,9.931 51.1,7.875 53.725,7.875 C55.35,7.875 56.359,8.453 56.97,9.191 L57,9.191 L57,3 L60,3 L60,18 Z M54.479,10.125 C52.764,10.125 51.8,11.348 51.8,12.974 C51.8,14.601 52.764,15.875 54.479,15.875 C56.196,15.875 57.2,14.634 57.2,12.974 C57.2,11.268 56.196,10.125 54.479,10.125 L54.479,10.125 Z\" fill=\"currentColor\"></path><path d=\"M47.6611,16.3889 C46.9531,17.3059 45.4951,18.1249 43.1411,18.1249 C40.0001,18.1249 38.0001,16.0459 38.0001,12.7779 C38.0001,9.8749 39.8121,7.8749 43.2291,7.8749 C46.1801,7.8749 48.0001,9.8129 48.0001,13.2219 C48.0001,13.5629 47.9451,13.8999 47.9451,13.8999 L40.8311,13.8999 L40.8481,14.2089 C41.0451,15.0709 41.6961,16.1249 43.1901,16.1249 C44.4941,16.1249 45.3881,15.4239 45.7921,14.8749 L47.6611,16.3889 Z M45.1131,11.9999 C45.1331,10.9449 44.3591,9.8749 43.1391,9.8749 C41.6871,9.8749 40.9121,11.0089 40.8311,11.9999 L45.1131,11.9999 Z\" fill=\"currentColor\" class=\"possible-clickable-element\" data-testid=\"E\"></path><polygon fill=\"currentColor\" points=\"38 8 34.5 8 31 12 31 3 28 3 28 18 31 18 31 13 34.699 18 38.241 18 34 12.533\" class=\"possible-clickable-element\" data-testid=\"F\"></polygon><path d=\"M16,8 L18.827,8 L18.827,9.441 L18.858,9.441 C19.289,8.664 20.562,7.875 22.136,7.875 C25.157,7.875 26,9.792 26,12.45 L26,18 L23,18 L23,12.997 C23,11.525 22.469,10.5 21.227,10.5 C19.719,10.5 19,11.694 19,13.197 L19,18 L16,18 L16,8 Z\" fill=\"currentColor\"></path><path d=\"M11,18 L14,18 L14,8 L11,8 L11,18 Z M12.501,6.3 C13.495,6.3 14.3,5.494 14.3,4.5 C14.3,3.506 13.495,2.7 12.501,2.7 C11.508,2.7 10.7,3.506 10.7,4.5 C10.7,5.494 11.508,6.3 12.501,6.3 Z\" fill=\"currentColor\" class=\"possible-clickable-element\" data-testid=\"G\"></path><polygon fill=\"currentColor\" points=\"3 3 0 3 0 18 9 18 9 15 3 15\"></polygon></g></svg></ICON></A><UL class=\"top-nav-menu flex items-center babybear:w-full babybear:justify-between babybear:pt-1 justify-start w-max pt-0 overflow-x-auto after:papamamabear:up-down-divider after:papamamabear:!h-[37px] nav__menu babybear:order-last order-3 ml-auto\"><LI class=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><A href=\"https://www.linkedin.com/top-content?trk=guest_homepage-basic_guest_nav_menu_topContent\" data-tracking-control-name=\"guest_homepage-basic_guest_nav_menu_topContent\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" class=\"top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline w-8 flex-col mx-1 babybear:mx-0 text-color-text-secondary visited:text-color-text-secondary\"><ICON class=\"top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center lazy-loaded\" aria-hidden=\"true\" aria-busy=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" id=\"rocket-medium\" aria-hidden=\"true\" role=\"none\" data-supported-dps=\"24x24\" fill=\"currentColor\" focusable=\"false\" class=\"lazy-loaded\" aria-busy=\"false\"><path d=\"M19.88 3.01l-4.9.72a4.71 4.71 0 00-3.18 1.84L9.98 7.99H7c-.63 0-1.22.3-1.6.8L3 11.99h4.35c-.43.77-.91 1.64-1.4 2.54l3.5 3.5c.91-.5 1.78-.98 2.55-1.42v4.38l3.2-2.4c.5-.38.8-.97.8-1.6v-3.02l2.4-1.8a4.672 4.672 0 001.84-3.18l.74-4.87c.08-.65-.47-1.2-1.12-1.12zM15 10.98c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm-10.04 5.4l2.65 2.65c-2.92 1.58-5.64 2.99-5.64 2.99s1.41-2.72 2.98-5.65z\" class=\"possible-clickable-element\" data-testid=\"H\"></path></svg></ICON><SPAN class=\"top-nav-link__label-text font-sans text-xs leading-regular text-center w-max font-regular possible-clickable-element\" data-testid=\"I\"><text>Top Content</text></SPAN></A></LI><LI class=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><A href=\"https://www.linkedin.com/pub/dir/+/+?trk=guest_homepage-basic_guest_nav_menu_people\" data-tracking-control-name=\"guest_homepage-basic_guest_nav_menu_people\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" class=\"top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline w-8 flex-col mx-1 babybear:mx-0 text-color-text-secondary visited:text-color-text-secondary\"><ICON class=\"top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center lazy-loaded\" aria-hidden=\"true\" aria-busy=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"20\" fill=\"none\" focusable=\"false\" class=\"lazy-loaded possible-clickable-element\" aria-busy=\"false\" data-testid=\"J\"><path d=\"M9 14v6H0v-6c0-1.7 1.3-3 3-3h3c1.7 0 3 1.3 3 3Zm5.5-3c1.9 0 3.5-1.6 3.5-3.5S16.4 4 14.5 4 11 5.6 11 7.5s1.6 3.5 3.5 3.5Zm1 2h-2c-1.4 0-2.5 1.1-2.5 2.5V20h7v-4.5c0-1.4-1.1-2.5-2.5-2.5ZM4.5 0C2 0 0 2 0 4.5S2 9 4.5 9 9 7 9 4.5 7 0 4.5 0Z\" fill=\"currentColor\"></path></svg></ICON><SPAN class=\"top-nav-link__label-text font-sans text-xs leading-regular text-center w-max font-regular possible-clickable-element\" data-testid=\"K\"><text>People</text></SPAN></A></LI><LI class=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><A href=\"https://www.linkedin.com/learning/search?trk=guest_homepage-basic_guest_nav_menu_learning\" data-tracking-control-name=\"guest_homepage-basic_guest_nav_menu_learning\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" class=\"top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline w-8 flex-col mx-1 babybear:mx-0 text-color-text-secondary visited:text-color-text-secondary\"><ICON class=\"top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center lazy-loaded\" aria-hidden=\"true\" aria-busy=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" focusable=\"false\" class=\"lazy-loaded\" aria-busy=\"false\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M23 3H1a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h22a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1ZM2 19h20V5H2v14Z\" fill=\"currentColor\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4 9h6V7H4v2Zm0 4h6v-2H4v2Zm0 4h6v-2H4v2Zm-2 2h10V5H2v14Z\" fill=\"currentColor\" fill-opacity=\".25\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14 9h6V7h-6v2Zm0 4h6v-2h-6v2Zm6 4h-6v-2h6v2Z\" fill=\"currentColor\" fill-opacity=\".6\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10 7.534v8.933a.28.28 0 0 0 .439.23l6.433-4.436A.307.307 0 0 0 17 12a.305.305 0 0 0-.128-.26l-6.433-4.437a.28.28 0 0 0-.439.23Z\" fill=\"currentColor\" class=\"possible-clickable-element\" data-testid=\"L\"></path></svg></ICON><SPAN class=\"top-nav-link__label-text font-sans text-xs leading-regular text-center w-max font-regular possible-clickable-element\" data-testid=\"M\"><text>Learning</text></SPAN></A></LI><LI class=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><A href=\"https://www.linkedin.com/jobs/search?trk=guest_homepage-basic_guest_nav_menu_jobs\" data-tracking-control-name=\"guest_homepage-basic_guest_nav_menu_jobs\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" class=\"top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline w-8 flex-col mx-1 babybear:mx-0 text-color-text-secondary visited:text-color-text-secondary\"><ICON class=\"top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center lazy-loaded\" aria-hidden=\"true\" aria-busy=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"18\" fill=\"none\" focusable=\"false\" class=\"lazy-loaded\" aria-busy=\"false\"><path d=\"M15 4V3c0-1.7-1.3-3-3-3H8C6.3 0 5 1.3 5 3v1H0v4c0 1.7 1.3 3 3 3h14c1.7 0 3-1.3 3-3V4h-5ZM7 3c0-.6.4-1 1-1h4c.6 0 1 .4 1 1v1H7V3Zm10 9c1.2 0 2.3-.5 3-1.4V15c0 1.7-1.3 3-3 3H3c-1.7 0-3-1.3-3-3v-4.4c.7.9 1.8 1.4 3 1.4h14Z\" fill=\"currentColor\" class=\"possible-clickable-element\" data-testid=\"N\"></path></svg></ICON><SPAN class=\"top-nav-link__label-text font-sans text-xs leading-regular text-center w-max font-regular possible-clickable-element\" data-testid=\"O\"><text>Jobs</text></SPAN></A></LI><LI class=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><A href=\"https://www.linkedin.com/games?trk=guest_homepage-basic_guest_nav_menu_games\" data-tracking-control-name=\"guest_homepage-basic_guest_nav_menu_games\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" class=\"top-nav-link flex justify-center items-center min-h-[52px] hover:text-color-text visited:hover:text-color-text hover:no-underline w-8 flex-col mx-1 babybear:mx-0 text-color-text-secondary visited:text-color-text-secondary\"><ICON class=\"top-nav-link__icon flex h-3 w-3 flex-shrink-0 justify-center lazy-loaded\" aria-hidden=\"true\" aria-busy=\"false\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"21\" height=\"20\" viewBox=\"0 0 21 20\" fill=\"none\" focusable=\"false\" class=\"lazy-loaded\" aria-busy=\"false\"><path d=\"M12.3446 11.8441C12.718 11.4706 13.2378 11.2385 13.8081 11.2385C14.7569 11.2385 15.5543 11.8744 15.8015 12.7424C15.9328 13.2117 16.2305 13.6155 16.6191 13.8829L20.5 10.002L16.6191 6.12114L16.6797 6.03534C16.9471 5.68712 17.3256 5.42469 17.7597 5.30357C18.6277 5.05629 19.2636 4.25891 19.2636 3.31013C19.2636 2.73986 19.0314 2.22005 18.658 1.8466C18.2845 1.47314 17.7647 1.241 17.1944 1.241C16.2456 1.241 15.4483 1.87688 15.201 2.74491C15.0799 3.17892 14.8174 3.55742 14.4692 3.8249L14.3834 3.88546L10.4975 -0.000488281L6.61658 3.88041C6.8891 4.27405 7.28779 4.56676 7.75713 4.70302C8.62516 4.95031 9.26104 5.74768 9.26104 6.69646C9.26104 7.26673 9.02889 7.78654 8.65544 8.16C8.28198 8.53345 7.76218 8.7656 7.1919 8.7656C6.24312 8.7656 5.44575 8.12971 5.19846 7.26169C5.06725 6.79234 4.76949 6.38861 4.3809 6.12114L0.5 9.99699L4.3809 13.8779L4.32034 13.9637C4.05286 14.3119 3.67436 14.5743 3.24035 14.6954C2.37232 14.9427 1.73644 15.7401 1.73644 16.6889C1.73644 17.2592 1.96858 17.779 2.34204 18.1524C2.71549 18.5259 3.2353 18.758 3.80558 18.758C4.75435 18.758 5.55173 18.1221 5.79902 17.2541C5.92014 16.8201 6.18256 16.4416 6.53078 16.1741L6.61658 16.1136L10.4975 19.9945L14.3784 16.1136C14.1059 15.7199 13.7072 15.4272 13.2378 15.291C12.3698 15.0437 11.7339 14.2463 11.7339 13.2975C11.7339 12.7272 11.9661 12.2074 12.3395 11.834L12.3446 11.8441Z\" fill=\"currentColor\" fill-opacity=\".9\" class=\"possible-clickable-element\" data-testid=\"P\"></path></svg></ICON><SPAN class=\"top-nav-link__label-text font-sans text-xs leading-regular text-center w-max font-regular possible-clickable-element\" data-testid=\"Q\"><text>Games</text></SPAN></A></LI></UL><DIV class=\"nav__cta-container order-3 flex gap-x-1 justify-end min-w-[100px] flex-nowrap flex-shrink-0 babybear:flex-wrap flex-2\"><A class=\"nav__button-tertiary btn-md btn-tertiary possible-clickable-element\" href=\"https://www.linkedin.com/signup?trk=guest_homepage-basic_nav-header-join\" data-tracking-control-name=\"guest_homepage-basic_nav-header-join\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" data-testid=\"R\"><text>Join now</text></A><A class=\"nav__button-secondary btn-secondary-emphasis btn-md possible-clickable-element\" href=\"https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin\" data-tracking-control-name=\"guest_homepage-basic_nav-header-signin\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" data-tracking-client-ingraph=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" data-testid=\"S\"><text>Sign in</text></A></DIV></NAV><SECTION class=\"section min-h-68 flex-nowrap pt-6 babybear:flex-col babybear:min-h-0 babybear:px-mobile-container-padding babybear:pt-3\" data-test-id=\"hero\"><DIV class=\"self-start relative flex-shrink-0 w-[55%] pr-6 babybear:w-full babybear:pr-0\" data-test-id=\"hero__content\"><H1 class=\"font-sans babybear:pb-3 font-regular leading-regular text-display-lg text-smoke-70 babybear:text-display-md babybear:text-center\" data-test-id=\"hero__headline\"><text>Welcome to your professional community</text></H1><DIV class=\"mt-3 w-column max-w-[400px] babybear:mt-0 babybear:w-full\"><DIV class=\"google-auth-button google-auth-button--without-signin-form mb-2 mx-auto text-center\" data-google-auth-iframe-initialized=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><DIV class=\"google-auth-button__placeholder mx-auto\" data-theme=\"filled_blue\" data-logo-alignment=\"center\" data-locale=\"en_US\" role=\"button\" aria-label=\"Continue with google\" data-safe-to-skip-tnc-redirect=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\"><DIV class=\"S9gUrf-YoZ4jf\" style=\"position: relative;\"><IFRAME src=\"https://accounts.google.com/gsi/button?logo_alignment=center&shape=pill&size=large&text=continue_with&theme=filled_blue&type=undefined&width=400px&client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&iframe_id=gsi_910111_430794&as=r247Ka9bL60N8T8tcj9bfg&hl=en_US\" allow=\"identity-credentials-get\" id=\"gsi_910111_430794\" title=\"Sign in with Google Button\" class=\"possible-clickable-element\" data-testid=\"T\" style=\"display: block; position: relative; top: 0px; left: 0px; height: 44px; width: 420px; border: 0px; margin: -2px -10px;\"></IFRAME></DIV></DIV></DIV><A class=\"sign-in-form__sign-in-cta my-2 py-1 btn-md btn-secondary block min-h-[40px] babybear:w-full possible-clickable-element\" href=\"https://www.linkedin.com/login\" data-test-id=\"home-hero-sign-in-cta\" data-tracking-control-name=\"homepage-basic_home-hero-sign-in-cta\" data-tracking-will-navigate=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" data-tracking-client-ingraph=\"gis.provider.button.bootstrap('CjcKKzZRS2c1VzVyMzhuclhCOHptaG4wVGZTbG5ReEZWTGlSMWVjYzI2Zk5kbGcSBHdhcm4aAmVuGrUBCkg5OTAzMzk1NzA0NzItazZucW4xdHBtaXRnOHB1aTgyYmZhdW4zanJwbWl1aHMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20SGGh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbRoITGlua2VkSW4qLWh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9sZWdhbC9wcml2YWN5LXBvbGljeToWYWRhZ2Fyd2FsQGxpbmtlZGluLmNvbSIRZ3NpXzkxMDExMV80MzA3OTQyEQgBEAIYAiCQAygEMAI4AVAB');\" data-testid=\"U\"><text>Sign in with email</text></A><P class=\"linkedin-tc__text text-color-text-low-emphasis text-xs pb-2 text-center mt-3\"><text>By clicking Continue to join or sign in, you agree to LinkedIn’s</text><A href=\"/legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement\" target=\"_blank\" data-tracking-control-name=\"linkedin-tc_auth-button_user-agreement\" data-tracking-will-navigate=\"true\" class=\"possible-clickable-element\" data-testid=\"V\"><text>User Agreement</text></A><text>,</text><A href=\"/legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy\" target=\"_blank\" data-tracking-control-name=\"linkedin-tc_auth-button_privacy-policy\" data-tracking-will-navigate=\"true\" class=\"possible-clickable-element\" data-testid=\"W\"><text>Privacy Policy</text></A><text>, and</text><A href=\"/legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy\" target=\"_blank\" data-tracking-control-name=\"linkedin-tc_auth-button_cookie-policy\" data-tracking-will-navigate=\"true\" class=\"possible-clickable-element\" data-testid=\"X\"><text>Cookie Policy</text></A><text>.</text></P></DIV></DIV></SECTION>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <text| LinkedIn respects your privacy >\n    <\n      div|\n      <text| LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including >\n      <text| professional and job ads >\n      <text| ) on and off LinkedIn. Learn more in our >\n      <a[A]| Cookie Policy >\n      <text| . >\n      <text| Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your >\n      <a[B]| settings >\n      <text| . >\n    >\n    <\n      div|\n      <button[C]| Accept >\n      <button[D]| Reject >\n    >\n  >\n  <\n    nav|\n    <span| LinkedIn >\n    <path[E]| >\n    <polygon[F]| >\n    <path[G]| >\n    <\n      ul|\n      <path[H]| >\n      <span[I]| Top Content >\n      <svg[J]| >\n      <span[K]| People >\n      <path[L]| >\n      <span[M]| Learning >\n      <path[N]| >\n      <span[O]| Jobs >\n      <path[P]| >\n      <span[Q]| Games >\n    >\n    <\n      div|\n      <a[R]| Join now >\n      <a[S]| Sign in >\n    >\n  >\n  <\n    div|\n    <h1| Welcome to your professional community >\n    <\n      div|\n      <iframe[T]| Sign in with Google Button >\n      <a[U]| Sign in with email >\n      <\n        p|\n        <text| By clicking Continue to join or sign in, you agree to LinkedIn’s >\n        <a[V]| User Agreement >\n        <text| , >\n        <a[W]| Privacy Policy >\n        <text| , and >\n        <a[X]| Cookie Policy >\n        <text| . >\n      >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 831.890625,
+                "top": 74,
+                "right": 951.765625,
+                "bottom": 93,
+                "width": 119.875,
+                "height": 19
+            },
+            "tag": "a",
+            "text": "Cookie Policy"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 1132.65625,
+                "top": 106,
+                "right": 1206.1875,
+                "bottom": 125,
+                "width": 73.53125,
+                "height": 19
+            },
+            "tag": "a",
+            "text": "settings"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 99.5,
+                "top": 144,
+                "right": 184.8125,
+                "bottom": 176,
+                "width": 85.3125,
+                "height": 32
+            },
+            "tag": "button",
+            "text": "\n                Accept\n                "
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 197.90625,
+                "top": 144,
+                "right": 278.546875,
+                "bottom": 176,
+                "width": 80.640625,
+                "height": 32
+            },
+            "tag": "button",
+            "text": "\n                Reject\n                "
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 122.14297485351562,
+                "top": 226.5623779296875,
+                "right": 134.28582763671875,
+                "bottom": 239.00880432128906,
+                "width": 12.142852783203125,
+                "height": 12.446426391601562
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 110,
+                "top": 220.64285278320312,
+                "right": 122.43550109863281,
+                "bottom": 238.85714721679688,
+                "width": 12.435501098632812,
+                "height": 18.21429443359375
+            },
+            "tag": "polygon",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 88.99285888671875,
+                "top": 220.278564453125,
+                "right": 93.36428833007812,
+                "bottom": 238.85714721679688,
+                "width": 4.371429443359375,
+                "height": 18.578582763671875
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 590.094970703125,
+                "top": 213.4922332763672,
+                "right": 609.11279296875,
+                "bottom": 232.52000427246094,
+                "width": 19.017822265625,
+                "height": 19.02777099609375
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 564.234375,
+                "top": 234.5,
+                "right": 636.03125,
+                "bottom": 249.5,
+                "width": 71.796875,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "\n        Top Content\n      "
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 671.125,
+                "top": 210.5,
+                "right": 689.125,
+                "bottom": 230.5,
+                "width": 18,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n  \n"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 660.1875,
+                "top": 234.5,
+                "right": 700.0625,
+                "bottom": 249.5,
+                "width": 39.875,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "\n        People\n      "
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 758.125,
+                "top": 217.75347900390625,
+                "right": 765.125244140625,
+                "bottom": 227.24652099609375,
+                "width": 7.000244140625,
+                "height": 9.4930419921875
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 734.0625,
+                "top": 234.5,
+                "right": 786.171875,
+                "bottom": 249.5,
+                "width": 52.109375,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "\n        Learning\n      "
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 830.125,
+                "top": 210.5,
+                "right": 850.125,
+                "bottom": 228.5,
+                "width": 20,
+                "height": 18
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 827.75,
+                "top": 234.5,
+                "right": 852.5,
+                "bottom": 249.5,
+                "width": 24.75,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "\n        Jobs\n      "
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 910.125,
+                "top": 210.49951171875,
+                "right": 930.125,
+                "bottom": 230.4945068359375,
+                "width": 20,
+                "height": 19.9949951171875
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 899.125,
+                "top": 234.5,
+                "right": 941.109375,
+                "bottom": 249.5,
+                "width": 41.984375,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "\n        Games\n      "
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 961.125,
+                "top": 206,
+                "right": 1085.6875,
+                "bottom": 254,
+                "width": 124.5625,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "\n                Join now              "
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 1093.6875,
+                "top": 206,
+                "right": 1203.984375,
+                "bottom": 254,
+                "width": 110.296875,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "\n          Sign in\n      "
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 66,
+                "top": 522,
+                "right": 486,
+                "bottom": 566,
+                "width": 420,
+                "height": 44
+            },
+            "tag": "iframe",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 76,
+                "top": 580,
+                "right": 476,
+                "bottom": 620,
+                "width": 400,
+                "height": 40
+            },
+            "tag": "a",
+            "text": "\n                  Sign in with email\n                "
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 106.203125,
+                "top": 664,
+                "right": 216.328125,
+                "bottom": 678,
+                "width": 110.125,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "User Agreement"
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 223.96875,
+                "top": 664,
+                "right": 318.03125,
+                "bottom": 678,
+                "width": 94.0625,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Privacy Policy"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 352.0625,
+                "top": 664,
+                "right": 441.96875,
+                "bottom": 678,
+                "width": 89.90625,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Cookie Policy"
+        }
+    ]
+}

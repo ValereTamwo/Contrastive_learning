@@ -1,0 +1,174 @@
+{
+    "raw_html": "<DIV class=\"masthead-container is-visible\"><DIV class=\"js-lp-navbar-spacer lp-navbar-spacer\"></DIV><NAV class=\"js-lp-navbar lp-header__navbar lp-navbar lp-navbar--overlay rm-background\"><DIV class=\"lp-navbar__container lp-container\"><NAV class=\"lp-navbar__item lp-navbar__item--nav lp-nav\"><A class=\"js-nav-link lp-nav__item possible-clickable-element\" href=\"/websites\" data-track-category=\"navigation_button\" data-track-clicks=\"websites\" data-testid=\"A\"><text>Websites</text></A><A class=\"js-nav-link lp-nav__item possible-clickable-element\" href=\"/online-store\" data-track-category=\"navigation_button\" data-track-clicks=\"online_stores\" data-testid=\"B\"><text>Online Stores</text></A><A class=\"js-nav-link lp-nav__item possible-clickable-element\" href=\"/pricing\" data-track-category=\"navigation_button\" data-track-clicks=\"pricing\" data-testid=\"C\"><text>Pricing</text></A><A class=\"js-more-link lp-nav__item lp-nav__item-more possible-clickable-element\" data-track-category=\"navigation_button\" data-track-clicks=\"nav_more_open\" data-testid=\"D\"><text>More</text><IMG src=\"//cdn2.editmysite.com/images/landing-pages/global/shared/navbar/carrot.svg\"></IMG></A></NAV><DIV class=\"lp-navbar__logo lp-logo lp-logo--light\" data-track-clicks=\"logo\" data-track-category=\"navigation_button\"><IMG alt=\"Weebly Website Builder\" src=\"//cdn2.editmysite.com/images/landing-pages/global/logo.svg\" class=\"possible-clickable-element\" data-testid=\"E\"></IMG></DIV><DIV class=\"lp-navbar__item lp-navbar__item--actions\" id=\"authentication-nav\"><A id=\"login-button\" class=\"lp-navbar__link possible-clickable-element\" data-track-category=\"navigation_button\" data-track-clicks=\"login_top_right\" href=\"/login\" data-testid=\"F\"><text>Log In</text></A><A class=\"overlay-navbar lp-navbar__button btn btn--outline possible-clickable-element\" data-track-category=\"signup_button\" data-track-clicks=\"top_right\" href=\"/signup\" id=\"sign-up-button\" data-testid=\"G\"><text>Sign Up</text></A></DIV></DIV></NAV><DIV class=\"masthead-cta-container\"><H1 class=\"masthead-title\"><text>Build a professional website that grows with your business.</text></H1><A href=\"/signup\" class=\"masthead-main-cta journey-cta\" data-track-category=\"signup_button\" data-track-clicks=\"create_your_website\"><SPAN class=\"possible-clickable-element\" data-testid=\"H\"><text>Create Your Website</text></SPAN></A></DIV><DIV class=\"masthead-image-container blair\"><IMG src=\"//cdn2.editmysite.com/images/landing-pages/global/home-com-forward/masthead/website-s.png\" alt=\"Create a website with Weebly’s free website builder.\"></IMG></DIV><DIV class=\"masthead-image-container dios is-active\"><IMG src=\"//cdn2.editmysite.com/images/landing-pages/global/home-com-forward/masthead/website-s.png\" alt=\"Create a website with Weebly’s free website builder.\"></IMG></DIV></DIV><DIV id=\"onetrust-banner-sdk\" class=\"otFloatingRounded ot-bottom-left vertical-align-content ot-fade-in\" role=\"region\" aria-label=\"Cookie banner\"><DIV class=\"ot-sdk-container\" role=\"dialog\" aria-label=\"Manage cookies\"><DIV class=\"ot-sdk-row\"><DIV id=\"onetrust-group-container\" class=\"ot-sdk-twelve ot-sdk-columns\"><DIV id=\"onetrust-policy\"><H2 id=\"onetrust-policy-title\"><text>Manage cookies</text></H2><DIV id=\"onetrust-policy-text\"><text>Square and our partners use cookies and similar technologies to maintain security, improve site functionality, measure performance and personalise ads. If you select ‘Accept all’, you agree to our use of cookies for these purposes, including sharing your data with our analytics and ad partners. If you select ‘Reject all’, we will only use strictly necessary cookies. Learn more or adjust your preferences through ‘Cookie preferences’. For more information read our</text><A class=\"ot-cookie-policy-link possible-clickable-element\" href=\"https://squareup.com/gb/en/legal/general/cookie\" aria-label=\"More information about your privacy, opens in a new tab\" rel=\"noopener\" target=\"_blank\" data-testid=\"I\"><text>Cookie Policy</text></A></DIV></DIV></DIV><DIV id=\"onetrust-button-group-parent\" class=\"ot-sdk-twelve ot-sdk-columns has-reject-all-button\"><DIV id=\"onetrust-button-group\"><BUTTON id=\"onetrust-pc-btn-handler\" class=\"possible-clickable-element\" data-testid=\"J\"><text>Cookie preferences</text></BUTTON><DIV class=\"onetrust-banner-options\"><BUTTON id=\"onetrust-reject-all-handler\" class=\"possible-clickable-element\" data-testid=\"K\"><text>Reject All</text></BUTTON><BUTTON id=\"onetrust-accept-btn-handler\" class=\"possible-clickable-element\" data-testid=\"L\"><text>Accept all</text></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      div|\n      <\n        nav|\n        <a[A]| Websites >\n        <a[B]| Online Stores >\n        <a[C]| Pricing >\n        <a[D]| More >\n      >\n      <img[E]| >\n      <\n        div|\n        <a[F]| Log In >\n        <a[G]| Sign Up >\n      >\n    >\n    <\n      div|\n      <h1| Build a professional website that grows with your business. >\n      <span[H]| Create Your Website >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <h2| Manage cookies >\n      <\n        div|\n        <text| Square and our partners use cookies and similar technologies to maintain security, improve site functionality, measure performance and personalise ads. If you select ‘Accept all’, you agree to our use of cookies for these purposes, including sharing your data with our analytics and ad partners. If you select ‘Reject all’, we will only use strictly necessary cookies. Learn more or adjust your preferences through ‘Cookie preferences’. For more information read our >\n        <a[I]| Cookie Policy >\n      >\n    >\n    <\n      div|\n      <button[J]| Cookie preferences >\n      <\n        div|\n        <button[K]| Reject All >\n        <button[L]| Accept all >\n      >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 88,
+                "top": 28,
+                "right": 156,
+                "bottom": 52,
+                "width": 68,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Websites"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 172,
+                "top": 28,
+                "right": 273,
+                "bottom": 52,
+                "width": 101,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Online Stores"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 289,
+                "top": 28,
+                "right": 342,
+                "bottom": 52,
+                "width": 53,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Pricing"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 358,
+                "top": 28,
+                "right": 413,
+                "bottom": 52,
+                "width": 55,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "\n\t\t\t\t\t\t\t\tMore\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 576,
+                "top": 16,
+                "right": 704,
+                "bottom": 58,
+                "width": 128,
+                "height": 42
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 1015,
+                "top": 28,
+                "right": 1061,
+                "bottom": 52,
+                "width": 46,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Log In"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 1077,
+                "top": 20,
+                "right": 1200,
+                "bottom": 60,
+                "width": 123,
+                "height": 40
+            },
+            "tag": "a",
+            "text": "Sign Up"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 563,
+                "top": 292,
+                "right": 717,
+                "bottom": 312,
+                "width": 154,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Create Your Website"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 419.75,
+                "top": 579,
+                "right": 516.578125,
+                "bottom": 603,
+                "width": 96.828125,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Cookie Policy"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 497,
+                "top": 622,
+                "right": 672,
+                "bottom": 668,
+                "width": 175,
+                "height": 46
+            },
+            "tag": "button",
+            "text": "Cookie preferences"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 46,
+                "top": 622,
+                "right": 176,
+                "bottom": 668,
+                "width": 130,
+                "height": 46
+            },
+            "tag": "button",
+            "text": "Reject All"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 194.453125,
+                "top": 622,
+                "right": 324.453125,
+                "bottom": 668,
+                "width": 130,
+                "height": 46
+            },
+            "tag": "button",
+            "text": "Accept all"
+        }
+    ]
+}

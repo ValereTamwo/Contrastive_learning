@@ -1,0 +1,132 @@
+{
+    "raw_html": "<NAV class=\"navbar signal-navbar is-fixed-top\" role=\"navigation\" aria-label=\"main navigation\"><DIV class=\"container\"><DIV class=\"navbar-brand\"><A href=\"/#signal\"><IMG class=\"signal-logo possible-clickable-element\" src=\"/assets/images/header/logo.png\" data-testid=\"A\"></IMG></A></DIV><DIV id=\"signalNavbar\" class=\"navbar-menu\"><DIV class=\"navbar-end\"><A class=\"navbar-item get-signal possible-clickable-element\" href=\"/download/\" data-testid=\"B\"><text>Get Signal</text></A><A class=\"navbar-item possible-clickable-element\" href=\"https://support.signal.org\" data-testid=\"C\"><text>Help</text></A><A class=\"navbar-item possible-clickable-element\" href=\"/blog/\" data-testid=\"D\"><text>Blog</text></A><A class=\"navbar-item possible-clickable-element\" href=\"/docs/\" data-testid=\"E\"><text>Developers</text></A><A class=\"navbar-item possible-clickable-element\" href=\"/workworkwork/\" data-testid=\"F\"><text>Careers</text></A><A class=\"navbar-item possible-clickable-element\" href=\"/donate/\" data-testid=\"G\"><text>Donate</text></A><A href=\"#\" class=\"js-modal-trigger navbar-item language-selector no-underline\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\" aria-label=\"Change Language\" id=\"language-selector\"><I class=\"icon icon-globe possible-clickable-element\" data-testid=\"H\"></I><text>English</text></A></DIV></DIV></DIV></NAV><SECTION class=\"hero-main hero\"><DIV class=\"hero-body\"><DIV class=\"container\"><DIV class=\"columns\"><DIV class=\"column is-two-fifths\"><text>Speak Freely</text><P class=\"body1\"><text>Say \"hello\" to a different messaging experience. An unexpected focus on privacy, combined with all of the features you expect.</text></P><A class=\"get-signal button button-white possible-clickable-element\" href=\"/download/\" data-testid=\"I\"><text>Get Signal</text></A></DIV><DIV class=\"column mobile-screenshots\"><IMG class=\"screenshot1\" src=\"/assets/images/features/signal-iphone.png\"></IMG><IMG class=\"screenshot2\" src=\"/assets/images/features/signal-pixel.png\"></IMG></DIV></DIV></DIV></DIV></SECTION>",
+    "parsed_html": "\n<\n  div|\n  <img[A]| >\n  <\n    div|\n    <a[B]| Get Signal >\n    <a[C]| Help >\n    <a[D]| Blog >\n    <a[E]| Developers >\n    <a[F]| Careers >\n    <a[G]| Donate >\n    <i[H]| >\n    <text| English >\n  >\n  <\n    div|\n    <text| Speak Freely >\n    <p| Say \"hello\" to a different messaging experience. An unexpected focus on privacy, combined with all of the features you expect. >\n    <a[I]| Get Signal >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 52,
+                "top": 20,
+                "right": 206,
+                "bottom": 64,
+                "width": 154,
+                "height": 44
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 652,
+                "top": 16,
+                "right": 752,
+                "bottom": 68,
+                "width": 100,
+                "height": 52
+            },
+            "tag": "a",
+            "text": "Get Signal"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 752,
+                "top": 16,
+                "right": 809,
+                "bottom": 68,
+                "width": 57,
+                "height": 52
+            },
+            "tag": "a",
+            "text": "Help"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 809,
+                "top": 16,
+                "right": 866,
+                "bottom": 68,
+                "width": 57,
+                "height": 52
+            },
+            "tag": "a",
+            "text": "Blog"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 866,
+                "top": 16,
+                "right": 973,
+                "bottom": 68,
+                "width": 107,
+                "height": 52
+            },
+            "tag": "a",
+            "text": "Developers"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 973,
+                "top": 16,
+                "right": 1053,
+                "bottom": 68,
+                "width": 80,
+                "height": 52
+            },
+            "tag": "a",
+            "text": "Careers"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 1053,
+                "top": 16,
+                "right": 1133,
+                "bottom": 68,
+                "width": 80,
+                "height": 52
+            },
+            "tag": "a",
+            "text": "Donate"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 1145,
+                "top": 34,
+                "right": 1161,
+                "bottom": 50,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "i",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 64,
+                "top": 449,
+                "right": 195.546875,
+                "bottom": 499,
+                "width": 131.546875,
+                "height": 50
+            },
+            "tag": "a",
+            "text": " Get Signal "
+        }
+    ]
+}

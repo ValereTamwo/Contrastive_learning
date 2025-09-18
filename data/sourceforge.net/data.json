@@ -1,0 +1,5 @@
+{
+    "raw_html": "<HTML class=\"no-js\" lang=\"en-US\"><DIV id=\"cf-wrapper\"><DIV id=\"cf-error-details\" class=\"cf-error-details-wrapper\"><DIV class=\"cf-wrapper cf-header cf-error-overview\"><H1 data-translate=\"block_headline\"><text>Sorry, you have been blocked</text></H1><H2 class=\"cf-subheadline\"><SPAN data-translate=\"unable_to_access\"><text>You are unable to access</text></SPAN><text>sourceforge.net</text></H2></DIV><DIV class=\"cf-section cf-highlight\"><DIV class=\"cf-wrapper\"><DIV class=\"cf-screenshot-container cf-screenshot-full\"><SPAN class=\"cf-no-screenshot error\"></SPAN></DIV></DIV></DIV></DIV></DIV></HTML>",
+    "parsed_html": "\n<\n  div|\n  <h1| Sorry, you have been blocked >\n  <\n    h2|\n    <span| You are unable to access >\n    <text| sourceforge.net >\n  >\n>",
+    "items": []
+}

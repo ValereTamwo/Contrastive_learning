@@ -1,0 +1,468 @@
+{
+    "raw_html": "<HTML lang=\"en\" data-theme=\"light\" style=\"color-scheme: light;\"><DIV class=\"base-layout_header__XhkxS\"><HEADER class=\"navigation-header_root__oE_HT\"><DIV class=\"navigation-header_leftSide__V0xlc\"><DIV class=\"product-page-content_productsDropdown__haUyw\"><NAV aria-label=\"Main\" data-orientation=\"horizontal\" dir=\"ltr\"><DIV class=\"dropdown-menu_root__Hwy5S\"><DIV class=\"dropdown-menu_activatorWrapper__LxPRt\"><BUTTON aria-controls=\"navigation-header-menu-react-aria-1\" aria-expanded=\"false\" aria-label=\"Main menu\" class=\"dropdown-menu_activator__xXb00 g-focus-ring-from-box-shadow-dark product-page-content_productsDropdownButton__bnKKs\"><SPAN class=\"dropdown-menu_activatorLeadingIcon__YQQlH\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"product-page-content_productsDropdownIcon__gXtly\"><g fill=\"currentColor\"><path d=\"M10.336 1.5L2 6.268v11.456l3.131 1.793V8.061l5.205-2.979V1.5z\"></path><path d=\"M13.664 1.5v9.123h-3.328V7.219L7.203 9.012V20.7l3.133 1.796V13.4h3.328v3.381l3.131-1.793V3.293L13.664 1.5z\" class=\"possible-clickable-element\" data-testid=\"A\"></path><path d=\"M22 17.732L13.664 22.5v-3.582l5.203-2.98V4.484L22 6.276v11.456z\"></path></g></svg></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\" class=\"dropdown-menu_activatorTrailingIcon__r_cCd possible-clickable-element\" data-testid=\"B\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M3.235 5.205a.75.75 0 011.06.03L8 9.158l3.705-3.923a.75.75 0 011.09 1.03l-4.25 4.5a.75.75 0 01-1.09 0l-4.25-4.5a.75.75 0 01.03-1.06z\" clip-rule=\"evenodd\"></path></svg></BUTTON></DIV></DIV></NAV></DIV><DIV class=\"product-page-content_productLinkAndNav__YTzcr\"><A aria-current=\"page\" aria-label=\"Terraform home\" class=\"product-icon-text-link_root__bNTSz g-focus-ring-from-box-shadow-dark\" href=\"/terraform\"><DIV class=\"product-icon-text-lockup_root__358wV\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\" class=\"product-icon-text-lockup_icon__Zp_5o\"><g fill=\"var(--token-color-terraform-brand)\"><path d=\"M1 0v5.05l4.349 2.527V2.526L1 0zM10.175 5.344l-4.35-2.525v5.05l4.35 2.527V5.344zM10.651 10.396V5.344L15 2.819v5.05l-4.349 2.527zM10.174 16l-4.349-2.526v-5.05l4.349 2.525V16z\" class=\"possible-clickable-element\" data-testid=\"C\"></path></g></svg><SPAN class=\"product-icon-text-lockup_text__nHTL7 hds-typography-body-200 possible-clickable-element\" data-testid=\"D\"><text>Terraform</text></SPAN></DIV></A><NAV aria-label=\"Main\" data-orientation=\"horizontal\" dir=\"ltr\" class=\"nav-bar-list-container_nav__C_i0_\"><DIV style=\"position:relative\"><UL data-orientation=\"horizontal\" class=\"nav-bar-list-container_ul___04HI\" dir=\"ltr\"><A aria-label=\"Terraform Install\" class=\"primary-nav-link_root__RXZIC g-focus-ring-from-box-shadow-dark\" href=\"/terraform/install\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-medium primary-nav-link_linkText__58O0C possible-clickable-element\" data-testid=\"E\"><text>Install</text></SPAN></A><A aria-label=\"Terraform Tutorials\" class=\"primary-nav-link_root__RXZIC g-focus-ring-from-box-shadow-dark\" href=\"/terraform/tutorials\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-medium primary-nav-link_linkText__58O0C possible-clickable-element\" data-testid=\"F\"><text>Tutorials</text></SPAN></A><DIV class=\"dropdown-menu_root__Hwy5S\"><DIV class=\"dropdown-menu_activatorWrapper__LxPRt\"><BUTTON aria-controls=\"navigation-header-menu-react-aria-5\" aria-expanded=\"false\" aria-label=\"Terraform Documentation\" class=\"dropdown-menu_activator__xXb00 g-focus-ring-from-box-shadow-dark\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-medium dropdown-menu_activatorText__acGRP possible-clickable-element\" data-testid=\"G\"><text>Documentation</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\" class=\"dropdown-menu_activatorTrailingIcon__r_cCd possible-clickable-element\" data-testid=\"H\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M3.235 5.205a.75.75 0 011.06.03L8 9.158l3.705-3.923a.75.75 0 011.09 1.03l-4.25 4.5a.75.75 0 01-1.09 0l-4.25-4.5a.75.75 0 01.03-1.06z\" clip-rule=\"evenodd\"></path></svg></BUTTON></DIV></DIV><A aria-label=\"Terraform Registry\" class=\"primary-nav-link_root__RXZIC g-focus-ring-from-box-shadow-dark\" aria-describedby=\"opens-in-new-tab-label-react-aria-18\" target=\"_blank\" href=\"https://registry.terraform.io/\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-medium primary-nav-link_linkText__58O0C possible-clickable-element\" data-testid=\"I\"><text>Registry</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><g fill=\"currentColor\"><path d=\"M9 .75A.75.75 0 019.75 0h4.5c.206 0 .393.083.529.218l.001.002.002.001A.748.748 0 0115 .75v4.5a.75.75 0 01-1.5 0V2.56L7.28 8.78a.75.75 0 01-1.06-1.06l6.22-6.22H9.75A.75.75 0 019 .75z\" class=\"possible-clickable-element\" data-testid=\"J\"></path><path d=\"M3.25 3.5a.75.75 0 00-.75.75v7.5c0 .414.336.75.75.75h7.5a.75.75 0 00.75-.75v-4a.75.75 0 011.5 0v4A2.25 2.25 0 0110.75 14h-7.5A2.25 2.25 0 011 11.75v-7.5A2.25 2.25 0 013.25 2h4a.75.75 0 010 1.5h-4z\"></path></g></svg></A><SPAN class=\"g-screen-reader-only\" id=\"opens-in-new-tab-label-react-aria-18\"><text>(opens in new tab)</text></SPAN><A aria-label=\"Terraform Try Cloud\" class=\"primary-nav-link_root__RXZIC g-focus-ring-from-box-shadow-dark\" aria-describedby=\"opens-in-new-tab-label-react-aria-19\" target=\"_blank\" href=\"https://app.terraform.io/public/signup/account\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-medium primary-nav-link_linkText__58O0C possible-clickable-element\" data-testid=\"K\"><text>Try Cloud</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><g fill=\"currentColor\"><path d=\"M9 .75A.75.75 0 019.75 0h4.5c.206 0 .393.083.529.218l.001.002.002.001A.748.748 0 0115 .75v4.5a.75.75 0 01-1.5 0V2.56L7.28 8.78a.75.75 0 01-1.06-1.06l6.22-6.22H9.75A.75.75 0 019 .75z\" class=\"possible-clickable-element\" data-testid=\"L\"></path><path d=\"M3.25 3.5a.75.75 0 00-.75.75v7.5c0 .414.336.75.75.75h7.5a.75.75 0 00.75-.75v-4a.75.75 0 011.5 0v4A2.25 2.25 0 0110.75 14h-7.5A2.25 2.25 0 011 11.75v-7.5A2.25 2.25 0 013.25 2h4a.75.75 0 010 1.5h-4z\"></path></g></svg></A><SPAN class=\"g-screen-reader-only\" id=\"opens-in-new-tab-label-react-aria-19\"><text>(opens in new tab)</text></SPAN></UL></DIV></NAV></DIV></DIV><DIV class=\"navigation-header_rightSide___Vvh_\"><BUTTON aria-label=\"Search\" class=\"command-bar-activator_root__qgVMy g-focus-ring-from-box-shadow-dark\"><SPAN class=\"command-bar-activator_left__ATQTg\"><SPAN class=\"command-bar-activator_leadingIcon__jECP5\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\" class=\"possible-clickable-element\" data-testid=\"M\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M6.344.969a5.375 5.375 0 103.233 9.669l4.174 4.174a.75.75 0 001.06-1.061l-4.173-4.174A5.375 5.375 0 006.344.97zM2.469 6.344a3.875 3.875 0 117.75 0 3.875 3.875 0 01-7.75 0z\" clip-rule=\"evenodd\"></path></svg></SPAN><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular command-bar-activator_text__pTZN_ possible-clickable-element\" data-testid=\"N\"><text>Search</text></SPAN></SPAN><SPAN class=\"command-bar-activator_right__XejfJ\"><SPAN class=\"g-screen-reader-only\"><text>Command or control key</text></SPAN><SPAN aria-hidden=\"true\" class=\"badge_root___Z7Nt badge_small__GI0Zk badge_filled-neutral-dark-mode__VC3Ba command-bar-activator_keyBadge__xnKpi\"><DIV class=\"cmd-ctrl-icon_root___TToz\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"41\" height=\"11\" fill=\"none\" viewBox=\"0 0 41 11\" class=\"possible-clickable-element\" data-testid=\"O\"><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M4.125 2.063V3h2.25v-.937a2.062 2.062 0 1 1 2.063 2.062H7.5v2.25h.938a2.062 2.062 0 1 1-2.063 2.063V7.5h-2.25v.938a2.062 2.062 0 1 1-2.062-2.063H3v-2.25h-.937a2.062 2.062 0 1 1 2.062-2.062m-2.062-.938a.937.937 0 1 0 0 1.875H3v-.937a.937.937 0 0 0-.937-.938M7.5 7.5v.938a.937.937 0 1 0 .938-.938zM6.375 6.375v-2.25h-2.25v2.25zM2.063 7.5H3v.938a.937.937 0 1 1-.937-.938M7.5 3h.938a.937.937 0 1 0-.938-.937z\" clip-rule=\"evenodd\"></path><path fill=\"#fff\" d=\"M15.09 10.5 18.085 0h-1.097L14 10.5zM26.387 5.308c-.183-1.445-1.263-2.534-3.05-2.534C21.264 2.774 20 4.247 20 6.61c0 2.41 1.27 3.89 3.344 3.89 1.76 0 2.86-1.034 3.043-2.5H25.02c-.184.808-.792 1.247-1.682 1.247-1.172 0-1.898-.994-1.898-2.637 0-1.61.72-2.583 1.898-2.583.942 0 1.518.555 1.681 1.281zM28.6 1.041v1.897h-1.133v1.178H28.6v4.281c0 1.432.622 2.007 2.186 2.007.275 0 .537-.034.766-.075V9.158c-.196.02-.32.034-.537.034-.7 0-1.008-.35-1.008-1.15V4.115h1.545V2.938h-1.545V1.041zM33.207 10.356h1.407V5.911c0-1.048.752-1.767 1.819-1.767.249 0 .667.048.785.082V2.842a3.372 3.372 0 0 0-.628-.054c-.93 0-1.721.527-1.924 1.26h-.105v-1.13h-1.354zM38.638 10.356h1.407V0h-1.407z\"></path></svg></DIV></SPAN><SPAN class=\"g-screen-reader-only\"><text>K key</text></SPAN><SPAN aria-hidden=\"true\" class=\"badge_root___Z7Nt badge_small__GI0Zk badge_filled-neutral-dark-mode__VC3Ba command-bar-activator_keyBadge__xnKpi\"><DIV class=\"k-icon_root__a_5pR\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"8\" height=\"10\" fill=\"none\" viewBox=\"0 0 8 10\"><path fill=\"#fff\" d=\"M1.512 9.84v-3l.986-1.147L5.445 9.84h1.704L3.46 4.745 6.857.84H5.244L1.61 5.094h-.098V.84H.15v9z\" class=\"possible-clickable-element\" data-testid=\"P\"></path></svg></DIV></SPAN></SPAN></BUTTON><DIV class=\"navigation-header_authenticationControls__EP1LY\"><DIV class=\"disclosure_root__rcBaW dropdown-disclosure_root__pzZlN dropdown-disclosure_list-position--right__WP_Kj\"><BUTTON aria-controls=\"disclosure-react-aria-20-content\" aria-expanded=\"false\" aria-label=\"User menu\" class=\"disclosure_activator__pORI0 activator_root__pOfAQ dropdown-disclosure_activator__nGgNo navigation-header_userDropdownDisclosureActivator__RayIV g-focus-ring-from-box-shadow-dark activator_hasIcon__5HO6W g-focus-ring-from-box-shadow\"><SPAN class=\"activator_childrenWrapper__kaK0w\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><g fill=\"currentColor\" class=\"possible-clickable-element\" data-testid=\"Q\"><path fill-rule=\"evenodd\" d=\"M12 3a5 5 0 100 10 5 5 0 000-10zM8.5 8a3.5 3.5 0 117 0 3.5 3.5 0 01-7 0z\" clip-rule=\"evenodd\"></path><path d=\"M7.75 14.5A4.75 4.75 0 003 19.25v1a.75.75 0 001.5 0v-1A3.25 3.25 0 017.75 16h8.5a3.25 3.25 0 013.25 3.25v1a.75.75 0 001.5 0v-1a4.75 4.75 0 00-4.75-4.75h-8.5z\"></path></g></svg></SPAN><SPAN class=\"activator_chevronWrapper__4_AVG\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\" class=\"possible-clickable-element\" data-testid=\"R\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M3.235 5.205a.75.75 0 011.06.03L8 9.158l3.705-3.923a.75.75 0 011.09 1.03l-4.25 4.5a.75.75 0 01-1.09 0l-4.25-4.5a.75.75 0 01.03-1.06z\" clip-rule=\"evenodd\"></path></svg></SPAN></BUTTON></DIV></DIV></DIV></HEADER></DIV><DIV class=\"mobile-menu-container_root__fPUFu sidebar-sidecar-layout_sidebarContainer__4fcF8\" style=\"left: -150vw; display: none;\"><DIV class=\"sidebar-sidecar-layout_sidebarContentWrapper__ftn5q\"><DIV class=\"sidebar-sidecar-layout_sidePadding__iwNw_\"><DIV class=\"sidebar_sidebar___fTlC\"><NAV aria-labelledby=\"sidebar-label\" class=\"sidebar_nav__IworY\" id=\"sidebar-nav\"><DIV class=\"g-screen-reader-only\"><H2 class=\"sidebar-headings_root__tGfxC\" id=\"sidebar-label\"><text>Terraform</text></H2></DIV><UL class=\"sidebar_navList__4Rg4g\"><A aria-current=\"page\" class=\"sidebar-nav-highlight-item_root___pPhp g-focus-ring-from-box-shadow sidebar-nav-highlight-item_theme-terraform__LHqSi\" href=\"/terraform\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\" class=\"sidebar-nav-highlight-item_icon__G8JxG\"><g fill=\"var(--token-color-terraform-brand)\"><path d=\"M1 0v5.05l4.349 2.527V2.526L1 0zM10.175 5.344l-4.35-2.525v5.05l4.35 2.527V5.344zM10.651 10.396V5.344L15 2.819v5.05l-4.349 2.527zM10.174 16l-4.349-2.526v-5.05l4.349 2.525V16z\" class=\"possible-clickable-element\" data-testid=\"S\"></path></g></svg><SPAN class=\"sidebar-nav-highlight-item_text__VORFJ hds-typography-body-200 possible-clickable-element\" data-testid=\"T\"><text>Terraform</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/install\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX possible-clickable-element\" data-testid=\"U\"><text>Install</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/intro\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX possible-clickable-element\" data-testid=\"V\"><text>Intro to Terraform</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/tutorials\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Tutorials</text></SPAN></A><BUTTON aria-controls=\"undefined-list\" aria-expanded=\"true\" class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" id=\"undefined-button\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Documentation</text></SPAN><DIV class=\"sidebar-nav-menu-item_rightIconsContainer__hynke\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M3.235 5.205a.75.75 0 011.06.03L8 9.158l3.705-3.923a.75.75 0 011.09 1.03l-4.25 4.5a.75.75 0 01-1.09 0l-4.25-4.5a.75.75 0 01.03-1.06z\" clip-rule=\"evenodd\"></path></svg></DIV></BUTTON><UL id=\"undefined-list\"><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/docs\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Documentation</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/language\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Configuration Language</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/cli\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Terraform CLI</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/cloud-docs\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>HCP Terraform</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/enterprise\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Terraform Enterprise</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/migrate\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Terraform Migrate</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/cdktf\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>CDK for Terraform</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/language/providers\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Provider Use</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/plugin\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Plugin Development</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/registry\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Registry Publishing</text></SPAN></A><A class=\"sidebar-nav-menu-item_sidebarNavMenuItem__PiyI8 g-focus-ring-from-box-shadow\" href=\"/terraform/docs/partnerships\"><SPAN class=\"text_root__r0DFB hds-typography-body-200 hds-font-weight-regular sidebar-nav-menu-item_navMenuItemLabel__tJHwX\"><text>Integration Program</text></SPAN></A></UL></UL></NAV></DIV></DIV></DIV></DIV><DIV class=\"sidebar-sidecar-layout_breadcrumbContainer__3uz7P\"><DIV class=\"sidebar-sidecar-layout_breadcrumbMaxWidth__coOcu\"><NAV aria-label=\"Breadcrumb\" class=\"breadcrumb-bar_root__wd_C5\"><OL class=\"breadcrumb-bar_listRoot__8eupO\"><LI class=\"text_root__r0DFB hds-typography-body-100 hds-font-weight-medium breadcrumb-bar_listItem__2sevd\"><A class=\"breadcrumb-bar_breadcrumbText__JvOrd g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/\" data-testid=\"W\"><text>Developer</text></A></LI><LI class=\"text_root__r0DFB hds-typography-body-100 hds-font-weight-medium breadcrumb-bar_listItem__2sevd\"><SPAN class=\"breadcrumb-bar_breadcrumbText__JvOrd g-focus-ring-from-box-shadow\" aria-current=\"page\"><text>Terraform</text></SPAN></LI></OL></NAV></DIV></DIV><DIV class=\"product-landing_heroMargin__Nlf7J\"><DIV class=\"hero-heading-visual_root__eQ0na hds-elevation-low\" style=\"--gradient-start:var(--token-color-terraform-gradient-faint-start);--gradient-stop:var(--token-color-terraform-gradient-faint-stop)\"><H1 class=\"hero-heading-visual_heading__kCNLj hds-typography-display-400\"><text>Automate Infrastructure on Any Cloud</text></H1><DIV class=\"hero-heading-visual_image__Z_fVT\"><IMG src=\"https://www.datocms-assets.com/2885/1663105398-dev-dot-terraform-landing-hero-2x.png\" alt=\"/* Hack to provide custom styles to the consent banner. This method is necessary since the consent banner is loaded in a shadow DOM. docs: https://docs.datagrail.io/docs/consent/consent-banner-customization */ :host(.dg-consent-banner) .dg-main-content { overflow-y: auto; } .language-dropdown-menu { overflow: auto; color-scheme: light; }\"></IMG></DIV></DIV></DIV><DIV class=\"product-landing_iconCardsMargin__imons\"><UL class=\"cards-grid-list_listRoot__xMWpJ cards-grid-list_minWidthMode__cPnEx cards-grid-list_allowThreeColumns__tkPIX\" style=\"--grid-gap:24px\"><DIV class=\"hds-surface-mid card_root__RyqjV card-link_root__xgxTP icon-card-link_root__Bh28M\"><A aria-label=\"Install\" class=\"card-link_anchor___5xoF possible-clickable-element\" href=\"/terraform/install\" data-testid=\"X\"><SPAN aria-hidden=\"true\"></SPAN></A><SPAN class=\"icon-card-link_icon__nXl2M\" style=\"--icon-color:var(--token-color-terraform-brand)\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><g fill=\"currentColor\"><path d=\"M8.75 1.75a.75.75 0 00-1.5 0v6.59L5.3 6.24a.75.75 0 10-1.1 1.02L7.45 10.76a.78.78 0 00.038.038.748.748 0 001.063-.037l3.25-3.5a.75.75 0 10-1.1-1.02l-1.95 2.1V1.75z\"></path><path d=\"M1.75 9a.75.75 0 01.75.75v3c0 .414.336.75.75.75h9.5a.75.75 0 00.75-.75v-3a.75.75 0 011.5 0v3A2.25 2.25 0 0112.75 15h-9.5A2.25 2.25 0 011 12.75v-3A.75.75 0 011.75 9z\"></path></g></svg></SPAN><SPAN class=\"icon-card-link_text__QBpCH hds-typography-body-200\"><text>Install</text></SPAN></DIV><DIV class=\"hds-surface-mid card_root__RyqjV card-link_root__xgxTP icon-card-link_root__Bh28M\"><A aria-label=\"Tutorials\" class=\"card-link_anchor___5xoF possible-clickable-element\" href=\"/terraform/tutorials\" data-testid=\"Y\"><SPAN aria-hidden=\"true\"></SPAN></A><SPAN class=\"icon-card-link_icon__nXl2M\" style=\"--icon-color:var(--token-color-terraform-brand)\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M8.316 2.07a.75.75 0 00-.632 0l-7 3.25a.75.75 0 000 1.36l1.434.666A.746.746 0 002 7.75V11a.75.75 0 00.158.46L2.75 11l-.592.46.001.002.001.001.003.004.008.01a1.882 1.882 0 00.103.12c.068.076.165.178.292.299.254.24.63.555 1.132.866C4.706 13.388 6.217 14 8.25 14c2.037 0 3.44-.615 4.345-1.266a5.32 5.32 0 00.977-.902 3.916 3.916 0 00.322-.448l.007-.012.003-.004v-.002h.001c0-.001 0-.002-.655-.366l.655.365A.754.754 0 0014 11V7.75a.747.747 0 00-.118-.404l1.434-.666a.75.75 0 000-1.36l-7-3.25zM12.5 7.988L8.316 9.93a.75.75 0 01-.632 0L3.5 7.988v2.723a5.585 5.585 0 00.99.776c.804.5 2.043 1.013 3.76 1.013 1.713 0 2.81-.51 3.468-.984a3.812 3.812 0 00.782-.745V7.988zM8 8.423L2.781 6 8 3.577 13.219 6 8 8.423z\" clip-rule=\"evenodd\"></path></svg></SPAN><SPAN class=\"icon-card-link_text__QBpCH hds-typography-body-200\"><text>Tutorials</text></SPAN></DIV><DIV class=\"hds-surface-mid card_root__RyqjV card-link_root__xgxTP icon-card-link_root__Bh28M\"><A aria-label=\"Documentation\" class=\"card-link_anchor___5xoF possible-clickable-element\" href=\"/terraform/docs\" data-testid=\"Z\"><SPAN aria-hidden=\"true\"></SPAN></A><SPAN class=\"icon-card-link_icon__nXl2M\" style=\"--icon-color:var(--token-color-terraform-brand)\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" fill=\"none\" viewBox=\"0 0 16 16\" aria-hidden=\"true\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M4.25 1A2.25 2.25 0 002 3.25v9.5A2.25 2.25 0 004.25 15h8.5c.69 0 1.25-.56 1.25-1.25V2.25C14 1.56 13.44 1 12.75 1h-8.5zM3.5 12.75c0 .414.336.75.75.75h8.25v-2H4.25a.75.75 0 00-.75.75v.5zm0-2.622c.235-.083.487-.128.75-.128h8.25V2.5H4.25a.75.75 0 00-.75.75v6.878z\" clip-rule=\"evenodd\"></path></svg></SPAN><SPAN class=\"icon-card-link_text__QBpCH hds-typography-body-200\"><text>Documentation</text></SPAN></DIV></UL></DIV><H2 id=\"what-is-terraform\" class=\"overview-cta_heading__1FpUo g-offset-scroll-margin-top hds-typography-display-300\"><text>What is Terraform?</text></H2><DIV class=\"sidebar-sidecar-layout_sidecarPosition__WtTq0\"><DIV class=\"sidecar-scroll-container_root__a8nIj\"><DIV class=\"sidecar-scroll-container_scrollContainer__Dw9id\"><NAV aria-labelledby=\"react-aria-68\"><P id=\"react-aria-68\" class=\"outline-nav_navLabel__HrjQb hds-typography-body-100\"><text>On this page:</text></P><OL class=\"outline-nav_listRoot__Sm1fr\"><A class=\"outline-link_root__S7fQg hds-typography-body-200 g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/terraform#what-is-terraform\" data-testid=\"AA\"><text>What is Terraform?</text></A><A class=\"outline-link_root__S7fQg hds-typography-body-200 g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/terraform#get-started\" data-testid=\"AB\"><text>Get Started</text></A><A class=\"outline-link_root__S7fQg hds-typography-body-200 g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/terraform#terraform-sandbox\" data-testid=\"AC\"><text>Terraform Sandbox</text></A><A class=\"outline-link_root__S7fQg hds-typography-body-200 g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/terraform#best-practices\" data-testid=\"AD\"><text>Best Practices</text></A><A class=\"outline-link_root__S7fQg hds-typography-body-200 g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/terraform#featured-documentation\" data-testid=\"AE\"><text>Featured Documentation</text></A><A class=\"outline-link_root__S7fQg hds-typography-body-200 g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/terraform#popular-use-cases\" data-testid=\"AF\"><text>Popular Use Cases</text></A><A class=\"outline-link_root__S7fQg hds-typography-body-200 g-focus-ring-from-box-shadow possible-clickable-element\" href=\"/terraform#get-certified\" data-testid=\"AG\"><text>Get Certified</text></A></OL></NAV></DIV></DIV></DIV><DIV style=\"position:fixed;z-index:99;top:16px;left:16px;right:16px;bottom:16px;pointer-events:none;inset:24px\"></DIV><ASIDE class=\"dg-consent-banner dg-neutral dg-left visible\" aria-hidden=\"false\" style=\"display: block;\"><DIV class=\"dg-app\" tabindex=\"0\"><DIV class=\"dg-header\"><H1 class=\"dg-main-content-explanation dg-text-title\"><text>Privacy Settings</text></H1><DIV class=\"dg-header-buttons\"><BUTTON class=\"_48mA0q_buttonUnstyled dg-header-close\" aria-label=\"Close\" data-testid=\"dg-header-close\"><svg aria-hidden=\"true\" width=\"24\" height=\"25\" viewBox=\"0 0 24 25\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g id=\"clear\" clipPath=\"url(#clip0_271_670)\"><path id=\"Vector\" d=\"M19 6.91L17.59 5.5L12 11.09L6.41 5.5L5 6.91L10.59 12.5L5 18.09L6.41 19.5L12 13.91L17.59 19.5L19 18.09L13.41 12.5L19 6.91Z\" fill=\"#17191A\"></path></g><rect width=\"24\" height=\"24\" fill=\"white\" transform=\"translate(0 0.5)\"></rect></svg></BUTTON></DIV></DIV><DIV class=\"dg-main-language-dropdown\"><BUTTON aria-label=\"Open language dropdown\" class=\"language-dropdown-trigger\"><svg class=\"language-dropdown-trigger-icon-start\" width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M7.09078 0.382324C3.58602 0.382324 0.747925 3.36899 0.747925 7.04899C0.747925 10.729 3.58602 13.7157 7.09078 13.7157C10.6019 13.7157 13.4463 10.729 13.4463 7.04899C13.4463 3.36899 10.6019 0.382324 7.09078 0.382324ZM11.4908 4.38232H9.61777C9.41459 3.54899 9.12253 2.74899 8.74158 2.00899C9.90983 2.42899 10.8813 3.28232 11.4908 4.38232ZM7.09713 1.74232C7.62412 2.54232 8.03681 3.42899 8.30983 4.38232H5.88443C6.15745 3.42899 6.57015 2.54232 7.09713 1.74232ZM2.18285 8.38232C2.08126 7.95566 2.01777 7.50899 2.01777 7.04899C2.01777 6.58899 2.08126 6.14232 2.18285 5.71566H4.32888C4.27808 6.15566 4.23999 6.59566 4.23999 7.04899C4.23999 7.50232 4.27808 7.94232 4.32888 8.38232H2.18285ZM2.70348 9.71566H4.5765C4.77967 10.549 5.07173 11.349 5.45269 12.089C4.28443 11.669 3.313 10.8223 2.70348 9.71566ZM4.5765 4.38232H2.70348C3.313 3.27566 4.28443 2.42899 5.45269 2.00899C5.07173 2.74899 4.77967 3.54899 4.5765 4.38232ZM7.09713 12.3557C6.57015 11.5557 6.15745 10.669 5.88443 9.71566H8.30983C8.03681 10.669 7.62412 11.5557 7.09713 12.3557ZM8.58285 8.38232H5.61142C5.55427 7.94232 5.50983 7.50232 5.50983 7.04899C5.50983 6.59566 5.55427 6.14899 5.61142 5.71566H8.58285C8.63999 6.14899 8.68443 6.59566 8.68443 7.04899C8.68443 7.50232 8.63999 7.94232 8.58285 8.38232ZM8.74158 12.089C9.12253 11.349 9.41459 10.549 9.61777 9.71566H11.4908C10.8813 10.8157 9.90983 11.669 8.74158 12.089ZM9.86539 8.38232C9.91618 7.94232 9.95428 7.50232 9.95428 7.04899C9.95428 6.59566 9.91618 6.15566 9.86539 5.71566H12.0114C12.113 6.14232 12.1765 6.58899 12.1765 7.04899C12.1765 7.50899 12.113 7.95566 12.0114 8.38232H9.86539Z\" fill=\"#17191A\"></path></svg><text>English</text><svg class=\"language-dropdown-trigger-icon-end\" width=\"20\" height=\"20\" viewBox=\"0 0 16 17\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clipPath=\"url(#clip0_323_893)\"><path d=\"M10.5867 6.69329L7.99999 9.27996L5.41332 6.69329C5.15332 6.43329 4.73332 6.43329 4.47332 6.69329C4.21332 6.95329 4.21332 7.37329 4.47332 7.63329L7.53332 10.6933C7.79332 10.9533 8.21332 10.9533 8.47332 10.6933L11.5333 7.63329C11.7933 7.37329 11.7933 6.95329 11.5333 6.69329C11.2733 6.43996 10.8467 6.43329 10.5867 6.69329Z\" fill=\"#17191A\"></path></g><rect width=\"20\" height=\"20\" fill=\"white\" transform=\"translate(0 0.5)\"></rect></svg></BUTTON></DIV><P class=\"dg-main-content-explanation dg-text-body\"><text>This tool helps you manage consent to third party technologies collecting and processing personal data. To limit cross-site tracking, your cookie preferences will remain isolated and will not be shared across any HashiCorp domains.</text></P><DIV class=\"dg-links\"><A class=\"dg-link\" href=\"https://www.hashicorp.com/trust/privacy\" target=\"_blank\" rel=\"noopener noreferrer\"><text>Privacy Policy</text></A></DIV><BUTTON class=\"dg-button accept_all\"><text>Accept All</text></BUTTON><BUTTON class=\"dg-button reject_all\"><text>Accept Required Only</text></BUTTON><BUTTON class=\"dg-button open_layer\"><text>Update Preferences</text></BUTTON></DIV></ASIDE></HTML>",
+    "parsed_html": "\n<\n  body|\n  <\n    header|\n    <path[A]| >\n    <svg[B]| >\n    <\n      div|\n      <path[C]| >\n      <span[D]| Terraform >\n      <\n        ul|\n        <span[E]| Install >\n        <span[F]| Tutorials >\n        <span[G]| Documentation >\n        <svg[H]| >\n        <span[I]| Registry >\n        <path[J]| >\n        <span| (opens in new tab) >\n        <span[K]| Try Cloud >\n        <path[L]| >\n        <span| (opens in new tab) >\n      >\n    >\n    <\n      button|\n      <svg[M]| >\n      <span[N]| Search >\n      <\n        span|\n        <span| Command or control key >\n        <svg[O]| >\n        <span| K key >\n        <path[P]| >\n      >\n    >\n    <g[Q]| >\n    <svg[R]| >\n  >\n  <\n    nav|\n    <h2| Terraform >\n    <\n      ul|\n      <path[S]| >\n      <span[T]| Terraform >\n      <span[U]| Install >\n      <span[V]| Intro to Terraform >\n      <span| Tutorials >\n      <span| Documentation >\n      <\n        ul|\n        <span| Documentation >\n        <span| Configuration Language >\n        <span| Terraform CLI >\n        <span| HCP Terraform >\n        <span| Terraform Enterprise >\n        <span| Terraform Migrate >\n        <span| CDK for Terraform >\n        <span| Provider Use >\n        <span| Plugin Development >\n        <span| Registry Publishing >\n        <span| Integration Program >\n      >\n    >\n  >\n  <\n    ol|\n    <a[W]| Developer >\n    <span| Terraform >\n  >\n  <h1| Automate Infrastructure on Any Cloud >\n  <\n    ul|\n    <a[X]| >\n    <span| Install >\n    <a[Y]| >\n    <span| Tutorials >\n    <a[Z]| >\n    <span| Documentation >\n  >\n  <h2| What is Terraform? >\n  <\n    nav|\n    <p| On this page: >\n    <\n      ol|\n      <a[AA]| What is Terraform? >\n      <a[AB]| Get Started >\n      <a[AC]| Terraform Sandbox >\n      <a[AD]| Best Practices >\n      <a[AE]| Featured Documentation >\n      <a[AF]| Popular Use Cases >\n      <a[AG]| Get Certified >\n    >\n  >\n  <\n    div|\n    <h1| Privacy Settings >\n    <button[dg-header-close]| >\n    <button| English >\n    <p| This tool helps you manage consent to third party technologies collecting and processing personal data. To limit cross-site tracking, your cookie preferences will remain isolated and will not be shared across any HashiCorp domains. >\n    <a| Privacy Policy >\n    <button| Accept All >\n    <button| Accept Required Only >\n    <button| Update Preferences >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 33.604000091552734,
+                "top": 20,
+                "right": 46.393333435058594,
+                "bottom": 47.994667053222656,
+                "width": 12.78933334350586,
+                "height": 27.994667053222656
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 60,
+                "top": 26,
+                "right": 76,
+                "bottom": 42,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 101.5,
+                "top": 22,
+                "right": 122.5,
+                "bottom": 46,
+                "width": 21,
+                "height": 24
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 130,
+                "top": 24,
+                "right": 189.90625,
+                "bottom": 44,
+                "width": 59.90625,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Terraform"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 213.90625,
+                "top": 24,
+                "right": 250.484375,
+                "bottom": 44,
+                "width": 36.578125,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Install"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 274.484375,
+                "top": 24,
+                "right": 327.65625,
+                "bottom": 44,
+                "width": 53.171875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Tutorials"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 351.65625,
+                "top": 24,
+                "right": 445.828125,
+                "bottom": 44,
+                "width": 94.171875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Documentation"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 451.828125,
+                "top": 26,
+                "right": 467.828125,
+                "bottom": 42,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 491.828125,
+                "top": 24,
+                "right": 543.1875,
+                "bottom": 44,
+                "width": 51.359375,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Registry"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 555.2061767578125,
+                "top": 26,
+                "right": 564.1875,
+                "bottom": 34.981292724609375,
+                "width": 8.9813232421875,
+                "height": 8.981292724609375
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 589.1875,
+                "top": 24,
+                "right": 649.359375,
+                "bottom": 44,
+                "width": 60.171875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Try Cloud"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 661.3780517578125,
+                "top": 26,
+                "right": 670.359375,
+                "bottom": 34.981292724609375,
+                "width": 8.9813232421875,
+                "height": 8.981292724609375
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 1014.640625,
+                "top": 26,
+                "right": 1030.640625,
+                "bottom": 42,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 1038.640625,
+                "top": 24,
+                "right": 1083,
+                "bottom": 44,
+                "width": 44.359375,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Search"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 1105,
+                "top": 29,
+                "right": 1145,
+                "bottom": 39,
+                "width": 40,
+                "height": 10
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 1161.1500244140625,
+                "top": 29.84000015258789,
+                "right": 1168.1490478515625,
+                "bottom": 38.84000015258789,
+                "width": 6.9990234375,
+                "height": 9
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 1209,
+                "top": 25,
+                "right": 1227,
+                "bottom": 43,
+                "width": 18,
+                "height": 18
+            },
+            "tag": "g",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 1238,
+                "top": 26,
+                "right": 1254,
+                "bottom": 42,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 25,
+                "top": 110,
+                "right": 39,
+                "bottom": 126,
+                "width": 14,
+                "height": 16
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 48,
+                "top": 108,
+                "right": 107.90625,
+                "bottom": 128,
+                "width": 59.90625,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Terraform"
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 24,
+                "top": 146,
+                "right": 288,
+                "bottom": 166,
+                "width": 264,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Install"
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 24,
+                "top": 184,
+                "right": 288,
+                "bottom": 204,
+                "width": 264,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Intro to Terraform"
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 368,
+                "top": 104,
+                "right": 427.265625,
+                "bottom": 121.984375,
+                "width": 59.265625,
+                "height": 17.984375
+            },
+            "tag": "a",
+            "text": "Developer"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 368,
+                "top": 491.640625,
+                "right": 624,
+                "bottom": 543.640625,
+                "width": 256,
+                "height": 52
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 648,
+                "top": 491.640625,
+                "right": 904,
+                "bottom": 543.640625,
+                "width": 256,
+                "height": 52
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 368,
+                "top": 567.640625,
+                "right": 624,
+                "bottom": 619.640625,
+                "width": 256,
+                "height": 52
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 953,
+                "top": 176.96875,
+                "right": 1071,
+                "bottom": 204.96875,
+                "width": 118,
+                "height": 28
+            },
+            "tag": "a",
+            "text": "What is Terraform?"
+        },
+        {
+            "keep": true,
+            "id": "AB",
+            "rects": {
+                "left": 953,
+                "top": 204.96875,
+                "right": 1024.59375,
+                "bottom": 232.96875,
+                "width": 71.59375,
+                "height": 28
+            },
+            "tag": "a",
+            "text": "Get Started"
+        },
+        {
+            "keep": true,
+            "id": "AC",
+            "rects": {
+                "left": 953,
+                "top": 232.96875,
+                "right": 1072.0625,
+                "bottom": 260.96875,
+                "width": 119.0625,
+                "height": 28
+            },
+            "tag": "a",
+            "text": "Terraform Sandbox"
+        },
+        {
+            "keep": true,
+            "id": "AD",
+            "rects": {
+                "left": 953,
+                "top": 260.96875,
+                "right": 1042.484375,
+                "bottom": 288.96875,
+                "width": 89.484375,
+                "height": 28
+            },
+            "tag": "a",
+            "text": "Best Practices"
+        },
+        {
+            "keep": true,
+            "id": "AE",
+            "rects": {
+                "left": 953,
+                "top": 288.96875,
+                "right": 1107.09375,
+                "bottom": 316.96875,
+                "width": 154.09375,
+                "height": 28
+            },
+            "tag": "a",
+            "text": "Featured Documentation"
+        },
+        {
+            "keep": true,
+            "id": "AF",
+            "rects": {
+                "left": 953,
+                "top": 316.96875,
+                "right": 1073.625,
+                "bottom": 344.96875,
+                "width": 120.625,
+                "height": 28
+            },
+            "tag": "a",
+            "text": "Popular Use Cases"
+        },
+        {
+            "keep": true,
+            "id": "AG",
+            "rects": {
+                "left": 953,
+                "top": 344.96875,
+                "right": 1031.59375,
+                "bottom": 372.96875,
+                "width": 78.59375,
+                "height": 28
+            },
+            "tag": "a",
+            "text": "Get Certified"
+        }
+    ]
+}

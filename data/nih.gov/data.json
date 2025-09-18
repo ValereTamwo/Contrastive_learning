@@ -1,0 +1,188 @@
+{
+    "raw_html": "<A href=\"#main-content\" class=\"visually-hidden focusable skip-link\"><text>Skip to main content</text></A><SECTION class=\"usa-banner\" aria-label=\"Official government website\"><DIV class=\"usa-accordion\"><HEADER class=\"usa-banner__header\"><DIV class=\"usa-banner__inner\"><DIV class=\"grid-col-auto\"><IMG class=\"usa-banner__header-flag\" src=\"/themes/custom/nih2_uswds/assets/img/us_flag.svg\" alt=\"U.S. flag\"></IMG></DIV><DIV class=\"grid-col-fill tablet:grid-col-auto\"><P class=\"usa-banner__header-text\"><text>An official website of the United States government</text></P></DIV><BUTTON class=\"usa-accordion__button usa-banner__button\" aria-expanded=\"false\" aria-controls=\"gov-banner\"><SPAN class=\"usa-banner__button-text possible-clickable-element\" data-testid=\"A\"><text>Here’s how you know</text></SPAN></BUTTON></DIV></HEADER></DIV></SECTION><DIV class=\"usa-overlay\"></DIV><HEADER class=\"usa-header usa-header--extended\" role=\"banner\"><DIV class=\"usa-navbar\"><DIV class=\"region region-header\"><DIV class=\"usa-logo\" id=\"logo\"><A class=\"logo-img\" href=\"/\" accesskey=\"1\" title=\"Home\" aria-label=\"Home\"><IMG src=\"/themes/custom/nih2_uswds/assets/img/nih-logo.png\" alt=\"Home\" class=\"possible-clickable-element\" data-testid=\"B\"></IMG></A></DIV></DIV></DIV><NAV aria-label=\"Primary navigation\" class=\"usa-nav\" role=\"navigation\"><DIV class=\"usa-nav__inner\"><DIV class=\"region region-primary-menu\"><UL class=\"usa-nav__primary usa-accordion\"><LI class=\"usa-nav__primary-item\"><BUTTON class=\"usa-accordion__button usa-nav__link\" aria-expanded=\"false\" aria-controls=\"basic-nav-section-1\"><SPAN class=\"possible-clickable-element\" data-testid=\"C\"><text>Health Information</text></SPAN></BUTTON></LI><LI class=\"usa-nav__primary-item\"><BUTTON class=\"usa-accordion__button usa-nav__link\" aria-expanded=\"false\" aria-controls=\"basic-nav-section-2\"><SPAN class=\"possible-clickable-element\" data-testid=\"D\"><text>Grants & Funding</text></SPAN></BUTTON></LI><LI class=\"usa-nav__primary-item\"><BUTTON class=\"usa-accordion__button usa-nav__link\" aria-expanded=\"false\" aria-controls=\"basic-nav-section-3\"><SPAN class=\"possible-clickable-element\" data-testid=\"E\"><text>News & Events</text></SPAN></BUTTON></LI><LI class=\"usa-nav__primary-item\"><BUTTON class=\"usa-accordion__button usa-nav__link\" aria-expanded=\"false\" aria-controls=\"basic-nav-section-4\"><SPAN class=\"possible-clickable-element\" data-testid=\"F\"><text>Research & Training</text></SPAN></BUTTON></LI><LI class=\"usa-nav__primary-item\"><BUTTON class=\"usa-accordion__button usa-nav__link\" aria-expanded=\"false\" aria-controls=\"basic-nav-section-5\"><SPAN class=\"possible-clickable-element\" data-testid=\"G\"><text>Institutes at NIH</text></SPAN></BUTTON></LI><LI class=\"usa-nav__primary-item\"><BUTTON class=\"usa-accordion__button usa-nav__link\" aria-expanded=\"false\" aria-controls=\"basic-nav-section-6\"><SPAN class=\"possible-clickable-element\" data-testid=\"H\"><text>About NIH</text></SPAN></BUTTON></LI></UL></DIV><DIV class=\"usa-nav__secondary\"><DIV class=\"region region-secondary-menu\"><UL class=\"usa-nav__secondary-links\"><LI class=\"usa-nav__secondary-item\"><A href=\"/virtual-tour\" class=\"possible-clickable-element\" data-testid=\"I\"><text>Virtual Tour</text></A></LI><LI class=\"usa-nav__secondary-item\"><A href=\"https://salud.nih.gov/\" class=\"possible-clickable-element\" data-testid=\"J\"><text>En Español</text></A></LI></UL><DIV class=\"search-block-form usa-form block block-search container-inline\" data-drupal-selector=\"search-block-form\" id=\"block-nih2-uswds-search\" role=\"search\"><FORM class=\"usa-search\" role=\"search\" id=\"search_form\" action=\"https://search.usa.gov/search\" accept-charset=\"UTF-8\" method=\"get\"><INPUT class=\"usa-input usagov-search-autocomplete ui-autocomplete-input possible-clickable-element\" id=\"extended-search-field-en-small\" type=\"search\" name=\"query\" autocomplete=\"off\" placeholder=\"Search NIH\" data-testid=\"K\" style=\"ui-helper-hidden-accessible\"></INPUT><BUTTON class=\"usa-button\" type=\"submit\" name=\"commit\" data-disable-with=\"Search\"><SPAN class=\"usa-search__submit-text possible-clickable-element\" data-testid=\"L\"><text>Search</text></SPAN></BUTTON></FORM></DIV></DIV></DIV></DIV></NAV></HEADER><DIV class=\"region region-hero\"><SECTION class=\"usa-hero\" style=\"background-image:url(/sites/default/files/2025-09/Recovery%20Month.png);\"><DIV id=\"block-herohomepage\" class=\"block block-block-content block-block-content399c9b75-dd6a-4db7-badc-c9e998495037\"><DIV class=\"grid-container\"><DIV class=\"grid-row flex-column flex-align-end\"><DIV class=\"usa-hero__callout\"><H2 class=\"usa-hero__heading heading--without-rule\"><text>September is National Recovery Month</text></H2><text>Learn about treatments to help people recover from alcohol use disorder.</text><A class=\"usa-button possible-clickable-element\" href=\"https://alcoholtreatment.niaaa.nih.gov/\" data-testid=\"M\"><text>Learn more</text></A></DIV></DIV></DIV></DIV></SECTION></DIV>",
+    "parsed_html": "\n<\n  div|\n  <a| Skip to main content >\n  <\n    div|\n    <p| An official website of the United States government >\n    <span[A]| Here’s how you know >\n  >\n  <\n    header|\n    <\n      a| Home\n      <img[B]| >\n    >\n    <\n      div|\n      <\n        ul|\n        <span[C]| Health Information >\n        <span[D]| Grants & Funding >\n        <span[E]| News & Events >\n        <span[F]| Research & Training >\n        <span[G]| Institutes at NIH >\n        <span[H]| About NIH >\n      >\n      <\n        div|\n        <\n          ul|\n          <a[I]| Virtual Tour >\n          <a[J]| En Español >\n        >\n        <\n          form|\n          <input[K]| Search NIH >\n          <span[L]| Search >\n        >\n      >\n    >\n  >\n  <\n    div|\n    <h2| September is National Recovery Month >\n    <text| Learn about treatments to help people recover from alcohol use disorder. >\n    <a[M]| Learn more >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 337,
+                "top": 3,
+                "right": 453,
+                "bottom": 19,
+                "width": 116,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Here’s how you know"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 32,
+                "top": 46.0625,
+                "right": 421.953125,
+                "bottom": 107.015625,
+                "width": 389.953125,
+                "height": 60.953125
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 32,
+                "top": 147.015625,
+                "right": 187,
+                "bottom": 162.265625,
+                "width": 155,
+                "height": 15.25
+            },
+            "tag": "span",
+            "text": "Health Information"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 219,
+                "top": 147.015625,
+                "right": 359,
+                "bottom": 162.265625,
+                "width": 140,
+                "height": 15.25
+            },
+            "tag": "span",
+            "text": "Grants & Funding"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 391,
+                "top": 147.015625,
+                "right": 513,
+                "bottom": 162.265625,
+                "width": 122,
+                "height": 15.25
+            },
+            "tag": "span",
+            "text": "News & Events"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 545,
+                "top": 147.015625,
+                "right": 702,
+                "bottom": 162.265625,
+                "width": 157,
+                "height": 15.25
+            },
+            "tag": "span",
+            "text": "Research & Training"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 734,
+                "top": 147.015625,
+                "right": 872,
+                "bottom": 162.265625,
+                "width": 138,
+                "height": 15.25
+            },
+            "tag": "span",
+            "text": "Institutes at NIH"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 904,
+                "top": 147.015625,
+                "right": 997,
+                "bottom": 162.265625,
+                "width": 93,
+                "height": 15.25
+            },
+            "tag": "span",
+            "text": "About NIH"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 1091,
+                "top": 44.890625,
+                "right": 1163,
+                "bottom": 58.265625,
+                "width": 72,
+                "height": 13.375
+            },
+            "tag": "a",
+            "text": "Virtual Tour"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 1180,
+                "top": 44.890625,
+                "right": 1248,
+                "bottom": 58.265625,
+                "width": 68,
+                "height": 13.375
+            },
+            "tag": "a",
+            "text": "En Español"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 912,
+                "top": 74.265625,
+                "right": 1155.6875,
+                "bottom": 106.265625,
+                "width": 243.6875,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 1171.6875,
+                "top": 75.796875,
+                "right": 1232,
+                "bottom": 104.71875,
+                "width": 60.3125,
+                "height": 28.921875
+            },
+            "tag": "span",
+            "text": "Search"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 960,
+                "top": 430.84375,
+                "right": 1098.46875,
+                "bottom": 471.3125,
+                "width": 138.46875,
+                "height": 40.46875
+            },
+            "tag": "a",
+            "text": "Learn more"
+        }
+    ]
+}

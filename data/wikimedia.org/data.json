@@ -1,0 +1,48 @@
+{
+    "raw_html": "<DIV class=\"banner\"><DIV class=\"header\"><DIV class=\"title\"><DIV class=\"title-image-wrapper\"><IMG class=\"title-image\" alt=\"portal/wikimedia.org/assets/js/index-7a7f1bc88c.js\" src=\"portal/wikimedia.org/assets/img/wikimedia_logo.png\"></IMG></DIV></DIV></DIV><DIV class=\"welcome\"><DIV class=\"welcome-message-wrapper\"><SPAN class=\"welcome-message jsl10n\" data-jsl10n=\"wikimedia-org-welcome\"><text>Welcome! The Wikimedia movement is a global community of people, projects, and activities working together to create and share knowledge freely.</text></SPAN><SPAN class=\"welcome-message-subtext jsl10n\" data-jsl10n=\"wikimedia-org-welcome-subtitle\"><text>Join us in making all knowledge available to everyone, everywhere.</text></SPAN></DIV><IMG class=\"welcome-image\" src=\"portal/wikimedia.org/assets/img/welcome-image.svg\"></IMG></DIV></DIV><DIV class=\"our-projects-wrapper\"><DIV class=\"our-projects\"><DIV class=\"our-projects-title-wrapper\"><SPAN class=\"our-projects-title jsl10n\" data-jsl10n=\"wikimedia-org-our-projects\"><text>Our Projects</text></SPAN></DIV><DIV class=\"our-projects-desc-wrapper\"><SPAN class=\"our-projects-desc jsl10n\" data-jsl10n=\"wikimedia-org-our-projects-desc\"><text>Our projects are the core of the</text><A href=\"https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_movement\" class=\"possible-clickable-element\" data-testid=\"A\"><text>Wikimedia movement</text></A><text>. All major projects are operated by the</text><A href=\"https://wikimediafoundation.org/\" class=\"possible-clickable-element\" data-testid=\"B\"><text>Wikimedia Foundation</text></A><text>, and the content is collaboratively developed by over 260,000 users worldwide using the</text><A href=\"https://www.mediawiki.org/\" class=\"possible-clickable-element\" data-testid=\"C\"><text>MediaWiki</text></A><text>software.</text></SPAN></DIV></DIV></DIV>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <span| Welcome! The Wikimedia movement is a global community of people, projects, and activities working together to create and share knowledge freely. >\n    <span| Join us in making all knowledge available to everyone, everywhere. >\n  >\n  <\n    div|\n    <span| Our Projects >\n    <\n      span|\n      <text| Our projects are the core of the >\n      <a[A]| Wikimedia movement >\n      <text| . All major projects are operated by the >\n      <a[B]| Wikimedia Foundation >\n      <text| , and the content is collaboratively developed by over 260,000 users worldwide using the >\n      <a[C]| MediaWiki >\n      <text| software. >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 364.390625,
+                "top": 651,
+                "right": 517.328125,
+                "bottom": 668,
+                "width": 152.9375,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Wikimedia movement"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 795.703125,
+                "top": 651,
+                "right": 954,
+                "bottom": 668,
+                "width": 158.296875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Wikimedia Foundation"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 630.359375,
+                "top": 675,
+                "right": 704.15625,
+                "bottom": 692,
+                "width": 73.796875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "MediaWiki"
+        }
+    ]
+}

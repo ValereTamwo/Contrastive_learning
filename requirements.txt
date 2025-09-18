@@ -1,0 +1,12 @@
+# Core ML Framework
+torch
+torchvision
+# Hugging Face ecosystem for models and tokenizers
+transformers
+accelerate
+datasets
+sentencepiece
+
+# Utilities
+tqdm
+Pillow

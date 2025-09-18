@@ -1,0 +1,132 @@
+{
+    "raw_html": "<DIV class=\"glue-cookie-notification-bar\" id=\"glue-cookie-notification-bar-1\" aria-labelledby=\"glue-cookie-notification-bar-1-label\" role=\"region\" data-nosnippet=\"\" tabindex=\"-1\" style=\"font-size: 1.6rem;\"><P class=\"glue-cookie-notification-bar__text\"><SPAN id=\"glue-cookie-notification-bar-1-label\"><text>google.com/ads/adtrafficquality uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.</text></SPAN><A href=\"https://policies.google.com/technologies/cookies?hl=en\" class=\"glue-cookie-notification-bar__more possible-clickable-element\" rel=\"noopener\" aria-describedby=\"glue-cookie-notification-bar-1-label\" target=\"_blank\" aria-label=\"Learn more about how Google uses cookies. Opens in a new tab.\" data-testid=\"A\"><text>Learn more</text></A><text>.</text></P><BUTTON class=\"glue-cookie-notification-bar__accept possible-clickable-element\" data-testid=\"B\"><text>Understood</text></BUTTON></DIV><DIV class=\"glue-header header h-c-header h-c-header--product-marketing-two-tier\"><DIV class=\"h-c-header__bar\"><DIV class=\"h-c-header__lockup\"><DIV class=\"h-c-header__company-logo\"><A href=\"../../ads/adtrafficquality/\" class=\"h-c-header__company-logo-link\" title=\"Google\"><svg role=\"presentation\" aria-label=\"Google\" class=\"h-c-header__company-logo-img h-c-header__company-logo-img--standard possible-clickable-element\" data-testid=\"C\"><use xlink:href=\"#h-color-google-logo\"></use></svg><SPAN class=\"h-c-header__product-logo-text possible-clickable-element\" data-testid=\"D\"><text>Ads</text></SPAN></A></DIV><A href=\"#jump-content\" class=\"h-c-header__jump-to-content\" data-glue-jump-link=\"\"><SPAN class=\"h-c-header__jump-to-content-text\"><text>Skip to content</text></SPAN></A></DIV><DIV class=\"h-c-header__initiative-logo\"><A href=\"../../ads/adtrafficquality/\" class=\"h-c-header__initiative-logo-link\"><SPAN class=\"h-c-header__initiative-logo-text possible-clickable-element\" data-testid=\"E\"><text>Traffic Quality</text></SPAN></A></DIV><NAV class=\"h-c-header__nav\" role=\"navigation\"><UL class=\"h-c-header__nav-list\" role=\"menu\"><LI class=\"h-c-header__nav-li\" aria-level=\"1\" role=\"presentation\"><A href=\"../../ads/adtrafficquality/overview/\" class=\"h-c-header__nav-li-link possible-clickable-element\" title=\"Overview\" role=\"menuitem\" data-cached-tabindex=\"auto\" data-testid=\"F\"><text>Overview</text></A></LI><LI class=\"h-c-header__nav-li\" aria-level=\"1\" role=\"presentation\"><A href=\"../../ads/adtrafficquality/invalid-activity/\" class=\"h-c-header__nav-li-link possible-clickable-element\" title=\"Invalid activity\" role=\"menuitem\" data-cached-tabindex=\"auto\" data-testid=\"G\"><text>Invalid activity</text></A></LI><LI class=\"h-c-header__nav-li\" aria-level=\"1\" role=\"presentation\"><A href=\"../../ads/adtrafficquality/how-we-prevent-it/\" class=\"h-c-header__nav-li-link possible-clickable-element\" title=\"How we prevent it\" role=\"menuitem\" data-cached-tabindex=\"auto\" data-testid=\"H\"><text>How we prevent it</text></A></LI><LI class=\"h-c-header__nav-li\" aria-level=\"1\" role=\"presentation\"><A href=\"../../ads/adtrafficquality/what-you-can-do/\" class=\"h-c-header__nav-li-link possible-clickable-element\" title=\"What you can do\" role=\"menuitem\" data-cached-tabindex=\"auto\" data-testid=\"I\"><text>What you can do</text></A></LI></UL></NAV></DIV></DIV><SECTION class=\"hero\"><DIV class=\"h-c-grid\"><DIV class=\"h-c-grid__col h-c-grid__col-l--4\"><H1 class=\"hero__title\"><text>We protect you from invalid activity and advertising fraud</text></H1></DIV><DIV class=\"h-c-grid__col h-c-grid__col-l--8\"><DIV class=\"hero__canvas canvas-animation ng-isolate-scope\" style=\"width: 100%;\" canvas-animations=\"\" animation-name=\"homepage01\"><DIV class=\"animation-container\"><CANVAS id=\"canvas\" width=\"801\" height=\"450\" style=\"position: relative;display: block; background-color:rgba(255, 255, 255, 1); max-width: 100%;\"></CANVAS></DIV></DIV></DIV></DIV><H4 class=\"hero_description_heading\"><text>We work hard to get you real results from advertising.</text></H4></SECTION>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      p|\n      <span| google.com/ads/adtrafficquality uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. >\n      <a[A]| Learn more >\n      <text| . >\n    >\n    <button[B]| Understood >\n  >\n  <\n    div|\n    <\n      div|\n      <\n        a| Google\n        <svg[C]| >\n        <span[D]| Ads >\n      >\n      <span| Skip to content >\n    >\n    <span[E]| Traffic Quality >\n    <\n      ul|\n      <a[F]| Overview Overview >\n      <a[G]| Invalid activity Invalid activity >\n      <a[H]| How we prevent it How we prevent it >\n      <a[I]| What you can do What you can do >\n    >\n  >\n  <\n    section|\n    <h1| We protect you from invalid activity and advertising fraud >\n    <h4| We work hard to get you real results from advertising. >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 1048,
+                "top": 655,
+                "right": 1094,
+                "bottom": 676,
+                "width": 46,
+                "height": 21
+            },
+            "tag": "a",
+            "text": "Learn more"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 1128,
+                "top": 662,
+                "right": 1272,
+                "bottom": 712,
+                "width": 144,
+                "height": 50
+            },
+            "tag": "button",
+            "text": "Understood"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 24,
+                "top": 22,
+                "right": 98,
+                "bottom": 46,
+                "width": 74,
+                "height": 24
+            },
+            "tag": "svg",
+            "text": "\n            \n          "
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 106.5,
+                "top": 17.4375,
+                "right": 144.5,
+                "bottom": 49.203125,
+                "width": 38,
+                "height": 31.765625
+            },
+            "tag": "span",
+            "text": "Ads"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 24,
+                "top": 79,
+                "right": 159,
+                "bottom": 106,
+                "width": 135,
+                "height": 27
+            },
+            "tag": "span",
+            "text": "Traffic Quality"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 219,
+                "top": 64,
+                "right": 282,
+                "bottom": 128,
+                "width": 63,
+                "height": 64
+            },
+            "tag": "a",
+            "text": "Overview"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 318,
+                "top": 64,
+                "right": 409,
+                "bottom": 128,
+                "width": 91,
+                "height": 64
+            },
+            "tag": "a",
+            "text": "Invalid activity"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 445,
+                "top": 64,
+                "right": 563.25,
+                "bottom": 128,
+                "width": 118.25,
+                "height": 64
+            },
+            "tag": "a",
+            "text": "How we prevent it"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 599.25,
+                "top": 64,
+                "right": 707,
+                "bottom": 128,
+                "width": 107.75,
+                "height": 64
+            },
+            "tag": "a",
+            "text": "What you can do"
+        }
+    ]
+}

@@ -1,0 +1,370 @@
+{
+    "raw_html": "<DIV class=\"universalheader\" data-component-id=\"cf9a86dceae618e01d6e6399d243873c\"><DIV id=\"headerArea\" class=\"uhf\" data-m=\"{\"cN\":\"headerArea\",\"cT\":\"Area_coreuiArea\",\"id\":\"a1Body\",\"sN\":1,\"aN\":\"Body\"}\"><DIV id=\"headerRegion\" data-region-key=\"headerregion\" data-m=\"{\"cN\":\"headerRegion\",\"cT\":\"Region_coreui-region\",\"id\":\"r1a1\",\"sN\":1,\"aN\":\"a1\"}\" style=\"overflow-x: visible;\"><DIV id=\"headerUniversalHeader\" data-m=\"{\"cN\":\"headerUniversalHeader\",\"cT\":\"Module_coreui-universalheader\",\"id\":\"m1r1a1\",\"sN\":1,\"aN\":\"r1a1\"}\" data-module-id=\"Category|headerRegion|coreui-region|headerUniversalHeader|coreui-universalheader\" style=\"overflow-x: visible;\"><DIV data-m=\"{\"cN\":\"cookiebanner_cont\",\"cT\":\"Container\",\"id\":\"c2c1m1r1a1\",\"sN\":2,\"aN\":\"c1m1r1a1\"}\" style=\"overflow-x: visible;\"><DIV id=\"uhfCookieAlert\" data-locale=\"fr-fr\" style=\"overflow-x: visible;\"><DIV id=\"msccBannerV2\" style=\"overflow-x: visible;\"><DIV id=\"wcpConsentBannerCtrl\" class=\"_23tra1HsiiP6cT-Cka-ycB\" dir=\"ltr\" role=\"alert\" style=\"overflow-x: visible;\"><DIV class=\"_1Upc2NjY8AlDn177YoVj0y\" style=\"overflow-x: visible;\"><SPAN class=\"_1V_hlU-7jdtPiooHMu89BB w8hcgFksdo30C8w-bygqu\" style=\"overflow-x: visible;\"><svg xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" viewBox=\"0 0 44 44\" width=\"24px\" height=\"24px\" fill=\"none\" stroke=\"currentColor\" style=\"overflow-x: visible;\"><circle cx=\"22\" cy=\"22\" r=\"20\" stroke-width=\"2\" style=\"overflow-x: visible;\"></circle><line x1=\"22\" x2=\"22\" y1=\"18\" y2=\"33\" stroke-width=\"3\" style=\"overflow-x: visible;\"></line><line x1=\"22\" x2=\"22\" y1=\"12\" y2=\"15\" stroke-width=\"3\" style=\"overflow-x: visible;\"></line></svg></SPAN><P class=\"f6QKJD7fhSbnJLarTL-W- ydkKdaztSS0AeHWIeIHsQ w8hcgFksdo30C8w-bygqu\" style=\"overflow-x: visible;\"><text>Nous utilisons des cookies facultatifs pour améliorer votre expérience sur nos sites Web, par exemple en vous permettant de vous connecter aux réseaux sociaux, et pour afficher de la publicité personnalisée en fonction de votre activités en ligne. Si vous refusez les cookies facultatifs, seuls les cookies nécessaires pour vous fournir les services seront utilisés. Vous pouvez modifier votre sélection en cliquant sur « Gérer les cookies » au bas de la page.</text><A target=\"_blank\" href=\"https://go.microsoft.com/fwlink/?LinkId=521839\" style=\"overflow-x: visible;\" data-bi-ct=\"text\" data-bi-cn=\"déclaration de confidentialité\" data-bi-bhvr=\"DOWNLOAD\" class=\"possible-clickable-element\" data-testid=\"A\"><text>Déclaration de confidentialité</text></A><A target=\"_blank\" href=\"https://aka.ms/3rdpartycookies\" style=\"overflow-x: visible;\" data-bi-ct=\"text\" data-bi-cn=\"cookies tiers\" class=\"possible-clickable-element\" data-testid=\"B\"><text>Cookies tiers</text></A></P></DIV><DIV class=\"_2j0fmugLb1FgYz6KPuB91w\" style=\"overflow-x: visible;\"><BUTTON type=\"button\" class=\"_1XuCi2WhiqeWRUVp3pnFG3 erL690_8JwUW-R4bJRcfl possible-clickable-element\" style=\"overflow-x: visible;\" data-bi-ct=\"button\" data-bi-cn=\"accepter\" data-testid=\"C\"><text>Accepter</text></BUTTON><BUTTON type=\"button\" class=\"_1XuCi2WhiqeWRUVp3pnFG3 erL690_8JwUW-R4bJRcfl possible-clickable-element\" style=\"overflow-x: visible;\" data-bi-ct=\"button\" data-bi-cn=\"refuser\" data-testid=\"D\"><text>Refuser</text></BUTTON><BUTTON type=\"button\" class=\"_1XuCi2WhiqeWRUVp3pnFG3 erL690_8JwUW-R4bJRcfl possible-clickable-element\" style=\"overflow-x: visible;\" data-bi-ct=\"button\" data-bi-cn=\"gérer les cookies\" data-testid=\"E\"><text>Gérer les cookies</text></BUTTON></DIV></DIV></DIV></DIV></DIV><HEADER class=\"c-uhfh context-uhf c-sgl-stck\" itemscope=\"itemscope\" data-header-footprint=\"/mshomepage/mshomepageheader, fromService: True\" data-magict=\"true\" itemtype=\"http://schema.org/Organization\" style=\"overflow-x: visible;\"><DIV class=\"theme-light js-global-head f-closed global-head-cont\" data-m=\"{\"cN\":\"Universal Header_cont\",\"cT\":\"Container\",\"id\":\"c4c1m1r1a1\",\"sN\":4,\"aN\":\"c1m1r1a1\"}\" style=\"overflow-x: visible;\"><DIV class=\"c-uhfh-gcontainer-st\" style=\"overflow-x: visible;\"><A id=\"uhfLogo\" class=\"c-logo c-sgl-stk-uhfLogo\" itemprop=\"url\" href=\"https://www.microsoft.com\" aria-label=\"Microsoft\" data-m=\"{\"cN\":\"GlobalNav_Logo_cont\",\"cT\":\"Container\",\"id\":\"c3c4c1m1r1a1\",\"sN\":3,\"aN\":\"c4c1m1r1a1\"}\" style=\"overflow-x: visible;\"><IMG alt=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" itemprop=\"logo\" class=\"c-image possible-clickable-element\" src=\"https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png\" role=\"presentation\" aria-hidden=\"true\" style=\"overflow-x: visible;\" data-testid=\"F\"></IMG><SPAN itemprop=\"name\" role=\"presentation\" aria-hidden=\"true\" style=\"overflow-x: visible;\"><text>Microsoft</text></SPAN></A><NAV id=\"uhf-g-nav\" aria-label=\"Menu contextuel\" class=\"c-uhfh-gnav\" data-m=\"{\"cN\":\"Category nav_cont\",\"cT\":\"Container\",\"id\":\"c6c4c1m1r1a1\",\"sN\":6,\"aN\":\"c4c1m1r1a1\"}\" style=\"overflow-x: visible;\"><UL class=\"js-paddle-items\" style=\"overflow-x: visible;\"><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"shellmenu_0\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://www.microsoft.com/fr-fr/microsoft-365\" data-m=\"{\"cN\":\"CatNav_M365_nav\",\"id\":\"n1c6c4c1m1r1a1\",\"sN\":1,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-testid=\"G\"><text>Microsoft 365</text></A></LI><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"l0_Teams\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software\" data-m=\"{\"cN\":\"CatNav_Teams_nav\",\"id\":\"n2c6c4c1m1r1a1\",\"sN\":2,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-testid=\"H\"><text>Teams</text></A></LI><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"shellmenu_2\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://copilot.microsoft.com/\" data-m=\"{\"cN\":\"CatNav_Copilot_nav\",\"id\":\"n3c6c4c1m1r1a1\",\"sN\":3,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-testid=\"I\"><text>Copilot</text></A></LI><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"shellmenu_3\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://www.microsoft.com/fr-fr/windows/\" data-m=\"{\"cN\":\"CatNav_Windows_nav\",\"id\":\"n4c6c4c1m1r1a1\",\"sN\":4,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-testid=\"J\"><text>Windows</text></A></LI><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"shellmenu_4\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://www.microsoft.com/surface\" data-m=\"{\"cN\":\"CatNav_Surface_nav\",\"id\":\"n5c6c4c1m1r1a1\",\"sN\":5,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-testid=\"K\"><text>Surface</text></A></LI><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"shellmenu_5\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://www.xbox.com/\" data-m=\"{\"cN\":\"CatNav_Xbox_nav\",\"id\":\"n6c6c4c1m1r1a1\",\"sN\":6,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-testid=\"L\"><text>Xbox</text></A></LI><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"shellmenu_6\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://www.microsoft.com/fr-fr/store/b/sale\" data-m=\"{\"cN\":\"CatNav_Deals_nav\",\"id\":\"n7c6c4c1m1r1a1\",\"sN\":7,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-bi-prtnm=\"ms store\" data-bi-ct=\"text\" data-bi-bhvr=\"PARTNERREFERRAL\" data-bi-prod=\"sale\" data-bi-cn=\"offres spéciales\" data-bi-prtid=\"www.microsoft.com\" data-testid=\"M\"><text>Offres spéciales</text></A></LI><LI class=\"single-link js-nav-menu uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"l0_SmallBusiness\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://www.microsoft.com/fr-fr/store/b/business\" data-m=\"{\"cN\":\"CatNav_Small Business_nav\",\"id\":\"n8c6c4c1m1r1a1\",\"sN\":8,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-bi-prtnm=\"ms store\" data-bi-ct=\"text\" data-bi-bhvr=\"PARTNERREFERRAL\" data-bi-prod=\"business\" data-bi-cn=\"tpe & pme\" data-bi-prtid=\"www.microsoft.com\" data-testid=\"N\"><text>TPE & PME</text></A></LI><LI class=\"single-link uhf-menu-item\" style=\"overflow-x: visible;\"><A id=\"l1_support\" class=\"c-uhf-nav-link possible-clickable-element\" href=\"https://support.microsoft.com/fr-fr\" data-m=\"{\"cN\":\"CatNav_Support_nav\",\"id\":\"n9c6c4c1m1r1a1\",\"sN\":9,\"aN\":\"c6c4c1m1r1a1\"}\" style=\"overflow-x: visible;\" data-testid=\"O\"><text>Support technique</text></A></LI></UL></NAV><DIV class=\"c-uhfh-actions\" data-m=\"{\"cN\":\"Header actions_cont\",\"cT\":\"Container\",\"id\":\"c7c4c1m1r1a1\",\"sN\":7,\"aN\":\"c4c1m1r1a1\"}\" style=\"overflow-x: visible;\"><DIV class=\"wf-menu\" style=\"overflow-x: visible;\"><NAV id=\"uhf-c-nav\" aria-label=\"Menu Tout Microsoft\" data-m=\"{\"cN\":\"GlobalNav_cont\",\"cT\":\"Container\",\"id\":\"c1c7c4c1m1r1a1\",\"sN\":1,\"aN\":\"c7c4c1m1r1a1\"}\" style=\"overflow-x: visible;\"><UL class=\"js-paddle-items\" style=\"overflow-x: visible;\"><LI style=\"overflow-x: visible;\"><DIV class=\"c-uhf-menu js-nav-menu\" style=\"overflow-x: visible;\"><BUTTON type=\"button\" class=\"c-button-logo all-ms-nav\" aria-expanded=\"false\" data-m=\"{\"cN\":\"GlobalNav_More_nonnav\",\"id\":\"nn1c1c7c4c1m1r1a1\",\"sN\":1,\"aN\":\"c1c7c4c1m1r1a1\"}\" style=\"overflow-x: visible;\"><SPAN style=\"overflow-x: visible;\" class=\"possible-clickable-element\" data-testid=\"P\"><text>Tout Microsoft</text></SPAN></BUTTON></DIV></LI></UL></NAV></DIV><FORM class=\"c-search\" autocomplete=\"off\" id=\"searchForm\" name=\"searchForm\" role=\"search\" action=\"https://www.microsoft.com/fr-fr/search/explore\" method=\"GET\" data-seautosuggest=\"{\"isAutosuggestDisabled\":false,\"queryParams\":{\"market\":\"fr-fr\",\"clientId\":\"7F27B536-CF6B-4C65-8638-A0F8CBDFCA65\",\"sources\":\"Iris-Products,DCatAll-Products,Microsoft-Terms\",\"filter\":\"+ClientType:StoreWeb\",\"counts\":\"1,5,5\"},\"familyNames\":{\"Apps\":\"Application\",\"Books\":\"Livre\",\"Bundles\":\"Pack\",\"Devices\":\"Appareil\",\"Fees\":\"Fee\",\"Games\":\"Jeu\",\"MusicAlbums\":\"Album\",\"MusicTracks\":\"Chanson\",\"MusicVideos\":\"Vidéo\",\"MusicArtists\":\"Artiste\",\"OperatingSystem\":\"Système d’exploitation\",\"Software\":\"Logiciel\",\"Movies\":\"Film\",\"TV\":\"TV\",\"CSV\":\"Carte-cadeau\",\"VideoActor\":\"Acteur\"}}\" data-seautosuggestapi=\"https://www.microsoft.com/msstoreapiprod/api/autosuggest\" data-m=\"{\"cN\":\"GlobalNav_Search_cont\",\"cT\":\"Container\",\"id\":\"c3c1c7c4c1m1r1a1\",\"sN\":3,\"aN\":\"c1c7c4c1m1r1a1\"}\" aria-expanded=\"false\" style=\"overflow-x: visible;\"><DIV class=\"x-screen-reader\" aria-live=\"assertive\"></DIV><BUTTON id=\"search\" aria-label=\"Rechercher sur Microsoft.com\" class=\"c-glyph possible-clickable-element\" data-m=\"{\"cN\":\"Search_nav\",\"id\":\"n2c3c1c7c4c1m1r1a1\",\"sN\":2,\"aN\":\"c3c1c7c4c1m1r1a1\"}\" data-bi-mto=\"true\" aria-expanded=\"false\" style=\"overflow-x: visible;\" data-testid=\"Q\"></BUTTON></FORM><A id=\"uhf-shopping-cart\" aria-label=\"0 articles dans le panier\" class=\"c-action-trigger c-glyph c-uhf-nav-link glyph-shopping-cart possible-clickable-element\" href=\"https://www.microsoft.com/fr-fr/store/cart\" data-src-dmn-chk=\"true\" data-m=\"{\"cN\":\"GlobalNav_Cart_nav\",\"bhvr\":82,\"id\":\"n5c1c7c4c1m1r1a1\",\"sN\":5,\"aN\":\"c1c7c4c1m1r1a1\",\"qtyincart\":\"0\"}\" style=\"overflow-x: visible;\" data-bi-prtnm=\"ms store\" data-bi-ct=\"text\" data-bi-bhvr=\"PARTNERREFERRAL\" data-bi-pid=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" data-bi-prod=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" data-bi-cn=\"0\" data-bi-prtid=\"www.microsoft.com\" data-testid=\"R\"></A><DIV id=\"meControl\" class=\"c-me\" data-signinsettings=\"{\"containerId\":\"meControl\",\"enabled\":true,\"headerHeight\":48,\"debug\":false,\"extensibleLinks\":[],\"userData\":{\"idp\":\"msa\",\"firstName\":\"\",\"lastName\":\"\",\"memberName\":\"\",\"cid\":\"\",\"authenticatedState\":\"3\"},\"rpData\":{\"preferredIdp\":\"msa\",\"msaInfo\":{\"signInUrl\":\"/fr-fr/store/signin\",\"signOutUrl\":\"/fr-fr/store/signout\",\"meUrl\":\"https://login.live.com/me.srf?wa=wsignin1.0\"},\"aadInfo\":{\"signOutUrl\":\"/fr-fr/store/signout\",\"appId\":\"\",\"siteUrl\":\"\",\"blockMsaFed\":true}}}\" data-m=\"{\"cN\":\"GlobalNav_Account_cont\",\"cT\":\"Container\",\"id\":\"c6c1c7c4c1m1r1a1\",\"sN\":6,\"aN\":\"c1c7c4c1m1r1a1\"}\" style=\"overflow-x: visible;\"><DIV class=\"mectrl_root mectrl_theme_light_header\"><A id=\"mectrl_main_trigger\" class=\"mectrl_resetStyle mectrl_trigger\" aria-label=\"Connectez-vous à votre compte\" href=\"https://www.microsoft.com/cascadeauth/store/account/signin?ru=https%3A%2F%2Fwww.microsoft.com%2Ffr-fr%2F\" target=\"_top\" data-bi-ct=\"text\" data-bi-cn=\"connectez-vous à votre compte\" data-bi-bhvr=\"PARTNERREFERRAL\" data-bi-prtnm=\"ms store\" data-bi-pid=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" data-bi-prod=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" data-bi-prtid=\"www.microsoft.com\"><SPAN class=\"mectrl_screen_reader_text possible-clickable-element\" data-testid=\"S\"><text>Connectez-vous à votre compte</text></SPAN><DIV class=\"mectrl_topHeader\" aria-hidden=\"true\" role=\"presentation\"><DIV id=\"mectrl_headerPicture\" class=\"mectrl_profilepic mectrl_glyph mectrl_signIn_circle_glyph possible-clickable-element\" aria-hidden=\"true\" role=\"presentation\" data-testid=\"T\"></DIV></DIV></A></DIV></DIV></DIV></DIV></DIV></HEADER></DIV></DIV></DIV></DIV><DIV class=\"responsivegrid aem-GridColumn aem-GridColumn--default--12\" data-bi-id=\"r2a3\" data-bi-cn=\"r2a3\"><DIV class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\" data-bi-id=\"m1r2a3\" data-bi-cn=\"m1r2a3\"><DIV class=\"alert-component aem-GridColumn aem-GridColumn--default--12\" data-component-id=\"eef2af98123779adee801727449a8dad\" data-bi-id=\"c1m1r2a3\" data-bi-cn=\"alert-componenta8dad_1\" data-module-id=\"true\"><DIV class=\"alertThemer\" data-enable-schedule-control=\"false\" data-start-date=\"UTC\" data-end-date=\"UTC\" data-automation-test-id=\"alert-uid50e0\"><SECTION role=\"region\" id=\"alert-uid50e0\" data-componentname=\"alert-uid50e0\" class=\"alert announcement-bar-theme alert-full-bleed bg-light-green\" aria-label=\"Bannière d’annonce\" data-mount=\"click-group\" data-automation-test-id=\"AnnouncementBar-alert-uid50e0\" data-bi-ecn=\"Alert bar\" data-bi-pa=\"Body\" data-bi-ct=\"Button\" data-bi-bhvr=\"0\" data-bi-cn=\"alert-uid50e0\" data-bi-compnm=\"Alert\" style=\"cursor: pointer;\" data-bi-id=\"c1c1m1r2a3\"><DIV class=\"alert-content text-center\" data-automation-test-id=\"AlertContent-alert-uid50e0\"><P class=\"text-break-keep-all\" data-automation-test-id=\"AlertDescription-alert-uid50e0\"><A data-bi-cn=\"Prix garanti pendant 60 jours + Paiement en 4 fois sans frais. Découvrez nos offres de rentrée\" data-bi-ecn=\"Prix garanti pendant 60 jours + Paiement en 4 fois sans frais. Découvrez nos offres de rentrée\" data-bi-ct=\"text\" data-bi-compnm=\"Alert\" data-bi-pa=\"body\" class=\"cta text-dark possible-clickable-element\" data-target-uri=\"https://www.microsoft.com/fr-fr/store/b/sale?icid=MSCOM_AlertXF_Deals-BTS26\" data-automation-test-id=\"cta-alert-uid50e0\" data-target=\"\" role=\"\" data-bi-bhvr=\"PARTNERREFERRAL\" target=\"_self\" aria-label=\"Prix garanti pendant 60 jours + Paiement en 4 fois sans frais. Découvrez nos offres de rentrée\" href=\"https://www.microsoft.com/fr-fr/store/b/sale?icid=MSCOM_AlertXF_Deals-BTS26\" data-bi-id=\"n1c1c1m1r2a3\" data-bi-prtnm=\"ms store\" data-bi-prod=\"sale\" data-bi-prtid=\"www.microsoft.com\" data-testid=\"U\"><text>Prix garanti pendant 60 jours + Paiement en 4 fois sans frais. Découvrez nos offres de rentrée</text></A></P></DIV></SECTION></DIV></DIV></DIV></DIV><DIV class=\"responsivegrid mb-md-5 aem-GridColumn aem-GridColumn--default--12\" data-bi-id=\"r3a3\" data-bi-cn=\"r3a3\"><DIV class=\"aem-Grid aem-Grid--12 aem-Grid--default--12\" data-bi-id=\"m1r3a3\" data-bi-cn=\"m1r3a3\"><DIV class=\"targeting-container aem-GridColumn aem-GridColumn--default--12\" data-component-id=\"3a796505b6c04fa385e30bdb1b3679f7\" data-bi-id=\"c1m1r3a3\" data-bi-cn=\"targeting-container679f7_1\" data-module-id=\"true\"><DIV data-tc-enabled=\"true\"><DIV class=\"highlightcarousel carouselbase carousel panelcontainer\" data-component-id=\"96a15ad1a5dc15e5f04a9e4a63de74fa\" data-bi-id=\"c1c1m1r3a3\" data-bi-cn=\"highlightcarousele74fa_1\" data-module-id=\"true\"><SECTION class=\"slideshowOverflow\" data-automation-test-id=\"HighlightCarouselDivRowColSection-\" aria-label=\"diaporama des produits proposés et annonces : naviguez à l'aide des boutons précédent et suivant : naviguez à l’aide des onglets de diapositives\" aria-roledescription=\"slideshow\"><text>Slide 2 of 2. Surface Laptop Copilot+ PC</text><DIV data-automation-test-id=\"HighlightCarouselSlideDiv-\" class=\"carousel slide carousel-highlight carousel-variable-height\" data-mount=\"autoplay-carousel\" data-status=\"status-container-x27bc1aeb079048cb92441fa8282d63fb\" data-bi-id=\"c2c1c1m1r3a3\" data-bi-cn=\"c2c1c1m1r3a3\"><A href=\"#7f516c9c-e00b-4126-ab20-955857d7cc41\" class=\"btn btn-link sr-only-focusable w-100 position-absolute\" data-automation-test-id=\"HighlightCarouselAnchorSkip-\" data-bi-id=\"n1c2c1c1m1r3a3\" data-bi-ct=\"text\" data-bi-cn=\"ignorer diaporama des produits proposés et annonces : naviguez à l'aide des boutons précédent et suivant : naviguez à l’aide des onglets de diapositives\"><text>Ignorer diaporama des produits proposés et annonces : naviguez à l'aide des boutons précédent et suivant : naviguez à l’aide des onglets de diapositives</text></A><DIV data-automation-test-id=\"HighlightCarouselControlsParentDiv-\"><DIV class=\"carousel-inner\"><SECTION class=\"carousel-item depth-4 depth-md-none active\" data-automation-test-id=\"HighlightCarouselInnerSectionListItem1-\" itemtitle=\"Slide 2\" aria-label=\"2 sur 2\" aria-roledescription=\"slide\" style=\"height: 549px;\" tabindex=\"0\"><DIV class=\"highlight\" data-component-id=\"a27bdc16afeeac2a37e8a078a9322fea\" data-bi-id=\"c1c2c1c1m1r3a3\" data-bi-cn=\"highlight22fea_2\" data-module-id=\"true\"><DIV id=\"highlight-uidfbd6\" data-automation-test-id=\"HighlightComponent-highlight-uidfbd6\" data-componentname=\"highlight-uidfbd6\" class=\"card-img-overlay\" clickgroup-telemetry-enabled=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" style=\"cursor: pointer;\" data-bi-cn=\"highlight-uidfbd6\" data-bi-id=\"c1c1c2c1c1m1r3a3\"><DIV class=\"card-background\" data-automation-test-id=\"HighlightCard-highlight-uidfbd6\"><IMG id=\"img-highlight-uidfbd6\" src=\"https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-13-inch-1Ed-Detail-Ocean-Open-Copilot-PC:VP2-859x540\" class=\"card-img w-100 possible-clickable-element\" data-automation-test-id=\"HighlightImage-highlight-uidfbd6\" alt=\"Un Surface Laptop Copilot+ PC en 13 pouces.\" data-testid=\"V\"></IMG></DIV><DIV class=\"card-foreground\" data-automation-test-id=\"HighlightAlignment-highlight-uidfbd6\"><DIV class=\"container\" data-automation-test-id=\"HighlightContainer-highlight-uidfbd6\"><DIV class=\"d-flex mt-md-n5 my-lg-5\" data-automation-test-id=\"HighlightFlexWrapper-highlight-uidfbd6\"><DIV class=\"w-100 w-lg-col-5\" data-automation-test-id=\"HighlightCardWrapper-highlight-uidfbd6\"><DIV class=\"card material-md-card px-g px-md-5 pt-4 pb-3 py-md-5 depth-lg-none bg-lg-transparent-text-dark material-color-light\" data-automation-test-id=\"HighlightCard-highlight-uidfbd6\" data-bi-cn=\"Acheter maintenant\" data-bi-ecn=\"Acheter maintenant\" data-bi-ct=\"Image\" data-bi-pa=\"body\" data-target-uri=\"https://www.microsoft.com/fr-fr/store/b/buy-surface-laptop?icid=mscom_marcom_H2_SurfaceLaptop\" data-bi-bhvr=\"0\" data-bi-mto=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" data-original-text=\"Acheter maintenant\" data-bi-assetid=\"https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-13-inch-1Ed-Detail-Ocean-Open-Copilot-PC:VP2-859x540\" data-bi-ehn=\"Surface Laptop Copilot+ PC\" data-bi-hn=\"Surface Laptop Copilot+ PC\" data-bi-compnm=\"Highlight Carousel\" data-bi-id=\"c1c1c1c2c1c1m1r3a3\"><DIV id=\"card-body-highlight-uidfbd6\" class=\"card-body\" data-highlight-compname=\"Highlight\" data-automation-test-id=\"HighlightCardBody-highlight-uidfbd6\" data-bi-cn=\"card-body-highlight-uidfbd6\" data-bi-id=\"c1c1c1c1c2c1c1m1r3a3\"><SPAN class=\"badge material-surface mb-2 possible-clickable-element\" style=\"background-color: #9bf00b; color:\" data-automation-test-id=\"HighlightCardBadge-highlight-uidfbd6\" data-testid=\"W\"><text>Offres de rentrée</text></SPAN><DIV style=\"color:\"><H2 data-automation-test-id=\"HighlightCardHeading-highlight-uidfbd6\" class=\"component-heading possible-clickable-element\" id=\"HighlightCardHeading-highlight-uidfbd6\" data-testid=\"X\"><text>Surface Laptop Copilot+ PC</text></H2></DIV><DIV class=\"mb-4 possible-clickable-element\" data-automation-test-id=\"HighlightDescription-highlight-uidfbd6\" data-testid=\"Y\"><text>Bénéficiez de jusqu'à 12,5% de réduction sur une sélection d'ordinateurs Surface Laptop Copilot + PC.</text></DIV><DIV class=\"link-group\" data-automation-test-id=\"LinkGroupDiv-\"><A data-bi-cn=\"Acheter maintenant\" data-bi-ecn=\"Acheter maintenant\" data-bi-ct=\"text\" data-bi-pa=\"body\" class=\"btn btn-primary possible-clickable-element\" data-target-uri=\"https://www.microsoft.com/fr-fr/store/b/buy-surface-laptop?icid=mscom_marcom_H2_SurfaceLaptop\" data-bi-bhvr=\"PARTNERREFERRAL\" data-bi-mto=\"(function(cascadeAuth) { if (cascadeAuth.API && typeof cascadeAuth.API.silentAuthCallback === 'function') { var userInfo = undefined; cascadeAuth.API.silentAuthCallback(userInfo); } })(window.parent.CascadeAuth || (window.parent.CascadeAuth = {}));\" data-automation-test-id=\"button1-highlight-uidfbd6\" data-original-text=\"Acheter maintenant\" role=\"\" aria-label=\"Acheter Surface Laptop Copilot+ PC maintenant.\" target=\"_self\" href=\"https://www.microsoft.com/fr-fr/store/b/buy-surface-laptop?icid=mscom_marcom_H2_SurfaceLaptop\" data-bi-assetid=\"https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Laptop-13-inch-1Ed-Detail-Ocean-Open-Copilot-PC:VP2-859x540\" data-bi-ehn=\"Surface Laptop Copilot+ PC\" data-bi-hn=\"Surface Laptop Copilot+ PC\" data-bi-compnm=\"Highlight Carousel\" data-bi-carpos=\"2\" data-bi-id=\"n1c1c1c1c1c2c1c1m1r3a3\" data-bi-prtnm=\"ms store\" data-bi-prod=\"buy surface laptop\" data-bi-prtid=\"www.microsoft.com\" data-testid=\"Z\"><text>Acheter maintenant</text></A></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></SECTION></DIV></DIV></DIV></SECTION></DIV></DIV></DIV></DIV></DIV>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      div|\n      <\n        p|\n        <text| Nous utilisons des cookies facultatifs pour améliorer votre expérience sur nos sites Web, par exemple en vous permettant de vous connecter aux réseaux sociaux, et pour afficher de la publicité personnalisée en fonction de votre activités en ligne. Si vous refusez les cookies facultatifs, seuls les cookies nécessaires pour vous fournir les services seront utilisés. Vous pouvez modifier votre sélection en cliquant sur « Gérer les cookies » au bas de la page. >\n        <a[A]| Déclaration de confidentialité >\n        <a[B]| Cookies tiers >\n      >\n      <\n        div|\n        <button[C]| Accepter >\n        <button[D]| Refuser >\n        <button[E]| Gérer les cookies >\n      >\n    >\n    <\n      div|\n      <img[F]| >\n      <span| Microsoft >\n      <\n        ul|\n        <a[G]| Microsoft 365 >\n        <a[H]| Teams >\n        <a[I]| Copilot >\n        <a[J]| Windows >\n        <a[K]| Surface >\n        <a[L]| Xbox >\n        <a[M]| Offres spéciales >\n        <a[N]| TPE & PME >\n        <a[O]| Support technique >\n      >\n      <\n        div|\n        <span[P]| Tout Microsoft >\n        <button[Q]| >\n        <a[R]| >\n        <span[S]| Connectez-vous à votre compte >\n        <div[T]| >\n      >\n    >\n  >\n  <a[U]| Prix garanti pendant 60 jours + Paiement en 4 fois sans frais. Découvrez nos offres de rentrée >\n  <\n    section|\n    <text| Slide 2 of 2. Surface Laptop Copilot+ PC >\n    <\n      div|\n      <a| Ignorer diaporama des produits proposés et annonces : naviguez à l'aide des boutons précédent et suivant : naviguez à l’aide des onglets de diapositives >\n      <img[V]| >\n      <\n        div|\n        <span[W]| Offres de rentrée >\n        <h2[X]| Surface Laptop Copilot+ PC >\n        <div[Y]| Bénéficiez de jusqu'à 12,5% de réduction sur une sélection d'ordinateurs Surface Laptop Copilot + PC. >\n        <a[Z]| Acheter maintenant >\n      >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 112,
+                "top": 87,
+                "right": 282,
+                "bottom": 104,
+                "width": 170,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Déclaration de confidentialité"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 286,
+                "top": 87,
+                "right": 361,
+                "bottom": 104,
+                "width": 75,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Cookies tiers"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 738,
+                "top": 38,
+                "right": 888,
+                "bottom": 74,
+                "width": 150,
+                "height": 36
+            },
+            "tag": "button",
+            "text": "Accepter"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 900,
+                "top": 38,
+                "right": 1050,
+                "bottom": 74,
+                "width": 150,
+                "height": 36
+            },
+            "tag": "button",
+            "text": "Refuser"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 1062,
+                "top": 38,
+                "right": 1212,
+                "bottom": 74,
+                "width": 150,
+                "height": 36
+            },
+            "tag": "button",
+            "text": "Gérer les cookies"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 74,
+                "top": 126,
+                "right": 182,
+                "bottom": 149,
+                "width": 108,
+                "height": 23
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 203,
+                "top": 113,
+                "right": 302,
+                "bottom": 161,
+                "width": 99,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Microsoft 365"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 306,
+                "top": 113,
+                "right": 362,
+                "bottom": 161,
+                "width": 56,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Teams"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 366,
+                "top": 113,
+                "right": 426,
+                "bottom": 161,
+                "width": 60,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Copilot"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 430,
+                "top": 113,
+                "right": 501,
+                "bottom": 161,
+                "width": 71,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Windows"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 505,
+                "top": 113,
+                "right": 566,
+                "bottom": 161,
+                "width": 61,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Surface"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 570,
+                "top": 113,
+                "right": 618,
+                "bottom": 161,
+                "width": 48,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Xbox"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 622,
+                "top": 113,
+                "right": 733,
+                "bottom": 161,
+                "width": 111,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Offres spéciales"
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 737,
+                "top": 113,
+                "right": 820,
+                "bottom": 161,
+                "width": 83,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "TPE & PME"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 824,
+                "top": 113,
+                "right": 949,
+                "bottom": 161,
+                "width": 125,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Support technique"
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 977,
+                "top": 131,
+                "right": 1063,
+                "bottom": 148,
+                "width": 86,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "Tout Microsoft"
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 1093,
+                "top": 115,
+                "right": 1129,
+                "bottom": 160,
+                "width": 36,
+                "height": 45
+            },
+            "tag": "button",
+            "text": "\n                                        \n                                        \n                                    "
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 1142,
+                "top": 112,
+                "right": 1158,
+                "bottom": 159,
+                "width": 16,
+                "height": 47
+            },
+            "tag": "a",
+            "text": "\n                        \n                        \n                        \n                    "
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 1168,
+                "top": 115,
+                "right": 1169,
+                "bottom": 116,
+                "width": 1,
+                "height": 1
+            },
+            "tag": "span",
+            "text": "Connectez-vous à votre compte"
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 1176,
+                "top": 123,
+                "right": 1208,
+                "bottom": 155,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 288.5,
+                "top": 185,
+                "right": 991.5,
+                "bottom": 209,
+                "width": 703,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "\n        Prix garanti pendant 60 jours + Paiement en 4 fois sans frais. Découvrez nos offres de rentrée\n        \n    "
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 0,
+                "top": 226,
+                "right": 1280,
+                "bottom": 720,
+                "width": 1280,
+                "height": 494
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 112,
+                "top": 401.078125,
+                "right": 263,
+                "bottom": 429.078125,
+                "width": 151,
+                "height": 28
+            },
+            "tag": "span",
+            "text": "\n        \n            \n  \n    \n    \n\n\n\n  \n\n\t\n    \n\t\t\n\t\t\n\t\t\t\n\t\t\n\n    \n    \n      \n\n      \n        Offres de rentrée\n      \n    \n\t\n\n  \n\n        \n        \n\n    "
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 112,
+                "top": 437.078125,
+                "right": 496,
+                "bottom": 471.875,
+                "width": 384,
+                "height": 34.796875
+            },
+            "tag": "h2",
+            "text": "\n        \n  \n    \n    \n\n\n\n  \n\n\t\n    \n\t\t\n\t\t\n\t\t\t\n\t\t\n\n    \n    \n      \n\n      \n        Surface Laptop Copilot+ PC\n      \n    \n\t\n\n  \n\n    "
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 112,
+                "top": 487.875,
+                "right": 496,
+                "bottom": 535.875,
+                "width": 384,
+                "height": 48
+            },
+            "tag": "div",
+            "text": "\n                                            \n                                            \n  \n    \n    \n\n\n\n  \n\n\t\n    \n\t\t\n\t\t\n\t\t\t\n\t\t\n\n    \n    \n      \n\n      \n        Bénéficiez de jusqu'à 12,5% de réduction sur une sélection d'ordinateurs Surface Laptop Copilot + PC.\n      \n    \n\t\n\n  \n\n                                        "
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 112,
+                "top": 559.875,
+                "right": 284,
+                "bottom": 599.875,
+                "width": 172,
+                "height": 40
+            },
+            "tag": "a",
+            "text": "\n            \n                \n  \n    \n    \n\n\n\n  \n\n\t\n    \n\t\t\n\t\t\n\t\t\t\n\t\t\n\n    \n    \n      \n\n      \n        Acheter maintenant\n      \n    \n\t\n\n  \n\n            \n            \n        "
+        }
+    ]
+}

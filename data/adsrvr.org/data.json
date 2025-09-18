@@ -1,0 +1,20 @@
+{
+    "raw_html": "<HEADER id=\"masthead\" role=\"banner\"><DIV id=\"right\" style=\"position: absolute; bottom: 0; right: 0;\"><A href=\"https://www.thetradedesk.com/industry-initiatives/unified-id-solution\" class=\"possible-clickable-element\" data-testid=\"A\"><text>Looking for the Unified ID Solution?</text></A></DIV></HEADER><SECTION id=\"general-top\" class=\"bg-only-top\"><DIV class=\"bg bg-848832509 center-center\"></DIV></SECTION><DIV class=\"shadow-only\"></DIV><text>Control Over Your Personal Information</text><text>By following the instructions below, you may request The Trade Desk limit its (a) use of your personal information for targeted advertising purposes and (b) sale or sharing of your personal information.</text><text>In response to browser and device providers changing their support for identifiers currently used for advertising, such as third-party cookies and device ids, it may be possible that you have more than one identifier associated with each browser or device. To enhance the scope of your choices related to targeted advertising and sale or sharing of your personal information, you should follow each of the instructions below.</text>",
+    "parsed_html": "\n<\n  div|\n  <a[A]| Looking for the Unified ID Solution? >\n  <text| Control Over Your Personal Information >\n  <text| By following the instructions below, you may request The Trade Desk limit its (a) use of your personal information for targeted advertising purposes and (b) sale or sharing of your personal information. >\n  <text| In response to browser and device providers changing their support for identifiers currently used for advertising, such as third-party cookies and device ids, it may be possible that you have more than one identifier associated with each browser or device. To enhance the scope of your choices related to targeted advertising and sale or sharing of your personal information, you should follow each of the instructions below. >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 1003.28125,
+                "top": 23,
+                "right": 1255,
+                "bottom": 40,
+                "width": 251.71875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Looking for the Unified ID Solution?"
+        }
+    ]
+}

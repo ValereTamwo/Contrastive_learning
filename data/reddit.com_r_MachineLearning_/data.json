@@ -1,0 +1,972 @@
+{
+    "raw_html": "<text>Machine Learning</text><REDDIT-HEADER-LARGE class=\"nd:visible top-0 left-0 right-0 fixed z-[4] theme-beta\" is-hamburger-menu-included=\"7AE71949D3E677127C4A052A85BA2C7E\" show-accountmanager-modal=\"true\"><HEADER class=\"v2 bg-neutral-background pointer-events-auto border-solid border-0 border-b border-neutral-border px-md\"><NAV class=\"h-header-large flex items-center\"><DIV class=\"pe-lg flex gap-xs items-center justify-start\"><FACEPLATE-TRACKER class=\"nd:visible flex items-center\" source=\"nav\" action=\"click\" noun=\"reddit_logo\"><A id=\"reddit-logo\" class=\"no-underline flex items-center\" href=\"/\" aria-label=\"Home\"><SPAN class=\"pe-0 s:pe-xs flex items-center\"><svg width=\"32\" height=\"32\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 216 216\" xml:space=\"preserve\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><path class=\"snoo-cls-10\" d=\"m108,0h0C48.35,0,0,48.35,0,108h0c0,29.82,12.09,56.82,31.63,76.37l-20.57,20.57c-4.08,4.08-1.19,11.06,4.58,11.06h92.36s0,0,0,0c59.65,0,108-48.35,108-108h0C216,48.35,167.65,0,108,0Z\"></path><circle class=\"snoo-cls-1\" cx=\"169.22\" cy=\"106.98\" r=\"25.22\"></circle><circle class=\"snoo-cls-2\" cx=\"46.78\" cy=\"106.98\" r=\"25.22\"></circle><ellipse class=\"snoo-cls-3 possible-clickable-element\" cx=\"108.06\" cy=\"128.64\" rx=\"72\" ry=\"54\" data-testid=\"A\"></ellipse><path class=\"snoo-cls-4 possible-clickable-element\" d=\"m86.78,123.48c-.42,9.08-6.49,12.38-13.56,12.38s-12.46-4.93-12.04-14.01c.42-9.08,6.49-15.02,13.56-15.02s12.46,7.58,12.04,16.66Z\" data-testid=\"B\"></path><path class=\"snoo-cls-7 possible-clickable-element\" d=\"m129.35,123.48c.42,9.08,6.49,12.38,13.56,12.38s12.46-4.93,12.04-14.01c-.42-9.08-6.49-15.02-13.56-15.02s-12.46,7.58-12.04,16.66Z\" data-testid=\"C\"></path><ellipse class=\"snoo-cls-11\" cx=\"79.63\" cy=\"116.37\" rx=\"2.8\" ry=\"3.05\"></ellipse><ellipse class=\"snoo-cls-11\" cx=\"146.21\" cy=\"116.37\" rx=\"2.8\" ry=\"3.05\"></ellipse><path class=\"snoo-cls-5 possible-clickable-element\" d=\"m108.06,142.92c-8.76,0-17.16.43-24.92,1.22-1.33.13-2.17,1.51-1.65,2.74,4.35,10.39,14.61,17.69,26.57,17.69s22.23-7.3,26.57-17.69c.52-1.23-.33-2.61-1.65-2.74-7.77-.79-16.16-1.22-24.92-1.22Z\" data-testid=\"D\"></path><circle class=\"snoo-cls-8 possible-clickable-element\" cx=\"147.49\" cy=\"49.43\" r=\"17.87\" data-testid=\"E\"></circle><path class=\"snoo-cls-6\" d=\"m107.8,76.92c-2.14,0-3.87-.89-3.87-2.27,0-16.01,13.03-29.04,29.04-29.04,2.14,0,3.87,1.73,3.87,3.87s-1.73,3.87-3.87,3.87c-11.74,0-21.29,9.55-21.29,21.29,0,1.38-1.73,2.27-3.87,2.27Z\"></path><path class=\"snoo-cls-9\" d=\"m62.82,122.65c.39-8.56,6.08-14.16,12.69-14.16,6.26,0,11.1,6.39,11.28,14.33.17-8.88-5.13-15.99-12.05-15.99s-13.14,6.05-13.56,15.2c-.42,9.15,4.97,13.83,12.04,13.83.17,0,.35,0,.52,0-6.44-.16-11.3-4.79-10.91-13.2Z\"></path><path class=\"snoo-cls-9\" d=\"m153.3,122.65c-.39-8.56-6.08-14.16-12.69-14.16-6.26,0-11.1,6.39-11.28,14.33-.17-8.88,5.13-15.99,12.05-15.99,7.07,0,13.14,6.05,13.56,15.2.42,9.15-4.97,13.83-12.04,13.83-.17,0-.35,0-.52,0,6.44-.16,11.3-4.79,10.91-13.2Z\"></path></svg></SPAN><SPAN class=\"hidden s:flex items-center\"><svg class=\"h-[22px]\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 514 149\" style=\"color: var(--shreddit-color-wordmark)\"><g style=\"fill: currentColor\"><path d=\"m71.62,45.92l-12.01,28.56c-1.51-.76-5.11-1.61-8.51-1.61s-6.81.85-10.12,2.46c-6.53,3.31-11.35,9.93-11.35,19.48v52.3H-.26V45.35h29.04v14.28h.57c6.81-9.08,17.21-15.79,30.74-15.79,4.92,0,9.65.95,11.54,2.08Z\"></path><path d=\"m65.84,96.52c0-29.41,20.15-52.68,50.32-52.68,27.33,0,46.91,19.96,46.91,48.05,0,4.92-.47,9.55-1.51,14h-68.48c3.12,10.69,12.39,19.01,26.29,19.01,7.66,0,18.54-2.74,24.4-7.28l9.27,22.32c-8.61,5.86-21.75,8.7-33.29,8.7-32.25,0-53.91-20.81-53.91-52.11Zm26.67-9.36h43.03c0-13.05-8.89-19.96-19.77-19.96-12.3,0-20.62,7.94-23.27,19.96Z\" class=\"possible-clickable-element\" data-testid=\"F\"></path><path d=\"m419.53-.37c10.03,0,18.25,8.23,18.25,18.25s-8.23,18.25-18.25,18.25-18.25-8.23-18.25-18.25S409.51-.37,419.53-.37Zm14.94,147.49h-29.89V45.35h29.89v101.77Z\" class=\"possible-clickable-element\" data-testid=\"G\"></path><path d=\"m246,1.47l-.09,53.53h-.57c-8.23-7.85-17.12-11.07-28.75-11.07-28.66,0-47.67,23.08-47.67,52.3s17.78,52.4,46.72,52.4c12.11,0,23.55-4.16,30.93-13.62h.85v12.11h28.47V1.47h-29.89Zm1.42,121.39h-.99l-6.67-6.93c-4.34,4.33-10.28,6.93-17.22,6.93-14.64,0-24.88-11.58-24.88-26.6s10.24-26.6,24.88-26.6,24.88,11.58,24.88,26.6v26.6Z\"></path><path d=\"m360.15,1.47l-.09,53.53h-.57c-8.23-7.85-17.12-11.07-28.75-11.07-28.66,0-47.67,23.08-47.67,52.3s17.78,52.4,46.72,52.4c12.11,0,23.55-4.16,30.93-13.62h.85v12.11h28.47V1.47h-29.89Zm1.28,121.39h-.99l-6.67-6.93c-4.34,4.33-10.28,6.93-17.22,6.93-14.64,0-24.88-11.58-24.88-26.6s10.24-26.6,24.88-26.6,24.88,11.58,24.88,26.6v26.6Z\"></path><path d=\"m492.44,45.35h21.85v25.44h-21.85v76.33h-29.89v-76.33h-21.75v-25.44h21.75v-27.66h29.89v27.66Z\" class=\"possible-clickable-element\" data-testid=\"H\"></path></g></svg></SPAN></A></FACEPLATE-TRACKER></DIV><DIV class=\"h-[40px] flex-1 py-xs flex justify-stretch\"><DIV class=\"flex justify-stretch w-full l:absolute l:top-xs l:h-[40px] l:pointer-events-none l:left-0 l:right-0 l:flex\"><DIV class=\"flex justify-stretch w-full m:block m:pointer-events-auto m:w-[560px] m:mx-auto\"><REDDIT-SEARCH-LARGE class=\"nd:visible w-[inherit] translate-x-0 max-w-[750px] w-full\" device-type=\"desktop\" initial-query=\"7AE71949D3E677127C4A052A85BA2C7E\" scope=\"{\"type\":\"community\",\"path\":\"/r/MachineLearning/\"}\" scoped-typeahead-variant=\"enabled\" scoped-typeahead-experiment-name=\"web3x_search_dynamic_scoped_typeahead\" scoped-typeahead-experiment-version=\"6\"><DIV class=\"flex w-100\"><DIV class=\"reddit-search-bar rounded-5 flex-1 box-border bg-secondary-background\" data-faceplate-tracking-context=\"{\"action_info\":{\"pane_name\":\"search_dropdown\"},\"search\":{\"conversation_id\":\"c102aa95-4089-4dac-8d60-bb75afa15908\",\"impression_id\":\"276a8898-a85f-4f49-8dd9-da6a0ae74b87\",\"origin_element\":\"search_bar\",\"origin_page_type\":\"community\",\"query\":\"\",\"query_id\":\"7555ba9a-fe70-4e40-9e79-f016db1a8225\",\"range\":\"all\",\"sort\":\"relevance\",\"typeahead_active\":false,\"subreddit_id\":\"t5_2r3gv\",\"subreddit_name\":\"MachineLearning\"}}\"><DIV class=\"\"><FORM autocomplete=\"off\" class=\"flex relative items-center text-neutral-content-strong\"><FACEPLATE-SEARCH-INPUT autocomplete=\"off\" enterkeyhint=\"search\" inputmode=\"7AE71949D3E677127C4A052A85BA2C7E\" name=\"q\" novalidate=\"7AE71949D3E677127C4A052A85BA2C7E\" role=\"search\" type=\"search\" class=\"search-input m-0 flex-1 w-full outline-none p-0 font-sans placeholder:text-neutral-content-weak\" data-faceplate-tracking-context=\"{\"action_info\":{\"type\":\"input-community\"}}\" id=\"search-input\" maxlength=\"128\" placeholder=\"Search in r/MachineLearning\" value=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-disabled=\"false\" helper-text-aria-live=\"polite\" faceplate-validity=\"valid\"><LABEL style=\"--left-label-position: 0px;\"><DIV class=\"label-container without-label\"><SPAN class=\"leadingIcon\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-hidden=\"true\" fill=\"currentColor\" height=\"16\" icon-name=\"search-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.916 17.717 15.2 14.042a8.043 8.043 0 1 0-1.053 1.069l3.709 3.672a.75.75 0 0 0 1.056-1.066h.004ZM2.5 9a6.5 6.5 0 1 1 11.229 4.446.695.695 0 0 0-.116.077.752.752 0 0 0-.086.132A6.492 6.492 0 0 1 2.5 9Z\"></path></svg></SPAN><SPAN class=\"input-container\"><INPUT type=\"text\" enterkeyhint=\"search\" name=\"q\" maxlength=\"128\" placeholder=\"Search in r/MachineLearning\" autocomplete=\"off\" inputmode=\"7AE71949D3E677127C4A052A85BA2C7E\" style=\"7AE71949D3E677127C4A052A85BA2C7E\"></INPUT></SPAN><SPAN id=\"clearIcon-container\"></SPAN></DIV></LABEL></FACEPLATE-SEARCH-INPUT></FORM></DIV></DIV></DIV></REDDIT-SEARCH-LARGE></DIV></DIV></DIV><DIV class=\"ps-lg gap-xs flex items-center justify-end\"><FACEPLATE-TRACKER class=\"nd:visible flex items-center\" source=\"nav\" action=\"click\" noun=\"login\"><A rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"px-sm hover:no-underline button-medium px-[var(--rem14)] button-brand items-center justify-center button inline-flex\" href=\"https://www.reddit.com/login/\" id=\"login-button\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex items-center gap-xs possible-clickable-element\" data-testid=\"I\"><text>Log In</text></SPAN></SPAN></A></FACEPLATE-TRACKER><DIV class=\"flex items-center justify-center w-[40px] h-[40px]\"><RPL-TOOLTIP style=\"--rpl-z-index-tooltip: 1001;\" class=\"flex justify-center\" placement=\"bottom-end\" appearance=\"inverted\" trigger=\"hover focus-visible\" distance=\"8\"><ACTIVATE-FEATURE name=\"UserDrawerMenu_SZvQJM\" query-params=\"{\"subredditPath\":\"/r/MachineLearning/\"}\" activation=\"intent\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"min-w-[40px] button-medium px-[var(--rem8)] button-plain icon items-center justify-center button inline-flex\" id=\"expand-user-drawer-button\" slot=\"trigger\" type=\"button\" aria-haspopup=\"menu\" aria-expanded=\"false\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"overflow-horizontal-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5.75 10a1.751 1.751 0 1 1-3.502.003A1.751 1.751 0 0 1 5.75 10ZM10 8.25a1.75 1.75 0 1 0-.003 3.502A1.75 1.75 0 0 0 10 8.25Zm6 0a1.751 1.751 0 1 0-.002 3.502A1.751 1.751 0 0 0 16 8.25Z\" class=\"possible-clickable-element\" data-testid=\"J\"></path></svg></SPAN></SPAN></BUTTON></ACTIVATE-FEATURE></RPL-TOOLTIP></DIV></DIV></NAV></HEADER></REDDIT-HEADER-LARGE><DIV class=\"masthead w-full relative\"><DIV class=\"@container\"><DIV class=\"community-banner relative bg-center bg-cover bg-no-repeat h-3xl bg-secondary-background xs:rounded-2 xs:mt-xs\" style=\"7AE71949D3E677127C4A052A85BA2C7E\"></DIV></DIV><SECTION class=\"flex relative items:center xs:items-end justify-between px-md xs:-top-[2.25rem] xs:-mb-[2.25rem] mt-xs mb-2xs xs:mt-0\" aria-label=\"Community actions\"><DIV class=\"flex flex-1 items-end justify-between flex-col xs:flex-row\"><DIV class=\"flex items-end justify-start xs:justify-center gap-[8px] w-100 xs:w-auto\"><DIV class=\"xs:w-[88px] xs:h-[88px] w-2xl h-2xl text-48 shrink-0\"><SPAN class=\"inline-flex items-center justify-center w-[5.5rem] h-[5.5rem] hidden xs:inline-flex\" rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" avatar=\"7AE71949D3E677127C4A052A85BA2C7E\"><SPAN rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"inline-block rounded-full relative [&>:first-child]:h-full [&>:first-child]:w-full [&>:first-child]:mb-0 [&>:first-child]:rounded-[inherit] h-full w-full [&>:first-child]:overflow-hidden [&>:first-child]:max-h-full\"><IMG src=\"https://styles.redditmedia.com/t5_2r3gv/styles/communityIcon_kilpomt3l5c51.png?width=128&frame=1&auto=webp&s=c0b1de9dce3be9033746b2ebad469fc738bca0d6\" alt=\"r/MachineLearning icon\" class=\"mb-0 shreddit-subreddit-icon__icon rounded-full overflow-hidden nd:visible nd:bg-secondary-background bg-neutral-background border-neutral-background box-border border-lg border-solid flex items-center justify-center shadow-xs xs:shadow-none community-icon-t5_2r3gv w-full h-full\" width=\"88\" style=\"width: 88px;\" loading=\"lazy\"></IMG></SPAN></SPAN></DIV><DIV class=\"flex flex-col\"><H1 class=\"flex items-center font-bold text-18 xs:text-32 mb-0 text-neutral-content-strong\"><text>r/MachineLearning</text></H1></DIV></DIV><DIV class=\"flex w-100 xs:w-auto mt-xs xs:mt-0 items-center\"><SPAN class=\"mr-sm\"><FACEPLATE-TRACKER source=\"post_composer\" action=\"click\" noun=\"create_post\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"no-underline hover:no-underline active:no-underline whitespace-normal h-auto min-h-[38px] xs:h-[38px] xs:leading-[38px] leading-3 xs:whitespace-nowrap min-w-4xl button-medium ps-[var(--rem10)] pe-[var(--rem14)] button-bordered items-center justify-center button inline-flex\" data-testid=\"create-post\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex me-xs\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"add-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18 9.25h-7.25V2a.772.772 0 0 0-.75-.75.772.772 0 0 0-.75.75v7.25H2a.772.772 0 0 0-.75.75c0 .398.352.75.75.75h7.25V18c0 .398.352.75.75.75s.75-.352.75-.75v-7.25H18c.398 0 .75-.352.75-.75a.772.772 0 0 0-.75-.75Z\" class=\"possible-clickable-element\" data-testid=\"K\"></path></svg></SPAN><SPAN class=\"flex items-center gap-xs possible-clickable-element\" data-testid=\"L\"><text>Create Post</text></SPAN></SPAN></BUTTON></FACEPLATE-TRACKER></SPAN><SHREDDIT-SUBREDDIT-HEADER-BUTTONS class=\"nd:w-[104px] nd:h-[40px] nd:overflow-hidden\" name=\"MachineLearning\" subreddit-id=\"t5_2r3gv\" user-id=\"7AE71949D3E677127C4A052A85BA2C7E\" prefixed-name=\"r/MachineLearning\" notification-level=\"7AE71949D3E677127C4A052A85BA2C7E\" button-size=\"md\" icon-size=\"md\"><DIV class=\"flex items-center gap-sm\"><FACEPLATE-TRACKER source=\"community\" action=\"click\" noun=\"subscribe\"><SHREDDIT-JOIN-BUTTON button-classes=\"px-sm py-xs\" subscribe-label=\"Join\" unsubscribe-label=\"Joined\" unsubscribe-button-type-override=\"bordered\" name=\"MachineLearning\" subreddit-id=\"t5_2r3gv\" buttonsize=\"medium\"><BUTTON class=\"button-primary button-medium button join-btn leading-none px-sm py-xs\" data-post-click-location=\"join\"><text>Join</text></BUTTON></SHREDDIT-JOIN-BUTTON></FACEPLATE-TRACKER></DIV></SHREDDIT-SUBREDDIT-HEADER-BUTTONS></DIV></DIV></SECTION></DIV><SHREDDIT-ASYNC-LOADER bundlename=\"navigation_links\" class=\"[&:not(:focus-within)]:sr-only\"><A rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"sr-only focus:not-sr-only hidden m:inline-block a cursor-pointer hover:underline\" href=\"#left-sidebar-container\"><text>Skip to Navigation</text></A><A rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"sr-only focus:not-sr-only hidden m:inline-block a cursor-pointer hover:underline\" href=\"#right-sidebar-container\"><text>Skip to Right Sidebar</text></A></SHREDDIT-ASYNC-LOADER><DIV class=\"flex justify-between flex-wrap mb-xs mt-xs\"><SHREDDIT-ASYNC-LOADER bundlename=\"shreddit_sort_dropdown\" class=\"nd:visible\"><DIV class=\"flex mr-md ml-auto\"><DIV class=\"flex items-center\"><SHREDDIT-SORT-DROPDOWN header-text=\"Sort by\" class=\"nd:max-h-[32px] nd:h-[32px] nd:w-[54px] nd:invisible\" telemetry-source=\"sort_switch\" sort-event=\"feed-sort-change\"><FACEPLATE-DROPDOWN-MENU class=\"nd:hidden connected\"><RPL-TOOLTIP class=\"nd:hidden block\" appearance=\"inverted\" trigger=\"hover focus-visible\" aria-label=\"Sort by\"><FACEPLATE-TRACKER class=\"block\" action=\"click\" noun=\"sorting\" source=\"sort_switch\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-expanded=\"false\" aria-label=\"Sort by: Best\" class=\"text-neutral-content-weak button-small ps-[var(--rem10)] pe-[var(--rem6)] button-plain items-center justify-center button inline-flex\" aria-haspopup=\"true\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex items-center gap-xs\"><text>Best</text></SPAN></SPAN><SPAN class=\"inline-flex dropdown-icon ml-2xs\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></BUTTON></FACEPLATE-TRACKER></RPL-TOOLTIP></FACEPLATE-DROPDOWN-MENU></SHREDDIT-SORT-DROPDOWN></DIV><SHREDDIT-LAYOUT-EVENT-SETTER country=\"CM\" cookie-domain=\".reddit.com\"><SHREDDIT-SORT-DROPDOWN header-text=\"View\" selected-item-display-type=\"icon\" sort-event=\"layout-view-change\" telemetry-source=\"layout_switch\" class=\"nd:block nd:max-h-[32px] nd:h-[32px] nd:invisible nd:w-[54px]\"><FACEPLATE-DROPDOWN-MENU class=\"nd:hidden connected\"><RPL-TOOLTIP class=\"nd:hidden block\" appearance=\"inverted\" trigger=\"hover focus-visible\" aria-label=\"View\"><FACEPLATE-TRACKER class=\"block\" action=\"click\" noun=\"sorting\" source=\"layout_switch\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-expanded=\"false\" aria-label=\"View:\" class=\"text-neutral-content-weak button-small ps-[var(--rem10)] pe-[var(--rem6)] button-plain items-center justify-center button inline-flex\" aria-haspopup=\"true\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex items-center gap-xs\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"view-card-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17.882 1H2.118A1.12 1.12 0 0 0 1 2.119v15.762A1.119 1.119 0 0 0 2.118 19h15.764A1.12 1.12 0 0 0 19 17.881V2.119A1.12 1.12 0 0 0 17.882 1Zm-.132 16.75H2.25v-7.138h15.5v7.138ZM2.25 9.362V2.25h15.5v7.112H2.25Z\"></path></svg></SPAN></SPAN><SPAN class=\"inline-flex dropdown-icon ml-2xs\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></BUTTON></FACEPLATE-TRACKER></RPL-TOOLTIP></FACEPLATE-DROPDOWN-MENU></SHREDDIT-SORT-DROPDOWN></SHREDDIT-LAYOUT-EVENT-SETTER></DIV></SHREDDIT-ASYNC-LOADER></DIV><COMMUNITY-HIGHLIGHT-CAROUSEL subreddit-name=\"MachineLearning\" feed-view-type=\"cardView\" class=\"community-highlight-carousel hidden nd:visible\"><BUTTON class=\"flex w-full bg-transparent hover:bg-neutral-background-hover border-none p-0 justify-between items-center cursor-pointer font-sans rounded-[12px] text-secondary-plain\" aria-label=\"collapse/expand community highlights\"><H3 slot=\"title\" class=\"flex items-center h-[32px] m-0 font-normal text-14 pl-md\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"pin-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"M\"><path d=\"M19.6 6.876 13.125.4a1.132 1.132 0 0 0-1.606 0l-.665.665a2.084 2.084 0 0 0-.378 2.435L6.68 7.292a2.086 2.086 0 0 0-2.432.374l-.665.665a1.14 1.14 0 0 0 0 1.612l2.8 2.8-5.82 5.82.884.884 5.82-5.82 2.8 2.8a1.132 1.132 0 0 0 1.607 0l.665-.665a2.084 2.084 0 0 0 .374-2.432L16.5 9.528a2.129 2.129 0 0 0 2.433-.375l.666-.666a1.142 1.142 0 0 0 .002-1.611Zm-1.55 1.393a.849.849 0 0 1-1.174 0l-.442-.442-5.426 5.426.443.442a.832.832 0 0 1 0 1.174l-.588.587-6.319-6.319.587-.587a.833.833 0 0 1 1.175 0l.442.442 5.426-5.426-.442-.441a.832.832 0 0 1 0-1.175l.565-.609 6.34 6.341-.587.587Z\"></path></svg><SPAN class=\"ml-xs possible-clickable-element\" data-testid=\"N\"><text>Community highlights</text></SPAN></H3><DIV class=\"flex gap-sm py-2xs pr-md\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-label=\"collapse/expand community highlights\" class=\"button-x-small px-[var(--rem6)] button-plain icon items-center justify-center button inline-flex\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"12\" icon-name=\"caret-up-fill\" viewBox=\"0 0 20 20\" width=\"12\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M14.293 13.207 10 8.914l-4.293 4.293-1.414-1.414 5-5a1 1 0 0 1 1.414 0l5 5-1.414 1.414Z\"></path></svg></SPAN></SPAN></BUTTON></DIV></BUTTON><SHREDDIT-GALLERY-CAROUSEL slot=\"content\" class=\"block w-0 min-w-full mt-2xs nd:visible nd:overflow-hidden nd:flex\"><DIV class=\"relative\"><UL id=\"list\" class=\"flex flex-row w-full overflow-x-scroll list-none m-0 p-0 scrollbar-hide snap-mandatory snap-x scroll-smooth\"><LI class=\"highlight-list-item list-none min-w-[174px] flex-1 shrink-0 m-0 mr-sm last:mr-0 first:pl-md last:pr-md\"><A class=\"block no-underline hover:no-underline active:no-underline\" href=\"/r/MachineLearning/comments/1n67lft/d_selfpromotion_thread/\"><COMMUNITY-HIGHLIGHT-CARD clickable=\"7AE71949D3E677127C4A052A85BA2C7E\" highlighted=\"7AE71949D3E677127C4A052A85BA2C7E\" id=\"highlight_card_t3_1n67lft\" author-id=\"t2_6l4z3\" subreddit-id=\"t5_2r3gv\" subreddit-prefixed-name=\"r/MachineLearning\" class=\"nd:invisible\" wide=\"7AE71949D3E677127C4A052A85BA2C7E\"><FACEPLATE-TRACKER source=\"post\" noun=\"post\" action=\"click\" data-faceplate-tracking-context=\"{\"post\":{\"author_id\":\"t2_6l4z3\",\"id\":\"t3_1n67lft\",\"nsfw\":false,\"highlighted\":true,\"spoiler\":false,\"subreddit_id\":\"t5_2r3gv\",\"subreddit_name\":\"r/machinelearning\"},\"screen\":{},\"subreddit\":{\"name\":\"r/machinelearning\",\"id\":\"t5_2r3gv\"},\"action_info\":{\"pane_name\":\"highlights_carousel\"},\"feed\":{},\"new_award\":{\"is_content_eligible\":false},\"source\":\"post\",\"action\":\"view\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1757449904723}\"><DIV class=\"highlight-card flex h-full w-full box-border relative overflow-hidden bg-neutral-background hover:bg-neutral-background-hover border border-solid border-neutral-border-weak overflow-hidden gap-sm text-neutral-content\"><DIV class=\"main-content z-[3] py-2xs flex flex-col justify-between overflow-hidden\"><SPAN id=\"title\" class=\"text-pretty font-semibold line-clamp-2 text-neutral-content-strong text-18\"><FACEPLATE-TRACKER source=\"post\" noun=\"post\" action=\"view\" data-faceplate-tracking-context=\"{\"post\":{\"author_id\":\"t2_6l4z3\",\"id\":\"t3_1n67lft\",\"nsfw\":false,\"highlighted\":true,\"spoiler\":false,\"subreddit_id\":\"t5_2r3gv\",\"subreddit_name\":\"r/machinelearning\"},\"screen\":{},\"subreddit\":{\"name\":\"r/machinelearning\",\"id\":\"t5_2r3gv\"},\"action_info\":{\"pane_name\":\"highlights_carousel\"},\"feed\":{},\"new_award\":{\"is_content_eligible\":false},\"source\":\"post\",\"action\":\"view\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1757449904723}\"><H2 slot=\"title\" class=\"m-0 possible-clickable-element\" data-testid=\"O\"><text>[D] Self-Promotion Thread</text></H2></FACEPLATE-TRACKER></SPAN><SPAN class=\"upvotes text-12 leading-4 text-secondary-plain-weak line-clamp-1\"><SPAN slot=\"upvotes-and-comments\"><FACEPLATE-NUMBER number=\"14\" pretty=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"possible-clickable-element\" data-testid=\"Q\"><text>14</text></FACEPLATE-NUMBER><text>votes •</text><FACEPLATE-NUMBER number=\"21\" pretty=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"possible-clickable-element\" data-testid=\"R\"><text>21</text></FACEPLATE-NUMBER><text>comments</text></SPAN></SPAN><DIV class=\"flex items-end gap-sm overflow-hidden overflow-ellipsis whitespace-nowrap\"><SPAN class=\"overflow-hidden overflow-ellipsis whitespace-nowrap\"><SPAN slot=\"label\"><SPAN class=\"pt-2xs flex\"><SPAN class=\"inline-flex items-center justify-center w-[1.5rem] h-[1.5rem]\" rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" avatar=\"7AE71949D3E677127C4A052A85BA2C7E\"><SPAN rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"inline-block rounded-full relative [&>:first-child]:h-full [&>:first-child]:w-full [&>:first-child]:mb-0 [&>:first-child]:rounded-[inherit] h-full w-full [&>:first-child]:overflow-hidden [&>:first-child]:max-h-full\"><IMG src=\"https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1\" alt=\"AutoModerator\" class=\"h-full w-full possible-clickable-element\" data-testid=\"P\"></IMG></SPAN></SPAN></SPAN></SPAN></SPAN></DIV></DIV></DIV></FACEPLATE-TRACKER></COMMUNITY-HIGHLIGHT-CARD></A></LI><LI class=\"highlight-list-item list-none min-w-[174px] flex-1 shrink-0 m-0 mr-sm last:mr-0 first:pl-md last:pr-md\"><A class=\"block no-underline hover:no-underline active:no-underline\" href=\"/r/MachineLearning/comments/1n4jdo7/d_monthly_whos_hiring_and_who_wants_to_be_hired/\"><COMMUNITY-HIGHLIGHT-CARD clickable=\"7AE71949D3E677127C4A052A85BA2C7E\" highlighted=\"7AE71949D3E677127C4A052A85BA2C7E\" id=\"highlight_card_t3_1n4jdo7\" author-id=\"t2_6l4z3\" subreddit-id=\"t5_2r3gv\" subreddit-prefixed-name=\"r/MachineLearning\" class=\"nd:invisible\" wide=\"7AE71949D3E677127C4A052A85BA2C7E\"><FACEPLATE-TRACKER source=\"post\" noun=\"post\" action=\"click\" data-faceplate-tracking-context=\"{\"post\":{\"author_id\":\"t2_6l4z3\",\"id\":\"t3_1n4jdo7\",\"nsfw\":false,\"highlighted\":true,\"spoiler\":false,\"subreddit_id\":\"t5_2r3gv\",\"subreddit_name\":\"r/machinelearning\"},\"screen\":{},\"subreddit\":{\"name\":\"r/machinelearning\",\"id\":\"t5_2r3gv\"},\"action_info\":{\"pane_name\":\"highlights_carousel\"},\"feed\":{},\"new_award\":{\"is_content_eligible\":false},\"source\":\"post\",\"action\":\"view\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1757449904725}\"><DIV class=\"highlight-card flex h-full w-full box-border relative overflow-hidden bg-neutral-background hover:bg-neutral-background-hover border border-solid border-neutral-border-weak overflow-hidden gap-sm text-neutral-content\"><DIV class=\"main-content z-[3] py-2xs flex flex-col justify-between overflow-hidden\"><SPAN id=\"title\" class=\"text-pretty font-semibold line-clamp-2 text-neutral-content-strong text-18\"><FACEPLATE-TRACKER source=\"post\" noun=\"post\" action=\"view\" data-faceplate-tracking-context=\"{\"post\":{\"author_id\":\"t2_6l4z3\",\"id\":\"t3_1n4jdo7\",\"nsfw\":false,\"highlighted\":true,\"spoiler\":false,\"subreddit_id\":\"t5_2r3gv\",\"subreddit_name\":\"r/machinelearning\"},\"screen\":{},\"subreddit\":{\"name\":\"r/machinelearning\",\"id\":\"t5_2r3gv\"},\"action_info\":{\"pane_name\":\"highlights_carousel\"},\"feed\":{},\"new_award\":{\"is_content_eligible\":false},\"source\":\"post\",\"action\":\"view\",\"noun\":\"post\",\"referrer\":{\"url\":\"\",\"domain\":\"\"},\"client_timestamp\":1757449904725}\"><H2 slot=\"title\" class=\"m-0 possible-clickable-element\" data-testid=\"S\"><text>[D] Monthly Who's Hiring and Who wants to be Hired?</text></H2></FACEPLATE-TRACKER></SPAN><SPAN class=\"upvotes text-12 leading-4 text-secondary-plain-weak line-clamp-1\"><SPAN slot=\"upvotes-and-comments\"><FACEPLATE-NUMBER number=\"12\" pretty=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"possible-clickable-element\" data-testid=\"U\"><text>12</text></FACEPLATE-NUMBER><text>votes •</text><FACEPLATE-NUMBER number=\"2\" pretty=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"possible-clickable-element\" data-testid=\"V\"><text>2</text></FACEPLATE-NUMBER><text>comments</text></SPAN></SPAN><DIV class=\"flex items-end gap-sm overflow-hidden overflow-ellipsis whitespace-nowrap\"><SPAN class=\"overflow-hidden overflow-ellipsis whitespace-nowrap\"><SPAN slot=\"label\"><SPAN class=\"pt-2xs flex\"><SPAN class=\"inline-flex items-center justify-center w-[1.5rem] h-[1.5rem]\" rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" avatar=\"7AE71949D3E677127C4A052A85BA2C7E\"><SPAN rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"inline-block rounded-full relative [&>:first-child]:h-full [&>:first-child]:w-full [&>:first-child]:mb-0 [&>:first-child]:rounded-[inherit] h-full w-full [&>:first-child]:overflow-hidden [&>:first-child]:max-h-full\"><IMG src=\"https://styles.redditmedia.com/t5_1yz875/styles/profileIcon_klqlly9fc4l41.png?width=64&height=64&frame=1&auto=webp&crop=64%3A64%2Csmart&s=4cd002de4de73dc33950158eb385a54026d627e1\" alt=\"AutoModerator\" class=\"h-full w-full possible-clickable-element\" data-testid=\"T\"></IMG></SPAN></SPAN></SPAN></SPAN></SPAN></DIV></DIV></DIV></FACEPLATE-TRACKER></COMMUNITY-HIGHLIGHT-CARD></A></LI></UL><SPAN role=\"button\" class=\"absolute top-[50%] -translate-y-1/2 hidden xs:inline left-[8px] opacity-0 invisible\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" disabled=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-label=\"Previous\" class=\"hidden xs:block shrink-0 button-small px-[var(--rem6)] button-media icon items-center justify-center button inline-flex\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"left-fill\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12.793 19.707-9-9a1 1 0 0 1 0-1.414l9-9 1.414 1.414L5.914 10l8.293 8.293-1.414 1.414Z\"></path></svg></SPAN></SPAN></BUTTON></SPAN><SPAN role=\"button\" class=\"absolute top-[50%] -translate-y-1/2 hidden xs:inline right-[8px] opacity-0 invisible\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-label=\"Next\" class=\"hidden xs:block shrink-0 button-small px-[var(--rem6)] button-media icon items-center justify-center button inline-flex\" disabled=\"7AE71949D3E677127C4A052A85BA2C7E\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"right-fill\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m7.207 19.707-1.414-1.414L14.086 10 5.793 1.707 7.207.293l9 9a1 1 0 0 1 0 1.414l-9 9Z\"></path></svg></SPAN></SPAN></BUTTON></SPAN></DIV></SHREDDIT-GALLERY-CAROUSEL></COMMUNITY-HIGHLIGHT-CAROUSEL><HR class=\"border-0 border-b-sm border-solid border-b-neutral-border-weak\"></HR><text>Feed</text><ARTICLE class=\"w-full m-0\" aria-label=\"[P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance?\"><SHREDDIT-POST data-ks-item=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"block relative cursor-pointer group bg-neutral-background focus-within:bg-neutral-background-hover hover:bg-neutral-background-hover xs:rounded-4 px-md py-2xs my-2xs nd:visible\" permalink=\"/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" content-href=\"https://www.reddit.com/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" view-context=\"SubredditFeed\" comment-count=\"5\" view-type=\"cardView\" vote-type=\"7AE71949D3E677127C4A052A85BA2C7E\" pdp-target=\"_self\" feedindex=\"0\" user-id=\"7AE71949D3E677127C4A052A85BA2C7E\" moderation-verdict=\"7AE71949D3E677127C4A052A85BA2C7E\" previous-actions-feature=\"7AE71949D3E677127C4A052A85BA2C7E\" item-state=\"7AE71949D3E677127C4A052A85BA2C7E\" is-embeddable=\"7AE71949D3E677127C4A052A85BA2C7E\" is-desktop-viewport=\"7AE71949D3E677127C4A052A85BA2C7E\" is-awardable=\"7AE71949D3E677127C4A052A85BA2C7E\" boost-post-page-exp=\"7AE71949D3E677127C4A052A85BA2C7E\" created-timestamp=\"2025-09-09T08:59:47.594000+0000\" domain=\"self.MachineLearning\" id=\"t3_1ncdt5o\" post-title=\"[P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance?\" post-type=\"multi_media\" score=\"38\" subreddit-id=\"t5_2r3gv\" subreddit-prefixed-name=\"r/MachineLearning\" author-id=\"t2_rcdmi\" author=\"krychu\" icon=\"https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png\" data-expected-lcp=\"7AE71949D3E677127C4A052A85BA2C7E\" subreddit-name=\"MachineLearning\"><A data-ks-id=\"t3_1ncdt5o\" slot=\"full-post-link\" class=\"absolute inset-0 possible-clickable-element\" href=\"/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" target=\"_self\" data-testid=\"W\"><text>[P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance?</text></A><SPAN slot=\"credit-bar\" class=\"flex justify-between text-12 min-h-[32px] mb-2xs mt-[-4px]\"><SPAN id=\"feed-post-credit-bar-t3_1ncdt5o\" class=\"flex flex-wrap text-12 gap-2xs items-center min-w-0 relative\"><SPAN slot=\"authorName\" class=\"flex\"><DIV class=\"inline-flex items-center max-w-full\"><FACEPLATE-TRACKER source=\"post_credit_bar\" action=\"click\" noun=\"user_profile\" class=\"visible\"><A rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"flex items-center text-neutral-content visited:text-neutral-content-weak font-bold a cursor-pointer no-visited no-underline hover:no-underline\" href=\"/user/krychu/\" aria-haspopup=\"dialog\" aria-expanded=\"false\"><DIV class=\"flex items-center gap-2xs\"><SPAN class=\"inline-flex items-center justify-center w-[1.5rem] h-[1.5rem] nd:visible nd:block nd:animate-pulse nd:bg-neutral-background-selected\" rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" avatar=\"7AE71949D3E677127C4A052A85BA2C7E\"><SPAN rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"inline-block rounded-full relative [&>:first-child]:h-full [&>:first-child]:w-full [&>:first-child]:mb-0 [&>:first-child]:rounded-[inherit] h-full w-full [&>:first-child]:overflow-hidden [&>:first-child]:max-h-full\"><IMG src=\"https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png\" alt=\"u/krychu avatar\" class=\"h-full w-full possible-clickable-element\" data-testid=\"X\"></IMG></SPAN></SPAN><SPAN class=\"whitespace-nowrap possible-clickable-element\" data-testid=\"Y\"><text>u/krychu</text></SPAN></DIV></A></FACEPLATE-TRACKER></DIV></SPAN><SPAN class=\"inline-block my-0 created-separator text-neutral-content-weak possible-clickable-element\" data-testid=\"Z\"><text>•</text></SPAN><FACEPLATE-TIMEAGO ts=\"2025-09-09T08:59:47.594000+0000\" format=\"short\" class=\"whitespace-nowrap text-neutral-content-weak\"><TIME datetime=\"2025-09-09T08:59:47.594Z\" title=\"Tuesday, September 9, 2025 at 9:59:47 AM GMT+1\" class=\"possible-clickable-element\" data-testid=\"AA\"><text>12 hr. ago</text></TIME></FACEPLATE-TIMEAGO></SPAN><SPAN class=\"flex items-center pl-xs\"><SHREDDIT-ASYNC-LOADER class=\"relative w-[32px] h-[32px] -mr-[7px]\" bundlename=\"shreddit_post_overflow_menu\"><SHREDDIT-POST-OVERFLOW-MENU post-id=\"t3_1ncdt5o\" author-id=\"t2_rcdmi\" author-name=\"krychu\" subreddit-id=\"t5_2r3gv\" subreddit-prefixed-name=\"r/MachineLearning\" comment-count=\"5\" permalink=\"/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" boost-post-page-exp=\"7AE71949D3E677127C4A052A85BA2C7E\" post-view-context=\"SubredditFeed\" is-desktop-viewport=\"7AE71949D3E677127C4A052A85BA2C7E\" ama-state=\"7AE71949D3E677127C4A052A85BA2C7E\" ama-starts-at=\"7AE71949D3E677127C4A052A85BA2C7E\" ama-ends-at=\"7AE71949D3E677127C4A052A85BA2C7E\" feed-index=\"0\" should-render-follow-menu-item=\"7AE71949D3E677127C4A052A85BA2C7E\" award-count=\"0\" premium-ad-overflow-variant=\"7AE71949D3E677127C4A052A85BA2C7E\" item-state=\"UNMODERATED\" class=\"possible-clickable-element\"><DIV data-post-click-location=\"overflow-button\"><FACEPLATE-DROPDOWN-MENU position=\"bottom-end\" class=\"connected\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-label=\"Open user actions\" class=\"button-small px-[var(--rem6)] button-plain icon items-center justify-center button inline-flex\" aria-haspopup=\"true\" aria-expanded=\"false\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"overflow-horizontal-fill\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6 10a2 2 0 1 1-4 0 2 2 0 0 1 4 0Zm4-2a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm6 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z\"></path></svg></SPAN></SPAN></BUTTON></FACEPLATE-DROPDOWN-MENU></DIV></SHREDDIT-POST-OVERFLOW-MENU></SHREDDIT-ASYNC-LOADER></SPAN></SPAN><DIV class=\"flex\"><DIV class=\"flex flex-col grow max-w-full\"><H2 class=\"condensed-post-title-heading\"><A href=\"/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" id=\"post-title-t3_1ncdt5o\" slot=\"title\" class=\"block text-neutral-content-strong m-0 visited:text-neutral-content-weak font-semibold text-16-scalable xs:text-18-scalable mb-2xs xs:mb-xs overflow-hidden\" aria-describedby=\"feed-post-credit-bar-t3_1ncdt5o\"><text>[P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance?</text></A></H2><SHREDDIT-POST-TEXT-BODY slot=\"text-body\" post-id=\"t3_1ncdt5o\" view-context=\"SubredditFeed\" feed-view-type=\"cardView\" subreddit-prefixed-name=\"r/MachineLearning\"><A href=\"/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" class=\"hover:no-underline no-underline pointer-events-none text-neutral-content visited:text-neutral-content-weak\" slot=\"text-body\"><DIV class=\"mb-xs overflow-hidden\" data-post-click-location=\"text-body\"><DIV id=\"t3_1ncdt5o-post-rtjson-content\" class=\"md feed-card-text-preview text-ellipsis line-clamp-3 xs:line-clamp-6 text-14-scalable\" about=\"t3_1ncdt5o_\" property=\"schema:articleBody\" style=\"--emote-size: 20px\"><text>I recently implemented the</text><OBJECT role=\"none\"><A rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative pointer-events-auto a cursor-pointer underline\" href=\"https://arxiv.org/abs/2506.21734\" rel=\"noopener nofollow noreferrer ugc\" target=\"_blank\"><text>Hierarchical Reasoning Model</text></A></OBJECT><text>(HRM) for educational purposes and applied it to a simple pathfinding task. You can watch the model solve boards step by step in the generated animated GIF.</text><text>HRM is inspired by multi-timescale processing in the brain: a slower H module for abstract planning and a faster L module for low-level computation, both based on self-attention. HRM is an attempt to model reasoning in latent space.</text><text>To understand a bit better what drives the performance I ran a small ablation study. Key findings (full results in the README):</text><text>The biggest driver of performance (both accuracy and refinement ability) is training with more segments (outer-loop refinement), not architecture.</text><text>The two-timescale H/L architecture performs about the same as a single-module trained with BPTT.</text><text>Notably, H/L still achieves good performance/refinement without full BPTT, which could mean cheaper training.</text><text>Repo:</text><OBJECT role=\"none\"><A rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative pointer-events-auto a cursor-pointer underline\" href=\"https://github.com/krychu/hrm\" rel=\"noopener nofollow noreferrer ugc\" target=\"_blank\"><text>https://github.com/krychu/hrm</text></A></OBJECT><text>This is of course a limited study on a relatively simple task, but I thought the results might be interesting to others exploring reasoning models.</text><text>The findings line up with the ARC Prize team's analysis:</text></DIV></DIV></A></SHREDDIT-POST-TEXT-BODY><SHREDDIT-POST-FLAIR slot=\"post-flair\" post-id=\"t3_1ncdt5o\" flair-class=\"relative top-[-0.25rem] xs:top-[-2px] my-2xs xs:mb-sm py-0\"><FACEPLATE-TRACKER source=\"post\" action=\"click\" noun=\"post_flair\"><A href=\"/r/MachineLearning/?f=flair_name%3A%22Project%22\" class=\"no-decoration\"><SPAN class=\"bg-tone-4 inline-block truncate max-w-full text-12 font-normal align-text-bottom box-border px-[6px] rounded-5 leading-4 text-global-black relative top-[-0.25rem] xs:top-[-2px] my-2xs xs:mb-sm py-0\" style=\"background-color: #7D659A;\"><DIV class=\"flair-content [&_.flair-image]:align-bottom max-w-full overflow-hidden whitespace-nowrap text-ellipsis possible-clickable-element\" data-testid=\"AB\"><text>Project</text></DIV></SPAN></A></FACEPLATE-TRACKER></SHREDDIT-POST-FLAIR></DIV></DIV><DIV data-testid=\"action-row\" aria-label=\"Actions available for this post\" class=\"shreddit-post-container flex gap-sm flex-row items-center flex-nowrap justify-start\" tabindex=\"0\"><SPAN class=\"relative leading-[0]\"><SPAN rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"flex flex-row justify-center items-center h-xl font-semibold relative p-0 text-12 button-secondary button-activated inline-flex items-center button-shell overflow-visible font-semibold flex items-center cursor-auto\" data-post-click-location=\"vote\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-pressed=\"false\" class=\"group button flex justify-center aspect-square p-0 border-0 button-secondary disabled:text-interactive-content-disabled button-plain inline-flex items-center hover:text-action-upvote focus-visible:text-action-upvote\" style=\"height: var(--size-button-sm-h);\" upvote=\"7AE71949D3E677127C4A052A85BA2C7E\"><SPAN class=\"flex mx-xs text-16\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"upvote-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 19c-.072 0-.145 0-.218-.006A4.1 4.1 0 0 1 6 14.816V11H2.862a1.751 1.751 0 0 1-1.234-2.993L9.41.28a.836.836 0 0 1 1.18 0l7.782 7.727A1.751 1.751 0 0 1 17.139 11H14v3.882a4.134 4.134 0 0 1-.854 2.592A3.99 3.99 0 0 1 10 19Zm0-17.193L2.685 9.071a.251.251 0 0 0 .177.429H7.5v5.316A2.63 2.63 0 0 0 9.864 17.5a2.441 2.441 0 0 0 1.856-.682A2.478 2.478 0 0 0 12.5 15V9.5h4.639a.25.25 0 0 0 .176-.429L10 1.807Z\"></path></svg></SPAN><text>Upvote</text></BUTTON><FACEPLATE-NUMBER pretty=\"7AE71949D3E677127C4A052A85BA2C7E\" number=\"38\"><text>38</text></FACEPLATE-NUMBER><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-pressed=\"false\" class=\"group button flex justify-center aspect-square p-0 border-0 button-secondary disabled:text-interactive-content-disabled button-plain inline-flex items-center hover:text-action-downvote focus-visible:text-action-downvote\" style=\"height: var(--size-button-sm-h);\" downvote=\"7AE71949D3E677127C4A052A85BA2C7E\"><SPAN class=\"flex mx-xs text-16\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"downvote-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 1c.072 0 .145 0 .218.006A4.1 4.1 0 0 1 14 5.184V9h3.138a1.751 1.751 0 0 1 1.234 2.993L10.59 19.72a.836.836 0 0 1-1.18 0l-7.782-7.727A1.751 1.751 0 0 1 2.861 9H6V5.118a4.134 4.134 0 0 1 .854-2.592A3.99 3.99 0 0 1 10 1Zm0 17.193 7.315-7.264a.251.251 0 0 0-.177-.429H12.5V5.184A2.631 2.631 0 0 0 10.136 2.5a2.441 2.441 0 0 0-1.856.682A2.478 2.478 0 0 0 7.5 5v5.5H2.861a.251.251 0 0 0-.176.429L10 18.193Z\"></path></svg></SPAN><text>Downvote</text></BUTTON></SPAN></SPAN><A rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"button border-md flex flex-row justify-center items-center h-xl font-semibold relative text-12 button-secondary inline-flex items-center px-sm\" data-post-click-location=\"comments-button\" href=\"/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" name=\"comments-action-button\" style=\"height: var(--size-button-sm-h); font: var(--font-button-sm)\" target=\"_self\"><SPAN class=\"flex items-center\"><SPAN class=\"flex text-16 mr-[var(--rem6)]\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-hidden=\"true\" class=\"icon-comment\" fill=\"currentColor\" height=\"16\" icon-name=\"comment-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 19H1.871a.886.886 0 0 1-.798-.52.886.886 0 0 1 .158-.941L3.1 15.771A9 9 0 1 1 10 19Zm-6.549-1.5H10a7.5 7.5 0 1 0-5.323-2.219l.54.545L3.451 17.5Z\"></path></svg></SPAN><FACEPLATE-NUMBER pretty=\"7AE71949D3E677127C4A052A85BA2C7E\" number=\"5\"><text>5</text></FACEPLATE-NUMBER></SPAN><text>Go to comments</text></A><AWARD-BUTTON appearance=\"secondary\" size=\"sm\" button-class=\"flex flex-row justify-center items-center h-xl font-semibold relative\" thing-id=\"t3_1ncdt5o\" subreddit-id=\"t5_2r3gv\" post-id=\"t3_1ncdt5o\" feed-index=\"0\" post-type=\"multi_media\" score=\"38\" comment-count=\"5\" count=\"0\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-label=\"Give award\" class=\"button border-md overflow-visible flex flex-row justify-center items-center h-xl font-semibold relative text-12 button-secondary inline-flex items-center px-sm\" style=\"height: var(--size-button-sm-h); font: var(--font-button-sm)\" type=\"button\"><SPAN class=\"flex items-center\"><SPAN class=\"flex text-16\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-hidden=\"true\" fill=\"currentColor\" height=\"16\" icon-name=\"award-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m18.66 15.36-2.593-3.885A6.997 6.997 0 1 0 3 8c0 1.22.322 2.42.932 3.476l-2.582 3.87a.961.961 0 0 0-.05 1.017c.168.315.525.51.88.483l2.177-.087.741 1.993c.108.333.41.59.756.64a.994.994 0 0 0 .947-.422l2.67-3.997c.35.026.708.026 1.059 0l2.678 4.01a.98.98 0 0 0 .794.418c.388 0 .761-.255.889-.621l.75-2.022 2.155.086a.976.976 0 0 0 .903-.481.955.955 0 0 0-.039-1.003ZM6.143 17.256c-.208-.557-.343-1.488-.871-1.85-.543-.37-1.485-.126-2.092-.101l1.7-2.547a7.009 7.009 0 0 0 2.992 1.909l-1.73 2.589ZM4.5 8a5.5 5.5 0 1 1 5.5 5.5A5.507 5.507 0 0 1 4.5 8Zm10.241 7.393c-.54.354-.675 1.302-.883 1.863l-1.73-2.59a7.007 7.007 0 0 0 2.992-1.908l1.7 2.547c-.601-.024-1.537-.268-2.079.088Z\"></path></svg></SPAN></SPAN></BUTTON></AWARD-BUTTON><SHREDDIT-POST-SHARE-BUTTON data-post-click-location=\"share\" permalink=\"/r/MachineLearning/comments/1ncdt5o/p_implementation_and_ablation_study_of_the/\" source-id=\"t3_1ncdt5o\" is-embeddable=\"7AE71949D3E677127C4A052A85BA2C7E\" is-desktop-viewport=\"7AE71949D3E677127C4A052A85BA2C7E\" size=\"sm\" button-class=\"flex flex-row justify-center items-center h-xl font-semibold relative\" appearance=\"secondary\" data-faceplate-tracking-context=\"{\"post\":{\"id\":\"t3_1ncdt5o\"}}\"><FACEPLATE-DROPDOWN-MENU position=\"bottom-start\" class=\"share-dropdown-menu relative connected\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"button border-md flex flex-row justify-center items-center h-xl font-semibold relative text-12 button-secondary inline-flex items-center px-sm\" style=\"height: var(--size-button-sm-h); font: var(--font-button-sm)\" type=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\"><SPAN class=\"flex items-center\"><SPAN class=\"flex text-16 mr-[var(--rem6)]\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-hidden=\"true\" class=\"icon-share\" fill=\"currentColor\" height=\"16\" icon-name=\"share-new-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M2.239 18.723A1.235 1.235 0 0 1 1 17.488C1 11.5 4.821 6.91 10 6.505V3.616a1.646 1.646 0 0 1 2.812-1.16l6.9 6.952a.841.841 0 0 1 0 1.186l-6.9 6.852A1.645 1.645 0 0 1 10 16.284v-2.76c-2.573.243-3.961 1.738-5.547 3.445-.437.47-.881.949-1.356 1.407-.23.223-.538.348-.858.347ZM10.75 7.976c-4.509 0-7.954 3.762-8.228 8.855.285-.292.559-.59.832-.883C5.16 14 7.028 11.99 10.75 11.99h.75v4.294a.132.132 0 0 0 .09.134.136.136 0 0 0 .158-.032L18.186 10l-6.438-6.486a.135.135 0 0 0-.158-.032.134.134 0 0 0-.09.134v4.36h-.75Z\"></path></svg></SPAN><text>Share</text></SPAN></BUTTON></FACEPLATE-DROPDOWN-MENU></SHREDDIT-POST-SHARE-BUTTON></DIV></SHREDDIT-POST></ARTICLE><HR class=\"border-0 border-b-sm border-solid border-b-neutral-border-weak\"></HR><DIV id=\"right-sidebar-container\" data-scroll-restore=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"right-sidebar min-w-0 w-[316px] max-w-[316px] hidden s:block styled-scrollbars xs:sticky xs:top-[56px] xs:max-h-[calc(100vh-var(--shreddit-header-height)-1px)] xs:overflow-y-auto xs:overflow-x-hidden\"><SHREDDIT-SUBREDDIT-HEADER class=\"nd:flex nd:visible [&:not(:defined)_.directory-link]:hidden [&:not(:defined)_.community-details]:hidden\" name=\"MachineLearning\" subreddit-id=\"t5_2r3gv\" display-name=\"Machine Learning\" prefixed-name=\"r/MachineLearning\" description=\"Beginners -> /r/mlquestions or /r/learnmachinelearning , AGI -> /r/singularity, career advices -> /r/cscareerquestions, datasets -> r/datasets\" router-name=\"subreddit\" id-card-widget-id=\"widget_id-card-2r3gv\" subscribers-text=\"Members\" currently-viewing-text=\"Online\" weekly-active-users=\"156739\" weekly-contributions=\"1752\" new-banner-experiment-enabled=\"7AE71949D3E677127C4A052A85BA2C7E\" is-mod-insights-widget-experiment-enabled=\"7AE71949D3E677127C4A052A85BA2C7E\" activity-indicators-enabled=\"7AE71949D3E677127C4A052A85BA2C7E\"><DIV class=\"header px-md\"><text>Community Info Section</text><DIV class=\"flex flex-col justify-start\"><DIV id=\"title\" class=\"i18n-subreddit-title text-left text-neutral-content text-14 font-bold mt-xs\"><text>Machine Learning</text></DIV><DIV id=\"description\" class=\"i18n-subreddit-description description text-left text-neutral-content-weak overflow-hidden\"><text>Beginners -> /r/mlquestions or /r/learnmachinelearning , AGI -> /r/singularity, career advices -> /r/cscareerquestions, datasets -> r/datasets</text></DIV><DIV slot=\"community-details\" class=\"community-details flex flex-col gap-2xs text-[12px] text-neutral-content-weak\"><DIV class=\"flex items-center text-neutral-content-weak w-max\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"mr-xs\" fill=\"currentColor\" height=\"16\" icon-name=\"cake-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m19.426 8.687-8.3-4.73A5.1 5.1 0 0 0 7.746.948c-.84 0-3.587 1.758-3.587 4.125 0 .112.023.218.032.328l-3.816 3.4A1.1 1.1 0 0 0 0 9.623v8.214a1.153 1.153 0 0 0 1.175 1.125L18.819 19c.318 0 .623-.124.85-.347a1.092 1.092 0 0 0 .331-.778V9.652a1.117 1.117 0 0 0-.574-.965ZM7.7 2.195c.387.076 2.382 1.308 2.382 2.878a2.34 2.34 0 1 1-4.675 0C5.409 3.5 7.4 2.271 7.7 2.195ZM18.75 14.75H4.451V16h14.3v1.75l-17.5-.037V11.25h17.5l-.001 3.5Zm0-4.75H1.25v-.3l3.325-2.967a3.555 3.555 0 0 0 6.717-1.24L18.75 9.74V10Z\"></path></svg><text>Created Jul 29, 2009</text></DIV><DIV class=\"flex items-center text-neutral-content-weak w-max\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"mr-xs\" fill=\"currentColor\" height=\"16\" icon-name=\"world-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 0a10 10 0 1 0 10 10A10.011 10.011 0 0 0 10 0Zm8.718 9.375h-4.645c-.075-3.017-.7-6.051-1.819-7.82a8.755 8.755 0 0 1 6.464 7.82ZM10 18.75c-1.138 0-2.7-3.077-2.824-8.125h5.647C12.7 15.673 11.137 18.75 10 18.75ZM7.176 9.375C7.3 4.327 8.862 1.25 10 1.25s2.7 3.077 2.823 8.125H7.176Zm.569-7.82C6.625 3.324 6 6.359 5.926 9.375H1.282a8.756 8.756 0 0 1 6.463-7.82Zm-6.463 9.07h4.644c.075 3.016.7 6.051 1.819 7.82a8.756 8.756 0 0 1-6.463-7.82Zm10.972 7.82c1.12-1.769 1.744-4.8 1.819-7.82h4.645a8.754 8.754 0 0 1-6.464 7.82Z\"></path></svg><text>Public</text></DIV></DIV></DIV><DIV class=\"flex flex-wrap text-left mt-xs gap-2xs\" data-testid=\"activity-indicators\"><DIV class=\"flex flex-col items-start flex-grow\"><SPAN class=\"text-neutral-content-strong\"><SPAN slot=\"weekly-active-users-count\"><text>156K</text></SPAN></SPAN><SPAN class=\"text-[12px] text-neutral-content-weak\"><text>Members</text></SPAN></DIV><DIV class=\"flex flex-col items-start flex-grow\"><SPAN class=\"text-neutral-content-strong\"><SPAN slot=\"weekly-contributions-count\"><text>1.7K</text></SPAN></SPAN><SPAN class=\"text-[12px] text-neutral-content-weak\"><text>Online</text></SPAN></DIV></DIV></DIV></SHREDDIT-SUBREDDIT-HEADER><HR class=\"border-neutral-border-weak my-md\"></HR><DIV class=\"px-md text-neutral-content-weak\"><DIV class=\"flex justify-between items-center\"><H2 class=\"uppercase text-12 font-semibold mt-0 mb-sm\"><DIV class=\"i18n-translatable-text\"><text>r/MachineLearning Rules</text></DIV></H2></DIV><DIV class=\"-mx-xs -mt-xs\"><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"rule-7826412b-345d-452c-bc13-333efccb5e32\" aria-expanded=\"false\" class=\"font-normal\"><FACEPLATE-TRACKER source=\"rules_widget\" action=\"click\" noun=\"rules\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><SPAN class=\"text-neutral-content-weak text-14 font-normal possible-clickable-element\" data-testid=\"AC\"><text>1</text></SPAN></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"7AE71949D3E677127C4A052A85BA2C7E\"><H2 class=\"i18n-translatable-text flex text-neutral-content-weak m-0 possible-clickable-element\" data-testid=\"AD\"><text>No Spam</text></H2></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AE\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"rule-6c1b7dd9-9713-48bf-a7dd-bb99a2859c6f\" aria-expanded=\"false\" class=\"font-normal\"><FACEPLATE-TRACKER source=\"rules_widget\" action=\"click\" noun=\"rules\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><SPAN class=\"text-neutral-content-weak text-14 font-normal possible-clickable-element\" data-testid=\"AF\"><text>2</text></SPAN></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"7AE71949D3E677127C4A052A85BA2C7E\"><H2 class=\"i18n-translatable-text flex text-neutral-content-weak m-0 possible-clickable-element\" data-testid=\"AG\"><text>No Self-Promotion</text></H2></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AH\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"rule-82f17ff4-6efe-4da8-ab33-694c6a19687e\" aria-expanded=\"false\" class=\"font-normal\"><FACEPLATE-TRACKER source=\"rules_widget\" action=\"click\" noun=\"rules\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><SPAN class=\"text-neutral-content-weak text-14 font-normal possible-clickable-element\" data-testid=\"AI\"><text>3</text></SPAN></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"7AE71949D3E677127C4A052A85BA2C7E\"><H2 class=\"i18n-translatable-text flex text-neutral-content-weak m-0 possible-clickable-element\" data-testid=\"AJ\"><text>No Marketing Campaigns (SEO)</text></H2></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AK\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"rule-5bba2b96-2a2a-4fe7-9f56-fee4b6d71fe4\" aria-expanded=\"false\" class=\"font-normal\"><FACEPLATE-TRACKER source=\"rules_widget\" action=\"click\" noun=\"rules\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><SPAN class=\"text-neutral-content-weak text-14 font-normal possible-clickable-element\" data-testid=\"AL\"><text>4</text></SPAN></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"7AE71949D3E677127C4A052A85BA2C7E\"><H2 class=\"i18n-translatable-text flex text-neutral-content-weak m-0 possible-clickable-element\" data-testid=\"AM\"><text>No Disrespectful Behavior</text></H2></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AN\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"rule-7dd7b873-737d-4739-bd66-a25556afbdbd\" aria-expanded=\"false\" class=\"font-normal\"><FACEPLATE-TRACKER source=\"rules_widget\" action=\"click\" noun=\"rules\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><SPAN class=\"text-neutral-content-weak text-14 font-normal possible-clickable-element\" data-testid=\"AO\"><text>5</text></SPAN></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"7AE71949D3E677127C4A052A85BA2C7E\"><H2 class=\"i18n-translatable-text flex text-neutral-content-weak m-0 possible-clickable-element\" data-testid=\"AP\"><text>No arXiv Links without Body Text</text></H2></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AQ\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY></DETAILS></DIV></DIV></DIV><DIV id=\"flex-left-nav-container\"><DIV id=\"flex-nav-buttons\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"bg-neutral-background shadow-xs button-small px-[var(--rem6)] button-bordered icon items-center justify-center button inline-flex\" id=\"flex-nav-collapse-button\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"16\" icon-name=\"menu-outline\" viewBox=\"0 0 20 20\" width=\"16\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.25 4.7H1.75A.772.772 0 0 1 1 3.95c0-.399.352-.75.75-.75h16.5c.398 0 .75.351.75.75 0 .397-.352.75-.75.75ZM19 9.996a.772.772 0 0 0-.75-.75H1.75a.772.772 0 0 0-.75.75c0 .398.352.75.75.75h16.5c.398 0 .75-.352.75-.75Zm0 6.047a.772.772 0 0 0-.75-.75H1.75a.772.772 0 0 0-.75.75c0 .398.352.75.75.75h16.5c.398 0 .75-.352.75-.75Z\" class=\"possible-clickable-element\" data-testid=\"AR\"></path></svg></SPAN></SPAN><text>Collapse Navigation</text></BUTTON></DIV><DIV id=\"flex-left-nav-contents\"><REDDIT-SIDEBAR-NAV id=\"left-sidebar\" class=\"nd:visible block w-full h-screen-without-header styled-scrollbars overflow-y-scroll overflow-x-hidden bg-neutral-background box-border px-md overscroll-contain\" data-scroll-restore=\"7AE71949D3E677127C4A052A85BA2C7E\"><LEFT-NAV-TOP-SECTION home=\"7AE71949D3E677127C4A052A85BA2C7E\" popular=\"7AE71949D3E677127C4A052A85BA2C7E\" guides=\"7AE71949D3E677127C4A052A85BA2C7E\" is-desktop=\"7AE71949D3E677127C4A052A85BA2C7E\" selectedpagetype=\"unknown\" country=\"CM\"><FACEPLATE-TRACKER source=\"nav\" action=\"click\" noun=\"home\" class=\"visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" id=\"home-posts\" role=\"presentation\"><A class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 s:rounded-2 bg-transparent no-underline\" href=\"/?feed=home\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"home-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m17.71 8.549 1.244.832v8.523a1.05 1.05 0 0 1-1.052 1.046H12.73a.707.707 0 0 1-.708-.707v-4.507c0-.76-1.142-1.474-2.026-1.474-.884 0-2.026.714-2.026 1.474v4.507a.71.71 0 0 1-.703.707H2.098a1.046 1.046 0 0 1-1.052-1.043V9.381l1.244-.835v9.158h4.44v-3.968c0-1.533 1.758-2.72 3.27-2.72s3.27 1.187 3.27 2.72v3.968h4.44V8.549Zm2.04-1.784L10.646.655a1.12 1.12 0 0 0-1.28-.008L.25 6.765l.696 1.036L10 1.721l9.054 6.08.696-1.036Z\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><text>Home</text></SPAN></SPAN></SPAN></A></LI></FACEPLATE-TRACKER><FACEPLATE-TRACKER source=\"nav\" action=\"click\" noun=\"popular\" class=\"visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" id=\"popular-posts\" role=\"presentation\"><A class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 s:rounded-2 bg-transparent no-underline\" href=\"/r/popular/\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"popular-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 0a10 10 0 1 0 10 10A10.01 10.01 0 0 0 10 0Zm0 18.75a8.7 8.7 0 0 1-5.721-2.145l8.471-8.471v4.148H14V6.638A.647.647 0 0 0 13.362 6H7.718v1.25h4.148L3.4 15.721A8.739 8.739 0 1 1 10 18.75Z\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><text>Popular</text></SPAN></SPAN></SPAN></A></LI></FACEPLATE-TRACKER><FACEPLATE-TRACKER source=\"nav\" action=\"click\" noun=\"gen_guides_sidebar\" class=\"visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><A class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 s:rounded-2 bg-transparent no-underline\" href=\"/answers/\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"answers-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m18.69 11.25-4.34-7.52c-.86-1.48-2.33-2.4-4.04-2.5-1.92-.12-3.71.84-4.67 2.5L1.3 11.25c-.87 1.51-.9 3.33-.09 4.86a5.02 5.02 0 0 0 4.44 2.68h8.68c1.82 0 3.45-.94 4.35-2.51.91-1.57.91-3.45 0-5.03h.01Zm-8.45-8.78c1.28.08 2.39.77 3.03 1.88l2.74 4.74c-.22-.08-.45-.14-.68-.18a5.014 5.014 0 0 0-3.44.58c-1.14.66-2.56.67-3.73.02-.01 0-.02-.02-.03-.02h-.01a3.857 3.857 0 0 1-1.7-2.06c-.3-.86-.27-1.79.05-2.61l.27-.46a3.759 3.759 0 0 1 3.27-1.89h.24-.01ZM2.32 15.52c-.61-1.15-.59-2.52.07-3.65l2.73-4.74c.04.23.11.46.18.68.41 1.15 1.17 2.08 2.22 2.68.02 0 .03.01.05.02 1.13.68 1.84 1.91 1.84 3.25 0 .92-.32 1.78-.93 2.5-.6.7-1.43 1.14-2.32 1.27h-.51a3.73 3.73 0 0 1-3.34-2.01h.01Zm15.29.13a3.747 3.747 0 0 1-3.27 1.89H8.86c.18-.16.36-.32.51-.51.79-.93 1.21-2.05 1.21-3.26 0-1.34.72-2.59 1.9-3.27.79-.46 1.7-.61 2.63-.44.89.17 1.68.66 2.23 1.35l.27.46c.68 1.18.68 2.59 0 3.78Z\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><DIV class=\"flex gap-xs items-baseline\"><text>Answers</text><SPAN class=\"text-global-admin font-semibold text-12\"><text>BETA</text></SPAN></DIV></SPAN></SPAN></SPAN></A></LI></FACEPLATE-TRACKER></LEFT-NAV-TOP-SECTION><HR class=\"w-100 my-sm border-neutral-border-weak\"></HR><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\" open=\"7AE71949D3E677127C4A052A85BA2C7E\"><SUMMARY class=\"font-normal\" aria-controls=\"RECENT\" aria-expanded=\"true\"><FACEPLATE-TRACKER source=\"nav\" action=\"click\" noun=\"recent_menu\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end:16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"text-12 text-secondary-weak tracking-widest\"><text>RECENT</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY><FACEPLATE-AUTO-HEIGHT-ANIMATOR class=\"block\" open=\"7AE71949D3E677127C4A052A85BA2C7E\" connected=\"7AE71949D3E677127C4A052A85BA2C7E\" style=\"transition: height 222ms;\"><DIV faceplate-auto-height-animator-content=\"7AE71949D3E677127C4A052A85BA2C7E\" id=\"RECENT\" style=\"transition: opacity 222ms;\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><A class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover active:bg-interactive-pressed hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 s:rounded-2 bg-transparent no-underline\" href=\"/r/MachineLearning/\" style=\"padding-inline-end: 16px\" tabindex=\"0\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl\"><SPAN class=\"text-20 leading-4\"><SPAN rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" avatar=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"inline-flex items-center justify-center w-[2rem] h-[2rem]\"><SPAN rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"inline-block rounded-full relative [&>:first-child]:h-full [&>:first-child]:w-full [&>:first-child]:mb-0 [&>:first-child]:rounded-[inherit] h-full w-full [&>:first-child]:overflow-hidden [&>:first-child]:max-h-full\"><IMG loading=\"lazy\" aria-hidden=\"true\" alt=\"7AE71949D3E677127C4A052A85BA2C7E\" src=\"https://styles.redditmedia.com/t5_2r3gv/styles/communityIcon_kilpomt3l5c51.png?width=128&frame=1&auto=webp&s=c0b1de9dce3be9033746b2ebad469fc738bca0d6\"></IMG></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><DIV class=\"truncate\"><text>r/MachineLearning</text></DIV></SPAN></SPAN></SPAN></A></LI></DIV></FACEPLATE-AUTO-HEIGHT-ANIMATOR></DETAILS><HR class=\"w-100 my-sm border-neutral-border-weak\"></HR><DETAILS open=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"TOPICS\" aria-expanded=\"true\" class=\"font-normal\"><FACEPLATE-TRACKER source=\"nav\" action=\"click\" noun=\"topics_menu\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"text-12 text-secondary-weak tracking-widest possible-clickable-element\" data-testid=\"AS\"><text>TOPICS</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AT\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY><FACEPLATE-AUTO-HEIGHT-ANIMATOR class=\"block\" open=\"7AE71949D3E677127C4A052A85BA2C7E\" connected=\"7AE71949D3E677127C4A052A85BA2C7E\" style=\"transition: height 222ms;\"><DIV faceplate-auto-height-animator-content=\"7AE71949D3E677127C4A052A85BA2C7E\" id=\"TOPICS\" style=\"transition: opacity 222ms;\"><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"Internet Culture (Viral)\" aria-expanded=\"false\" class=\"font-normal\"><LEFT-NAV-TOPIC-TRACKER noun=\"topic_menu\" topic=\"internet_culture_Viral\" class=\"nd:visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"topic-funny-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AU\"><path d=\"M7.678 5.875h-1.25V5.25a1.875 1.875 0 0 0-3.75 0v.625h-1.25V5.25a3.125 3.125 0 1 1 6.25 0v.625Z\"></path><path d=\"M18.678 5.875h-1.25V5.25a1.875 1.875 0 1 0-3.75 0v.625h-1.25V5.25a3.125 3.125 0 0 1 6.25 0v.625Z\"></path><path d=\"M10.053 17.875A8.635 8.635 0 0 1 1.428 9.25a.625.625 0 0 1 .625-.625h16a.625.625 0 0 1 .625.625 8.635 8.635 0 0 1-8.625 8.625Zm-7.348-8a7.375 7.375 0 0 0 14.7 0h-14.7Z\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"possible-clickable-element\" data-testid=\"AV\"><text>Internet Culture (Viral)</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"AW\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></LEFT-NAV-TOPIC-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"Games\" aria-expanded=\"false\" class=\"font-normal\"><LEFT-NAV-TOPIC-TRACKER noun=\"topic_menu\" topic=\"games\" class=\"nd:visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"topic-videogaming-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M19.929 14.17 18.277 6.6a4.631 4.631 0 0 0-4.52-3.6H5.702a4.623 4.623 0 0 0-4.58 3.908L.034 14.387a3.134 3.134 0 0 0 .735 2.5 3.227 3.227 0 0 0 5.553-1.284l.39-1.635h5.794l.39 1.635A3.2 3.2 0 0 0 16.01 18h.782a3.211 3.211 0 0 0 3.123-2.444c.109-.455.114-.929.015-1.386Zm-1.6 1.85a1.964 1.964 0 0 1-1.54.73h-.781a1.947 1.947 0 0 1-1.9-1.453l-.63-2.476H5.74L5.11 15.3a1.947 1.947 0 0 1-1.9 1.453 1.974 1.974 0 0 1-1.5-.678 1.862 1.862 0 0 1-.443-1.506l1.09-7.481A3.366 3.366 0 0 1 5.7 4.25h8.062a3.373 3.373 0 0 1 3.3 2.614l1.65 7.573a1.877 1.877 0 0 1-.383 1.583h-.001Z\"></path><path d=\"M6.256 6.212h-1.25v1.776h-1.73v1.25h1.73v1.622h1.25V9.238h1.73v-1.25h-1.73V6.212Z\" class=\"possible-clickable-element\" data-testid=\"AX\"></path><path d=\"M11.82 8.81a1 1 0 1 0 1.71.71 1.001 1.001 0 0 0-.3-.71 1.034 1.034 0 0 0-1.41 0Z\" class=\"possible-clickable-element\" data-testid=\"AY\"></path><path d=\"M15.23 6.85a.875.875 0 0 0-.32-.22c-.246-.1-.522-.1-.77 0a.875.875 0 0 0-.32.22.975.975 0 0 0 0 1.41 1 1 0 0 0 1.41 0 1.03 1.03 0 0 0 .22-1.09.877.877 0 0 0-.22-.32Z\" class=\"possible-clickable-element\" data-testid=\"AZ\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"possible-clickable-element\" data-testid=\"BA\"><text>Games</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BB\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></LEFT-NAV-TOPIC-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"Q&As\" aria-expanded=\"false\" class=\"font-normal\"><LEFT-NAV-TOPIC-TRACKER noun=\"topic_menu\" topic=\"q_and_as\" class=\"nd:visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"topic-help-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M9.45 13.95a1.033 1.033 0 0 1-.71-.29 1.014 1.014 0 0 1 0-1.42 1.033 1.033 0 0 1 1.409 0 1 1 0 0 1-.699 1.71Zm.689-9.9A4.987 4.987 0 0 0 7.111 5a.853.853 0 0 0-.1 1.313l.065.061a.832.832 0 0 0 1.085.026 2.987 2.987 0 0 1 1.752-.658c.8 0 1.245.371 1.245.9 0 .649-.331.94-1.059 1.351a2.772 2.772 0 0 0-1.333 1.481c-.058.14-.089.288-.093.439 0 .252.099.494.276.673a.89.89 0 0 0 .665.266.913.913 0 0 0 .661-.265.925.925 0 0 0 .227-.422c0-.006.046-.261.046-.267.095-.479.365-.733 1.141-1.134a2.452 2.452 0 0 0 1.562-2.29c-.001-1.405-1.1-2.424-3.112-2.424ZM13.376 16h2A4.626 4.626 0 0 0 20 11.379V5.621A4.626 4.626 0 0 0 15.379 1H4.621A4.626 4.626 0 0 0 0 5.621v5.758A4.626 4.626 0 0 0 4.621 16H7.5v-1.25H4.621a3.375 3.375 0 0 1-3.371-3.371V5.621A3.375 3.375 0 0 1 4.621 2.25h10.758a3.375 3.375 0 0 1 3.371 3.371v5.758a3.376 3.376 0 0 1-3.371 3.371h-2.5l-3.763 3.607.866.9L13.376 16Z\" class=\"possible-clickable-element\" data-testid=\"BC\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"possible-clickable-element\" data-testid=\"BD\"><text>Q&As</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BE\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></LEFT-NAV-TOPIC-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"Technology\" aria-expanded=\"false\" class=\"font-normal\"><LEFT-NAV-TOPIC-TRACKER noun=\"topic_menu\" topic=\"technology\" class=\"nd:visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"topic-technology-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BF\"><path d=\"M11.875 7h-3.75A1.127 1.127 0 0 0 7 8.125v3.75A1.127 1.127 0 0 0 8.125 13h3.75A1.127 1.127 0 0 0 13 11.875v-3.75A1.127 1.127 0 0 0 11.875 7Zm-.125 4.75h-3.5v-3.5h3.5v3.5Z\"></path><path d=\"M19 7.625v-1.25h-2v-1.75A1.627 1.627 0 0 0 15.375 3h-1.75V1h-1.25v2h-1.75V1h-1.25v2h-1.75V1h-1.25v2h-1.75A1.627 1.627 0 0 0 3 4.625v1.75H1v1.25h2v1.75H1v1.25h2v1.75H1v1.25h2v1.75A1.627 1.627 0 0 0 4.625 17h1.75v2h1.25v-2h1.75v2h1.25v-2h1.75v2h1.25v-2h1.75A1.627 1.627 0 0 0 17 15.375v-1.75h2v-1.25h-2v-1.75h2v-1.25h-2v-1.75h2Zm-3.25 7.75a.375.375 0 0 1-.375.375H4.625a.375.375 0 0 1-.375-.375V4.625a.375.375 0 0 1 .375-.375h10.75a.375.375 0 0 1 .375.375v10.75Z\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"possible-clickable-element\" data-testid=\"BG\"><text>Technology</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BH\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></LEFT-NAV-TOPIC-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"Pop Culture\" aria-expanded=\"false\" class=\"font-normal\"><LEFT-NAV-TOPIC-TRACKER noun=\"topic_menu\" topic=\"pop_culture\" class=\"nd:visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"topic-celebrity-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BI\"><path d=\"M10 13.979a3.003 3.003 0 0 1-2.772-1.85 2.993 2.993 0 0 1 2.187-4.086 3.004 3.004 0 0 1 3.08 1.274 2.994 2.994 0 0 1-.373 3.784A3.003 3.003 0 0 1 10 13.98Zm0-4.745a1.752 1.752 0 0 0-1.617 1.08 1.746 1.746 0 0 0 1.275 2.383 1.752 1.752 0 0 0 2.092-1.715A1.748 1.748 0 0 0 10 9.234ZM15.5 19.497c-.15 0-.3-.03-.438-.09L10 17.235l-5.063 2.172a1.103 1.103 0 0 1-1.447-.555 1.097 1.097 0 0 1-.092-.558l.512-5.456L.274 8.724a1.098 1.098 0 0 1 .588-1.798l5.377-1.199 2.813-4.719a1.14 1.14 0 0 1 1.9 0l2.809 4.713 5.378 1.199a1.1 1.1 0 0 1 .838 1.294c-.038.187-.125.36-.25.504l-3.64 4.114.51 5.455a1.097 1.097 0 0 1-1.1 1.204l.004.006ZM10 15.977c.15 0 .298.03.436.088l4.894 2.097-.494-5.272a1.099 1.099 0 0 1 .27-.829l3.515-3.975-5.194-1.16a1.101 1.101 0 0 1-.71-.515L10 1.858 7.28 6.414a1.1 1.1 0 0 1-.707.512L1.38 8.086l3.515 3.975a1.098 1.098 0 0 1 .27.832l-.494 5.27 4.894-2.098c.138-.059.286-.089.436-.088Z\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"possible-clickable-element\" data-testid=\"BJ\"><text>Pop Culture</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BK\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></LEFT-NAV-TOPIC-TRACKER></SUMMARY></DETAILS><DETAILS class=\"p-0 m-0 bg-transparent border-none rounded-none\"><SUMMARY aria-controls=\"Movies & TV\" aria-expanded=\"false\" class=\"font-normal\"><LEFT-NAV-TOPIC-TRACKER noun=\"topic_menu\" topic=\"movies_and_tv\" class=\"nd:visible\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex shrink-0 items-center justify-center h-xl w-xl text-20 leading-4\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"topic-movies-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BL\"><path d=\"M18.375 8H6.45L17.3 5.093a.625.625 0 0 0 .44-.765L16.709.464a.62.62 0 0 0-.522-.459.616.616 0 0 0-.244.017L.488 4.162a.624.624 0 0 0-.441.766l.969 3.618A.527.527 0 0 0 1 8.625v8.75A2.629 2.629 0 0 0 3.625 20h12.75A2.628 2.628 0 0 0 19 17.375v-8.75A.625.625 0 0 0 18.375 8ZM8.06 6.275l-2.75.737v-2.7a.61.61 0 0 0-.028-.135l2.778-.744v2.842Zm1.25-3.182 2.75-.737V5.2l-2.75.737V3.093Zm7.063.954-3.063.82V2.022l2.35-.63.713 2.656ZM4.06 4.5v2.807c0 .013.006.025.007.038l-1.94.52-.712-2.657L4.06 4.5ZM17.75 17.375a1.377 1.377 0 0 1-1.375 1.375H3.625a1.377 1.377 0 0 1-1.375-1.375V9.25h15.5v8.125Z\"></path></svg></SPAN><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"possible-clickable-element\" data-testid=\"BM\"><text>Movies & TV</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BN\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></LEFT-NAV-TOPIC-TRACKER></SUMMARY></DETAILS><SHREDDIT-ASYNC-LOADER bundlename=\"hui_left_nav_see_more\" class=\"nd:none\"><HUI-LEFT-NAV-SEE-MORE more-noun=\"topics_menu_see_more\" less-noun=\"topics_menu_see_less\" controls=\"left-nav-more-topics\"><FACEPLATE-TRACKER source=\"nav\" action=\"click\" noun=\"topics_menu_see_less\"><BUTTON rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" aria-controls=\"left-nav-more-topics\" aria-expanded=\"false\" class=\"ml-xs mt-2xs button-small px-[var(--rem10)] button-plain items-center justify-center button inline-flex\"><SPAN class=\"flex items-center justify-center\"><SPAN class=\"flex items-center gap-xs\"><text>See more</text></SPAN></SPAN></BUTTON></FACEPLATE-TRACKER></HUI-LEFT-NAV-SEE-MORE></SHREDDIT-ASYNC-LOADER></DIV></FACEPLATE-AUTO-HEIGHT-ANIMATOR></DETAILS><HR class=\"w-100 my-sm border-neutral-border-weak\"></HR><SUMMARY aria-controls=\"RESOURCES\" aria-expanded=\"true\" class=\"font-normal\"><FACEPLATE-TRACKER source=\"nav\" action=\"click\" noun=\"resources_menu\"><LI rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" class=\"relative list-none mt-0\" role=\"presentation\"><DIV tabindex=\"-1\" class=\"flex justify-between relative px-md gap-[0.5rem] text-secondary hover:text-secondary-hover hover:bg-neutral-background-hover hover:no-underline cursor-pointer py-2xs -outline-offset-1 bg-transparent s:rounded-2\" style=\"padding-inline-end: 16px\"><SPAN class=\"flex items-center gap-xs min-w-0 shrink\"><SPAN class=\"flex flex-col justify-center min-w-0 shrink py-[var(--rem6)]\"><SPAN class=\"text-14\"><SPAN class=\"text-12 text-secondary-weak tracking-widest possible-clickable-element\" data-testid=\"BO\"><text>RESOURCES</text></SPAN></SPAN></SPAN></SPAN><SPAN class=\"flex items-center shrink-0\"><SPAN class=\"flex items-center justify-center h-lg\"><svg rpl=\"7AE71949D3E677127C4A052A85BA2C7E\" fill=\"currentColor\" height=\"20\" icon-name=\"caret-down-outline\" viewBox=\"0 0 20 20\" width=\"20\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"BP\"><path d=\"M10 13.02a.755.755 0 0 1-.53-.22L4.912 8.242A.771.771 0 0 1 4.93 7.2a.771.771 0 0 1 1.042-.018L10 11.209l4.028-4.027a.771.771 0 0 1 1.042.018.771.771 0 0 1 .018 1.042L10.53 12.8a.754.754 0 0 1-.53.22Z\"></path></svg></SPAN></SPAN></DIV></LI></FACEPLATE-TRACKER></SUMMARY></REDDIT-SIDEBAR-NAV></DIV></DIV>",
+    "parsed_html": "\n<\n  div|\n  <text| Machine Learning >\n  <\n    nav|\n    <ellipse[A]| >\n    <path[B]| >\n    <path[C]| >\n    <path[D]| >\n    <circle[E]| >\n    <path[F]| >\n    <path[G]| >\n    <path[H]| >\n    <\n      faceplate-search-input| 7AE71949D3E677127C4A052A85BA2C7E; Search in r/MachineLearning\n      <input| Search in r/MachineLearning >\n    >\n    <span[I]| Log In >\n    <path[J]| >\n  >\n  <\n    div|\n    <h1| r/MachineLearning >\n    <\n      div|\n      <\n        button[create-post]|\n        <path[K]| >\n        <span[L]| Create Post >\n      >\n      <button| Join >\n    >\n  >\n  <\n    shreddit-async-loader|\n    <a| Skip to Navigation >\n    <a| Skip to Right Sidebar >\n  >\n  <span| Best >\n  <\n    community-highlight-carousel|\n    <svg[M]| >\n    <span[N]| Community highlights >\n    <\n      ul|\n      <\n        div|\n        <h2[O]| [D] Self-Promotion Thread >\n        <\n          span|\n          <faceplate-number[Q]| 14 >\n          <text| votes • >\n          <faceplate-number[R]| 21 >\n          <text| comments >\n        >\n        <img[P]| >\n      >\n      <\n        div|\n        <h2[S]| [D] Monthly Who's Hiring and Who wants to be Hired? >\n        <\n          span|\n          <faceplate-number[U]| 12 >\n          <text| votes • >\n          <faceplate-number[V]| 2 >\n          <text| comments >\n        >\n        <img[T]| >\n      >\n    >\n  >\n  <text| Feed >\n  <\n    shreddit-post|\n    <a[W]| [P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance? >\n    <\n      span|\n      <img[X]| >\n      <span[Y]| u/krychu >\n      <span[Z]| • >\n      <time[AA]| Tuesday, September 9, 2025 at 9:59:47 AM GMT+1 12 hr. ago >\n    >\n    <\n      div|\n      <a| [P] Implementation and ablation study of the Hierarchical Reasoning Model (HRM): what really drives performance? >\n      <\n        div|\n        <text| I recently implemented the >\n        <a| Hierarchical Reasoning Model >\n        <text| (HRM) for educational purposes and applied it to a simple pathfinding task. You can watch the model solve boards step by step in the generated animated GIF. >\n        <text| HRM is inspired by multi-timescale processing in the brain: a slower H module for abstract planning and a faster L module for low-level computation, both based on self-attention. HRM is an attempt to model reasoning in latent space. >\n        <text| To understand a bit better what drives the performance I ran a small ablation study. Key findings (full results in the README): >\n        <text| The biggest driver of performance (both accuracy and refinement ability) is training with more segments (outer-loop refinement), not architecture. >\n        <text| The two-timescale H/L architecture performs about the same as a single-module trained with BPTT. >\n        <text| Notably, H/L still achieves good performance/refinement without full BPTT, which could mean cheaper training. >\n        <text| Repo: >\n        <a| https://github.com/krychu/hrm >\n        <text| This is of course a limited study on a relatively simple task, but I thought the results might be interesting to others exploring reasoning models. >\n        <text| The findings line up with the ARC Prize team's analysis: >\n      >\n      <div[AB]| Project >\n    >\n    <\n      div[action-row]|\n      <\n        span|\n        <button| Upvote >\n        <faceplate-number| 38 >\n        <button| Downvote >\n      >\n      <\n        a|\n        <faceplate-number| 5 >\n        <text| Go to comments >\n      >\n      <span| Share >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <text| Community Info Section >\n      <\n        div|\n        <div| Machine Learning >\n        <div| >\n        <\n          div|\n          <div| Created Jul 29, 2009 >\n          <div| Public >\n        >\n      >\n      <\n        div[activity-indicators]|\n        <\n          div|\n          <span| 156K >\n          <span| Members >\n        >\n        <\n          div|\n          <span| 1.7K >\n          <span| Online >\n        >\n      >\n    >\n    <\n      div|\n      <div| r/MachineLearning Rules >\n      <\n        div|\n        <\n          span|\n          <span[AC]| 1 >\n          <h2[AD]| No Spam >\n        >\n        <svg[AE]| >\n        <\n          span|\n          <span[AF]| 2 >\n          <h2[AG]| No Self-Promotion >\n        >\n        <svg[AH]| >\n        <\n          span|\n          <span[AI]| 3 >\n          <h2[AJ]| No Marketing Campaigns (SEO) >\n        >\n        <svg[AK]| >\n        <\n          span|\n          <span[AL]| 4 >\n          <h2[AM]| No Disrespectful Behavior >\n        >\n        <svg[AN]| >\n        <\n          span|\n          <span[AO]| 5 >\n          <h2[AP]| No arXiv Links without Body Text >\n        >\n        <svg[AQ]| >\n      >\n    >\n  >\n  <\n    div|\n    <path[AR]| >\n    <text| Collapse Navigation >\n    <\n      reddit-sidebar-nav|\n      <\n        left-nav-top-section|\n        <span| Home >\n        <span| Popular >\n        <\n          div|\n          <text| Answers >\n          <span| BETA >\n        >\n      >\n      <\n        details|\n        <span| RECENT >\n        <div| r/MachineLearning >\n      >\n      <\n        details|\n        <span[AS]| TOPICS >\n        <svg[AT]| >\n        <\n          div|\n          <svg[AU]| >\n          <span[AV]| Internet Culture (Viral) >\n          <svg[AW]| >\n          <path[AX]| >\n          <path[AY]| >\n          <path[AZ]| >\n          <span[BA]| Games >\n          <svg[BB]| >\n          <path[BC]| >\n          <span[BD]| Q&As >\n          <svg[BE]| >\n          <svg[BF]| >\n          <span[BG]| Technology >\n          <svg[BH]| >\n          <svg[BI]| >\n          <span[BJ]| Pop Culture >\n          <svg[BK]| >\n          <svg[BL]| >\n          <span[BM]| Movies & TV >\n          <svg[BN]| >\n          <span| See more >\n        >\n      >\n      <span[BO]| RESOURCES >\n      <svg[BP]| >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 21.842222213745117,
+                "top": 23.057777404785156,
+                "right": 43.17555236816406,
+                "bottom": 39.057777404785156,
+                "width": 21.333330154418945,
+                "height": 16
+            },
+            "tag": "ellipse",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 25.560300827026367,
+                "top": 27.82666778564453,
+                "right": 29.359699249267578,
+                "bottom": 32.12740707397461,
+                "width": 3.799398422241211,
+                "height": 4.300739288330078
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 35.65956115722656,
+                "top": 27.82666778564453,
+                "right": 39.45895767211914,
+                "bottom": 32.12740707397461,
+                "width": 3.799396514892578,
+                "height": 4.300739288330078
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 28.54950714111328,
+                "top": 33.17333221435547,
+                "right": 36.46812438964844,
+                "bottom": 36.380741119384766,
+                "width": 7.918617248535156,
+                "height": 3.207408905029297
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 35.702964782714844,
+                "top": 16.675556182861328,
+                "right": 40.997779846191406,
+                "bottom": 21.97037124633789,
+                "width": 5.2948150634765625,
+                "height": 5.2948150634765625
+            },
+            "tag": "circle",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 66.22108459472656,
+                "top": 23.4731388092041,
+                "right": 80.57681274414062,
+                "bottom": 38.946556091308594,
+                "width": 14.355728149414062,
+                "height": 15.473417282104492
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 115.74784088134766,
+                "top": 16.945659637451172,
+                "right": 121.136962890625,
+                "bottom": 38.722137451171875,
+                "width": 5.389122009277344,
+                "height": 21.776477813720703
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 121.58285522460938,
+                "top": 19.612165451049805,
+                "right": 132.43344116210938,
+                "bottom": 38.72213363647461,
+                "width": 10.8505859375,
+                "height": 19.109968185424805
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 1156.78125,
+                "top": 9,
+                "right": 1195.5,
+                "bottom": 47,
+                "width": 38.71875,
+                "height": 38
+            },
+            "tag": "span",
+            "text": "Log In"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 1228.748046875,
+                "top": 26.25,
+                "right": 1244.25,
+                "bottom": 29.75250244140625,
+                "width": 15.501953125,
+                "height": 3.50250244140625
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 1059.75,
+                "top": 151.25,
+                "right": 1077.25,
+                "bottom": 168.75,
+                "width": 17.5,
+                "height": 17.5
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 1086.5,
+                "top": 141,
+                "right": 1159.890625,
+                "bottom": 179,
+                "width": 73.390625,
+                "height": 38
+            },
+            "tag": "span",
+            "text": "Create Post"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 312,
+                "top": 248,
+                "right": 328,
+                "bottom": 264,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 336,
+                "top": 246,
+                "right": 471.96875,
+                "bottom": 266,
+                "width": 135.96875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "\n            Community highlights\n          "
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 325,
+                "top": 289,
+                "right": 533.625,
+                "bottom": 313,
+                "width": 208.625,
+                "height": 24
+            },
+            "tag": "h2",
+            "text": "[D] Self-Promotion Thread"
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 325,
+                "top": 359,
+                "right": 349,
+                "bottom": 383,
+                "width": 24,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 325,
+                "top": 314,
+                "right": 338.484375,
+                "bottom": 328,
+                "width": 13.484375,
+                "height": 14
+            },
+            "tag": "faceplate-number",
+            "text": "14"
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 380.484375,
+                "top": 314,
+                "right": 393.96875,
+                "bottom": 328,
+                "width": 13.484375,
+                "height": 14
+            },
+            "tag": "faceplate-number",
+            "text": "21"
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 625,
+                "top": 289,
+                "right": 887,
+                "bottom": 337,
+                "width": 262,
+                "height": 48
+            },
+            "tag": "h2",
+            "text": "[D] Monthly Who's Hiring and Who wants to be Hired?"
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 625,
+                "top": 359,
+                "right": 649,
+                "bottom": 383,
+                "width": 24,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 625,
+                "top": 338,
+                "right": 638.484375,
+                "bottom": 352,
+                "width": 13.484375,
+                "height": 14
+            },
+            "tag": "faceplate-number",
+            "text": "12"
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 680.484375,
+                "top": 338,
+                "right": 687.234375,
+                "bottom": 352,
+                "width": 6.75,
+                "height": 14
+            },
+            "tag": "faceplate-number",
+            "text": "2"
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 296,
+                "top": 409,
+                "right": 916,
+                "bottom": 700,
+                "width": 620,
+                "height": 291
+            },
+            "tag": "a",
+            "text": "\n    \n  "
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 312,
+                "top": 413,
+                "right": 336,
+                "bottom": 437,
+                "width": 24,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 340,
+                "top": 417,
+                "right": 387.390625,
+                "bottom": 433,
+                "width": 47.390625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "u/krychu"
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 391.390625,
+                "top": 417,
+                "right": 395.4375,
+                "bottom": 433,
+                "width": 4.046875,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "•"
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 399.4375,
+                "top": 418,
+                "right": 452.078125,
+                "bottom": 432,
+                "width": 52.640625,
+                "height": 14
+            },
+            "tag": "time",
+            "text": "12 hr. ago"
+        },
+        {
+            "keep": true,
+            "id": -1,
+            "rects": {
+                "left": 875,
+                "top": 409,
+                "right": 875,
+                "bottom": 409,
+                "width": 0,
+                "height": 0
+            },
+            "tag": "shreddit-post-overflow-menu",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AB",
+            "rects": {
+                "left": 318,
+                "top": 631,
+                "right": 355.78125,
+                "bottom": 647,
+                "width": 37.78125,
+                "height": 16
+            },
+            "tag": "div",
+            "text": "\n    Project\n  "
+        },
+        {
+            "keep": true,
+            "id": "AC",
+            "rects": {
+                "left": 976.0625,
+                "top": 499,
+                "right": 983.9375,
+                "bottom": 519,
+                "width": 7.875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "1"
+        },
+        {
+            "keep": true,
+            "id": "AD",
+            "rects": {
+                "left": 1004,
+                "top": 499,
+                "right": 1061.484375,
+                "bottom": 519,
+                "width": 57.484375,
+                "height": 20
+            },
+            "tag": "h2",
+            "text": "\n            No Spam\n          "
+        },
+        {
+            "keep": true,
+            "id": "AE",
+            "rects": {
+                "left": 1202,
+                "top": 499,
+                "right": 1222,
+                "bottom": 519,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AF",
+            "rects": {
+                "left": 976.0625,
+                "top": 539,
+                "right": 983.9375,
+                "bottom": 559,
+                "width": 7.875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "2"
+        },
+        {
+            "keep": true,
+            "id": "AG",
+            "rects": {
+                "left": 1004,
+                "top": 539,
+                "right": 1118.625,
+                "bottom": 559,
+                "width": 114.625,
+                "height": 20
+            },
+            "tag": "h2",
+            "text": "\n            No Self-Promotion\n          "
+        },
+        {
+            "keep": true,
+            "id": "AH",
+            "rects": {
+                "left": 1202,
+                "top": 539,
+                "right": 1222,
+                "bottom": 559,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AI",
+            "rects": {
+                "left": 976.0625,
+                "top": 589,
+                "right": 983.9375,
+                "bottom": 609,
+                "width": 7.875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "3"
+        },
+        {
+            "keep": true,
+            "id": "AJ",
+            "rects": {
+                "left": 1004,
+                "top": 579,
+                "right": 1194,
+                "bottom": 619,
+                "width": 190,
+                "height": 40
+            },
+            "tag": "h2",
+            "text": "\n            No Marketing Campaigns (SEO)\n          "
+        },
+        {
+            "keep": true,
+            "id": "AK",
+            "rects": {
+                "left": 1202,
+                "top": 589,
+                "right": 1222,
+                "bottom": 609,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AL",
+            "rects": {
+                "left": 976.0625,
+                "top": 639,
+                "right": 983.9375,
+                "bottom": 659,
+                "width": 7.875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "4"
+        },
+        {
+            "keep": true,
+            "id": "AM",
+            "rects": {
+                "left": 1004,
+                "top": 639,
+                "right": 1165.34375,
+                "bottom": 659,
+                "width": 161.34375,
+                "height": 20
+            },
+            "tag": "h2",
+            "text": "\n            No Disrespectful Behavior\n          "
+        },
+        {
+            "keep": true,
+            "id": "AN",
+            "rects": {
+                "left": 1202,
+                "top": 639,
+                "right": 1222,
+                "bottom": 659,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AO",
+            "rects": {
+                "left": 976.0625,
+                "top": 689,
+                "right": 983.9375,
+                "bottom": 709,
+                "width": 7.875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "5"
+        },
+        {
+            "keep": true,
+            "id": "AP",
+            "rects": {
+                "left": 1004,
+                "top": 679,
+                "right": 1194,
+                "bottom": 719,
+                "width": 190,
+                "height": 40
+            },
+            "tag": "h2",
+            "text": "\n            No arXiv Links without Body Text\n          "
+        },
+        {
+            "keep": true,
+            "id": "AQ",
+            "rects": {
+                "left": 1202,
+                "top": 689,
+                "right": 1222,
+                "bottom": 709,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AR",
+            "rects": {
+                "left": 263.79998779296875,
+                "top": 86.55999755859375,
+                "right": 278.20001220703125,
+                "bottom": 97.43440246582031,
+                "width": 14.4000244140625,
+                "height": 10.874404907226562
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AS",
+            "rects": {
+                "left": 32,
+                "top": 336,
+                "right": 80.21875,
+                "bottom": 350,
+                "width": 48.21875,
+                "height": 14
+            },
+            "tag": "span",
+            "text": "TOPICS"
+        },
+        {
+            "keep": true,
+            "id": "AT",
+            "rects": {
+                "left": 201,
+                "top": 332,
+                "right": 221,
+                "bottom": 352,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AU",
+            "rects": {
+                "left": 38,
+                "top": 382,
+                "right": 58,
+                "bottom": 402,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AV",
+            "rects": {
+                "left": 72,
+                "top": 374,
+                "right": 167.984375,
+                "bottom": 390,
+                "width": 95.984375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Internet Culture (Viral)"
+        },
+        {
+            "keep": true,
+            "id": "AW",
+            "rects": {
+                "left": 201,
+                "top": 382,
+                "right": 221,
+                "bottom": 402,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "AX",
+            "rects": {
+                "left": 41.2760009765625,
+                "top": 438.2120056152344,
+                "right": 45.986000061035156,
+                "bottom": 442.8599853515625,
+                "width": 4.709999084472656,
+                "height": 4.647979736328125
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AY",
+            "rects": {
+                "left": 49.53001403808594,
+                "top": 440.5323791503906,
+                "right": 51.529998779296875,
+                "bottom": 442.5141906738281,
+                "width": 1.9999847412109375,
+                "height": 1.9818115234375
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AZ",
+            "rects": {
+                "left": 51.518497467041016,
+                "top": 438.55499267578125,
+                "right": 53.52008819580078,
+                "bottom": 440.55078125,
+                "width": 2.0015907287597656,
+                "height": 1.99578857421875
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BA",
+            "rects": {
+                "left": 72,
+                "top": 434,
+                "right": 116.0625,
+                "bottom": 450,
+                "width": 44.0625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Games"
+        },
+        {
+            "keep": true,
+            "id": "BB",
+            "rects": {
+                "left": 201,
+                "top": 432,
+                "right": 221,
+                "bottom": 452,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BC",
+            "rects": {
+                "left": 38,
+                "top": 473,
+                "right": 58,
+                "bottom": 491.2569885253906,
+                "width": 20,
+                "height": 18.256988525390625
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BD",
+            "rects": {
+                "left": 72,
+                "top": 474,
+                "right": 106.6875,
+                "bottom": 490,
+                "width": 34.6875,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Q&As"
+        },
+        {
+            "keep": true,
+            "id": "BE",
+            "rects": {
+                "left": 201,
+                "top": 472,
+                "right": 221,
+                "bottom": 492,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BF",
+            "rects": {
+                "left": 38,
+                "top": 512,
+                "right": 58,
+                "bottom": 532,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BG",
+            "rects": {
+                "left": 72,
+                "top": 514,
+                "right": 143.703125,
+                "bottom": 530,
+                "width": 71.703125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Technology"
+        },
+        {
+            "keep": true,
+            "id": "BH",
+            "rects": {
+                "left": 201,
+                "top": 512,
+                "right": 221,
+                "bottom": 532,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BI",
+            "rects": {
+                "left": 38,
+                "top": 552,
+                "right": 58,
+                "bottom": 572,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BJ",
+            "rects": {
+                "left": 72,
+                "top": 554,
+                "right": 144.59375,
+                "bottom": 570,
+                "width": 72.59375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Pop Culture"
+        },
+        {
+            "keep": true,
+            "id": "BK",
+            "rects": {
+                "left": 201,
+                "top": 552,
+                "right": 221,
+                "bottom": 572,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BL",
+            "rects": {
+                "left": 38,
+                "top": 592,
+                "right": 58,
+                "bottom": 612,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BM",
+            "rects": {
+                "left": 72,
+                "top": 594,
+                "right": 149.65625,
+                "bottom": 610,
+                "width": 77.65625,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Movies & TV"
+        },
+        {
+            "keep": true,
+            "id": "BN",
+            "rects": {
+                "left": 201,
+                "top": 592,
+                "right": 221,
+                "bottom": 612,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        },
+        {
+            "keep": true,
+            "id": "BO",
+            "rects": {
+                "left": 32,
+                "top": 697,
+                "right": 109.3125,
+                "bottom": 711,
+                "width": 77.3125,
+                "height": 14
+            },
+            "tag": "span",
+            "text": "RESOURCES"
+        },
+        {
+            "keep": true,
+            "id": "BP",
+            "rects": {
+                "left": 201,
+                "top": 693,
+                "right": 221,
+                "bottom": 713,
+                "width": 20,
+                "height": 20
+            },
+            "tag": "svg",
+            "text": "\n      \n    "
+        }
+    ]
+}

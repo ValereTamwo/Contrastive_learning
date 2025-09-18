@@ -1,0 +1,160 @@
+{
+    "raw_html": "<HEADER class=\"w-full bg-linear-to-l from-brand-blue-heading to-brand-blue-contrast pt-[60px] xl:pt-[42px] xl:pb-[42px]\" id=\"pageHeader\"><NAV class=\"content hidden xl:flex flex-col xl:flex-row xl:justify-between xl:items-center responsive-px\" id=\"mainNav\"><DIV class=\"flex items-center justify-between py-4 xl:py-0\"><A href=\"/\" title=\"Перейти на главную страницу Moe.Video\"><svg class=\"flex shrink-0 w-[200px] xl:w-[229px]\" viewBox=\"0 0 229 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.7609 15.73L21.2478 4.78889H23.4729V30.1637H17.2135V18.441L12.1032 24.107H11.3697L6.25944 18.4655V30.1881H0V4.8133H2.22504L11.7609 15.73Z\" fill=\"white\" class=\"possible-clickable-element\" data-testid=\"A\"></path><path d=\"M52.8139 17.4885C52.8873 19.1737 52.5939 20.8343 51.9825 22.4218C51.3713 23.9849 50.4421 25.4258 49.244 26.6224C48.046 27.8191 46.6034 28.7472 45.0141 29.3577C43.4248 29.9684 41.7377 30.2614 40.026 30.1881C38.4123 30.1881 36.7985 29.9195 35.2825 29.3822C33.8155 28.8449 32.4462 28.0633 31.2481 27.0377C30.0011 25.9386 29.0476 24.571 28.4362 23.0324C27.7272 21.2739 27.3605 19.3934 27.3849 17.4885C27.336 15.0218 27.9962 12.604 29.2921 10.4793C30.4168 8.62319 32.055 7.109 34.0111 6.15653C35.9182 5.22847 38.0455 4.76446 40.1727 4.78888C41.762 4.78888 43.327 5.08195 44.8185 5.61923C46.2854 6.15653 47.6547 6.96247 48.8528 7.96379C50.0998 9.06279 51.0779 10.4304 51.7136 11.969C52.4716 13.7274 52.8384 15.608 52.8139 17.4885ZM33.9377 17.4885C33.8888 18.3921 34.0111 19.2714 34.3289 20.1261C34.6469 20.9565 35.1359 21.7381 35.7715 22.3729C36.9452 23.4964 38.5101 24.1314 40.1484 24.1314C41.7866 24.1314 43.3513 23.4964 44.525 22.3729C45.1608 21.7381 45.6498 20.9565 45.9676 20.1261C46.2854 19.2957 46.4321 18.3921 46.3832 17.4885C46.4321 16.5849 46.31 15.7057 45.992 14.8509C45.6742 14.0205 45.1852 13.239 44.5494 12.604C43.9871 12.0423 43.327 11.6027 42.5689 11.2852C41.8355 10.9922 41.0285 10.8212 40.2216 10.8456C39.3903 10.8212 38.5834 10.9677 37.8255 11.2608C37.0674 11.5539 36.3584 11.9935 35.7715 12.5552C35.1359 13.1902 34.6223 13.9717 34.3045 14.8265C33.9866 15.6812 33.8399 16.5849 33.8888 17.4885H33.9377Z\" fill=\"white\"></path><path d=\"M72.3748 4.78889V10.5037H63.1567V14.1182H71.3967V19.9796H63.1567V24.107H72.3748V30.1881H56.7261V4.78889H72.3748Z\" fill=\"white\" class=\"possible-clickable-element\" data-testid=\"B\"></path><path d=\"M129.242 18.8317H129.365L131.492 12.2621L134.671 4.78889H141.932V5.76579L130.685 30.1881H127.849L116.503 5.76579V4.78889H123.765L127.042 12.2621L129.242 18.8317Z\" fill=\"white\"></path><path d=\"M151.713 30.1881H145.845V4.78889H151.713V30.1881Z\" fill=\"white\" class=\"possible-clickable-element\" data-testid=\"C\"></path><path d=\"M155.625 4.78886H165.869C168.437 4.74001 170.956 5.375 173.132 6.66938C175.064 7.79281 176.628 9.40468 177.655 11.3341C178.609 13.2146 179.122 15.2661 179.098 17.3663C179.122 18.9538 178.853 20.5657 178.315 22.0555C177.777 23.5452 176.947 24.9373 175.896 26.1584C174.77 27.4283 173.351 28.4298 171.738 29.0891C169.904 29.8218 167.923 30.2126 165.918 30.1637H155.674L155.625 4.78886ZM162.643 24.2046H165.748C166.628 24.2534 167.509 24.1069 168.315 23.765C169.122 23.4232 169.831 22.9102 170.393 22.2509C171.494 20.8832 172.081 19.2225 172.032 17.5129C172.056 15.8277 171.47 14.167 170.368 12.8238C169.831 12.1644 169.122 11.6515 168.315 11.3096C167.509 10.9677 166.628 10.8212 165.748 10.87H162.643V24.2046Z\" fill=\"white\"></path><path d=\"M198.658 4.78889V10.577H189.441V14.2159H197.68V20.0041H189.441V24.1314H198.658V30.1881H183.01V4.78889H198.658Z\" fill=\"white\" class=\"possible-clickable-element\" data-testid=\"D\"></path><path d=\"M228.001 17.4885C228.074 19.1737 227.78 20.8343 227.169 22.4219C226.558 23.9848 225.628 25.4257 224.43 26.6224C223.232 27.7947 221.789 28.7228 220.225 29.3333C218.636 29.9438 216.948 30.2369 215.261 30.1637C213.648 30.1637 212.033 29.895 210.493 29.3578C209.001 28.8205 207.632 28.039 206.458 27.0132C205.212 25.9142 204.234 24.5465 203.622 23.0079C202.913 21.2496 202.546 19.3691 202.57 17.464C202.522 14.9974 203.157 12.5796 204.454 10.4793C205.578 8.62321 207.217 7.13344 209.173 6.15655C211.104 5.22849 213.207 4.76448 215.359 4.76448C216.948 4.76448 218.512 5.03312 220.004 5.59483C221.495 6.13213 222.865 6.93806 224.04 7.96379C225.286 9.0628 226.264 10.4305 226.923 11.9691C227.658 13.7275 228.025 15.608 228.001 17.4885ZM209.099 17.4885C209.05 18.3921 209.173 19.2714 209.49 20.1261C209.809 20.9565 210.298 21.738 210.933 22.3731C212.108 23.4964 213.672 24.1314 215.31 24.1314C216.948 24.1314 218.512 23.4964 219.687 22.3731C220.322 21.738 220.811 20.9565 221.13 20.1261C221.447 19.2957 221.594 18.3921 221.546 17.4885C221.594 16.5849 221.447 15.7057 221.154 14.8509C220.836 14.0205 220.347 13.239 219.711 12.604C219.149 12.0423 218.464 11.6027 217.731 11.2852C216.996 10.9922 216.19 10.8212 215.383 10.8456C214.551 10.8212 213.745 10.9678 212.987 11.2608C212.229 11.5539 211.519 11.9935 210.933 12.5552C210.298 13.1902 209.784 13.9717 209.466 14.8265C209.149 15.6812 209.001 16.5849 209.05 17.4885H209.099Z\" fill=\"white\"></path><path d=\"M79.0446 1.76052C78.1154 1.80936 77.3818 2.59087 77.3818 3.51893V31.4336C77.3818 32.3617 78.1154 33.1432 79.0446 33.1921L110.733 34.9504C111.735 34.9993 112.591 34.1934 112.591 33.1921V1.76052C112.591 0.759201 111.735 -0.0467357 110.733 0.00210899L79.0446 1.76052ZM107.701 28.3321C107.701 29.3333 106.845 30.1149 105.867 30.0415L83.8614 28.3564C82.9811 28.2832 82.2721 27.5505 82.2721 26.6469V8.33013C82.2721 7.42651 82.9567 6.69384 83.8614 6.62057L105.867 4.93543C106.87 4.86216 107.701 5.64368 107.701 6.64499V28.3321Z\" fill=\"white\"></path><path d=\"M99.6326 16.6826C100.219 17.0734 100.219 17.9282 99.6326 18.3189L90.6345 24.3024C89.9744 24.7419 89.1187 24.2779 89.1187 23.4964V11.5051C89.1187 10.7235 89.9989 10.2595 90.6345 10.6991L99.6326 16.6826Z\" fill=\"white\" class=\"possible-clickable-element\" data-testid=\"E\"></path></svg></A></DIV><UL class=\"hidden xl:flex flex-col xl:flex-row shrink-0 items-center justify-end\" id=\"mainNavMenu\"><LI class=\"w-full xl:w-auto\"><A href=\"/publishers\" class=\"w-full xl:w-auto inline-flex items-center justify-center text-center font-semibold text-white text-base tracking-wide border border-white rounded-lg hover:text-brand-blue-action hover:border-brand-blue-action transition-colors duration-200 ease-in-out px-2.5 py-1.5 md:py-2.5 xl:px-2.5 xl:py-1.5 possible-clickable-element\" data-testid=\"F\"><text>Рекламные форматы</text></A></LI><LI class=\"w-full xl:w-auto mt-2.5 xl:mt-0 xl:ml-2.5\"><A href=\"/news\" class=\"w-full xl:w-auto inline-flex items-center justify-center text-center font-semibold text-white text-base tracking-wide border border-white rounded-lg hover:text-brand-blue-action hover:border-brand-blue-action transition-colors duration-200 ease-in-out px-2.5 py-1.5 md:py-2.5 xl:px-2.5 xl:py-1.5 possible-clickable-element\" data-testid=\"G\"><text>Новости</text></A></LI><LI class=\"w-full xl:w-auto mt-2.5 xl:mt-0 xl:ml-2.5\"><A href=\"/team\" class=\"w-full xl:w-auto inline-flex items-center justify-center text-center font-semibold text-white text-base tracking-wide border border-white rounded-lg hover:text-brand-blue-action hover:border-brand-blue-action transition-colors duration-200 ease-in-out px-2.5 py-1.5 md:py-2.5 xl:px-2.5 xl:py-1.5 possible-clickable-element\" data-testid=\"H\"><text>Команда</text></A></LI><LI class=\"w-full xl:w-auto mt-2.5 xl:mt-0 xl:ml-2.5\"><A href=\"/contact\" class=\"w-full xl:w-auto inline-flex items-center justify-center text-center font-semibold text-white text-base tracking-wide border border-white rounded-lg hover:text-brand-blue-action hover:border-brand-blue-action transition-colors duration-200 ease-in-out px-2.5 py-1.5 md:py-2.5 xl:px-2.5 xl:py-1.5 possible-clickable-element\" data-testid=\"I\"><text>Контакты</text></A></LI><LI class=\"w-full xl:w-auto mt-5 xl:mt-0 xl:ml-10\"><A href=\"https://webmaster.moe.video/auth\" class=\"inline-flex items-center justify-center text-center font-semibold text-white text-base tracking-wide hover:opacity-80 transition-opacity duration-200 ease-in-out\"><text>Войти</text><svg class=\"flex shrink-0 w-[19px] h-[19px] ml-2\" aria-hidden=\"true\" viewBox=\"0 0 19 19\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 2.5H6C5.44772 2.5 5 2.94772 5 3.5C5 4.05229 4.55228 4.5 4 4.5C3.44772 4.5 3 4.05229 3 3.5C3 1.84315 4.34315 0.5 6 0.5H16C17.6569 0.5 19 1.84315 19 3.5V15.5C19 17.1569 17.6569 18.5 16 18.5H6C4.34315 18.5 3 17.1569 3 15.5C3 14.9477 3.44772 14.5 4 14.5C4.55228 14.5 5 14.9477 5 15.5C5 16.0523 5.44772 16.5 6 16.5H16C16.5523 16.5 17 16.0523 17 15.5V3.5C17 2.94772 16.5523 2.5 16 2.5ZM8.14251 5.98566C8.42666 5.51207 9.04092 5.35851 9.5145 5.64266L13.0853 7.78516C14.38 8.56197 14.38 10.4383 13.0853 11.2151L9.5145 13.3576C9.04092 13.6418 8.42666 13.4882 8.14251 13.0146C7.85836 12.5411 8.01192 11.9268 8.48551 11.6427L10.3897 10.5001H1C0.447716 10.5001 0 10.0524 0 9.50015C0 8.94787 0.447715 8.50015 1 8.50015H10.3897L8.48551 7.35764C8.01192 7.0735 7.85836 6.45924 8.14251 5.98566Z\" fill=\"white\" class=\"possible-clickable-element\" data-testid=\"J\"></path></svg></A></LI></UL></NAV><DIV class=\"flex flex-col-reverse xl:flex-row items-center justify-between content relative pt-10 pb-10 xl:pt-20 xl:pb-0 responsive-px\"><DIV class=\"mt-6 md:mt-9 xl:mt-0\"><H1 class=\"flex shrink-0 font-semibold text-3xl md:text-4xl xl:text-[3.25rem] 4xl:text-[3.5rem] text-white leading-snug md:leading-snug xl:leading-snug 4xl:leading-snug whitespace-normal md:whitespace-pre-line md:mt-6 xl:mt-12\"><text>Повышайте доход вашего сайта с MOEVIDEO</text></H1><P class=\"text-lg md:text-xl 4xl:text-[1.75rem] font-normal text-white 4xl:leading-snug whitespace-normal xl:whitespace-pre-line mt-3 md:mt-4 xl:mt-6\"><text>Монетизация трафика и стабильный доход с помощью удобных рекламных инструментов</text></P><BUTTON type=\"button\" class=\"contact-cta-btn cursor-pointer w-full md:w-auto btn-cta-light text-xl xl:text-2xl font-semibold px-3 md:px-16 py-3 mt-6 md:mt-8 xl:mt-12 possible-clickable-element\" data-testid=\"K\"><text>Стать партнером</text></BUTTON></DIV><IMG src=\"/storage/content/main.webp\" alt=\"https://ev.adriver.ru/cgi-bin/rle.cgi?sid=1&ad=790715&bt=21&cid=A8AtSNJ4XaM1iZnbyT_sNMw&custom=180=1&pass=ie4ec5ctjzfdiwdbjuywswtomj4vix3tjzgxo---\" loading=\"eager\" class=\"w-[280px] md:w-[360px] xl:w-auto xl:h-[375px] flex shrink-0 relative z-10\"></IMG></DIV></HEADER><H2 class=\"font-semibold text-2xl md:text-3xl xl:text-[1.9rem] text-[#353535] xl:leading-11\"><text>MoeVideo — рекламная сеть, которая позволяет вебмастерам зарабатывать на своем сайте с помощью размещения рекламы</text></H2>",
+    "parsed_html": "\n<\n  div|\n  <\n    header|\n    <\n      nav|\n      <\n        a| Перейти на главную страницу Moe.Video\n        <path[A]| >\n        <path[B]| >\n        <path[C]| >\n        <path[D]| >\n        <path[E]| >\n      >\n      <\n        ul|\n        <a[F]| Рекламные форматы >\n        <a[G]| Новости >\n        <a[H]| Команда >\n        <a[I]| Контакты >\n        <text| Войти >\n        <path[J]| >\n      >\n    >\n    <\n      div|\n      <h1| Повышайте доход вашего сайта с MOEVIDEO >\n      <p| Монетизация трафика и стабильный доход с помощью удобных рекламных инструментов >\n      <button[K]| Стать партнером >\n    >\n  >\n  <h2| MoeVideo — рекламная сеть, которая позволяет вебмастерам зарабатывать на своем сайте с помощью размещения рекламы >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 71,
+                "top": 48.28889083862305,
+                "right": 94.472900390625,
+                "bottom": 73.68810272216797,
+                "width": 23.472900390625,
+                "height": 25.399211883544922
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 127.72610473632812,
+                "top": 48.28889083862305,
+                "right": 143.3748016357422,
+                "bottom": 73.68810272216797,
+                "width": 15.648696899414062,
+                "height": 25.399211883544922
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 216.84500122070312,
+                "top": 48.28889083862305,
+                "right": 222.71299743652344,
+                "bottom": 73.68810272216797,
+                "width": 5.8679962158203125,
+                "height": 25.399211883544922
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 254.00999450683594,
+                "top": 48.28889083862305,
+                "right": 269.65802001953125,
+                "bottom": 73.68810272216797,
+                "width": 15.648025512695312,
+                "height": 25.399211883544922
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 160.1186981201172,
+                "top": 54.029075622558594,
+                "right": 171.07240295410156,
+                "bottom": 67.97236633300781,
+                "width": 10.953704833984375,
+                "height": 13.943290710449219
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 568.359375,
+                "top": 42,
+                "right": 768.171875,
+                "bottom": 80,
+                "width": 199.8125,
+                "height": 38
+            },
+            "tag": "a",
+            "text": "\n                        Рекламные форматы\n                    "
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 778.171875,
+                "top": 42,
+                "right": 869.984375,
+                "bottom": 80,
+                "width": 91.8125,
+                "height": 38
+            },
+            "tag": "a",
+            "text": "\n                        Новости\n                    "
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 879.984375,
+                "top": 42,
+                "right": 977.796875,
+                "bottom": 80,
+                "width": 97.8125,
+                "height": 38
+            },
+            "tag": "a",
+            "text": "\n                        Команда\n                    "
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 987.796875,
+                "top": 42,
+                "right": 1092,
+                "bottom": 80,
+                "width": 104.203125,
+                "height": 38
+            },
+            "tag": "a",
+            "text": "\n                        Контакты\n                    "
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 1190,
+                "top": 52,
+                "right": 1209,
+                "bottom": 70,
+                "width": 19,
+                "height": 18
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 71,
+                "top": 479,
+                "right": 414,
+                "bottom": 539,
+                "width": 343,
+                "height": 60
+            },
+            "tag": "button",
+            "text": "\n                    Стать партнером\n                "
+        }
+    ]
+}

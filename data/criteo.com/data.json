@@ -1,0 +1,384 @@
+{
+    "raw_html": "<DIV class=\"header-container desktop sticky\"><DIV id=\"global-banner\" class=\"surface-gradient-06\"><DIV class=\"container clickable\"><DIV class=\"banner-content pt-st-3 pb-st-3 pl-st-8 pr-st-8\"><SPAN class=\"banner-left\"><text>At Criteo, every decision, every step taken is</text><text>For the love of commerce</text><text>.</text></SPAN><SPAN class=\"banner-right\"><A href=\"#\"><SPAN class=\"banner-link-copy\"><text>Learn more</text></SPAN><SPAN class=\"arrow-2023\"></SPAN></A></SPAN></DIV><A class=\"overlay-link possible-clickable-element\" href=\"https://www.criteo.com/blog/for-the-love-of-commerce-why-were-evolving-our-brand\" target=\"_self\" data-testid=\"A\"></A></DIV></DIV><DIV class=\"header-main-nav desktop sticky\"><DIV class=\"d-none d-xl-flex container justify-content-between desktop-container pl-st-8 pr-st-8\"><DIV class=\"left\"><DIV class=\"logo\"><A href=\"https://www.criteo.com/\"><IMG src=\"https://www.criteo.com/wp-content/themes/criteo2017/img/criteo-logo-orange.svg\" alt=\"Criteo\" class=\"possible-clickable-element\" data-testid=\"B\"></IMG></A></DIV><DIV id=\"desktop-menu-container\" role=\"navigation\" aria-label=\"Main\"><DIV class=\"menu-main-menu-container\"><UL id=\"menu-main-menu\" class=\"nav-links\"><LI class=\"main-menu-item\"><A class=\"main-menu-item-link pt-st-0 pb-st-0 pr-st-0 pl-st-8\"><SPAN class=\"main-menu-item-title possible-clickable-element\" data-testid=\"C\"><text>Platform</text></SPAN></A></LI><LI class=\"main-menu-item\"><A class=\"main-menu-item-link pt-st-0 pb-st-0 pr-st-0 pl-st-8\"><SPAN class=\"main-menu-item-title possible-clickable-element\" data-testid=\"D\"><text>Solutions</text></SPAN></A></LI><LI class=\"main-menu-item\"><A class=\"main-menu-item-link pt-st-0 pb-st-0 pr-st-0 pl-st-8\"><SPAN class=\"main-menu-item-title possible-clickable-element\" data-testid=\"E\"><text>Capabilities</text></SPAN></A></LI><LI class=\"main-menu-item\"><A class=\"main-menu-item-link pt-st-0 pb-st-0 pr-st-0 pl-st-8\"><SPAN class=\"main-menu-item-title possible-clickable-element\" data-testid=\"F\"><text>Resources</text></SPAN></A></LI><LI class=\"main-menu-item\"><A class=\"main-menu-item-link pt-st-0 pb-st-0 pr-st-0 pl-st-8\"><SPAN class=\"main-menu-item-title possible-clickable-element\" data-testid=\"G\"><text>About</text></SPAN></A></LI></UL></DIV></DIV></DIV><DIV class=\"right\"><A id=\"search-trigger\" href=\"#\" role=\"button\" arria-pressed=\"false\" aria-label=\"Open search\" class=\"possible-clickable-element\" data-testid=\"H\"></A><DIV class=\"dropdown ml-st-8\"><DIV class=\"dropdown-wrapper\"><A id=\"language-dropdown-trigger\" role=\"button\" arria-pressed=\"false\" aria-label=\"Change language\" class=\"possible-clickable-element\" data-testid=\"I\"><text>en</text></A></DIV></DIV><SPAN id=\"header-buttons\"><A class=\"link-style ml-st-8 possible-clickable-element\" href=\"https://www.criteo.com/login/\" target=\"_self\" data-testid=\"J\"><text>My Account</text></A><A class=\"button-style ml-st-8 pt-st-4 pl-st-6 pb-st-4 pr-st-6 possible-clickable-element\" href=\"https://www.criteo.com/talk-to-an-expert/\" target=\"_self\" data-testid=\"K\"><text>Contact Sales</text></A></SPAN></DIV></DIV></DIV></DIV><SECTION id=\"sID-0\" class=\"layout__hero_2025 animated\"><IMG src=\"https://www.criteo.com/wp-content/uploads/2025/03/Homepage-Hero-bg.png\" class=\"hero-bg-grid\"></IMG><IMG class=\"tagline-image\" src=\"wp-content/themes/criteo2017/img/tagline.png\"></IMG><IMG class=\"tagline-text\" src=\"wp-content/themes/criteo2017/img/tagline-text.png\"></IMG><DIV class=\"container second\"><H1 class=\"title mb-st-6 headline-one\"><text>The platform that lifts every shopping moment</text></H1><DIV class=\"description col-12 col-lg-8 mb-st-12 body-five-regular pl-st-12 pr-st-12\"><text>We connect brands, retailers, and publishers so that every ad, offer, and moment feels like discovery, not noise.</text></DIV><DIV style=\"width: 100%;\"><DIV class=\"customers-logos\"><IMG src=\"https://www.criteo.com/wp-content/uploads/2025/03/bounding-box.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" class=\"7F8635CE2BECFD6C7D10CB18A5274461\"></IMG><IMG src=\"https://www.criteo.com/wp-content/uploads/2025/03/PG_Logo_SVG.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" class=\"7F8635CE2BECFD6C7D10CB18A5274461\"></IMG><IMG src=\"https://www.criteo.com/wp-content/uploads/2025/03/comcast.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" class=\"7F8635CE2BECFD6C7D10CB18A5274461\"></IMG><IMG src=\"https://www.criteo.com/wp-content/uploads/2025/03/shopify-2.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" class=\"7F8635CE2BECFD6C7D10CB18A5274461\"></IMG><IMG src=\"https://www.criteo.com/wp-content/uploads/2025/09/WPP-Media_Wordmark_White.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" class=\"7F8635CE2BECFD6C7D10CB18A5274461\"></IMG><IMG src=\"https://www.criteo.com/wp-content/uploads/2025/03/deliveroo-1.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" class=\"7F8635CE2BECFD6C7D10CB18A5274461\"></IMG></DIV></DIV></DIV><IMG src=\"wp-content/themes/criteo2017/img/clouds.png\" class=\"clouds\"></IMG><IMG src=\"wp-content/themes/criteo2017/img/tagline-bg.jpg\" class=\"sky-bg\"></IMG></SECTION><DIV class=\"pt-st-4\"><UL class=\"nav nav-tabs bento-nav\" id=\"mobile-slider-tabs\" role=\"tablist\"><LI class=\"nav-item nav-items\"><A class=\"tab pb-st-4 pl-st-6 pt-st-4 pr-st-6 active\" data-toggle=\"tab\" href=\"#tab-0-bento\" aria-controls=\"tab-0-bento\" aria-selected=\"true\"><DIV class=\"icon active\"><IMG class=\"tab-icon pr-st-3 possible-clickable-element\" src=\"https://www.criteo.com/wp-content/uploads/2025/04/hp-advertisers-icon-1.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" data-testid=\"L\"></IMG></DIV><DIV class=\"title-subtitle\"><DIV class=\"tab-title pb-st-1 possible-clickable-element\" data-testid=\"M\"><text>Advertisers</text></DIV><DIV class=\"tab-subtitle possible-clickable-element\" data-testid=\"N\"><text>Increase brand visibility and sales</text></DIV></DIV></A></LI><LI class=\"nav-item nav-items\"><A class=\"tab pb-st-4 pl-st-6 pt-st-4 pr-st-6\" data-toggle=\"tab\" href=\"#tab-1-bento\" aria-controls=\"tab-1-bento\" aria-selected=\"true\"><DIV class=\"icon\"><IMG class=\"tab-icon pr-st-3 possible-clickable-element\" src=\"https://www.criteo.com/wp-content/uploads/2025/03/bento-retailers.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" data-testid=\"O\"></IMG></DIV><DIV class=\"title-subtitle\"><DIV class=\"tab-title pb-st-1 possible-clickable-element\" data-testid=\"P\"><text>Retailers</text></DIV><DIV class=\"tab-subtitle possible-clickable-element\" data-testid=\"Q\"><text>Control, scale, and maximize monetization</text></DIV></DIV></A></LI><LI class=\"nav-item nav-items\"><A class=\"tab pb-st-4 pl-st-6 pt-st-4 pr-st-6\" data-toggle=\"tab\" href=\"#tab-2-bento\" aria-controls=\"tab-2-bento\" aria-selected=\"true\"><DIV class=\"icon\"><IMG class=\"tab-icon pr-st-3 possible-clickable-element\" src=\"https://www.criteo.com/wp-content/uploads/2025/03/bento-publishers.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" data-testid=\"R\"></IMG></DIV><DIV class=\"title-subtitle\"><DIV class=\"tab-title pb-st-1 possible-clickable-element\" data-testid=\"S\"><text>Media Owners</text></DIV><DIV class=\"tab-subtitle possible-clickable-element\" data-testid=\"T\"><text>Connect to commerce demand & data</text></DIV></DIV></A></LI><LI class=\"nav-item nav-items\"><A class=\"tab pb-st-4 pl-st-6 pt-st-4 pr-st-6\" data-toggle=\"tab\" href=\"#tab-3-bento\" aria-controls=\"tab-3-bento\" aria-selected=\"true\"><DIV class=\"icon\"><IMG class=\"tab-icon pr-st-3 possible-clickable-element\" src=\"https://www.criteo.com/wp-content/uploads/2025/03/bento-agencies.svg\" alt=\"7F8635CE2BECFD6C7D10CB18A5274461\" data-testid=\"U\"></IMG></DIV><DIV class=\"title-subtitle\"><DIV class=\"tab-title pb-st-1 possible-clickable-element\" data-testid=\"V\"><text>Agencies</text></DIV><DIV class=\"tab-subtitle possible-clickable-element\" data-testid=\"W\"><text>Gain efficiencies and maximize ROI</text></DIV></DIV></A></LI></UL></DIV><IFRAME id=\"intercom-frame\" style=\"position: absolute !important; opacity: 0 !important; width: 1px !important; height: 1px !important; top: 0 !important; left: 0 !important; border: none !important; display: block !important; z-index: -1 !important; pointer-events: none;\" aria-hidden=\"true\" tabindex=\"-1\" title=\"Intercom\"></IFRAME><DIV id=\"onetrust-banner-sdk\" class=\"otFlat bottom vertical-align-content\" role=\"dialog\" aria-labelledby=\"onetrust-policy-title\" aria-describedby=\"onetrust-policy-text\" tabindex=\"0\" style=\"bottom: 0px\"><DIV class=\"ot-sdk-container\"><DIV class=\"ot-sdk-row\"><DIV id=\"onetrust-group-container\" class=\"ot-sdk-eight ot-sdk-columns\"><DIV id=\"onetrust-policy\"><P id=\"onetrust-policy-text\"><text>By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.</text><A class=\"ot-cookie-policy-link possible-clickable-element\" href=\"https://www.criteo.com/privacy/corporate-privacy-policy/\" data-testid=\"X\"><text>more information</text></A></P></DIV></DIV><DIV id=\"onetrust-button-group-parent\" class=\"ot-sdk-three ot-sdk-columns has-reject-all-button\"><DIV id=\"onetrust-button-group\"><BUTTON id=\"onetrust-pc-btn-handler\" tabindex=\"0\" class=\"cookie-setting-link possible-clickable-element\" data-testid=\"Y\"><text>Cookies Settings</text></BUTTON><BUTTON id=\"onetrust-reject-all-handler\" tabindex=\"0\" class=\"possible-clickable-element\" data-testid=\"Z\"><text>Reject All</text></BUTTON><BUTTON id=\"onetrust-accept-btn-handler\" tabindex=\"0\" class=\"possible-clickable-element\" data-testid=\"AA\"><text>Accept All</text></BUTTON></DIV></DIV></DIV></DIV></DIV>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      div|\n      <span| At Criteo, every decision, every step taken is For the love of commerce . >\n      <span| Learn more >\n    >\n    <a[A]| >\n    <\n      div|\n      <img[B]| >\n      <\n        ul|\n        <span[C]| Platform >\n        <span[D]| Solutions >\n        <span[E]| Capabilities >\n        <span[F]| Resources >\n        <span[G]| About >\n      >\n      <\n        div|\n        <a[H]| >\n        <a[I]| en >\n        <\n          span|\n          <a[J]| My Account >\n          <a[K]| Contact Sales >\n        >\n      >\n    >\n  >\n  <\n    div|\n    <h1| The platform that lifts every shopping moment >\n    <div| We connect brands, retailers, and publishers so that every ad, offer, and moment feels like discovery, not noise. >\n  >\n  <\n    ul|\n    <img[L]| >\n    <\n      div|\n      <div[M]| Advertisers >\n      <div[N]| Increase brand visibility and sales >\n    >\n    <img[O]| >\n    <\n      div|\n      <div[P]| Retailers >\n      <div[Q]| Control, scale, and maximize monetization >\n    >\n    <img[R]| >\n    <\n      div|\n      <div[S]| Media Owners >\n      <div[T]| Connect to commerce demand & data >\n    >\n    <img[U]| >\n    <\n      div|\n      <div[V]| Agencies >\n      <div[W]| Gain efficiencies and maximize ROI >\n    >\n  >\n  <iframe| Intercom >\n  <\n    div|\n    <\n      p|\n      <text| By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. >\n      <a[X]| more information >\n    >\n    <\n      div|\n      <button[Y]| Cookies Settings >\n      <button[Z]| Reject All >\n      <button[AA]| Accept All >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 70,
+                "top": 20,
+                "right": 1210,
+                "bottom": 62,
+                "width": 1140,
+                "height": 42
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 98,
+                "top": 92,
+                "right": 216,
+                "bottom": 116,
+                "width": 118,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 244,
+                "top": 94.90625,
+                "right": 303,
+                "bottom": 113.09375,
+                "width": 59,
+                "height": 18.1875
+            },
+            "tag": "span",
+            "text": "Platform"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 331,
+                "top": 94.90625,
+                "right": 396,
+                "bottom": 113.09375,
+                "width": 65,
+                "height": 18.1875
+            },
+            "tag": "span",
+            "text": "Solutions"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 424,
+                "top": 94.90625,
+                "right": 504,
+                "bottom": 113.09375,
+                "width": 80,
+                "height": 18.1875
+            },
+            "tag": "span",
+            "text": "Capabilities"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 532,
+                "top": 94.90625,
+                "right": 603,
+                "bottom": 113.09375,
+                "width": 71,
+                "height": 18.1875
+            },
+            "tag": "span",
+            "text": "Resources"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 631,
+                "top": 94.90625,
+                "right": 673,
+                "bottom": 113.09375,
+                "width": 42,
+                "height": 18.1875
+            },
+            "tag": "span",
+            "text": "About"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 847,
+                "top": 96,
+                "right": 863,
+                "bottom": 112,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 881,
+                "top": 86,
+                "right": 919,
+                "bottom": 122,
+                "width": 38,
+                "height": 36
+            },
+            "tag": "a",
+            "text": "\n                                en                            "
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 937,
+                "top": 93.5,
+                "right": 1019,
+                "bottom": 114.5,
+                "width": 82,
+                "height": 21
+            },
+            "tag": "a",
+            "text": "\n                            My Account                        "
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 1047,
+                "top": 78,
+                "right": 1182,
+                "bottom": 130,
+                "width": 135,
+                "height": 52
+            },
+            "tag": "a",
+            "text": "\n                            Contact Sales                        "
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 107,
+                "top": 557.78125,
+                "right": 143,
+                "bottom": 581.78125,
+                "width": 36,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 143,
+                "top": 557.78125,
+                "right": 331.5,
+                "bottom": 582.578125,
+                "width": 188.5,
+                "height": 24.796875
+            },
+            "tag": "div",
+            "text": " Advertisers "
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 143,
+                "top": 582.578125,
+                "right": 331.5,
+                "bottom": 618.96875,
+                "width": 188.5,
+                "height": 36.390625
+            },
+            "tag": "div",
+            "text": " Increase brand visibility and sales "
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 387.5,
+                "top": 557.78125,
+                "right": 424.5,
+                "bottom": 581.78125,
+                "width": 37,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 424.5,
+                "top": 557.78125,
+                "right": 612,
+                "bottom": 582.578125,
+                "width": 187.5,
+                "height": 24.796875
+            },
+            "tag": "div",
+            "text": " Retailers "
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 424.5,
+                "top": 582.578125,
+                "right": 612,
+                "bottom": 618.96875,
+                "width": 187.5,
+                "height": 36.390625
+            },
+            "tag": "div",
+            "text": " Control, scale, and maximize monetization "
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 668,
+                "top": 557.78125,
+                "right": 704,
+                "bottom": 581.78125,
+                "width": 36,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 704,
+                "top": 557.78125,
+                "right": 892.5,
+                "bottom": 582.578125,
+                "width": 188.5,
+                "height": 24.796875
+            },
+            "tag": "div",
+            "text": " Media Owners "
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 704,
+                "top": 582.578125,
+                "right": 892.5,
+                "bottom": 618.96875,
+                "width": 188.5,
+                "height": 36.390625
+            },
+            "tag": "div",
+            "text": " Connect to commerce demand & data "
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 948.5,
+                "top": 557.78125,
+                "right": 985.5,
+                "bottom": 581.78125,
+                "width": 37,
+                "height": 24
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 985.5,
+                "top": 557.78125,
+                "right": 1173,
+                "bottom": 582.578125,
+                "width": 187.5,
+                "height": 24.796875
+            },
+            "tag": "div",
+            "text": " Agencies "
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 985.5,
+                "top": 582.578125,
+                "right": 1173,
+                "bottom": 618.96875,
+                "width": 187.5,
+                "height": 36.390625
+            },
+            "tag": "div",
+            "text": " Gain efficiencies and maximize ROI "
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 516,
+                "top": 677.796875,
+                "right": 636,
+                "bottom": 694.796875,
+                "width": 120,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "more information"
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 788.59375,
+                "top": 656.296875,
+                "right": 979.59375,
+                "bottom": 701.296875,
+                "width": 191,
+                "height": 45
+            },
+            "tag": "button",
+            "text": "Cookies Settings"
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 993.59375,
+                "top": 656.296875,
+                "right": 1103.59375,
+                "bottom": 701.296875,
+                "width": 110,
+                "height": 45
+            },
+            "tag": "button",
+            "text": "Reject All"
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 1117.59375,
+                "top": 656.296875,
+                "right": 1227.59375,
+                "bottom": 701.296875,
+                "width": 110,
+                "height": 45
+            },
+            "tag": "button",
+            "text": "Accept All"
+        }
+    ]
+}

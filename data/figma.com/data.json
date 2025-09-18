@@ -1,0 +1,272 @@
+{
+    "raw_html": "<DIV role=\"alertdialog\" aria-label=\"Cookie Consent\" class=\"fig-1h3leqr\"><DIV class=\"fig-y1lcc6\"><DIV class=\"fig-8glkhu\"><text>This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. We use our own cookies and some from third parties. Only essential cookies are turned on by default.</text><BUTTON class=\"fig-33k24t possible-clickable-element\" data-testid=\"A\"><text>Cookies settings</text></BUTTON></DIV></DIV><DIV class=\"fig-m8uz2u\"><BUTTON class=\"fig-2zebud possible-clickable-element\" data-testid=\"B\"><SPAN class=\"btn-inner fig-1qhfzz9\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"btn-builtin-icon fig-bni7vm\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.522 4.25 20 12l-7.478 7.75-.733-.709 6.302-6.531H4v-1.02h14.09L11.79 4.959z\" clip-rule=\"evenodd\"></path></svg><SPAN class=\"btn-text fig-cx0h0r\"><text>Allow all cookies</text></SPAN></SPAN></BUTTON><BUTTON class=\"fig-2zebud possible-clickable-element\" data-testid=\"C\"><SPAN class=\"btn-inner fig-1qhfzz9\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"btn-builtin-icon fig-bni7vm\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.522 4.25 20 12l-7.478 7.75-.733-.709 6.302-6.531H4v-1.02h14.09L11.79 4.959z\" clip-rule=\"evenodd\"></path></svg><SPAN class=\"btn-text fig-cx0h0r\"><text>Do not allow cookies</text></SPAN></SPAN></BUTTON></DIV><BUTTON aria-label=\"Dismiss\" class=\"fig-9ktik8 possible-clickable-element\" data-testid=\"D\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M11.647 11.293 3.692 3.338l-.707.707L10.94 12l-7.955 7.955.707.707 7.955-7.955 8.308 8.309.707-.707L12.354 12l8.308-8.309-.707-.707z\" clip-rule=\"evenodd\"></path></svg></BUTTON></DIV><DIV class=\"fig-112k15k\"><HEADER class=\"fig-114pp48\"><DIV class=\"fig-1ij4cec\"><DIV class=\"fig-1pedjod\"><A class=\"fig-i8j8ci\" href=\"https://www.figma.com/\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"480\" height=\"720\" fill=\"none\" viewBox=\"0 0 480 720\" aria-label=\"Homepage\" class=\"fig-7vzs6a\"><path fill=\"#24CB71\" d=\"M0 600c0-66.274 53.726-120 120-120h120v120c0 66.274-53.726 120-120 120S0 666.274 0 600\" class=\"possible-clickable-element\" data-testid=\"E\"></path><path fill=\"#FF7237\" d=\"M240 0v240h120c66.274 0 120-53.726 120-120S426.274 0 360 0z\" class=\"possible-clickable-element\" data-testid=\"F\"></path><circle cx=\"359\" cy=\"360\" r=\"120\" fill=\"#00B6FF\" class=\"possible-clickable-element\" data-testid=\"G\"></circle><path fill=\"#FF3737\" d=\"M0 120c0 66.274 53.726 120 120 120h120V0H120C53.726 0 0 53.726 0 120\" class=\"possible-clickable-element\" data-testid=\"H\"></path><path fill=\"#874FFF\" d=\"M0 360c0 66.274 53.726 120 120 120h120V240H120C53.726 240 0 293.726 0 360\" class=\"possible-clickable-element\" data-testid=\"I\"></path></svg></A><NAV aria-label=\"Main\"><UL role=\"list\" class=\"fig-117eo58\"><DIV class=\"fig-1k2ji4o\"><BUTTON type=\"button\" aria-expanded=\"false\" aria-controls=\"nav-dropdown-d07e0c782331\" class=\"dropdown-label fig-1qp51n2 possible-clickable-element\" data-testid=\"J\"><SPAN class=\"nav-highlight fig-hojtq7\"><text>Products</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"transform:rotate(0)\" class=\"fig-12q6f3t\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M18.424 9.424 12 15.85 5.575 9.424l.849-.848L12 14.152l5.575-5.576z\" clip-rule=\"evenodd\"></path></svg></BUTTON></DIV><DIV class=\"fig-1k2ji4o\"><BUTTON type=\"button\" aria-expanded=\"false\" aria-controls=\"nav-dropdown-0214639c41a6\" class=\"dropdown-label fig-1qp51n2 possible-clickable-element\" data-testid=\"K\"><SPAN class=\"nav-highlight fig-hojtq7\"><text>Solutions</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"transform:rotate(0)\" class=\"fig-12q6f3t\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M18.424 9.424 12 15.85 5.575 9.424l.849-.848L12 14.152l5.575-5.576z\" clip-rule=\"evenodd\"></path></svg></BUTTON></DIV><DIV class=\"fig-1k2ji4o\"><BUTTON type=\"button\" aria-expanded=\"false\" aria-controls=\"nav-dropdown-30f59e9839de\" class=\"dropdown-label fig-1qp51n2 possible-clickable-element\" data-testid=\"L\"><SPAN class=\"nav-highlight fig-hojtq7\"><text>Community</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"transform:rotate(0)\" class=\"fig-12q6f3t\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M18.424 9.424 12 15.85 5.575 9.424l.849-.848L12 14.152l5.575-5.576z\" clip-rule=\"evenodd\"></path></svg></BUTTON></DIV><DIV class=\"fig-1k2ji4o\"><BUTTON type=\"button\" aria-expanded=\"false\" aria-controls=\"nav-dropdown-35621d40dde8\" class=\"dropdown-label fig-1qp51n2 possible-clickable-element\" data-testid=\"M\"><SPAN class=\"nav-highlight fig-hojtq7\"><text>Resources</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"transform:rotate(0)\" class=\"fig-12q6f3t\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M18.424 9.424 12 15.85 5.575 9.424l.849-.848L12 14.152l5.575-5.576z\" clip-rule=\"evenodd\"></path></svg></BUTTON></DIV><LI class=\"fig-0\"><A class=\"fig-a8all9\" href=\"https://www.figma.com/pricing/\"><SPAN class=\"nav-highlight possible-clickable-element\" data-testid=\"N\"><text>Pricing</text></SPAN></A></LI></UL></NAV></DIV><UL role=\"list\" class=\"fig-1n2c1c1\"><LI class=\"fig-1cf6bug\"><A href=\"https://www.figma.com/login\" target=\"_blank\" rel=\"noreferrer\" class=\"fig-11rbus4\"><SPAN class=\"nav-highlight possible-clickable-element\" data-testid=\"O\"><text>Log in</text></SPAN></A></LI><LI class=\"fig-0\"><A class=\"fig-taeqz\" href=\"https://www.figma.com/contact/\"><SPAN class=\"btn-inner fig-1qhfzz9\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"btn-builtin-icon fig-bni7vm\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.522 4.25 20 12l-7.478 7.75-.733-.709 6.302-6.531H4v-1.02h14.09L11.79 4.959z\" clip-rule=\"evenodd\"></path></svg><SPAN class=\"btn-text fig-cx0h0r\"><SPAN class=\"nav-highlight possible-clickable-element\" data-testid=\"P\"><text>Contact sales</text></SPAN></SPAN></SPAN></A></LI><A href=\"https://www.figma.com/signup\" target=\"_blank\" rel=\"noreferrer\" location=\"desktop_header\" behavior=\"signup\" class=\"fig-fa3ze6\"><SPAN class=\"btn-inner fig-1qhfzz9\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"btn-builtin-icon fig-bni7vm\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.522 4.25 20 12l-7.478 7.75-.733-.709 6.302-6.531H4v-1.02h14.09L11.79 4.959z\" clip-rule=\"evenodd\"></path></svg><SPAN class=\"btn-text fig-cx0h0r possible-clickable-element\" data-testid=\"Q\"><text>Get started for free</text></SPAN></SPAN></A></UL></DIV></HEADER><DIV class=\"fig-wiuspp\" style=\"transform:translateY(-100%)\"></DIV></DIV><DIV class=\"fig-17tog9w\"><DIV class=\"fig-1ixoztu\"><DIV class=\"fig-616f4\"><DIV class=\"fig-1uwvvit\"><DIV class=\"inview fig-10klw3m\"><DIV class=\"fig-1fatanh\"><CANVAS role=\"img\" width=\"587\" height=\"733\" style=\"vertical-align: top; width: 587px; height: 733px;\"></CANVAS></DIV></DIV></DIV></DIV></DIV><DIV class=\"fig-mnacsz\"><H1 id=\"home-hero-title\" class=\"fig-1xbj4x0\"><text>Think bigger. Build faster.</text></H1><P class=\"fig-jsdt09\"><text>Figma helps design and development teams build great products, together.</text></P><DIV class=\"fig-gkby32\"><DIV class=\"fig-1rsbvn2\"><A location=\"hero\" behavior=\"signup\" class=\"fig-m43zq1\" href=\"https://www.figma.com/signup?locale=en-us\"><SPAN class=\"btn-inner fig-1qhfzz9\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"btn-builtin-icon fig-bni7vm\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.522 4.25 20 12l-7.478 7.75-.733-.709 6.302-6.531H4v-1.02h14.09L11.79 4.959z\" clip-rule=\"evenodd\"></path></svg><SPAN class=\"btn-text fig-cx0h0r possible-clickable-element\" data-testid=\"R\"><text>Get started for free</text></SPAN></SPAN></A><A behavior=\"formDialog\" location=\"hero\" class=\"fig-1l39rmt\" href=\"https://www.figma.com/\"><SPAN class=\"btn-inner fig-1qhfzz9\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" fill=\"none\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" class=\"btn-builtin-icon fig-bni7vm\"><path fill=\"currentColor\" fill-rule=\"evenodd\" d=\"M12.522 4.25 20 12l-7.478 7.75-.733-.709 6.302-6.531H4v-1.02h14.09L11.79 4.959z\" clip-rule=\"evenodd\"></path></svg><SPAN class=\"btn-text fig-cx0h0r possible-clickable-element\" data-testid=\"S\"><text>Contact sales</text></SPAN></SPAN></A></DIV></DIV></DIV></DIV><DIV style=\"visibility:hidden;opacity:0\" role=\"button\" tabindex=\"-1\" class=\"fig-g5how4\"></DIV>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      div|\n      <text| This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. We use our own cookies and some from third parties. Only essential cookies are turned on by default. >\n      <button[A]| Cookies settings >\n    >\n    <\n      div|\n      <\n        button[B]|\n        <span| Allow all cookies >\n      >\n      <\n        button[C]|\n        <span| Do not allow cookies >\n      >\n    >\n    <button[D]| >\n  >\n  <\n    div|\n    <path[E]| >\n    <path[F]| >\n    <circle[G]| >\n    <path[H]| >\n    <path[I]| >\n    <\n      ul|\n      <\n        button[J]|\n        <span| Products >\n      >\n      <\n        button[K]|\n        <span| Solutions >\n      >\n      <\n        button[L]|\n        <span| Community >\n      >\n      <\n        button[M]|\n        <span| Resources >\n      >\n      <span[N]| Pricing >\n    >\n    <\n      ul|\n      <span[O]| Log in >\n      <span[P]| Contact sales >\n      <span[Q]| Get started for free >\n    >\n  >\n  <\n    div|\n    <h1| Think bigger. Build faster. >\n    <p| Figma helps design and development teams build great products, together. >\n    <\n      div|\n      <span[R]| Get started for free >\n      <span[S]| Contact sales >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 1040,
+                "top": 492.4375,
+                "right": 1175,
+                "bottom": 517.625,
+                "width": 135,
+                "height": 25.1875
+            },
+            "tag": "button",
+            "text": "Cookies settings"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 860,
+                "top": 549.625,
+                "right": 1232,
+                "bottom": 598.8125,
+                "width": 372,
+                "height": 49.1875
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 860,
+                "top": 622.8125,
+                "right": 1232,
+                "bottom": 672,
+                "width": 372,
+                "height": 49.1875
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 1210,
+                "top": 352.5,
+                "right": 1246,
+                "bottom": 388.5,
+                "width": 36,
+                "height": 36
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 53.328125,
+                "top": 47.09375,
+                "right": 66.328125,
+                "bottom": 60.09375,
+                "width": 13,
+                "height": 13
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 66.328125,
+                "top": 21.09375,
+                "right": 79.328125,
+                "bottom": 34.09375,
+                "width": 13,
+                "height": 13
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 66.27395629882812,
+                "top": 34.09375,
+                "right": 79.27395629882812,
+                "bottom": 47.09375,
+                "width": 13,
+                "height": 13
+            },
+            "tag": "circle",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 53.328125,
+                "top": 21.09375,
+                "right": 66.328125,
+                "bottom": 34.09375,
+                "width": 13,
+                "height": 13
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 53.328125,
+                "top": 34.09375,
+                "right": 66.328125,
+                "bottom": 47.09375,
+                "width": 13,
+                "height": 13
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 103.328125,
+                "top": 20,
+                "right": 215.21875,
+                "bottom": 61.1875,
+                "width": 111.890625,
+                "height": 41.1875
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 219.21875,
+                "top": 20,
+                "right": 335.96875,
+                "bottom": 61.1875,
+                "width": 116.75,
+                "height": 41.1875
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 339.96875,
+                "top": 20,
+                "right": 472.71875,
+                "bottom": 61.1875,
+                "width": 132.75,
+                "height": 41.1875
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 476.71875,
+                "top": 20,
+                "right": 596.46875,
+                "bottom": 61.1875,
+                "width": 119.75,
+                "height": 41.1875
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 608.46875,
+                "top": 28,
+                "right": 665.5,
+                "bottom": 53.1875,
+                "width": 57.03125,
+                "height": 25.1875
+            },
+            "tag": "span",
+            "text": "Pricing"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 789.4375,
+                "top": 28,
+                "right": 837.609375,
+                "bottom": 53.1875,
+                "width": 48.171875,
+                "height": 25.1875
+            },
+            "tag": "span",
+            "text": "Log in"
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 878.609375,
+                "top": 30,
+                "right": 993.453125,
+                "bottom": 50,
+                "width": 114.84375,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Contact sales"
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 1043.453125,
+                "top": 30,
+                "right": 1205.65625,
+                "bottom": 50,
+                "width": 162.203125,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Get started for free"
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 74.328125,
+                "top": 430.15625,
+                "right": 236.53125,
+                "bottom": 450.15625,
+                "width": 162.203125,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Get started for free"
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 302.53125,
+                "top": 430.15625,
+                "right": 417.375,
+                "bottom": 450.15625,
+                "width": 114.84375,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Contact sales"
+        }
+    ]
+}

@@ -1,0 +1,440 @@
+{
+    "raw_html": "<HTML class=\"anonym__design21 anonym__design23 anonym__wide vkui vkui--vkIdOk--light webkit chrome nottouch small-toolbar mail-ext-toolbar-disabled __ui-theme_colors-update __ui-theme_enabled __ui-theme_light __is-layout-v1 __optimize-mobile-inp\" prefix=\"og: http://ogp.me/ns# video: http://ogp.me/ns/video# ya: http://webmaster.yandex.ru/vocabularies/\" lang=\"ru\" data-initial-state-id=\"anonymMain\" data-use-hook-activator=\"1\" data-stat-id=\"f9450d30-8176-4dfd-89ef-96b9a24e176f\" data-client-state=\"ms:0;dcss:0;mpv2:1;dz:0\" data-network-errors=\"__SVG_SPRITE_NODE__\"><BODY class=\"h-mod\" data-cdn=\"true\" data-module=\"LogClicks\" data-uic=\"true\" data-l=\"siteInteractionScreen,anonymMain,stateParams,{\"stateId\":\"anonymMain\"},siteInteraction,1,siteInteractionUid,A\"><DIV id=\"hook_Block_BodySwitcher\" class=\"hookBlock\"><DIV id=\"topPanel\" class=\"topPanel\" data-module=\"__SVG_SPRITE_NODE__\"><A href=\"/dk?cmd=logExternal&st.cmd=logExternal&st.sig=Y2w966_K9qtxlIunCWLoUr1OF9Pr5OSFzWCS2iHAS97GHI8X2uzQP2laAenM8Scg3eby2HCbA2mJPTDW&st.link=http%3A%2F%2Fm.odnoklassniki.ru&st.name=accessibleVersion\" class=\"invis-el\" tsid=\"accessible-version-link_link_abf03f\"><text>Перейти на версию для людей с ограниченными возможностями.</text></A><DIV id=\"hook_Block_Header\" class=\"hookBlock\"><DIV class=\"toolbar __anonym __global-search-redesign\"><DIV data-l=\"registrationContainer,anonym.toolbar\" data-force=\"false\" class=\"toolbar_decor\"><DIV class=\"toolbar_c portal-headline__left\"><A data-l=\"t,logo\" aria-label=\"На страницу авторизации\" tsid=\"toolbar_logo\" class=\"toolbar_logo\" id=\"nohook_logo_link\" href=\"/\"><DIV class=\"toolbar_logo_img\"></DIV></A><DIV class=\"anon-tb-item-container\"><DIV class=\"toolbar_search __over_notification __redesigned __center\" data-l=\"t,search\" id=\"toolbar_search\"><TOOLBAR-SEARCH data-require-modules=\"OK/StatLogger,OK/ToolbarSearchEventBuses,OK/VoiceAssistantEventBuses,OK/theme\" mini=\"false\" data-startup-modules=\"vendors_dc22a0f3.js,core-client_4f364d5c.js,components_cd15bc98.js\" load-static=\"false\" data-bundle-name=\"search_toolbar-search\" data-module=\"ToolbarReact\" data-attrs-types=\"{\"global-search-url-base\":\"string\",\"mini\":\"boolean\"}\" data-cfg=\"accessibilityConfiguration,currentUser,layoutConfiguration,searchConfiguration,testId,tooltipsConfiguration,tracerConfiguration\" data-css=\"components_6d53436.css,search_toolbar-search_885abbab.css\" data-lazy-loading=\"true\" data-l10n=\"accessibility,accessibility.ui,app-card,community-card,friends-count,group-card,gs.toolbar,hobby.client,one.app.community.dk.rdk.gui.templates.util,toolbar-search,ts.cards,user-card,user-card-error,user-relations,user.events,video-album-card\" global-search-url-base=\"/dk?st.cmd=anonymGlobalSearch\" server-rendering=\"true\" class=\"h-mod search_toolbar-search\" data-react=\"search_toolbar-search_3775882e.js\"><FORM action=\"/dk\" method=\"get\" role=\"search\" aria-label=\"toolbar\"><DIV class=\"search-wrapper__4nym2 __wide__4nym2\"><LABEL class=\"label__mofy2 label-input__on39s\"><SPAN class=\"invis-el\"><text>Поиск в ОК</text></SPAN><INPUT type=\"text\" class=\"input__prt1l __size-m__prt1l input__mofy2 input-field__on39s __right-icon__on39s __redesigned__on39s\" autocomplete=\"off\" data-uikit-old=\"Input\" data-l=\"searchCtx,{\"action\":\"CLICK\"\\,\"target\":\"SEARCH_INPUT\"\\,\"location\":\"ANON_GLOBAL_SEARCH\"}\" data-tsid=\"toolbar-search-input\" autocorrect=\"off\" name=\"st.query\" placeholder=\"Поиск в ОК\" maxlength=\"255\" data-error=\"false\" value=\"__SVG_SPRITE_NODE__\" style=\"__SVG_SPRITE_NODE__\"></INPUT><BUTTON type=\"submit\" class=\"button-clean__0wfyv search__mofy2 input-right-icon__on39s js-toolbar-search-btn\" data-tsid=\"toolbar-searchButton\" aria-label=\"Искать\"><svg viewBox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" data-uikit-old=\"Icon\" class=\"icon__ijkqc __size-16__ijkqc\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.3111 11.4424l2.737 2.736c.312.312.819.312 1.131 0 .312-.312.312-.819 0-1.131l-2.736-2.736c.745-.97198 1.185-2.18898 1.185-3.50898 0-3.212-2.607-5.82-5.81696-5.82-3.21 0-5.817 2.608-5.817 5.82 0 3.21298 2.607 5.82098 5.817 5.82098 1.315 0 2.528-.438 3.49996-1.181zM6.81114 2.58242c2.327 0 4.21696 1.891 4.21696 4.22 0 2.329-1.88996 4.22098-4.21696 4.22098-2.328 0-4.217-1.89198-4.217-4.22098 0-2.329 1.889-4.22 4.217-4.22z\" class=\"svg-fill\"></path></svg></BUTTON></LABEL></DIV></FORM></TOOLBAR-SEARCH></DIV><DIV data-l=\"t,vk_ecosystem\" data-pixel=\"https://trk.mail.ru/i/v5fiy3?mt_idfa=%7Bmt_idfa%7D\" class=\"vk_ecosystem_toolbar h-mod\" data-module=\"VkEcosystem\"><BUTTON aria-expanded=\"false\" aria-label=\"Сервисы VK\" role=\"button\" type=\"button\" class=\"toolbar_nav_a toolbar_nav_a__vk_ecosystem __a11y\" tsid=\"vk-ecosystem-toolbar_button_1b779d\"><SPAN class=\"toolbar_nav_i_ic\"></SPAN></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV><DIV class=\"cookies-agreement-notification h-mod\" data-module=\"cookieBanner\"><DIV class=\"cookies-agreement-notification__content\"><DIV class=\"cookies-agreement-notification__message\"><text>Мы используем cookie-файлы, чтобы улучшить сервисы для вас.</text><A href=\"https://ok.ru/cookiepolicy\" class=\"totalwhite txtdec_under possible-clickable-element\" target=\"_blank\" data-testid=\"A\"><text>Больше информации</text></A></DIV><DIV class=\"cookies-agreement-notification__actions\"><BUTTON class=\"button-pro __solid-white cb_accept js-cb_accept possible-clickable-element\" tsid=\"cookie-banner_button_2e0c18\" data-testid=\"B\"><text>Разрешить все</text></BUTTON><BUTTON class=\"button-pro __solid-white cb_setup js-cb_setup possible-clickable-element\" data-url=\"/dk?st.cmd=anonymMain&cmd=PopLayer&st.layer.cmd=PopLayerSetupCookies\" tsid=\"cookie-banner_button_7bb084\" data-testid=\"C\"><text>Настроить</text></BUTTON></DIV></DIV></DIV></DIV><DIV id=\"hook_Block_MainContainer\" class=\"hookBlock\"><DIV id=\"mainContainer\"><DIV id=\"hook_Block_MainContentWrapper\" class=\"hookBlock\"><DIV id=\"ftPush\" class=\"ft-push\"><DIV class=\"mainContent_w\"><DIV id=\"hook_Block_MainContent\" class=\"hookBlock\"><DIV id=\"mainContent\" class=\"layout-container__v1 wide-profile small-widgets mainContentSingleColumn gm-cl-aft\"><DIV id=\"mainContentContentColumn\" class=\"__SVG_SPRITE_NODE__\" data-l=\"outlandercontent,column\"><DIV id=\"hook_Block_ContentColumnContainer\" class=\"hookBlock\"><DIV id=\"hook_Block_MiddleColumn\" class=\"hookBlock\"><MAIN role=\"main\" id=\"middleColumn\"><DIV id=\"hook_Block_AnonymMain\" class=\"hookBlock\"><DIV class=\"h-mod anon-main-design21_root-wrapper\" data-l=\"registrationContainer,home.landing_block\" data-module=\"registration/RegistrationDesign21\"><DIV class=\"anon-main-design21_promoable-central-panel-and-footer __redesign-2023\"><DIV class=\"arc_container\"><path fill-rule=\"evenodd\" d=\"M1102.24 339.73a1.997 1.997 0 0 1 2.79.45 548.101 548.101 0 0 1 102.58 299.137 548.002 548.002 0 0 1-318.994 518.663 547.957 547.957 0 0 1-315.222 43.08 548.02 548.02 0 0 1-286.032-139.31A547.976 547.976 0 0 1 126.93 787.014a548.005 548.005 0 0 1 210.057-569.752 1.994 1.994 0 0 1 2.791.444l39.929 55.144a2.007 2.007 0 0 1-.445 2.797 475.918 475.918 0 0 0-42.884 733.253 475.839 475.839 0 0 0 248.408 120.98c92.944 14.88 188.213 1.86 273.758-37.41s157.526-103.024 206.836-183.202a475.866 475.866 0 0 0 70.19-267.237 475.818 475.818 0 0 0-88.93-259.575 2.016 2.016 0 0 1 .45-2.797z\" class=\"svg-fill\"></path><path fill-rule=\"evenodd\" d=\"M905.842 1016.4a1.993 1.993 0 0 0 2.78.5A434.951 434.951 0 0 0 1064.3 820.483a434.962 434.962 0 0 0 21.05-251.669 434.997 434.997 0 0 0-597.711-308.256 434.993 434.993 0 0 0-262.587 405.797 435.006 435.006 0 0 0 75.729 238.918 1.994 1.994 0 0 0 2.779.514l55.042-37.962a2.01 2.01 0 0 0 .515-2.786 364.14 364.14 0 0 1 156.601-539.418 364.138 364.138 0 0 1 500.342 258.04 364.137 364.137 0 0 1-147.672 374.906 2.01 2.01 0 0 0-.508 2.787z\" class=\"svg-fill\"></path></DIV><DIV class=\"anon-main-design21_central-panel __fix-cutting-round-edges\"><DIV class=\"clearfix js-tab-login-form anon-main-design21_tab-login __vkid-login-form\"><DIV data-logging-render-js-location=\"home.js_login_form\" class=\"anonym_login_design21 h-mod\" data-module=\"registration/Registration\"><DIV class=\"tab-filter-with-body __with-vkid-content\"><DIV data-l=\"registrationContainer,home.login_form\" data-force=\"true\"><DIV class=\"filter __l\" role=\"tablist\"><A data-l=\"t,login_tab\" href=\"/dk?st.cmd=anonymMain\" id=\"login-7916193629\" role=\"tab\" tabindex=\"0\" aria-controls=\"tabpanel-login-7916193629\" aria-selected=\"true\" class=\"filter_i __active js-login-nav js-login-login possible-clickable-element\" tsid=\"filter_link_851897\" data-testid=\"D\"><text>Вход</text></A><A data-l=\"t,qr_tab\" href=\"/dk?st.cmd=anonymMain\" id=\"qrCode-7916193675\" role=\"tab\" tabindex=\"-1\" aria-controls=\"tabpanel-qrCode-7916193675\" aria-selected=\"false\" class=\"filter_i js-login-nav js-login-qrCode possible-clickable-element\" tsid=\"filter_link_851897\" data-testid=\"E\"><text>QR-код</text></A></DIV></DIV><DIV class=\"tab-body __no-paddings __fix-vertical-centering\"><DIV class=\"js-login-state state-default-padding-small __local-paddings\" data-state-id=\"login\" role=\"tabpanel\" tabindex=\"0\" id=\"tabpanel-login-7916193629\" aria-labelledby=\"login-7916193629\" data-l=\"registrationContainer,home.login_form\" data-force=\"true\"><FORM method=\"post\" action=\"/dk?cmd=AnonymLogin&st.cmd=anonymMain\" class=\"form js-login-form\" tsid=\"login-block21_form_d59526\"><DIV class=\"form_i anonym_login_field\"><SPAN data-l=\"t,login\" class=\"input-l\"><LABEL for=\"field_email\" tsid=\"login-block21_label_3236e1\" class=\"possible-clickable-element\" data-testid=\"F\"><text>Телефон или адрес эл. почты</text></LABEL></SPAN><DIV class=\"it_w\"><INPUT type=\"text\" name=\"st.email\" value=\"__SVG_SPRITE_NODE__\" id=\"field_email\" class=\"it h-mod possible-clickable-element\" data-l=\"t,login\" maxlength=\"100\" data-module=\"autofocus\" data-testid=\"G\" style=\"__SVG_SPRITE_NODE__\"></INPUT></DIV></DIV><DIV class=\"form_i anonym_password_field\"><SPAN data-l=\"t,password\" class=\"input-l\"><LABEL for=\"field_password\" tsid=\"login-block21_label_c5864c\" class=\"possible-clickable-element\" data-testid=\"H\"><text>Пароль</text></LABEL></SPAN><DIV class=\"it_w\"><INPUT type=\"password\" name=\"st.password\" value=\"__SVG_SPRITE_NODE__\" id=\"field_password\" class=\"it possible-clickable-element\" maxlength=\"null\" autocomplete=\"off\" data-l=\"t,password\" data-testid=\"I\" style=\"__SVG_SPRITE_NODE__\"></INPUT></DIV></DIV><DIV class=\"login-form-actions\"><INPUT class=\"button-pro __wide possible-clickable-element\" value=\"Войти в Одноклассники\" data-l=\"t,sign_in\" type=\"submit\" tsid=\"login-block21_input_9ad800\" data-testid=\"J\" style=\"__SVG_SPRITE_NODE__\"></INPUT><A aria-label=\"Войти по QR-коду\" data-l=\"t,get_qr\" href=\"/dk?st.cmd=anonymMain\" id=\"qrCode-7916193675\" class=\"button-pro __wide qr-code-button mt-2x js-login-nav js-login-qrCode\" tsid=\"login-block21_link_aa0b10\"><svg class=\"svg-ic svg-ico_qrcode_24 svg-ic18 possible-clickable-element\" viewBox=\"0 0 24 24\" data-testid=\"K\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16 2C14.3431 2 13 3.34312 13 5V8C13 9.65688 14.3431 11 16 11H19C20.6569 11 22 9.65688 22 8V5C22 3.34312 20.6569 2 19 2H16ZM15 5C15 4.44768 15.4477 4 16 4H19C19.5523 4 20 4.44768 20 5V8C20 8.55232 19.5523 9 19 9H16C15.4477 9 15 8.55232 15 8V5ZM4.82401 4.81531H2.15561V2.14691H4.82401V4.81531ZM7.82099 7.81391H5.15259V5.14551H7.82099V7.81391ZM18.8181 18.8496H16.1497V16.1812H18.8181V18.8496ZM13.1528 15.8509H15.8212V13.1825H13.1528V15.8509ZM13.1528 21.8645H15.8212V19.1961H13.1528V21.8645ZM4.82401 10.8288H2.15561V8.1604H4.82401V10.8288ZM19.1466 15.8509H21.815V13.1825H19.1466V15.8509ZM10.8178 4.81531H8.14941V2.14691H10.8178V4.81531ZM19.1466 21.8645H21.815V19.1961H19.1466V21.8645ZM10.8178 10.8288H8.14941V8.1604H10.8178V10.8288ZM2 16C2 14.3431 3.34312 13 5 13H8C9.65688 13 11 14.3431 11 16V19C11 20.6569 9.65688 22 8 22H5C3.34312 22 2 20.6569 2 19V16ZM5 15C4.44768 15 4 15.4477 4 16V19C4 19.5523 4.44768 20 5 20H8C8.55232 20 9 19.5523 9 19V16C9 15.4477 8.55232 15 8 15H5ZM7.67051 18.6706H5.32941V16.3295H7.67051V18.6706ZM16.3294 7.67063H18.6705V5.32953H16.3294V7.67063Z\" class=\"svg-fill\"></path></svg><SPAN aria-hidden=\"true\" class=\"qr-button-label possible-clickable-element\" data-testid=\"L\"><text>Войти по QR-коду</text></SPAN></A><DIV class=\"recovery-link\"><A data-l=\"t,restore\" href=\"/dk?st.cmd=anonymRecoveryStart&st._aid=LeftColumn_Login_ForgotPassword\" class=\"lp possible-clickable-element\" tsid=\"restore\" data-testid=\"M\"><text>Не получается войти?</text></A></DIV><DIV class=\"external-oauth-login-footer\"><DIV class=\"external-oauth-login_title mt-6x\"><DIV class=\"external-oauth-login_title-tx\"><text>Нет профиля в Одноклассниках</text></DIV></DIV><A class=\"button-pro __sec mb-3x __wide possible-clickable-element\" data-l=\"t,register\" href=\"/dk?st.cmd=anonymRegistrationEnterPhone\" tsid=\"login-block21_link_ffa6bf\" data-testid=\"N\"><text>Зарегистрироваться</text></A><DIV class=\"external-oauth-login external-oauth-login-second-line\" data-force=\"true\"><A class=\"h-mod __small __vk_id social-icon-button\" href=\"#\" data-module=\"registration/vkconnect\" data-script-url=\"superappkit1.61.2\" data-external-device-id=\"f9450d30-8176-4dfd-89ef-96b9a24e176f\" data-app-id=\"7525058\" data-url=\"https://connect.vk.com/auth?v=0.0.2&uuid=123&app_id=7525058&redirect_uri=https%3A%2F%2Fok.ru%2Fweb-api%2FsocialAuth&state=f9LHodD0cOLQ-QU0KZt8rMfHM30gX7dPUqlWu43gSocRlArdocMh8H7X-O7PMI9t3XMDpvp13Zo\" data-error-field=\"login_error\" data-login-state=\"f9LHodD0cOLQ-QU0KZt8rMfHM30gX7dPUqlWu43gSocRlArdocMh8H7X-O7PMI9t3XMDpvp13Zo\" data-network-error=\"Проверьте ваше соединение с интернетом и повторите попытку.\" data-cancelled-error=\"\" title=\"Войти через VK ID\" data-l=\"t,vkc\" tsid=\"vk-connect-button_link_2c65b3\"><I class=\"i ic social-icon __s __vk_id possible-clickable-element\" role=\"img\" data-testid=\"O\"></I></A><A class=\"h-mod __small __mailru social-icon-button\" title=\"Войти через Почту\" href=\"#\" data-url=\"https://o2.mail.ru/login?client_id=ok.ru&response_type=code&scope=userinfo&redirect_uri=https%3A%2F%2Fok.ru%2Fweb-api%2FmailAuth&state=f9LHodD0cOI0VKWfYm0VtWBGG8DNmiUPqJnr-Ldrt5AUqOisYdujfsVXn881SHBhKMlZj_ZCwhI\" data-provider=\"MAILRU\" data-error-field=\"login_error\" data-network-error=\"Проверьте ваше соединение с интернетом и повторите попытку.\" data-l=\"t,mailru\" data-module=\"registration/socialSignIn\" tsid=\"social-login-button_link_821452\"><I class=\"i ic social-icon __s __mailru possible-clickable-element\" role=\"img\" data-testid=\"P\"></I></A><A class=\"h-mod __small __gp social-icon-button\" title=\"Войти через Google\" href=\"#\" data-url=\"https://accounts.google.com/o/oauth2/v2/auth?scope=email+profile&client_id=1079260813460-9erjj8tl76svsmnttl7id27j9k0oslgh.apps.googleusercontent.com&response_type=code&prompt=select_account&access_type=offline&redirect_uri=https%3A%2F%2Fok.ru%2Fweb-api%2FsocialAuth&state=f9LHodD0cOLjainHv3ni88JM01G72YLd0JCGH7sbf_7GCUSFs8vqeuy4V7mIuTzljw_utd69XKQ\" data-provider=\"GOOGLE_PLUS\" data-error-field=\"login_error\" data-network-error=\"Проверьте ваше соединение с интернетом и повторите попытку.\" data-l=\"t,google\" data-module=\"registration/socialSignIn\" tsid=\"social-login-button_link_821452\"><I class=\"i ic social-icon __s __gp possible-clickable-element\" role=\"img\" data-testid=\"Q\"></I></A><A class=\"h-mod __small __yandex social-icon-button\" title=\"Войти через Яндекс\" href=\"#\" data-url=\"https://oauth.yandex.ru/authorize?response_type=code&client_id=20c3edc785134bd085e271896b750a4d&scope=login:email%20login:info%20login:birthday&redirect_uri=https%3A%2F%2Fok.ru%2Fweb-api%2FyandexAuth&state=f9LHodD0cOLJtH8yP_OFloLZUk2QyeWY672hUhtl9TDdk97n_LIj89FZJiwV7V5Y19NFLwiboyk\" data-provider=\"YANDEX\" data-error-field=\"login_error\" data-network-error=\"Проверьте ваше соединение с интернетом и повторите попытку.\" data-l=\"t,yandex\" data-module=\"registration/socialSignIn\" tsid=\"social-login-button_link_821452\"><I class=\"i ic social-icon __s __yandex possible-clickable-element\" role=\"img\" data-testid=\"R\"></I></A><A class=\"h-mod __small __apple social-icon-button\" title=\"Войти через Apple\" href=\"#\" data-url=\"https://appleid.apple.com/auth/authorize?response_mode=form_post&scope=name%20email&response_type=id_token%20code&client_id=ru.ok.ios&redirect_uri=https%3A%2F%2Fok.ru%2Fweb-api%2FsocialAuth&state=f9LHodD0cOKEkIaX_SKVev5vbCNG8AfYqBpYhCGqAGJJ6za-F--l7qdiJyqiPukIXdNQs0ZVcfo\" data-provider=\"APPLE\" data-error-field=\"login_error\" data-network-error=\"Проверьте ваше соединение с интернетом и повторите попытку.\" data-l=\"t,apple\" data-module=\"registration/socialSignIn\" tsid=\"social-login-button_link_821452\"><I class=\"i ic social-icon __s __apple possible-clickable-element\" role=\"img\" data-testid=\"S\"></I></A></DIV></DIV></DIV></FORM></DIV></DIV></DIV></DIV></DIV></DIV><DIV id=\"hook_Block_Footer\" class=\"hookBlock\"><DIV id=\"footer\"><DIV class=\"ft __center\"><DIV style=\"position:relative\"><UL class=\"ff_links\" data-l=\"t,anonym_footer\"><LI class=\"ff_links_li lh-150\"><A class=\"h-mod\" data-module=\"Link\" href=\"/dk?st.cmd=anonymMain&cmd=PopLayer&st.layer.cmd=PopLayerChooseNewLanguage\"><DIV class=\"tico\" role=\"button\"><svg class=\"svg-ic svg-ico_planet_16 tico_img possible-clickable-element\" viewBox=\"0 0 16 16\" data-testid=\"T\"><circle class=\"svg-stroke\" cx=\"8\" cy=\"8.1\" r=\"7\"></circle><path class=\"svg-fill\" d=\"M11.2 2C11 2.2 10.9 2.4 10.9 2.4L9.8 2.6 9 1.6 7.2 1.6 6.8 2.4 8.4 2.6 8.4 3.1 6.5 3.4 5.5 3.9 5 4.8 7.3 5 6.5 5.2 5.9 5.8 5.3 5.9 3.9 6.7 3.7 7.8 4.2 9.2 6.5 9.5 7.2 13 8.4 13.4 10 10.9 10 9.5 10.9 9.2 10.9 8.6 9.8 7.8 9.4 6.4 7.2 6.4 7.2 5.2 9.1 5.7 9.8 6.7 10.5 7.8 11.8 8.2 11.9 6.4 12.7 6.9 13.3 8.6C13.3 8.6 14 9.1 14.8 9.5 14.1 12.7 11.3 15 8 15 4.2 15 1.1 11.9 1.1 8.1 1.1 4.3 4.2 1.2 8 1.2 9.2 1.2 10.2 1.5 11.2 2zM4.9 2.5L4.8 3.4 5.7 3.5 6.5 2.8 4.9 2.5zM10.1 12.5L10.4 12.1 11 11.6 10.6 10.7 10.4 11 10.2 11.4 10.2 11.7 10 12 9.8 12.5 10.1 12.5z\"></path></svg><text>Русский</text></DIV></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,hobby\" href=\"/hobby\" class=\"possible-clickable-element\" data-testid=\"U\"><text>Увлечения</text></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,groups\" href=\"/groups\" class=\"possible-clickable-element\" data-testid=\"V\"><text>Группы</text></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,.c\" href=\"/search/content\" class=\"possible-clickable-element\" data-testid=\"W\"><text>Публикации</text></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,profiles\" href=\"/search/profiles\" class=\"possible-clickable-element\" data-testid=\"X\"><text>Люди</text></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,video\" href=\"/video\" class=\"possible-clickable-element\" data-testid=\"Y\"><text>Видео</text></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,altGroupPresents\" href=\"/gifts\" class=\"possible-clickable-element\" data-testid=\"Z\"><text>Подарки</text></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,appsInfo\" href=\"/games\" class=\"possible-clickable-element\" data-testid=\"AA\"><text>Игры</text></A></LI><LI class=\"ff_links_li\"><A target=\"_blank\" rel=\"noindex, nofollow\" data-l=\"t,advertiser\" href=\"https://ads.vk.com/promo/firstbonus?utm_source=ok_left_bottom&utm_medium=external&utm_campaign=attraction_vkr&utm_content=promo\" class=\"possible-clickable-element\" data-testid=\"AB\"><text>Рекламодателям</text></A></LI><LI class=\"ff_links_li\"><A data-l=\"t,help\" href=\"/help\" class=\"possible-clickable-element\" data-testid=\"AC\"><text>Помощь</text></A></LI><LI class=\"ff_links_li\"><BUTTON class=\"more-popup_btn h-mod\" data-module=\"SimplePopup\" data-active-class=\"__active\" data-popup-selector=\".more-popup\" data-popup-active-class=\"__hover\" data-event=\"mouseenter click\" data-timeout=\"300\"><DIV class=\"tico tico__simb-right\" role=\"button\"><svg class=\"svg-ic svg-ico_mini_down_16 tico_img\" viewBox=\"0 0 16 16\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M11.9719 6.63c.246-.3.297-.71.132-1.06-.165-.35-.518-.57-.904-.57H4.79295c-.387 0-.739.22-.904.57-.165.35-.114.77.132 1.06 1.014 1.24 2.367 2.88 3.205 3.9.19.23.473.36.772.36.299 0 .583-.13.772-.36.838-1.02 2.18995-2.67 3.20195-3.9z\" class=\"svg-fill possible-clickable-element\" data-testid=\"AD\"></path></svg><text>Ещё</text></DIV></BUTTON><UL class=\"more-popup\" id=\"7916194595\"><A id=\"nohook_footer_news\" class=\"more-popup_link_item\" data-l=\"t,officialGroup\" href=\"/ok\"><text>Новости</text></A><A target=\"_blank\" class=\"more-popup_link_item\" rel=\"noindex, nofollow\" data-l=\"t,jobs\" href=\"https://oktech.ru\"><text>Вакансии</text></A><A target=\"_blank\" class=\"more-popup_link_item\" rel=\"noindex, nofollow\" data-l=\"t,aboutCompany\" href=\"https://insideok.ru/info/\"><text>О компании</text></A><A target=\"_blank\" class=\"more-popup_link_item\" data-l=\"t,business\" href=\"/business\"><text>Для бизнеса</text></A><A target=\"_blank\" class=\"more-popup_link_item\" rel=\"noindex, nofollow\" data-l=\"t,apiWiki\" href=\"https://apiok.ru\"><text>Разработчикам</text></A><A class=\"more-popup_link_item\" data-l=\"t,agreementPage\" href=\"/agreementpage\"><text>Соглашения и политики</text></A></UL></LI></UL></DIV><P class=\"ff_copy\"><text>© 2006–2025 ООО \"ВК\" / LLC VK</text></P><P class=\"ff_rtterms\"><A href=\"/rtterms\"><text>Мы применяем рекомендательные технологии</text><B class=\"possible-clickable-element\" data-testid=\"AE\"><text>Подробнее</text></B></A></P></DIV></DIV></DIV></DIV></DIV></DIV></MAIN></DIV></DIV></DIV></DIV><DIV class=\"fixed-top-wrapper h-mod\" id=\"scrollToTop.anonymMain\" data-height=\"0\" data-module=\"FixedTopBock\"><BUTTON class=\"scroll-arrow __svg\" aria-label=\"Прокрутить вверх\" tsid=\"fixed-top-block_button_11b2f9\"><svg class=\"svg-ic svg-ico_up_16\" viewBox=\"0 0 16 16\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m8.5 4.14.11.07 5.98 4.57a1 1 0 1 1-1.22 1.59L8 6.27l-5.37 4.1a1 1 0 0 1-1.21-1.6l5.97-4.56.1-.06.02-.01.05-.03.11-.04h.01l.01-.01.05-.02.1-.02h.04L7.93 4h.2l.07.02.05.01.06.02h.01a.9.9 0 0 1 .18.08Z\" class=\"svg-fill\"></path></svg></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <a| Перейти на версию для людей с ограниченными возможностями. >\n    <\n      label|\n      <span| Поиск в ОК >\n      <input| __SVG_SPRITE_NODE__; Поиск в ОК >\n    >\n    <\n      div|\n      <\n        div|\n        <text| Мы используем cookie-файлы, чтобы улучшить сервисы для вас. >\n        <a[A]| Больше информации >\n      >\n      <\n        div|\n        <button[B]| Разрешить все >\n        <button[C]| Настроить >\n      >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <\n        div|\n        <a[D]| Вход >\n        <a[E]| QR-код >\n      >\n      <\n        form|\n        <\n          div|\n          <label[F]| Телефон или адрес эл. почты >\n          <input[G]| __SVG_SPRITE_NODE__ >\n        >\n        <\n          div|\n          <label[H]| Пароль >\n          <input[I]| __SVG_SPRITE_NODE__ >\n        >\n        <\n          div|\n          <input[J]| Войти в Одноклассники >\n          <svg[K]| >\n          <span[L]| Войти по QR-коду >\n          <a[M]| Не получается войти? >\n          <\n            div|\n            <div| Нет профиля в Одноклассниках >\n            <a[N]| Зарегистрироваться >\n            <\n              div|\n              <\n                a| Войти через VK ID\n                <i[O]| >\n              >\n              <\n                a| Войти через Почту\n                <i[P]| >\n              >\n              <\n                a| Войти через Google\n                <i[Q]| >\n              >\n              <\n                a| Войти через Яндекс\n                <i[R]| >\n              >\n              <\n                a| Войти через Apple\n                <i[S]| >\n              >\n            >\n          >\n        >\n      >\n    >\n    <\n      div|\n      <\n        ul|\n        <svg[T]| >\n        <text| Русский >\n        <a[U]| Увлечения >\n        <a[V]| Группы >\n        <a[W]| Публикации >\n        <a[X]| Люди >\n        <a[Y]| Видео >\n        <a[Z]| Подарки >\n        <a[AA]| Игры >\n        <a[AB]| Рекламодателям >\n        <a[AC]| Помощь >\n        <\n          li|\n          <path[AD]| >\n          <text| Ещё >\n          <\n            ul|\n            <a| Новости >\n            <a| Вакансии >\n            <a| О компании >\n            <a| Для бизнеса >\n            <a| Разработчикам >\n            <a| Соглашения и политики >\n          >\n        >\n      >\n      <p| © 2006–2025 ООО \"ВК\" / LLC VK >\n      <\n        a|\n        <text| Мы применяем рекомендательные технологии >\n        <b[AE]| Подробнее >\n      >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 489.84375,
+                "top": 31,
+                "right": 638.515625,
+                "bottom": 48,
+                "width": 148.671875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Больше информации"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 1012.359375,
+                "top": 24,
+                "right": 1141.578125,
+                "bottom": 56,
+                "width": 129.21875,
+                "height": 32
+            },
+            "tag": "button",
+            "text": "Разрешить все"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 1149.578125,
+                "top": 24,
+                "right": 1250,
+                "bottom": 56,
+                "width": 100.421875,
+                "height": 32
+            },
+            "tag": "button",
+            "text": "Настроить"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 592.359375,
+                "top": 64,
+                "right": 624.03125,
+                "bottom": 112,
+                "width": 31.671875,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "Вход"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 640.03125,
+                "top": 64,
+                "right": 687.625,
+                "bottom": 112,
+                "width": 47.59375,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "QR-код"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 484,
+                "top": 143,
+                "right": 677.703125,
+                "bottom": 159,
+                "width": 193.703125,
+                "height": 16
+            },
+            "tag": "label",
+            "text": "Телефон или адрес эл. почты"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 484,
+                "top": 165,
+                "right": 796,
+                "bottom": 197,
+                "width": 312,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 484,
+                "top": 214,
+                "right": 532.578125,
+                "bottom": 230,
+                "width": 48.578125,
+                "height": 16
+            },
+            "tag": "label",
+            "text": "Пароль"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 484,
+                "top": 236,
+                "right": 796,
+                "bottom": 268,
+                "width": 312,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 484,
+                "top": 284,
+                "right": 796,
+                "bottom": 316,
+                "width": 312,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 501,
+                "top": 331,
+                "right": 519,
+                "bottom": 349,
+                "width": 18,
+                "height": 18
+            },
+            "tag": "svg",
+            "text": "\n\n\n"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 581.53125,
+                "top": 333,
+                "right": 698.453125,
+                "bottom": 349,
+                "width": 116.921875,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Войти по QR-коду"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 578.265625,
+                "top": 374,
+                "right": 701.734375,
+                "bottom": 388,
+                "width": 123.46875,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Не получается войти?"
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 484,
+                "top": 436,
+                "right": 796,
+                "bottom": 468,
+                "width": 312,
+                "height": 32
+            },
+            "tag": "a",
+            "text": "Зарегистрироваться"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 512,
+                "top": 480,
+                "right": 544,
+                "bottom": 512,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "i",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 568,
+                "top": 480,
+                "right": 600,
+                "bottom": 512,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "i",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 624,
+                "top": 480,
+                "right": 656,
+                "bottom": 512,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "i",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 680,
+                "top": 480,
+                "right": 712,
+                "bottom": 512,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "i",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 736,
+                "top": 480,
+                "right": 768,
+                "bottom": 512,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "i",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 268.734375,
+                "top": 630,
+                "right": 284.734375,
+                "bottom": 646,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "svg",
+            "text": "\n\n"
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 350.265625,
+                "top": 631,
+                "right": 409.359375,
+                "bottom": 645,
+                "width": 59.09375,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Увлечения"
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 425.359375,
+                "top": 631,
+                "right": 465.34375,
+                "bottom": 645,
+                "width": 39.984375,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Группы"
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 481.34375,
+                "top": 631,
+                "right": 548.609375,
+                "bottom": 645,
+                "width": 67.265625,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Публикации"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 564.609375,
+                "top": 631,
+                "right": 594.9375,
+                "bottom": 645,
+                "width": 30.328125,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Люди"
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 610.9375,
+                "top": 631,
+                "right": 646,
+                "bottom": 645,
+                "width": 35.0625,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Видео"
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 662,
+                "top": 631,
+                "right": 709.34375,
+                "bottom": 645,
+                "width": 47.34375,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Подарки"
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 725.34375,
+                "top": 631,
+                "right": 753.65625,
+                "bottom": 645,
+                "width": 28.3125,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Игры"
+        },
+        {
+            "keep": true,
+            "id": "AB",
+            "rects": {
+                "left": 769.65625,
+                "top": 631,
+                "right": 864.328125,
+                "bottom": 645,
+                "width": 94.671875,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Рекламодателям"
+        },
+        {
+            "keep": true,
+            "id": "AC",
+            "rects": {
+                "left": 880.328125,
+                "top": 631,
+                "right": 926.6875,
+                "bottom": 645,
+                "width": 46.359375,
+                "height": 14
+            },
+            "tag": "a",
+            "text": "Помощь"
+        },
+        {
+            "keep": true,
+            "id": "AD",
+            "rects": {
+                "left": 977.043212890625,
+                "top": 635,
+                "right": 985.4496459960938,
+                "bottom": 640.8900146484375,
+                "width": 8.40643310546875,
+                "height": 5.8900146484375
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AE",
+            "rects": {
+                "left": 739.140625,
+                "top": 686,
+                "right": 805.234375,
+                "bottom": 700,
+                "width": 66.09375,
+                "height": 14
+            },
+            "tag": "b",
+            "text": "Подробнее"
+        }
+    ]
+}

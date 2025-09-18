@@ -1,0 +1,188 @@
+{
+    "raw_html": "<HTML lang=\"en\" dir=\"ltr\" class=\"vkui--vkAccessibility--light vkui\" style=\"--scroll-fixed-width: 1278px;\"><BODY onresize=\"window.onBodyResize && onBodyResize();\" class=\"index_page anonym anonym_nav\" data-nosnippet=\"true\" scheme=\"vkcom_light\" data-useragent=\"chrome\"><DIV style=\"display: block;\" id=\"a11y_mvk_proposal\" aria-label=\"Version mobile avec une meilleure compatibilité des lecteurs d'écran.\" role=\"link\" class=\"visually-hidden\"></DIV><path d=\"M 0.316 0.0391 A 0.1164 0.1164 90 0 1 0.4285 0.0089 l 0.3784 0.1014 a 0.1164 0.1164 90 0 1 0.0823 0.0823 l 0.1014 0.3784 a 0.1164 0.1164 90 0 1 -0.0302 0.1125 L 0.6836 0.9605 a 0.1164 0.1164 90 0 1 -0.1125 0.0302 l -0.3784 -0.1014 a 0.1164 0.1164 90 0 1 -0.0823 -0.0823 L 0.0089 0.4285 a 0.1164 0.1164 90 0 1 0.0302 -0.1125 L 0.316 0.0391 Z\"></path><path d=\"M 21 0 a 21 21 0 0 1 0 42 a 21 21 0 0 1 0 -42 v 2 a 19 19 0 0 0 0 38 a 19 19 0 0 0 0 -38\"></path><path d=\"M12.5153 2.85774C14.2837 1.08937 16.8612 0.398735 19.2768 1.046L32.4693 4.58093C34.885 5.2282 36.7718 7.11503 37.4191 9.53068L40.954 22.7232C41.6013 25.1388 40.9106 27.7163 39.1423 29.4847L29.4847 39.1423C27.7163 40.9106 25.1388 41.6013 22.7232 40.954L9.53068 37.4191C7.11504 36.7718 5.2282 34.885 4.58093 32.4693L1.04601 19.2768C0.398736 16.8612 1.08936 14.2837 2.85774 12.5153L12.5153 2.85774\"></path><rect fill=\"white\" x=\"0\" y=\"0\" width=\"42\" height=\"42\"></rect><path d=\"M 13.0512 4.8577 C 14.8196 3.0894 17.3971 2.3987 19.8127 3.046 L 31.0052 6.045 C 33.4209 6.6923 35.3077 8.5791 35.955 10.9948 L 38.954 22.1873 C 39.6013 24.6029 38.9106 27.1804 37.1423 28.9488 L 28.9488 37.1423 C 27.1804 38.9106 24.6029 39.6013 22.1873 38.954 L 10.9948 35.955 C 8.5791 35.3077 6.6923 33.4209 6.045 31.0052 L 3.046 19.8127 C 2.3987 17.3971 3.0894 14.8196 4.8577 13.0512 L 13.0512 4.8577\"></path><DIV class=\"vkui__root\"><DIV class=\"vkui--vkAccessibility--light vkuitokens__defaultColor vkuiAppRoot__host vkuiAppRootStyleContainer__host vkuiAppRootStyleContainer__sizeYCompact vkui--vkAccessibility--light vkuiRootComponent__host\"><DIV class=\"vkuiSplitLayout__host\"><DIV class=\"vkuiSplitLayout__inner vkuiSplitLayout__innerCenter\"><DIV class=\"vkitPageWrapper__bg--XV9L2 vkitPageWrapper__bgLight--gpGC8\"><svg class=\"vkitPageWrapper__logo--zR5SN\" width=\"100%\" height=\"100%\" viewBox=\"0 0 1266 900\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"xMidYMax slice\"><path d=\"M626.614 0V484.725M626.614 484.725V900C138.607 900 1 153.071 1 0M626.614 484.725C1063.56 484.725 1159.45 175.749 1202.58 0M626.614 484.725C1011.06 484.725 1216.2 785.481 1265 900\" stroke=\"currentColor\" stroke-width=\"1.60111\"></path></svg></DIV><HEADER class=\"Header__header--UuCCQ\"><DIV class=\"vkuiFlex__host vkuiFlex__wrap vkuiFlex__alignCenter vkuiFlex__justifySpaceBetween vkuiRootComponent__host\" style=\"--vkui_internal--row_gap: 0px; --vkui_internal--column_gap: 0px;\"><DIV class=\"vkuiRootComponent__host\"><DIV class=\"Header__search--OaTkd\"><DIV class=\"vkuiInternalSearch vkuiSearch__host vkuiSearch__sizeYCompact\"><DIV class=\"vkuiSearch__field\"><LABEL for=\"search-:r0:\" class=\"vkuiSearch__label\"><text>Recherche VK</text></LABEL><DIV class=\"vkuiSearch__input\"><svg aria-hidden=\"true\" display=\"block\" class=\"vkuiIcon vkuiIcon--16 vkuiIcon--w-16 vkuiIcon--h-16 vkuiIcon--search_outline_16\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" style=\"width: 16px; height: 16px;\"><path fill=\"currentColor\" d=\"M6.5 1a5.5 5.5 0 0 1 4.384 8.823l3.895 3.9a.75.75 0 0 1-1.061 1.06l-3.895-3.9A5.5 5.5 0 1 1 6.5 1m0 1.5a4 4 0 1 0 0 8 4 4 0 0 0 0-8\"></path></svg><INPUT class=\"vkuiSearch__nativeInput vkuiHeadline__sizeYCompact vkuiHeadline__level1 vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight3 vkuiRootComponent__host possible-clickable-element\" type=\"search\" data-testid=\"A\" id=\"search-:r0:\" placeholder=\"Recherche VK\" autocomplete=\"off\" value=\"vkuiPanel__in-after\" style=\"vkuiPanel__in-after\"></INPUT></DIV><DIV class=\"vkuiSearch__controls\"><BUTTON class=\"vkuiSearch__icon vkuiInternalTappable vkuiIconButton__host vkuiIconButton__sizeYCompact vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host\" type=\"button\" tabindex=\"-1\"><SPAN class=\"vkuiVisuallyHidden__host vkuiRootComponent__host\"><text>Очистить</text></SPAN><svg aria-hidden=\"true\" display=\"block\" class=\"vkuiIcon vkuiIcon--24 vkuiIcon--w-24 vkuiIcon--h-24 vkuiIcon--cancel_24\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"currentColor\" style=\"width: 24px; height: 24px;\"><path d=\"M7.536 6.264a.9.9 0 0 0-1.272 1.272L10.727 12l-4.463 4.464a.9.9 0 0 0 1.272 1.272L12 13.273l4.464 4.463a.9.9 0 1 0 1.272-1.272L13.273 12l4.463-4.464a.9.9 0 1 0-1.272-1.272L12 10.727z\"></path></svg><SPAN aria-hidden=\"true\" class=\"vkuiTappable__stateLayer vkuiTappable__ripple\"></SPAN></BUTTON></DIV></DIV></DIV></DIV></DIV><DIV class=\"vkuiRootComponent__host\"><BUTTON class=\"vkitButton__root--m7aR3 vkuiInternalTappable vkuiButton__host vkuiButton__sizeS vkuiButton__modeOutline vkuiButton__appearanceNeutral vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host\" type=\"button\" data-testid=\"header_business_sign_up_button\"><SPAN class=\"vkuiButton__in\"><SPAN class=\"vkuiButton__content possible-clickable-element\" data-testid=\"B\"><text>Créer une page pour une entreprise</text></SPAN></SPAN></BUTTON></DIV></DIV></HEADER><DIV class=\"vkuiSplitCol__host vkuiSplitCol__viewWidthNone vkuiInternalSplitCol--viewWidth-none vkuiRootComponent__host\" style=\"width: 360px; max-width: 720px;\"><DIV class=\"vkuiPanel__host vkuiPanel__sizeXRegular vkuiInternalPanel--centered vkuiPanel__disableBackground vkuiPanel__modeCard vkuiRootComponent__host\"><DIV data-onboarding-tooltip-container=\"true\" class=\"vkuiPanel__in vkuiInternalPanel__in\"><DIV class=\"vkuiPanel__inBefore\"></DIV><DIV class=\"vkuiPanel__centered\"><DIV class=\"vkitPageWrapper__layout--JEe2G vkuiFlex__host vkuiRootComponent__host\" style=\"--vkui_internal--row_gap: 0px; --vkui_internal--column_gap: 0px;\"><DIV class=\"vkitPageWrapper__after--O5ijM vkuiRootComponent__host\" style=\"flex-basis: 360px;\"><DIV class=\"vkitPageWrapper__containerCompact--uVjDW\"><SECTION class=\"vkuiView__host vkuiView__noMotion\"><DIV class=\"vkuiView__panels\"><DIV class=\"vkuiView__panel vkuiView__panelActive\"><DIV class=\"vkuiView__panelIn\"><DIV class=\"vkuiPanel__host vkuiPanel__sizeXRegular vkuiInternalPanel--centered vkuiPanel__modePlain vkuiRootComponent__host\" id=\"START_QR_PAGE\"><DIV data-onboarding-tooltip-container=\"true\" class=\"vkuiPanel__in vkuiInternalPanel__in\"><DIV class=\"vkuiPanel__inBefore\"></DIV><DIV class=\"vkuiPanel__centered\"><DIV class=\"vkuiFlex__host vkuiFlex__wrap vkuiFlex__directionColumn vkuiFlex__alignCenter vkuiFlex__justifyCenter vkuiRootComponent__host\" style=\"--vkui_internal--row_gap: 0px; --vkui_internal--column_gap: 0px;\"><DIV class=\"vkuiRootComponent__host\"><DIV class=\"AuthQR__root--oyTcn\"><DIV data-testid=\"qr_container\" class=\"AuthQR__container--ey1PL\"><IFRAME src=\"https://id.vk.com/qr_auth?scheme=bright_light&app_id=7913379&origin=https%3A%2F%2Fvk.com&initial_stats_info=eyJzY3JlZW4iOiJhdXRoX3FyX2NvZGUiLCJzb3VyY2UiOiJtYWluIn0%3D&only_qr=1\" width=\"100%\" height=\"100%\" style=\"border: none; color-scheme: none; display: block;\" class=\"possible-clickable-element\" data-testid=\"C\"></IFRAME></DIV></DIV></DIV><DIV class=\"vkuiRootComponent__host\"><H2 class=\"vkuiTitle__sizeYCompact vkuiTitle__level2 vkuiTypography__host vkuiTypography__normalize vkuiRootComponent__host\" data-testid=\"qr_title\"><text>Se connecter à VK</text></H2></DIV><DIV class=\"vkuiRootComponent__host\"><SPAN class=\"vkitgetColorClass__colorTextSecondary--AhvRj vkuiParagraph__host vkuiParagraph__sizeYCompact vkuiTypography__host vkuiRootComponent__host\"><text>Scannez le code QR avec la caméra de votre appareil</text></SPAN></DIV><DIV class=\"vkuiRootComponent__host\"><A class=\"vkitButton__root--m7aR3 vkuiInternalTappable vkuiButton__host vkuiButton__sizeS vkuiButton__modeLink vkuiButton__appearanceAccentInvariable vkuiButton__stretched vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host\" href=\"https://id.vk.com/about/faq/users/registration_and_login/login/QR/20313\" target=\"_blank\"><SPAN class=\"vkuiButton__in\"><SPAN class=\"vkuiButton__content possible-clickable-element\" data-testid=\"D\"><text>En savoir plus</text></SPAN></SPAN></A></DIV><BUTTON class=\"vkitButton__root--m7aR3 vkuiInternalTappable vkuiButton__host vkuiButton__sizeL vkuiButton__modeOutline vkuiButton__appearanceNeutral vkuiButton__stretched vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host\" type=\"button\" data-testid=\"enter-another-way\"><SPAN class=\"vkuiButton__in\"><SPAN class=\"vkuiButton__content possible-clickable-element\" data-testid=\"E\"><text>Autres méthodes de connexion</text></SPAN></SPAN></BUTTON><BUTTON class=\"vkitButton__root--m7aR3 vkuiInternalTappable vkuiButton__host vkuiButton__sizeL vkuiButton__modeOutline vkuiButton__appearanceNeutral vkuiButton__stretched vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host\" type=\"button\" data-testid=\"signup\"><SPAN class=\"vkuiButton__in\"><SPAN class=\"vkuiButton__content possible-clickable-element\" data-testid=\"F\"><text>Créer un compte</text></SPAN></SPAN></BUTTON></DIV></DIV><DIV class=\"vkuiPanel__inAfter\"></DIV></DIV></DIV></DIV></DIV></DIV></SECTION></DIV></DIV></DIV><A class=\"vkitLink__link--4toGC vkitLink__contrast--Zshhq vkitLink__withIconInChildren--C3P18 vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host\" rel=\"noreferrer\" target=\"_blank\" href=\"https://id.vk.com/about/id\"><SPAN class=\"vkuiSubhead__host vkuiSubhead__sizeYCompact vkuiTypography__host vkuiTypography__normalize vkuiTypography__weight2 vkuiTypography__accent vkuiRootComponent__host possible-clickable-element\" data-testid=\"G\"><text>En savoir plus sur VK ID</text></SPAN></A></DIV><DIV class=\"vkuiPanel__inAfter\"></DIV></DIV></DIV></DIV><DIV data-onboarding-tooltip-container=\"fixed\" class=\"vkuiFixedLayout__host vkuiFixedLayout__verticalBottom vkuiInternalFixedLayout--vertical-bottom\"><DIV class=\"vkitPageFooter__rootCompact--Yi4iU\"><DIV class=\"vkuiFlex__host vkuiFlex__justifySpaceBetween vkuiRootComponent__host\" style=\"--vkui_internal--row_gap: 0px; --vkui_internal--column_gap: 0px;\"><DIV class=\"vkuiRootComponent__host\"><DIV class=\"vkuiFlex__host vkuiFlex__wrap vkuistyles__-row-gap--xl vkuistyles__-column-gap--3xl vkuiRootComponent__host\"><DIV class=\"vkuiRootComponent__host\"><A class=\"vkitLink__link--4toGC vkitLink__contrast--Zshhq vkitLink__withIconInChildren--C3P18 vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host possible-clickable-element\" rel=\"noreferrer\" target=\"_blank\" href=\"/about\" data-testid=\"H\"><text>VK</text><text>© 2006–</text><text>2025</text></A></DIV><DIV class=\"vkuiRootComponent__host\" style=\"order: 0;\"><A class=\"vkitLink__link--4toGC vkitLink__contrast--Zshhq vkitLink__withIconInChildren--C3P18 vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host possible-clickable-element\" rel=\"noreferrer\" target=\"_blank\" href=\"/legal/recommendations\" data-testid=\"I\"><text>Systèmes de recommandation utilisés</text></A></DIV><DIV class=\"vkuiRootComponent__host\"><A class=\"vkitLink__link--4toGC vkitLink__contrast--Zshhq vkitLink__withIconInChildren--C3P18 vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host possible-clickable-element\" rel=\"noreferrer\" target=\"_blank\" href=\"/terms\" data-testid=\"J\"><text>Conditions</text></A></DIV></DIV></DIV><DIV class=\"vkuiRootComponent__host\"><DIV class=\"vkuiFlex__host vkuiFlex__wrap vkuiFlex__justifyEnd vkuistyles__-row-gap--xl vkuistyles__-column-gap--3xl vkuiRootComponent__host\"><DIV class=\"vkuiRootComponent__host\"><A class=\"vkitLink__link--4toGC vkitLink__contrast--Zshhq vkitLink__withIconInChildren--C3P18 vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host possible-clickable-element\" rel=\"noreferrer\" target=\"_blank\" href=\"https://ads.vk.com/business\" data-testid=\"K\"><text>VK Publicité</text></A></DIV><DIV class=\"vkuiRootComponent__host\"><A class=\"vkitLink__link--4toGC vkitLink__contrast--Zshhq vkitLink__withIconInChildren--C3P18 vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host possible-clickable-element\" rel=\"noreferrer\" target=\"_blank\" href=\"https://dev.vk.com/\" data-testid=\"L\"><text>Développeurs</text></A></DIV></DIV></DIV><DIV class=\"vkuiRootComponent__host\"><DIV class=\"vkuiFlex__host vkuiFlex__wrap vkuiFlex__justifyEnd vkuistyles__-row-gap--xl vkuistyles__-column-gap--3xl vkuiRootComponent__host\"><DIV class=\"vkuiRootComponent__host\"><A class=\"vkitLink__link--4toGC vkitLink__contrast--Zshhq vkitLink__withIconInChildren--C3P18 vkuiInternalTappable vkuiLink__host vkuiLink__withUnderline vkuiTappable__host vkuiTappable__hasPointerNone vkuiClickable__host vkuiClickable__realClickable vkuistyles__-focus-visible vkuiRootComponent__host\" href=\"#\"><SPAN class=\"possible-clickable-element\" data-testid=\"M\"><text>Français</text></SPAN></A></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      div|\n      <label| Recherche VK >\n      <input[A]| vkuiPanel__in-after; Recherche VK >\n      <span| Очистить >\n    >\n    <\n      button[header_business_sign_up_button]|\n      <span[B]| Créer une page pour une entreprise >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <\n        div[qr_container]|\n        <iframe[C]| >\n      >\n      <h2[qr_title]| Se connecter à VK >\n      <span| Scannez le code QR avec la caméra de votre appareil >\n      <span[D]| En savoir plus >\n      <\n        button[enter-another-way]|\n        <span[E]| Autres méthodes de connexion >\n      >\n      <\n        button[signup]|\n        <span[F]| Créer un compte >\n      >\n    >\n    <span[G]| En savoir plus sur VK ID >\n  >\n  <\n    div|\n    <\n      div|\n      <a[H]| VK © 2006– 2025 >\n      <a[I]| Systèmes de recommandation utilisés >\n      <a[J]| Conditions >\n    >\n    <\n      div|\n      <a[K]| VK Publicité >\n      <a[L]| Développeurs >\n    >\n    <span[M]| Français >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 32,
+                "top": 8,
+                "right": 229,
+                "bottom": 40,
+                "width": 197,
+                "height": 32
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 966.265625,
+                "top": 16,
+                "right": 1232,
+                "bottom": 32,
+                "width": 265.734375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Créer une page pour une entreprise"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 546,
+                "top": 136,
+                "right": 734,
+                "bottom": 324,
+                "width": 188,
+                "height": 188
+            },
+            "tag": "iframe",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 594.53125,
+                "top": 418,
+                "right": 685.46875,
+                "bottom": 434,
+                "width": 90.9375,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "En savoir plus"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 503.15625,
+                "top": 468,
+                "right": 776.84375,
+                "bottom": 488,
+                "width": 273.6875,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Autres méthodes de connexion"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 556.921875,
+                "top": 516,
+                "right": 723.078125,
+                "bottom": 536,
+                "width": 166.15625,
+                "height": 20
+            },
+            "tag": "span",
+            "text": "Créer un compte"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 562.515625,
+                "top": 596,
+                "right": 717.46875,
+                "bottom": 612,
+                "width": 154.953125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "En savoir plus sur VK ID"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 48,
+                "top": 681,
+                "right": 159.375,
+                "bottom": 696,
+                "width": 111.375,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "VK © 2006–2025"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 179.375,
+                "top": 681,
+                "right": 427.796875,
+                "bottom": 696,
+                "width": 248.421875,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Systèmes de recommandation utilisés"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 447.796875,
+                "top": 681,
+                "right": 516.609375,
+                "bottom": 696,
+                "width": 68.8125,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Conditions"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 754.078125,
+                "top": 681,
+                "right": 830.8125,
+                "bottom": 696,
+                "width": 76.734375,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "VK Publicité"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 850.8125,
+                "top": 681,
+                "right": 940.9375,
+                "bottom": 696,
+                "width": 90.125,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Développeurs"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 1178.40625,
+                "top": 681,
+                "right": 1232,
+                "bottom": 696,
+                "width": 53.59375,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "Français"
+        }
+    ]
+}

@@ -1,0 +1,594 @@
+{
+    "raw_html": "<path d=\"M2.78033 1.21967C2.48744 0.926777 2.01256 0.926777 1.71967 1.21967C1.42678 1.51256 1.42678 1.98744 1.71967 2.28033L5.43934 6L1.71967 9.71967C1.42678 10.0126 1.42678 10.4874 1.71967 10.7803C2.01256 11.0732 2.48744 11.0732 2.78033 10.7803L6.5 7.06066L10.2197 10.7803C10.5126 11.0732 10.9874 11.0732 11.2803 10.7803C11.5732 10.4874 11.5732 10.0126 11.2803 9.71967L7.56066 6L11.2803 2.28033C11.5732 1.98744 11.5732 1.51256 11.2803 1.21967C10.9874 0.926777 10.5126 0.926777 10.2197 1.21967L6.5 4.93934L2.78033 1.21967Z\"></path><DIV data-marko-key=\"@gh-border s0-1-4-5\" id=\"gh-gb\" class=\"gh-sch-prom\" tabindex=\"-1\" aria-hidden=\"true\" style=\"margin-top: 30px; display: block;\"></DIV><path d=\"M8.707 12.707a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 1.414-1.414L8 10.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6Z\"></path><path d=\"M2.293 2.293a1 1 0 0 1 1.414 0L8 6.586l4.293-4.293a1 1 0 1 1 1.414 1.414L9.414 8l4.293 4.293a1 1 0 0 1-1.414 1.414L8 9.414l-4.293 4.293a1 1 0 0 1-1.414-1.414L6.586 8 2.293 3.707a1 1 0 0 1 0-1.414Z\"></path><path d=\"m21.71 11.29-8-8a1.004 1.004 0 0 0-1.42 1.42l6.3 6.29H3a1 1 0 0 0 0 2h15.59l-6.3 6.29a1.001 1.001 0 0 0 0 1.42 1.001 1.001 0 0 0 1.42 0l8-8a1.001 1.001 0 0 0 0-1.42Z\"></path><path d=\"M9 5a2 2 0 1 0-4 0v14a2 2 0 1 0 4 0V5Zm10 0a2 2 0 1 0-4 0v14a2 2 0 1 0 4 0V5Z\"></path><path d=\"m12.707 8.707-6 6a1 1 0 0 1-1.414-1.414L10.586 8 5.293 2.707a1 1 0 0 1 1.414-1.414l6 6a1 1 0 0 1 0 1.414Z\"></path><path d=\"M3.293 8.708a1 1 0 0 1 0-1.415l6-6a1 1 0 0 1 1.414 1.414L5.414 8l5.293 5.293a1 1 0 0 1-1.414 1.414l-6-6Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M5 5a3 3 0 0 1 6 0v2.214a2 2 0 0 0 .302 1.057L13.001 11H3l1.698-2.73A2 2 0 0 0 5 7.214V6.012A.99.99 0 0 0 5 6V5Zm-2 .5V5a5 5 0 1 1 10 0v2.214l1.699 2.73c.829 1.332-.13 3.057-1.698 3.057H11a3 3 0 0 1-6 0H3C1.43 13 .471 11.276 1.3 9.944L3 7.214V5.5ZM7 13h2a1 1 0 0 1-2 0Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.808 6.844a10.135 10.135 0 0 0-1.913 2.603 1 1 0 0 1-1.79-.894 12.129 12.129 0 0 1 2.312-3.147C3.697 4.17 5.557 3 8 3s4.304 1.169 5.583 2.406a12.128 12.128 0 0 1 2.312 3.147 1 1 0 1 1-1.79.894 10.136 10.136 0 0 0-1.913-2.603C11.146 5.83 9.757 5 8 5c-1.757 0-3.146.831-4.192 1.844ZM8 12.25a2.25 2.25 0 1 0 0-4.5 2.25 2.25 0 0 0 0 4.5Z\"></path><path d=\"m4.836 1.18 9.6 5.83a1.15 1.15 0 0 1 0 1.98l-9.6 5.83c-.8.486-1.836-.072-1.836-.988V2.168C3 1.252 4.037.694 4.836 1.18Z\"></path><path d=\"M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0Zm3.71 10.29a1 1 0 1 1-1.41 1.41L8 9.41l-2.29 2.3A1 1 0 0 1 4.3 10.3L6.59 8l-2.3-2.29a1.004 1.004 0 0 1 1.42-1.42L8 6.59l2.29-2.29a1 1 0 0 1 1.41 1.41L9.41 8l2.3 2.29Z\"></path><path d=\"M3 6.5a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0Zm11.76 6.85-.021-.01-3.71-3.681-.025-.008A5.465 5.465 0 0 0 12 6.5 5.5 5.5 0 1 0 6.5 12a5.47 5.47 0 0 0 3.118-.972l3.732 3.732a1 1 0 0 0 1.41-1.41Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 2C10.0222 2 8.08879 2.58649 6.4443 3.6853C4.79981 4.78412 3.51809 6.3459 2.76121 8.17317C2.00433 10.0004 1.8063 12.0111 2.19215 13.9509C2.578 15.8907 3.53041 17.6725 4.92894 19.0711C6.32746 20.4696 8.10929 21.422 10.0491 21.8079C11.9889 22.1937 13.9996 21.9957 15.8268 21.2388C17.6541 20.4819 19.2159 19.2002 20.3147 17.5557C21.4135 15.9112 22 13.9778 22 12C22 11.4477 22.4477 11 23 11C23.5523 11 24 11.4477 24 12C24 14.3734 23.2962 16.6935 21.9776 18.6668C20.6591 20.6402 18.7849 22.1783 16.5922 23.0866C14.3995 23.9948 11.9867 24.2324 9.65892 23.7694C7.33115 23.3064 5.19295 22.1635 3.51472 20.4853C1.83649 18.8071 0.693605 16.6689 0.230582 14.3411C-0.232441 12.0133 0.00519943 9.60051 0.913451 7.4078C1.8217 5.21509 3.35977 3.34094 5.33316 2.02236C7.30655 0.703788 9.62663 0 12 0C12.5523 0 13 0.447715 13 1C13 1.55228 12.5523 2 12 2Z\" fill=\"var(--color-spinner-icon-background, #3665F3)\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.1805 1.17194C14.3381 0.642616 14.895 0.341274 15.4243 0.498872C17.3476 1.07149 19.0965 2.11729 20.5111 3.54055C21.9257 4.96382 22.9609 6.71912 23.5217 8.64584C23.6761 9.17611 23.3714 9.73112 22.8411 9.88549C22.3108 10.0399 21.7558 9.73512 21.6015 9.20485C21.134 7.59925 20.2715 6.13651 19.0926 4.95045C17.9138 3.76439 16.4563 2.8929 14.8536 2.41572C14.3243 2.25812 14.0229 1.70126 14.1805 1.17194Z\" fill=\"var(--color-spinner-icon-foreground, #E5E5E5)\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M2.236 4H1a1 1 0 1 1 0-2h1.97c.458-.014.884.296 1 .755L4.855 6H17c.654 0 1.141.646.962 1.274l-1.586 5.55A3 3 0 0 1 13.491 15H7.528a3 3 0 0 1-2.895-2.21L2.236 4Zm4.327 8.263L5.4 8h10.274l-1.221 4.274a1 1 0 0 1-.962.726H7.528a1 1 0 0 1-.965-.737Z\"></path><path d=\"M8 18.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Zm6.5 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M6 6.982a4 4 0 0 1 8 0v2.68c0 .398.106.79.307 1.135l1.652 2.827a.25.25 0 0 1-.216.376H4.256a.25.25 0 0 1-.216-.376l1.653-2.827A2.25 2.25 0 0 0 6 9.662v-2.68ZM4 7a6 6 0 1 1 12 0v2.662a.25.25 0 0 0 .034.126l1.652 2.827c.877 1.5-.205 3.385-1.943 3.385H13a3 3 0 0 1-6 0H4.256c-1.737 0-2.819-1.885-1.942-3.385l1.652-2.827A.25.25 0 0 0 4 9.662V7Zm5 9h2a1 1 0 1 1-2 0Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M1.808 4.188a.625.625 0 0 1 .884 0L6 7.495l3.308-3.307a.625.625 0 1 1 .884.885l-3.75 3.749a.625.625 0 0 1-.884 0l-3.75-3.749a.626.626 0 0 1 0-.885Z\"></path><path d=\"M8 7a1 1 0 0 0-1 1v3a1 1 0 1 0 2 0V8a1 1 0 0 0-1-1Zm1-2a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z\"></path><path d=\"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm2 0a6 6 0 1 0 12 0A6 6 0 0 0 2 8Z\"></path><path d=\"M8.707 12.707a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 1.414-1.414L8 10.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 24c6.627 0 12-5.373 12-12S18.627 0 12 0 0 5.373 0 12s5.373 12 12 12Zm5.946-18.5-4.736 5.505 5.15 7.495h-3.787l-3.469-5.047L6.762 18.5H5.64l4.966-5.772L5.64 5.5h3.788l3.284 4.78 4.112-4.78h1.122Zm-6.776 6.572.503.72 3.427 4.902h1.724l-4.2-6.008-.503-.72L8.89 6.345H7.166l4.004 5.727Z\"></path><path d=\"M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047v-2.66c0-3.025 1.792-4.697 4.533-4.697 1.312 0 2.686.236 2.686.236v2.971H15.83c-1.491 0-1.956.93-1.956 1.887v2.263h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073Z\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.183 10.192a.625.625 0 0 1 0-.884L7.487 6 4.183 2.692a.625.625 0 0 1 .884-.884l3.745 3.75a.625.625 0 0 1 0 .884l-3.745 3.75a.625.625 0 0 1-.884 0Z\"></path><path d=\"M9.293 4.293a.999.999 0 0 1 1.414 0l7 7a1 1 0 0 1-1.414 1.414L10 6.414l-6.293 6.293a1 1 0 0 1-1.414-1.414l7-7Z\"></path><BUTTON type=\"button\" disabled=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\" style=\"background-color:#FFFFFF;color:inherit\" class=\"vl-pushdown__toggle\"><text>Open</text><svg width=\"14px\" height=\"8px\" viewBox=\"0 0 14 8\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\"><g id=\"btn-expand\" stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g fill-rule=\"nonzero\" fill=\"inherit\"><polygon points=\"6.5355339 6.8994949 6.7071068 7.0710678 13.0710678 0.7071068 12.363961 0 6.5355339 5.8284271 0.7071068 0 0 0.7071068 6.363961 7.0710678\"></polygon></g></g></svg></BUTTON><DIV id=\"globalHeaderWrapper\" aria-hidden=\"false\"><DIV class=\"page-grid-container hp-grid-container\" aria-hidden=\"false\"><DIV class=\"page-grid hp-grid\" aria-hidden=\"false\"><DIV class=\"global-header-container\" aria-hidden=\"false\"><DIV class=\"ghw ghw--loaded\" aria-hidden=\"true\"><HEADER data-marko-key=\"@gh s0-1-4\" id=\"gh\" class=\"gh-header\"><DIV class=\"gh-a11y-skip-button\"><A class=\"gh-a11y-skip-button__link\" href=\"#mainContent\" tabindex=\"1\"><text>Skip to main content</text></A></DIV><NAV class=\"gh-nav\"><DIV class=\"gh-nav__left-wrap\"><SPAN class=\"gh-identity\"><SPAN class=\"gh-identity-signed-out-unrecognized\"><text>Hi!</text><A _sp=\"m570.l1524\" href=\"https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2F\" class=\"possible-clickable-element\" data-testid=\"A\"><text>Sign in</text></A><SPAN class=\"hide-at-md\"><text>or</text><A _sp=\"m570.l2621\" href=\"https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2F\" class=\"possible-clickable-element\" data-testid=\"B\"><text>register</text></A></SPAN></SPAN></SPAN><SPAN class=\"gh-nav-link\"><A _sp=\"m570.l3188\" href=\"https://www.ebay.com/deals\" aria-label=\"Daily Deals\" class=\"possible-clickable-element\" data-testid=\"C\"><text>Daily Deals</text></A></SPAN><SPAN class=\"gh-nav-link\"><A _sp=\"m570.l47233\" href=\"https://www.ebay.com/b/Brand-Outlet/bn_7115532402\" aria-label=\"Brand Outlet\" class=\"possible-clickable-element\" data-testid=\"D\"><text>Brand Outlet</text></A></SPAN><SPAN class=\"gh-nav-link\"><A _sp=\"m570.l174317\" href=\"https://www.ebay.com/giftcards\" aria-label=\"Gift Cards\" class=\"possible-clickable-element\" data-testid=\"E\"><text>Gift Cards</text></A></SPAN><SPAN class=\"gh-nav-link\"><A _sp=\"m570.l1545\" href=\"https://www.ebay.com/help/home\" aria-label=\"Help & Contact\" class=\"possible-clickable-element\" data-testid=\"F\"><text>Help & Contact</text></A></SPAN></DIV><DIV class=\"gh-nav__right-wrap\"><SPAN class=\"gh-nav-link\" data-id=\"SELL_LINK\"><A _sp=\"m570.l1528\" href=\"https://www.ebay.com/sl/sell\" aria-label=\"Sell\" class=\"possible-clickable-element\" data-testid=\"G\"><text>Sell</text></A></SPAN><DIV class=\"gh-flyout is-right-aligned gh-watchlist\"><A class=\"gh-flyout__target\" href=\"https://www.ebay.com/mye/myebay/watchlist\" _sp=\"m570.l47137\"><SPAN class=\"gh-watchlist__target possible-clickable-element\" data-testid=\"H\"><text>Watchlist</text></SPAN><svg class=\"gh-flyout__chevron icon icon--12\" focusable=\"false\" tabindex=\"-1\" aria-hidden=\"true\"><use href=\"#icon-chevron-down-12\"></use></svg></A><BUTTON aria-controls=\"s0-1-4-8-10-0-0-dialog\" aria-expanded=\"false\" aria-haspopup=\"true\" class=\"gh-flyout__target-a11y-btn\" tabindex=\"0\"><text>Expand Watch List</text></BUTTON></DIV><DIV class=\"gh-flyout is-left-aligned gh-my-ebay\"><A class=\"gh-flyout__target\" href=\"https://www.ebay.com/mys/home?source=GBH\" _sp=\"m570.l2919\"><SPAN class=\"gh-my-ebay__link gh-rvi-menu possible-clickable-element\" data-testid=\"I\"><text>My eBay</text></SPAN><svg class=\"gh-flyout__chevron icon icon--12\" focusable=\"false\" tabindex=\"-1\" aria-hidden=\"true\"><use href=\"#icon-chevron-down-12\"></use></svg></A><BUTTON aria-controls=\"s0-1-4-8-11-0-dialog\" aria-expanded=\"false\" aria-haspopup=\"true\" class=\"gh-flyout__target-a11y-btn\" tabindex=\"0\"><text>Expand My eBay</text></BUTTON></DIV><DIV class=\"gh-notifications\"><DIV class=\"gh-flyout is-right-aligned gh-flyout--icon-target\"><BUTTON class=\"gh-flyout__target possible-clickable-element\" aria-controls=\"s0-1-4-8-12-0-1-dialog\" aria-expanded=\"false\" aria-haspopup=\"true\" data-testid=\"J\"><svg class=\"icon icon--20\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-notification-20\"></use></svg></BUTTON></DIV></DIV><DIV class=\"gh-cart\"><DIV class=\"gh-flyout is-right-aligned gh-flyout--icon-target\"><A class=\"gh-flyout__target\" href=\"https://cart.ebay.com\" _sp=\"m570.l2633\"><SPAN class=\"gh-cart__icon possible-clickable-element\" aria-label=\"Your shopping cart contains 0 items\" data-testid=\"K\"><svg class=\"icon icon--20\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-cart-20\"></use></svg></SPAN></A><BUTTON aria-controls=\"s0-1-4-8-13-1-0-dialog\" aria-expanded=\"false\" aria-haspopup=\"true\" class=\"gh-flyout__target-a11y-btn\" tabindex=\"0\"><text>Expand Cart</text></BUTTON></DIV></DIV></DIV></NAV><SECTION data-marko-key=\"@gh-main s0-1-4\" class=\"gh-header__main\" style=\"will-change: transform; width: 1184px;\"><DIV class=\"gh-header__logo-cats-wrap\"><A href=\"https://www.ebay.com\" _sp=\"m570.l2586\" class=\"gh-logo\" tabindex=\"2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"117\" height=\"48\" viewBox=\"0 0 122 48.592\" id=\"gh-logo\" aria-labelledby=\"ebayLogoTitle\"><path fill=\"#F02D2D\" d=\"M24.355 22.759c-.269-5.738-4.412-7.838-8.826-7.813-4.756.026-8.544 2.459-9.183 7.915zM6.234 26.93c.364 5.553 4.208 8.814 9.476 8.785 3.648-.021 6.885-1.524 7.952-4.763l6.306-.035c-1.187 6.568-8.151 8.834-14.145 8.866C4.911 39.844.043 33.865-.002 25.759c-.05-8.927 4.917-14.822 15.765-14.884 8.628-.048 14.978 4.433 15.033 14.291l.01 1.625z\" class=\"possible-clickable-element\" data-testid=\"L\"></path><path fill=\"#0968F6\" d=\"M46.544 35.429c5.688-.032 9.543-4.148 9.508-10.32s-3.947-10.246-9.622-10.214-9.543 4.148-9.509 10.32 3.974 10.245 9.623 10.214zM30.652.029l6.116-.034.085 15.369c2.978-3.588 7.1-4.65 11.167-4.674 6.817-.037 14.412 4.518 14.468 14.454.045 8.29-5.941 14.407-14.422 14.454-4.463.026-8.624-1.545-11.218-4.681a33.237 33.237 0 01-.19 3.731l-5.994.034c.09-1.915.185-4.364.174-6.322z\"></path><path fill=\"#FFBD14\" d=\"M77.282 25.724c-5.548.216-8.985 1.229-8.965 4.883.013 2.365 1.94 4.919 6.7 4.891 6.415-.035 9.826-3.556 9.794-9.289v-.637c-2.252.02-5.039.054-7.529.152zm13.683 7.506c.01 1.778.071 3.538.232 5.1l-5.688.032a33.381 33.381 0 01-.225-3.825c-3.052 3.8-6.708 4.909-11.783 4.938-7.532.042-11.585-3.915-11.611-8.518-.037-6.665 5.434-9.049 14.954-9.318 2.6-.072 5.529-.1 7.945-.116v-.637c-.026-4.463-2.9-6.285-7.854-6.257-3.68.021-6.368 1.561-6.653 4.2l-6.434.035c.645-6.566 7.53-8.269 13.595-8.3 7.263-.04 13.406 2.508 13.448 10.192z\" class=\"possible-clickable-element\" data-testid=\"M\"></path><path fill=\"#92C821\" d=\"M91.939 19.852l-4.5-8.362 7.154-.04 10.589 20.922 10.328-21.02 6.486-.048-18.707 37.251-6.85.039 5.382-10.348-9.887-18.393\"></path></svg></A><DIV class=\"gh-categories\"><DIV class=\"gh-flyout is-left-aligned\"><BUTTON class=\"gh-flyout__target\" tabindex=\"3\" aria-controls=\"s0-1-4-11-0-1-dialog\" aria-expanded=\"false\" aria-haspopup=\"true\"><SPAN class=\"gh-categories__title possible-clickable-element\" data-testid=\"N\"><text>Shop by category</text></SPAN><svg class=\"gh-flyout__chevron icon icon--12\" focusable=\"false\" tabindex=\"-1\" aria-hidden=\"true\"><use href=\"#icon-chevron-down-12\"></use></svg></BUTTON></DIV></DIV></DIV><FORM id=\"gh-f\" class=\"gh-search\" method=\"get\" action=\"https://www.ebay.com/sch/i.html\" target=\"_top\" style=\"position: relative;\"><SPAN id=\"ebay-autocomplete-status\" role=\"status\" aria-live=\"polite\" class=\"ebay-autocomplete-helper\"></SPAN><DIV id=\"gh-search-box\" class=\"gh-search-box__wrap\"><DIV class=\"gh-search__wrap\"><DIV id=\"gh-ac-wrap\" class=\"gh-search-input__wrap\"><INPUT data-marko=\"{\"oninput\":\"handleTextUpdate s0-1-4-12-4 false\",\"onfocusin\":\"handleMarkTimer s0-1-4-12-4 false\",\"onkeydown\":\"handleMarkTimer s0-1-4-12-4 false\"}\" data-marko-key=\"@input s0-1-4-12-4\" id=\"gh-ac\" class=\"gh-search-input gh-tb ui-autocomplete-input possible-clickable-element\" title=\"Search\" type=\"text\" placeholder=\"Search for anything\" aria-autocomplete=\"list\" aria-expanded=\"false\" size=\"50\" maxlength=\"300\" aria-label=\"Search for anything\" name=\"_nkw\" autocapitalize=\"off\" autocorrect=\"off\" spellcheck=\"false\" autocomplete=\"off\" aria-haspopup=\"true\" role=\"combobox\" tabindex=\"4\" aria-controls=\"ebay-autocomplete\" data-testid=\"O\" style=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\"></INPUT><svg data-marko-key=\"@svg s0-1-4-12-4-1-0\" class=\"gh-search-input__icon icon icon--16\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-search-16\"></use></svg><BUTTON data-marko=\"{\"onclick\":\"handleClick s0-1-4-12-4-@clear false\",\"onkeydown\":\"handleKeydown s0-1-4-12-4-@clear false\",\"onfocus\":\"handleFocus s0-1-4-12-4-@clear false\",\"onblur\":\"handleBlur s0-1-4-12-4-@clear false\"}\" aria-label=\"Clear search\" class=\"gh-search-input__clear-btn icon-btn icon-btn--transparent icon-btn--small\" data-ebayui=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\" type=\"button\"><svg data-marko-key=\"@svg s0-1-4-12-4-@clear-1-2-0\" class=\"gh-search-input__clear-icon icon icon--16\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-clear-16\"></use></svg></BUTTON></DIV><SELECT data-marko=\"{\"onchange\":\"handleCategorySelect s0-1-4-12-5 false\"}\" aria-label=\"Select a category for search\" class=\"gh-search-categories possible-clickable-element\" size=\"1\" id=\"gh-cat\" name=\"_sacat\" tabindex=\"5\" data-testid=\"P\"></SELECT></DIV></DIV><DIV class=\"gh-search-button__wrap\"><BUTTON data-marko=\"{\"onclick\":\"handleClick s0-1-4-12-8-@btn false\",\"onkeydown\":\"handleKeydown s0-1-4-12-8-@btn false\",\"onfocus\":\"handleFocus s0-1-4-12-8-@btn false\",\"onblur\":\"handleBlur s0-1-4-12-8-@btn false\"}\" class=\"gh-search-button btn btn--primary\" data-ebayui=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\" type=\"submit\" id=\"gh-search-btn\" role=\"button\" value=\"Search\" tabindex=\"6\"><SPAN class=\"gh-search-button__label possible-clickable-element\" data-testid=\"Q\"><text>Search</text></SPAN></BUTTON><A class=\"gh-search-button__advanced-link possible-clickable-element\" href=\"https://www.ebay.com/sch/ebayadvsearch\" _sp=\"m570.l2614\" tabindex=\"7\" data-testid=\"R\"><text>Advanced</text></A></DIV></FORM></SECTION></HEADER></DIV><SECTION aria-labelledby=\"s0-0.4805017221867769-1[0]-0-0-status\" class=\"page-notice page-notice--information gdpr-banner--slideup keyboard-trap--active\" id=\"gdpr-banner\" env=\"production\" model=\"{\"_type\":\"ConsentBanner\",\"meta\":{\"name\":\"CONSENT_BANNER\",\"sid\":\"p4375194.m43527\",\"trackingList\":[{\"eventFamily\":\"USERACQN\",\"eventAction\":\"VIEWDTLS\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"moduledtl\":\"mi:43527|iid:1|uxcg:CONSENT_BANNER|dur:\"}}],\"dataSource\":\"GDPRConsentModuleProvider\",\"moduleIdentification\":{\"instanceId\":\"0\",\"provider\":\"GDPRConsentModuleProvider\",\"sojournerModuleId\":\"43527\",\"scenario\":\"customer_banner\",\"uxComponentGroup\":\"CONSENT_BANNER\"}},\"message\":{\"title\":{\"_type\":\"TextualDisplay\",\"textSpans\":[{\"_type\":\"TextSpan\",\"text\":\"Data Settings Information and Management\"}]},\"additionalText\":[{\"_type\":\"TextualDisplay\",\"textSpans\":[{\"_type\":\"TextSpan\",\"text\":\"We use cookies and other technologies that are essential to provide you our services and site functionality, as described in our \"},{\"_type\":\"TextSpan\",\"text\":\"Cookie Notice\",\"styles\":[],\"action\":{\"_type\":\"Action\",\"URL\":\"https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267\",\"type\":\"NAV\",\"trackingList\":[{\"actionKind\":\"NAV\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"sid\":\"p4375194.m43527.l10185\"}},{\"eventFamily\":\"USERACQN\",\"eventAction\":\"ACTN\",\"actionKind\":\"NAVSRC\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"moduledtl\":\"iid:1|li:10185|uxcg:CONSENT_BANNER|mi:43527\"}}]}},{\"_type\":\"TextSpan\",\"text\":\". If you agree and click \\\"Accept all\\\", we will also allow 24 \"},{\"_type\":\"TextSpan\",\"text\":\"third-party companies\",\"styles\":[],\"action\":{\"_type\":\"Action\",\"URL\":\"https://www.ebay.com/gdpr?vendorlist=true\",\"type\":\"NAV\"}},{\"_type\":\"TextSpan\",\"text\":\", who we partner with, to store cookies on your device and use similar technologies to collect and use your personal data (e.g., IP address) for advertising personalisation, measurement and analytics, on and off our sites. You may decline consent by clicking \\\"Decline all\\\" or make granular choices by clicking \\\"Customise my choices.\\\" You may withdraw your consent at any time by visiting \"},{\"_type\":\"TextSpan\",\"text\":\"https://www.ebay.com/gdpr\",\"styles\":[],\"action\":{\"_type\":\"Action\",\"URL\":\"https://www.ebay.com/gdpr\",\"type\":\"NAV\",\"trackingList\":[{\"actionKind\":\"NAV\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"sid\":\"p4375194.m43527.l10184\"}},{\"eventFamily\":\"USERACQN\",\"eventAction\":\"ACTN\",\"actionKind\":\"NAVSRC\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"moduledtl\":\"iid:1|li:10184|uxcg:CONSENT_BANNER|mi:43527\"}}]},\"accessibilityText\":\"Decline and more information on privacy terms and settings\"},{\"_type\":\"TextSpan\",\"text\":\"Customise my choices\",\"styles\":[],\"action\":{\"_type\":\"Action\",\"URL\":\"https://www.ebay.com/gdpr\",\"type\":\"NAV\",\"trackingList\":[{\"actionKind\":\"NAV\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"sid\":\"p4375194.m43527.l10184\"}},{\"eventFamily\":\"USERACQN\",\"eventAction\":\"ACTN\",\"actionKind\":\"NAVSRC\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"moduledtl\":\"iid:1|li:10184|uxcg:CONSENT_BANNER|mi:43527\"}}]},\"accessibilityText\":\"Decline and more information on privacy terms and settings\"},{\"_type\":\"TextSpan\",\"text\":\".\"}]},{\"_type\":\"TextualDisplay\",\"textSpans\":[{\"_type\":\"TextSpan\",\"text\":\"Data processing purposes: Store and/or access information on a device. Personalised advertising, advertising measurement, audience research and services development.\"}]}],\"messageType\":\"INFO\",\"displayIcon\":true},\"acceptButton\":{\"_type\":\"TextualDisplay\",\"textSpans\":[{\"_type\":\"TextSpan\",\"text\":\"Accept All\"}],\"accessibilityText\":\"Accept all privacy terms and settings\",\"action\":{\"_type\":\"Action\",\"URL\":\"https://www.ebay.com/gdpr/submitGDPRData\",\"type\":\"OPERATION\",\"name\":\"ACCEPT\",\"trackingList\":[{\"eventFamily\":\"USERACQN\",\"eventAction\":\"ACTN\",\"actionKind\":\"HIDEDIALOG\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"moduledtl\":\"mi:43527|iid:1|li:10186\"}}]}},\"consentUrl\":\"https://www.ebay.com/gdpr/submitGDPRData\",\"declineButton\":{\"_type\":\"TextualDisplay\",\"textSpans\":[{\"_type\":\"TextSpan\",\"text\":\"Decline All\"}],\"accessibilityText\":\"Decline all privacy terms and settings\",\"action\":{\"_type\":\"Action\",\"URL\":\"https://www.ebay.com/gdpr/submitGDPRData\",\"type\":\"OPERATION\",\"name\":\"DECLINE\",\"trackingList\":[{\"eventFamily\":\"USERACQN\",\"eventAction\":\"ACTN\",\"actionKind\":\"HIDEDIALOG\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"moduledtl\":\"mi:43527|iid:1|li:112147\"}}]}},\"nonConsentLinks\":[\"https://www.ebay.com/gdpr\",\"https://www.ebay.com/gdpr?vendorlist=true\",\"https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267\"]}\" operation-id=\"4375194\" critical=\"0\" variants=\"[]\" position=\"beforeend\" role=\"region\" aria-hidden=\"false\"><DIV class=\"page-notice__main\"><P class=\"gdpr-banner__text\"><text>We use cookies and other technologies that are essential to provide you our services and site functionality, as described in our</text><A href=\"https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267\" data-track=\"{\"actionKind\":\"NAV\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"sid\":\"p4375194.m43527.l10185\"}}\" _sp=\"p4375194.m43527.l10185\" class=\"possible-clickable-element\" data-testid=\"S\"><text>Cookie Notice</text></A><text>. If you agree and click \"Accept all\", we will also allow 24</text><A href=\"https://www.ebay.com/gdpr?vendorlist=true\" data-track=\"{\"__isEmpty\":true}\" _sp=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\" class=\"possible-clickable-element\" data-testid=\"T\"><text>third-party companies</text></A><text>, who we partner with, to store cookies on your device and use similar technologies to collect and use your personal data (e.g., IP address) for advertising personalisation, measurement and analytics, on and off our sites. You may decline consent by clicking \"Decline all\" or make granular choices by clicking \"Customise my choices.\" You may withdraw your consent at any time by visiting</text><A href=\"https://www.ebay.com/gdpr\" data-track=\"{\"actionKind\":\"NAV\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"sid\":\"p4375194.m43527.l10184\"}}\" _sp=\"p4375194.m43527.l10184\" class=\"possible-clickable-element\" data-testid=\"U\"><text>https://www.ebay.com/gdpr</text></A><text>.</text></P><P class=\"gdpr-banner__text\"><text>Data processing purposes: Store and/or access information on a device. Personalised advertising, advertising measurement, audience research and services development.</text></P><DIV class=\"gdpr-banner-actions\"><BUTTON id=\"gdpr-banner-accept\" aria-label=\"Accept all privacy terms and settings\" class=\"possible-clickable-element\" data-testid=\"V\"><text>Accept All</text></BUTTON><BUTTON id=\"gdpr-banner-decline\" aria-label=\"Decline all privacy terms and settings\" class=\"possible-clickable-element\" data-testid=\"W\"><text>Decline All</text></BUTTON><A href=\"https://www.ebay.com/gdpr\" data-track=\"{\"actionKind\":\"NAV\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"parentrq\":\"5bbf788a1990a241c360556cffd34c30\",\"pageci\":\"afbfc39a-f679-4d7b-b6a1-e3760a72df76\",\"enableTrackingStandard\":\"true\",\"sid\":\"p4375194.m43527.l10184\"}}\" _sp=\"p4375194.m43527.l10184\" class=\"gdpr-banner-moreInfo possible-clickable-element\" data-testid=\"X\"><text>Customise my choices</text></A></DIV></DIV><DIV class=\"page-notice__footer\"><DIV id=\"gdpr-banner-decline-x\" class=\"possible-clickable-element\" data-testid=\"Y\"><svg class=\"icon icon--12\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-close-12\"></use></svg></DIV></DIV></SECTION></DIV></DIV></DIV></DIV><DIV class=\"vl-flyout-nav evo\" id=\"vl-flyout-nav\"><UL class=\"vl-flyout-nav__container\"><LI data-marko-key=\"1 s0-1-0-53-1-2-2\"><A href=\"https://www.ebay.com/ebaylive\" _sp=\"p4375194.m1382.l192283\" class=\"possible-clickable-element\" data-testid=\"Z\"><text>eBay Live</text></A></LI><LI data-marko-key=\"4 s0-1-0-53-1-2-2\" class=\"savedTab\"><A href=\"https://www.ebay.com/mye/myebay/saved\" _sp=\"p4375194.m170938.l187997\" class=\"possible-clickable-element\" data-testid=\"AA\"><text>Saved</text></A></LI><LI data-marko-key=\"6[0] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"0\" data-hover-track=\"p4375194.m1379.l6435\"><A href=\"https://www.ebay.com/b/Auto-Parts-and-Vehicles/6000/bn_1865334\" _sp=\"p4375194.m1379.l3250\" class=\"possible-clickable-element\" data-testid=\"AB\"><text>Motors</text></A></LI><LI data-marko-key=\"6[1] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"1\" data-hover-track=\"p4375194.m1380.l6435\"><A href=\"https://www.ebay.com/b/Electronics/bn_7000259124\" _sp=\"p4375194.m1380.l3250\" class=\"possible-clickable-element\" data-testid=\"AC\"><text>Electronics</text></A></LI><LI data-marko-key=\"6[2] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"2\" data-hover-track=\"p4375194.m1381.l6435\"><A href=\"https://www.ebay.com/b/Collectibles-Art/bn_7000259855\" _sp=\"p4375194.m1381.l3250\" class=\"possible-clickable-element\" data-testid=\"AD\"><text>Collectibles</text></A></LI><LI data-marko-key=\"6[3] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"3\" data-hover-track=\"p4375194.m1382.l6435\"><A href=\"https://www.ebay.com/b/Home-Garden/11700/bn_1853126\" _sp=\"p4375194.m1382.l3250\" class=\"possible-clickable-element\" data-testid=\"AE\"><text>Home & Garden</text></A></LI><LI data-marko-key=\"6[4] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"4\" data-hover-track=\"p4375194.m1383.l6435\"><A href=\"https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545\" _sp=\"p4375194.m1383.l3250\" class=\"possible-clickable-element\" data-testid=\"AF\"><text>Clothing, Shoes & Accessories</text></A></LI><LI data-marko-key=\"6[5] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"5\" data-hover-track=\"p4375194.m1384.l6435\"><A href=\"https://www.ebay.com/b/Toys-Hobbies/220/bn_1865497\" _sp=\"p4375194.m1384.l3250\" class=\"possible-clickable-element\" data-testid=\"AG\"><text>Toys</text></A></LI><LI data-marko-key=\"6[6] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"6\" data-hover-track=\"p4375194.m1385.l6435\"><A href=\"https://www.ebay.com/b/Sporting-Goods/888/bn_1865031\" _sp=\"p4375194.m1385.l3250\" class=\"possible-clickable-element\" data-testid=\"AH\"><text>Sporting Goods</text></A></LI><LI data-marko-key=\"6[7] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"7\" data-hover-track=\"p4375194.m1386.l6435\"><A href=\"https://www.ebay.com/b/Business-Industrial/12576/bn_1853744\" _sp=\"p4375194.m1386.l3250\" class=\"possible-clickable-element\" data-testid=\"AI\"><text>Business & Industrial</text></A></LI><LI data-marko-key=\"6[8] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"8\" data-hover-track=\"p4375194.m1387.l6435\"><A href=\"https://www.ebay.com/b/Jewelry-Watches/281/bn_1865273\" _sp=\"p4375194.m1387.l3250\" class=\"possible-clickable-element\" data-testid=\"AJ\"><text>Jewelry & Watches</text></A></LI><LI data-marko-key=\"6[9] s0-1-0-53-1-2-2\" class=\"vl-flyout-nav__js-tab\" data-currenttabindex=\"9\" data-hover-track=\"p4375194.m1388.l6435\"><A href=\"https://www.ebay.com/b/eBay-Refurbished/bn_7040708936\" _sp=\"p4375194.m1388.l3250\" class=\"possible-clickable-element\" data-testid=\"AK\"><text>Refurbished</text></A></LI></UL></DIV><DIV data-m-id=\"4518\" data-viewdtls=\"{\"moduleInstance\":\"mi:4518|iid:4\",\"parentrq\":\"5bbec95d1990ab190ed0d530fff6d31a\",\"trackViews\":\"true\",\"trackPerf\":\"false\"}\" class=\"vl-module-full vl-module-full-wide vl-banner-carousel vl-atf-module-js evo evo-banners evo-carousel\" data-pushed-viewdtls=\"true\" data-m-size=\"2\" data-m-atf=\"990\"><DIV class=\"carousel vl-carousel evo vl-module-full vl-module-full-wide evo-banners carousel--slides carousel__autoplay\" aria-roledescription=\"Carousel\" role=\"group\"><DIV class=\"carousel__container\" id=\"s0-1-0-53-1-2-4-18[0[0]]-0[1]-2-@match-media-0-@ebay-carousel-container\"><BUTTON class=\"carousel__control carousel__control--prev possible-clickable-element\" type=\"button\" aria-label=\"Go to previous banner\" data-testid=\"AL\"><svg class=\"icon icon--16\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-chevron-left-16\"></use></svg></BUTTON><DIV class=\"carousel__viewport\"><UL class=\"carousel__list\" id=\"s0-1-0-53-1-2-4-18[0[0]]-0[1]-2-@match-media-0-@ebay-carousel-list\" style=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\"><LI class=\"carousel__snap-point vl-carousel__item\" style=\"width:calc(100% - 0px);margin-right:0px\"><DIV data-view=\"{\"eventFamily\":\"VERTLAND\",\"eventAction\":\"VIEW\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"moduledtl\":\"mi:4518|iid:4\",\"ammiid\":\"1566105469820136581\",\"amdata\":\"t=0|tdt=iid:1566105469820136581,clkid:1566105469820136580|plmt=(channel:ONSITE_DWEB cnv.cfg.id:6e554464-feef-4d68-9ea0-df8a19c5eabd cnv.id:100001 iid:1566105469820136581 isUEP:1 mesg.id:2636485561086808551 message.mob.trk.id:0b99112e-9a8e-494a-a530-23792fe526c5~Y3YzTRAXq8sijKDtpKrR9pLkLduhDQC6PSPRQkvmi8y~X5Lg02gW4xHdzbsQxDfVm0aMZ5xTfuILYLPgJdPRE0f pageci:e02f9a44-9461-11f0-b59b-1edf8a347645 parentrq:5bbec95d1990ab190ed0d530fff6d31a plmt.id:100000 site.id:0)|ul=en-US|guid=5bbec9771990ab190edd40a8ffdecb2f|send.trk.id=13940544-b3ff-4b12-ab2f-2f1f35a2d188|uc=71|cnv.trk.id=bba05a80-8efe-4a86-a735-2c1189969989|cr.id=868143516868463687|cr.vt.id=1733929967816|mobtrkId=dd90ae9a-c381-48da-860e-557e10c812bc~sAi6hM8JmYUNHwT8OvQGeLj9jO4SeWmPj3RyScigTjh~GEmWzRtQRUPOs77AQqkA62XRBm4Xjg4MwPqdEuxnapZ\",\"parentrq\":\"5bbec95d1990ab190ed0d530fff6d31a\",\"pageci\":\"e02f9a44-9461-11f0-b59b-1edf8a347645\",\"audience\":\"general\",\"vlpname\":\"vlp_homepage\",\"ampid\":\"MADRONA\"}}\" class=\"tracking-wrapper\" data-pushed-view=\"true\"><DIV data-view=\"{\"eventFamily\":\"VERTLAND\",\"eventAction\":\"VIEW\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"moduledtl\":\"mi:4518|iid:4|li:8658|luid:1|c:1\",\"ammiid\":\"1566105469820136581\",\"amdata\":\"t=0|tdt=iid:1566105469820136581,clkid:1566105469820136580|plmt=(channel:ONSITE_DWEB cnv.cfg.id:6e554464-feef-4d68-9ea0-df8a19c5eabd cnv.id:100001 iid:1566105469820136581 isUEP:1 mesg.id:2636485561086808551 message.mob.trk.id:0b99112e-9a8e-494a-a530-23792fe526c5~Y3YzTRAXq8sijKDtpKrR9pLkLduhDQC6PSPRQkvmi8y~X5Lg02gW4xHdzbsQxDfVm0aMZ5xTfuILYLPgJdPRE0f pageci:e02f9a44-9461-11f0-b59b-1edf8a347645 parentrq:5bbec95d1990ab190ed0d530fff6d31a plmt.id:100000 site.id:0)|ul=en-US|guid=5bbec9771990ab190edd40a8ffdecb2f|send.trk.id=13940544-b3ff-4b12-ab2f-2f1f35a2d188|uc=71|cnv.trk.id=bba05a80-8efe-4a86-a735-2c1189969989|cr.id=868143516868463687|cr.vt.id=1733929967816|mobtrkId=dd90ae9a-c381-48da-860e-557e10c812bc~sAi6hM8JmYUNHwT8OvQGeLj9jO4SeWmPj3RyScigTjh~GEmWzRtQRUPOs77AQqkA62XRBm4Xjg4MwPqdEuxnapZ\",\"audience\":\"general\",\"pageci\":\"e02f9a44-9461-11f0-b59b-1edf8a347645\",\"ampid\":\"MADRONA\",\"vlpname\":\"vlp_homepage\"}}\" class=\"vl-banner vl-banner-color-block evo\" style=\"background-color:#055743\" data-pushed-view=\"true\"><DIV class=\"vl-banner-color-block__container\"><DIV class=\"page-grid\"><DIV class=\"vl-banner-color-block__content\"><DIV class=\"vl-banner__text vl-banner-color-block__text\"><DIV class=\"vl-banner-color-block__text__container\"><DIV class=\"vl-banner__overline\"><DIV data-src=\"https://i.ebayimg.com/images/g/5QoAAOSwFDBnWuu0/s-l225.webp\" data-size=\"225\" class=\"vl-image vl-image-js js-only vl-banner__overline__image vl-image__fill\" style=\"background-image: url(\"https://i.ebayimg.com/images/g/5QoAAOSwFDBnWuu0/s-l225.webp\");\"><DIV class=\"vl-image__background\" style=\"background-color: rgb(5, 87, 67); opacity: 0;\"></DIV><IMG exclude-from-high-fetchpriority=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\" alt=\"eBay Live badge\" src=\"https://i.ebayimg.com/images/g/5QoAAOSwFDBnWuu0/s-l225.webp\" data-vl-atf=\"1\" data-load-time=\"1758180855378\"></IMG></DIV><DIV style=\"color:#F7FDFD\" class=\"vl-ellipsis\"><SPAN data-marko-key=\"12 s0-1-0-53-1-2-4-18[0[0]]-0[1]-2-@match-media-0-@ebay-carousel-4[@0]-3[0]-1-8\" style=\"color:#F7FDFD\"><text>EBAY LIVE</text></SPAN></DIV></DIV><DIV class=\"vl-banner__text-heading\"><DIV aria-label=\"Trendy styles? Shop them live.\" style=\"color:#F7FDFD\"><DIV style=\"color:#F7FDFD\" class=\"vl-ellipsis-3\"><SPAN data-marko-key=\"12 s0-1-0-53-1-2-4-18[0[0]]-0[1]-2-@match-media-0-@ebay-carousel-4[@0]-3[0]-1-13\" style=\"color:#F7FDFD\"><text>Trendy styles? Shop them live.</text></SPAN></DIV></DIV></DIV><DIV class=\"vl-banner__text-subheading\"><DIV style=\"color:#F7FDFD\" class=\"vl-ellipsis-2\"><SPAN data-marko-key=\"12 s0-1-0-53-1-2-4-18[0[0]]-0[1]-2-@match-media-0-@ebay-carousel-4[@0]-3[0]-1-15\" style=\"color:#F7FDFD\"><text>Grab the latest fashion finds on eBay Live.</text></SPAN></DIV></DIV></DIV><DIV onfocusin=\"this.querySelector('.vl-cta__default').onmouseover()\" onfocusout=\"this.querySelector('.vl-cta__default').onmouseout()\" class=\"vl-cta vl-banner__cta\" style=\"font-color:#F7FDFD;background-color:#055743\"><A href=\"https://www.ebay.com/ebaylive/channels/l68DJtBAVZge4x4n?_trkparms=pageci%3Ae02f9a44-9461-11f0-b59b-1edf8a347645%7Cparentrq%3A5bbec95d1990ab190ed0d530fff6d31a%7Ciid%3A4%7Cvlpname%3Avlp_homepage%7Cii%3A13940544-b3ff-4b12-ab2f-2f1f35a2d188\" _sp=\"p4375194.m4518.l5352.c1\" data-click=\"{\"eventFamily\":\"VERTLAND\",\"eventAction\":\"ACTN\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"actionKind\":\"CLICK\",\"eventProperty\":{\"moduledtl\":\"mi:4518|iid:4|li:5352|luid:1|c:1\",\"ammiid\":\"1566105469820136581\",\"amdata\":\"t=0|tdt=iid:1566105469820136581,clkid:1566105469820136580|plmt=(channel:ONSITE_DWEB cnv.cfg.id:6e554464-feef-4d68-9ea0-df8a19c5eabd cnv.id:100001 iid:1566105469820136581 isUEP:1 mesg.id:2636485561086808551 message.mob.trk.id:0b99112e-9a8e-494a-a530-23792fe526c5~Y3YzTRAXq8sijKDtpKrR9pLkLduhDQC6PSPRQkvmi8y~X5Lg02gW4xHdzbsQxDfVm0aMZ5xTfuILYLPgJdPRE0f pageci:e02f9a44-9461-11f0-b59b-1edf8a347645 parentrq:5bbec95d1990ab190ed0d530fff6d31a plmt.id:100000 site.id:0)|ul=en-US|guid=5bbec9771990ab190edd40a8ffdecb2f|send.trk.id=13940544-b3ff-4b12-ab2f-2f1f35a2d188|uc=71|cnv.trk.id=bba05a80-8efe-4a86-a735-2c1189969989|cr.id=868143516868463687|cr.vt.id=1733929967816|mobtrkId=dd90ae9a-c381-48da-860e-557e10c812bc~sAi6hM8JmYUNHwT8OvQGeLj9jO4SeWmPj3RyScigTjh~GEmWzRtQRUPOs77AQqkA62XRBm4Xjg4MwPqdEuxnapZ\",\"audience\":\"general\",\"pageci\":\"e02f9a44-9461-11f0-b59b-1edf8a347645\",\"vlpname\":\"vlp_homepage\",\"ampid\":\"MADRONA\"}}\" aria-label=\"Tune in\"><DIV style=\"background-color: #F7FDFD; color: #055743; border-color: #F7FDFD\" onmouseover=\"this.style.background='#edf3f3'; this.style.color='#055340';\" onmouseout=\"this.style.background='#F7FDFD'; this.style.color='#055743'; this.style['border-color']='#F7FDFD';\" class=\"vl-cta__default evo possible-clickable-element\" data-testid=\"AM\"><text>Tune in</text></DIV></A></DIV></DIV></DIV><A href=\"https://www.ebay.com/ebaylive/channels/l68DJtBAVZge4x4n?_trkparms=pageci%3Ae02f9a44-9461-11f0-b59b-1edf8a347645%7Cparentrq%3A5bbec95d1990ab190ed0d530fff6d31a%7Ciid%3A4%7Cvlpname%3Avlp_homepage\" _sp=\"p4375194.m4518.l5350.c1\" data-click=\"{\"eventFamily\":\"VERTLAND\",\"eventAction\":\"ACTN\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"actionKind\":\"CLICK\",\"eventProperty\":{\"moduledtl\":\"mi:4518|iid:4|li:5350|luid:1|c:1\",\"ammiid\":\"1566105469820136581\",\"amdata\":\"t=0|tdt=iid:1566105469820136581,clkid:1566105469820136580|plmt=(channel:ONSITE_DWEB cnv.cfg.id:6e554464-feef-4d68-9ea0-df8a19c5eabd cnv.id:100001 iid:1566105469820136581 isUEP:1 mesg.id:2636485561086808551 message.mob.trk.id:0b99112e-9a8e-494a-a530-23792fe526c5~Y3YzTRAXq8sijKDtpKrR9pLkLduhDQC6PSPRQkvmi8y~X5Lg02gW4xHdzbsQxDfVm0aMZ5xTfuILYLPgJdPRE0f pageci:e02f9a44-9461-11f0-b59b-1edf8a347645 parentrq:5bbec95d1990ab190ed0d530fff6d31a plmt.id:100000 site.id:0)|ul=en-US|guid=5bbec9771990ab190edd40a8ffdecb2f|send.trk.id=13940544-b3ff-4b12-ab2f-2f1f35a2d188|uc=71|cnv.trk.id=bba05a80-8efe-4a86-a735-2c1189969989|cr.id=868143516868463687|cr.vt.id=1733929967816|mobtrkId=dd90ae9a-c381-48da-860e-557e10c812bc~sAi6hM8JmYUNHwT8OvQGeLj9jO4SeWmPj3RyScigTjh~GEmWzRtQRUPOs77AQqkA62XRBm4Xjg4MwPqdEuxnapZ\",\"pageci\":\"e02f9a44-9461-11f0-b59b-1edf8a347645\",\"audience\":\"general\",\"ampid\":\"MADRONA\",\"vlpname\":\"vlp_homepage\"}}\" aria-hidden=\"true\" class=\"vl-banner-color-block__image-link\"><DIV data-src=\"https://i.ebayimg.com/images/g/v-gAAOSw~PdnWuuz/s-l960.webp\" data-size=\"920\" class=\"vl-image vl-image-js js-only vl-banner-color-block__image vl-image__fill\" style=\"background-image: url(\"https://i.ebayimg.com/images/g/v-gAAOSw~PdnWuuz/s-l960.webp\");\"><DIV class=\"vl-image__background possible-clickable-element\" style=\"background-color: rgb(5, 87, 67); opacity: 0;\" data-testid=\"AN\"></DIV><IMG alt=\"'use strict';var m={};class n{constructor(a){this.j=a;this.g={};this.h={};this.i=0;this.id=String(Math.floor(Number.MAX_SAFE_INTEGER*Math.random()))}}function p(a){return a.performance&&a.performance.now()||Date.now()} var q=function(a,c){class d{constructor(b,f,g){this.failureType=b;this.data=f;this.g=g;this.h=new n(p(g))}u(b,f){const g=b.clientId;if(b.type===0){b.isDead=!0;var e=this.h,h=p(this.g);e.g[g]==null&&(e.g[g]=0,e.h[g]=h,e.i++);e.g[g]++;b.stats={targetId:e.id,clientCount:e.i,totalLifeMs:Math.round(h-e.j),heartbeatCount:e.g[g],clientLifeMs:Math.round(h-e.h[g])}}b.failure={failureType:this.failureType,data:this.data};f(b)}}return new d(5,a,c)};/* Copyright Google LLC SPDX-License-Identifier: Apache-2.0 */ let r=globalThis.trustedTypes,t;function u(){let a=null;if(!r)return a;try{const c=d=>d;a=r.createPolicy(\"goog#html\",{createHTML:c,createScript:c,createScriptURL:c})}catch(c){}return a};var v=class{constructor(a){this.g=a}toString(){return this.g+\"\"}};function w(a){const c=a;var d;t===void 0&&(t=u());var b=(d=t)?d.createScriptURL(c):c;return new v(b)}function x(a){if(a instanceof v)return a.g;throw Error(\"\");};function y(a,...c){if(c.length===0)return w(a[0]);let d=a[0];for(let b=0;b<c.length;b++)d+=encodeURIComponent(c[b])+a[b+1];return w(d)}function z(a){var c=y`sw.js`,d=x(c).toString();const b=d.split(/[?#]/),f=/[?]/.test(d)?\"?\"+b[1]:\"\";return A(b[0],f,/[#]/.test(d)?\"#\"+(f?b[2]:b[1]):\"\",a)} function A(a,c,d,b){function f(e,h){e!=null&&(Array.isArray(e)?e.forEach(l=>f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=>{const k=B.exec(a.window.navigator.userAgent);return k&&Number(k[1])<119},h=a.window.document.location.href;a.g&&(a.l?h=`${a.h}/_/service_worker`:e()||(h=\"/static/service_worker\"));var l={scope:h};a.g&&(l.updateViaCache=\"all\");a.window.navigator.serviceWorker.register(x(g), l).then(()=>{a.window.navigator.serviceWorker.ready.then(k=>{a.i=k.active;C(a)})},k=>{a.j=q(k==null?void 0:k.toString(),a.window);C(a)});a.window.navigator.serviceWorker.addEventListener(\"message\",k=>{a.window.parent.postMessage(k.data,a.origin)})}},C=function(a){const c=a.m.slice();a.m=[];for(const d of c)a.handleEvent(d)}; (new class{constructor(a){this.window=a;this.origin=\"\";this.o=this.l=!1;this.h=\"\";this.j=this.i=null;this.m=[];this.g=\"\"}init(){if((f=>{try{return f!==f.top}catch(g){return!0}})(this.window)){var a=new URL(this.window.document.location.href),c=a.searchParams.get(\"origin\");if(c){this.origin=c;this.l=!!a.searchParams.get(\"1p\");this.o=!!a.searchParams.get(\"e\");this.h=a.searchParams.get(\"path\")||\"\";var d=a.pathname.match(RegExp(\".*/service_worker/(\\\\w+)/\"));d&&d.length&&(this.g=d[1]);var b=this.window.document.location.ancestorOrigins; b&&b[0]!==this.origin||(D(this),this.window.addEventListener(\"message\",f=>{this.handleEvent(f)}))}}}handleEvent(a){a.origin===this.origin&&(this.i?this.i.postMessage(a.data):this.j?this.j.u(a.data,c=>{this.window.parent.postMessage(c,this.origin)}):this.m.push(a))}}(window)).init();\" src=\"https://i.ebayimg.com/images/g/v-gAAOSw~PdnWuuz/s-l960.webp\" data-vl-atf=\"1\" fetchpriority=\"high\" data-load-time=\"1758180855321\"></IMG></DIV></A></DIV></DIV></DIV></DIV></LI></UL></DIV><BUTTON class=\"carousel__control carousel__control--next possible-clickable-element\" type=\"button\" aria-label=\"Go to next banner\" id=\"s0-1-0-53-1-2-4-18[0[0]]-0[1]-2-@match-media-0-@ebay-carousel-next\" data-testid=\"AO\"><svg class=\"icon icon--16\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-chevron-right-16\"></use></svg></BUTTON><BUTTON type=\"button\" aria-label=\"Pause Banner Carousel\" class=\"carousel__playback possible-clickable-element\" data-testid=\"AP\"><svg class=\"icon icon--24\" focusable=\"false\" aria-hidden=\"true\"><use href=\"#icon-pause-24\"></use></svg></BUTTON></DIV></DIV><DIV class=\"vl-carousel--dots\"><LI style=\"border-color: rgb(247, 253, 253); background-color: rgb(247, 253, 253);\" class=\"vl-carousel--dots__active\"></LI><LI style=\"border-color: rgb(247, 253, 253); background-color: unset;\"></LI><LI style=\"border-color: rgb(247, 253, 253); background-color: unset;\"></LI><LI style=\"border-color: rgb(247, 253, 253); background-color: unset;\"></LI></DIV></DIV><DIV data-viewdtls=\"{\"moduleInstance\":\"mi:4523|iid:1\",\"parentrq\":\"5bbec95d1990ab190ed0d530fff6d31a\",\"trackViews\":\"true\",\"trackPerf\":\"false\"}\" data-view=\"{\"eventFamily\":\"VERTLAND\",\"eventAction\":\"VIEW\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"moduledtl\":\"mi:4523|iid:1\",\"ammiid\":\"1566105469820136591\",\"amdata\":\"t=0|tdt=iid:1566105469820136591,clkid:1566105469820136590|plmt=(channel:ONSITE_DWEB cnv.cfg.id:6e554464-feef-4d68-9ea0-df8a19c5eabd cnv.id:100001 iid:1566105469820136591 isUEP:1 mesg.id:1471420700477072584 message.mob.trk.id:0b99112e-9a8e-494a-a530-23792fe526c5~Y3YzTRAXq8sijKDtpKrR9pLkLduhDQC6PSPRQkvmi8y~vG0exSx2RYtyOarRG1ViZyXi4by2BmnSrLZ6FRmh5BZ pageci:e02f9a44-9461-11f0-b59b-1edf8a347645 parentrq:5bbec95d1990ab190ed0d530fff6d31a plmt.id:100004 site.id:0)|ul=en-US|guid=5bbec9771990ab190edd40a8ffdecb2f|send.trk.id=1632c2b9-5561-4e91-8b38-29fc57a5e114|uc=71|cnv.trk.id=bba05a80-8efe-4a86-a735-2c1189969989|cr.id=2238645373360686419|cr.vt.id=1757520452622|mobtrkId=dd90ae9a-c381-48da-860e-557e10c812bc~sAi6hM8JmYUNHwT8OvQGeLj9jO4SeWmPj3RyScigTjh~GEmWzRtQRUPOs77AQqkA62XRBm4Xjg4MwPqdEuxnapZ\",\"parentrq\":\"5bbec95d1990ab190ed0d530fff6d31a\",\"pageci\":\"e02f9a44-9461-11f0-b59b-1edf8a347645\",\"vlpname\":\"vlp_homepage\",\"ampid\":\"MADRONA\",\"audience\":\"general\"}}\" data-m-id=\"4523\" class=\"vl-module vl-loyalty off-card vl-atf-module-js evo page-grid-container\" style=\"background-color:#570303;border-color:#570303\" data-pushed-viewdtls=\"true\" data-pushed-view=\"true\" data-m-size=\"0\"><DIV class=\"vl-loyalty__text\"><DIV class=\"vl-loyalty__text-ctr\"><DIV class=\"vl-loyalty__text-title\"><A href=\"https://pages.ebay.com/fashionmonth/?_trkparms=pageci%3Ae02f9a44-9461-11f0-b59b-1edf8a347645%7Cparentrq%3A5bbec95d1990ab190ed0d530fff6d31a%7Ciid%3A1\" _sp=\"p4375194.m4523.l5349.c1\" data-click=\"{\"eventFamily\":\"VERTLAND\",\"eventAction\":\"ACTN\",\"actionKind\":\"CLICK\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"moduledtl\":\"mi:4523|iid:1|li:5349|luid:1|c:1\",\"ammiid\":\"1566105469820136591\",\"amdata\":\"t=0|tdt=iid:1566105469820136591,clkid:1566105469820136590|plmt=(channel:ONSITE_DWEB cnv.cfg.id:6e554464-feef-4d68-9ea0-df8a19c5eabd cnv.id:100001 iid:1566105469820136591 isUEP:1 mesg.id:1471420700477072584 message.mob.trk.id:0b99112e-9a8e-494a-a530-23792fe526c5~Y3YzTRAXq8sijKDtpKrR9pLkLduhDQC6PSPRQkvmi8y~vG0exSx2RYtyOarRG1ViZyXi4by2BmnSrLZ6FRmh5BZ pageci:e02f9a44-9461-11f0-b59b-1edf8a347645 parentrq:5bbec95d1990ab190ed0d530fff6d31a plmt.id:100004 site.id:0)|ul=en-US|guid=5bbec9771990ab190edd40a8ffdecb2f|send.trk.id=1632c2b9-5561-4e91-8b38-29fc57a5e114|uc=71|cnv.trk.id=bba05a80-8efe-4a86-a735-2c1189969989|cr.id=2238645373360686419|cr.vt.id=1757520452622|mobtrkId=dd90ae9a-c381-48da-860e-557e10c812bc~sAi6hM8JmYUNHwT8OvQGeLj9jO4SeWmPj3RyScigTjh~GEmWzRtQRUPOs77AQqkA62XRBm4Xjg4MwPqdEuxnapZ\",\"pageci\":\"e02f9a44-9461-11f0-b59b-1edf8a347645\",\"vlpname\":\"vlp_homepage\",\"ampid\":\"MADRONA\",\"audience\":\"general\"}}\"><H2 class=\"vl-ellipsis-2\" style=\"color:#FFDEDE\"><text>Experience eBay Endless Runway</text></H2></A></DIV><DIV class=\"vl-loyalty__text-subtitle vl-ellipsis-2\" style=\"color:#FFDEDE\"><SPAN data-marko-key=\"12 s0-1-0-53-1-2-4-18[0[0]]-0[3]-13\" style=\"color:#FFDEDE\"><text>Stream the show and shop pre-loved from fashion week designers.</text></SPAN></DIV></DIV></DIV><DIV class=\"vl-loyalty__call-to-action-wrapper\"><DIV onfocusin=\"this.querySelector('.vl-cta__default').onmouseover()\" onfocusout=\"this.querySelector('.vl-cta__default').onmouseout()\" class=\"vl-cta vl-loyalty__call-to-action\" style=\"font-color:#FFDEDE;background-color:#570303\"><A href=\"https://pages.ebay.com/fashionmonth/?_trkparms=pageci%3Ae02f9a44-9461-11f0-b59b-1edf8a347645%7Cparentrq%3A5bbec95d1990ab190ed0d530fff6d31a%7Ciid%3A1\" _sp=\"p4375194.m4523.l5352.c1\" data-click=\"{\"eventFamily\":\"VERTLAND\",\"eventAction\":\"ACTN\",\"actionKind\":\"CLICK\",\"operationId\":\"4375194\",\"flushImmediately\":false,\"eventProperty\":{\"moduledtl\":\"mi:4523|iid:1|li:5352|luid:1|c:1\",\"ammiid\":\"1566105469820136591\",\"amdata\":\"t=0|tdt=iid:1566105469820136591,clkid:1566105469820136590|plmt=(channel:ONSITE_DWEB cnv.cfg.id:6e554464-feef-4d68-9ea0-df8a19c5eabd cnv.id:100001 iid:1566105469820136591 isUEP:1 mesg.id:1471420700477072584 message.mob.trk.id:0b99112e-9a8e-494a-a530-23792fe526c5~Y3YzTRAXq8sijKDtpKrR9pLkLduhDQC6PSPRQkvmi8y~vG0exSx2RYtyOarRG1ViZyXi4by2BmnSrLZ6FRmh5BZ pageci:e02f9a44-9461-11f0-b59b-1edf8a347645 parentrq:5bbec95d1990ab190ed0d530fff6d31a plmt.id:100004 site.id:0)|ul=en-US|guid=5bbec9771990ab190edd40a8ffdecb2f|send.trk.id=1632c2b9-5561-4e91-8b38-29fc57a5e114|uc=71|cnv.trk.id=bba05a80-8efe-4a86-a735-2c1189969989|cr.id=2238645373360686419|cr.vt.id=1757520452622|mobtrkId=dd90ae9a-c381-48da-860e-557e10c812bc~sAi6hM8JmYUNHwT8OvQGeLj9jO4SeWmPj3RyScigTjh~GEmWzRtQRUPOs77AQqkA62XRBm4Xjg4MwPqdEuxnapZ\",\"pageci\":\"e02f9a44-9461-11f0-b59b-1edf8a347645\",\"vlpname\":\"vlp_homepage\",\"ampid\":\"MADRONA\",\"audience\":\"general\"}}\" aria-label=\"Discover more\"><DIV style=\"background-color: #FFDEDE; color: #570303; border-color: #FFDEDE\" onmouseover=\"this.style.background='#f5d5d5'; this.style.color='#530303';\" onmouseout=\"this.style.background='#FFDEDE'; this.style.color='#570303'; this.style['border-color']='#FFDEDE';\" class=\"vl-cta__default evo\"><text>Discover more</text></DIV></A></DIV></DIV></DIV><DIV id=\"ifhContainer\" class=\"ifh-container ifh-hide-in-mobile\" style=\"top: calc(656px); right: 24px;\"><DIV class=\"ifh-content\"><BUTTON type=\"button\" class=\"ifh-list-item icon-btn icon-btn--transparent\" id=\"ifhItem0\" aria-label=\"Help, opens dialogs\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 20 20\"><path d=\"M6.98 5.196c.196-.977.653-1.48 1.149-1.77C8.666 3.113 9.342 3 10 3c.565 0 1.363.198 1.993.635C12.59 4.048 13 4.639 13 5.5c0 .786-.18 1.305-.643 1.86-.52.624-1.403 1.302-2.912 2.308A1 1 0 0 0 9 10.5V14a1 1 0 1 0 2 0v-2.967c1.27-.864 2.238-1.606 2.893-2.393C14.68 7.695 15 6.714 15 5.5c0-1.64-.84-2.798-1.868-3.51A5.733 5.733 0 0 0 10 1c-.842 0-1.917.137-2.879.699-1.004.585-1.797 1.582-2.102 3.105a1 1 0 0 0 1.962.392ZM10 19a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z\"></path></svg></BUTTON></DIV></DIV>",
+    "parsed_html": "\n<\n  div|\n  <button| f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>\n  f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=\n>\n{const k=B.exec(a.window.navigator. Open\n>\n<\ndiv|\n<\n  header|\n  <a| Skip to main content >\n  <\n    nav|\n    <\n      div|\n      <\n        span|\n        <text| Hi! >\n        <a[A]| Sign in >\n        <\n          span|\n          <text| or >\n          <a[B]| register >\n        >\n      >\n      <a[C]| Daily Deals >\n      <a[D]| Brand Outlet >\n      <a[E]| Gift Cards >\n      <a[F]| Help & Contact >\n    >\n    <\n      div|\n      <a[G]| Sell >\n      <\n        div|\n        <span[H]| Watchlist >\n        <button| Expand Watch List >\n      >\n      <\n        div|\n        <span[I]| My eBay >\n        <button| Expand My eBay >\n      >\n      <button[J]| >\n      <span[K]| >\n      <button| Expand Cart >\n    >\n  >\n  <\n    section|\n    <path[L]| >\n    <path[M]| >\n    <span[N]| Shop by category >\n    <\n      form|\n      <\n        div|\n        <input[O]| Search; Search for anything >\n        <button| f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>\n        f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=\n      >\n      {const k=B.exec(a.window.navigator.\n    >\n  >\n  <select[P]| >\n  <\n    div|\n    <button| f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>\n    f(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=\n  >\n  {const k=B.exec(a.window.navigator.\n  <span[Q]| Search >\n>\n<a[R]| Advanced >\n>\n>\n>\n>\n<\ndiv|\n<\np|\n<text| We use cookies and other technologies that are essential to provide you our services and site functionality, as described in our >\n<a[S]| Cookie Notice >\n<text| . If you agree and click \"Accept all\", we will also allow 24 >\n<a| f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>\nf(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=\n>\n{const k=B.exec(a.window.navigator. third-party companies\n>\n<text| , who we partner with, to store cookies on your device and use similar technologies to collect and use your personal data (e.g., IP address) for advertising personalisation, measurement and analytics, on and off our sites. You may decline consent by clicking \"Decline all\" or make granular choices by clicking \"Customise my choices.\" You may withdraw your consent at any time by visiting >\n<a[U]| https://www.ebay.com/gdpr >\n<text| . >\n>\n<p| Data processing purposes: Store and/or access information on a device. Personalised advertising, advertising measurement, audience research and services development. >\n<\ndiv|\n<button[V]| Accept All >\n<button[W]| Decline All >\n<a[X]| Customise my choices >\n>\n>\n<div[Y]| >\n>\n<\nul|\n<a[Z]| eBay Live >\n<a[AA]| Saved >\n<a[AB]| Motors >\n<a[AC]| Electronics >\n<a[AD]| Collectibles >\n<a[AE]| Home & Garden >\n<a[AF]| Clothing, Shoes & Accessories >\n<a[AG]| Toys >\n<a[AH]| Sporting Goods >\n<a[AI]| Business & Industrial >\n<a[AJ]| Jewelry & Watches >\n<a[AK]| Refurbished >\n>\n<button[AL]| >\n<ul| f(l,h)):(c+=g+encodeURIComponent(h)+\"=\"+encodeURIComponent(e),g=\"&\"))}let g=c.length?\"&\":\"?\";b.constructor===Object&&(b=Object.entries(b));Array.isArray(b)?b.forEach(e=>\nf(e[1],e[0])):b.forEach(f);return w(a+c+d)};const B=/Chrome\\/(\\d+)/;var D=function(a){const c=a.origin;if(c){var d=a.o?\"swe.js\":\"sw.js\",b=a.g?y`/static/service_worker/${a.g}/${d}?origin=${c}`:y`/gtm/static/${d}?origin=${c}`,f=new Map([[\"origin\",c]]);a.h&&f.set(\"path\",a.h);var g=a.l?z(f):b,e=()=\n>\n{const k=B.exec(a.window.navigator.\n<\ndiv|\n<\ndiv|\n<span| EBAY LIVE >\n<span| Trendy styles? Shop them live. >\n<span| Grab the latest fashion finds on eBay Live. >\n>\n<div[AM]| Tune in >\n>\n<div[AN]| >\n>\n<button[AO]| >\n<button[AP]| >\n<\ndiv|\n<\ndiv|\n<h2| Experience eBay Endless Runway >\n<span| Stream the show and shop pre-loved from fashion week designers. >\n>\n<div| Discover more >\n>\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 66,
+                "top": 8,
+                "right": 105,
+                "bottom": 24,
+                "width": 39,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Sign in"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 123,
+                "top": 8,
+                "right": 166,
+                "bottom": 24,
+                "width": 43,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "register"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 190,
+                "top": 4,
+                "right": 269,
+                "bottom": 28,
+                "width": 79,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Daily Deals"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 277,
+                "top": 4,
+                "right": 365,
+                "bottom": 28,
+                "width": 88,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Brand Outlet"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 373,
+                "top": 4,
+                "right": 448,
+                "bottom": 28,
+                "width": 75,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Gift Cards"
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 456,
+                "top": 4,
+                "right": 561,
+                "bottom": 28,
+                "width": 105,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Help & Contact"
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 902,
+                "top": 4,
+                "right": 939,
+                "bottom": 28,
+                "width": 37,
+                "height": 24
+            },
+            "tag": "a",
+            "text": "Sell"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 963,
+                "top": 7,
+                "right": 1016,
+                "bottom": 25,
+                "width": 53,
+                "height": 18
+            },
+            "tag": "span",
+            "text": "Watchlist"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 1068,
+                "top": 7,
+                "right": 1116,
+                "bottom": 25,
+                "width": 48,
+                "height": 18
+            },
+            "tag": "span",
+            "text": "My eBay"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 1148,
+                "top": 0,
+                "right": 1200,
+                "bottom": 32,
+                "width": 52,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 1212,
+                "top": 4.609375,
+                "right": 1232,
+                "bottom": 25.375,
+                "width": 20,
+                "height": 20.765625
+            },
+            "tag": "span",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 47.99772262573242,
+                "top": 55.12867736816406,
+                "right": 77.54345703125,
+                "bottom": 82.85272979736328,
+                "width": 29.545734405517578,
+                "height": 27.72405242919922
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 107.35334777832031,
+                "top": 54.830345153808594,
+                "right": 135.45941162109375,
+                "bottom": 82.5572280883789,
+                "width": 28.106063842773438,
+                "height": 27.726882934570312
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 181,
+                "top": 51,
+                "right": 232.59375,
+                "bottom": 91,
+                "width": 51.59375,
+                "height": 40
+            },
+            "tag": "span",
+            "text": "Shop by category"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 271,
+                "top": 51,
+                "right": 825,
+                "bottom": 91,
+                "width": 554,
+                "height": 40
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 826,
+                "top": 51,
+                "right": 986,
+                "bottom": 91,
+                "width": 160,
+                "height": 40
+            },
+            "tag": "select",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 1023,
+                "top": 60.5,
+                "right": 1149,
+                "bottom": 81.5,
+                "width": 126,
+                "height": 21
+            },
+            "tag": "span",
+            "text": "Search"
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 1178,
+                "top": 62.75,
+                "right": 1232,
+                "bottom": 79.25,
+                "width": 54,
+                "height": 16.5
+            },
+            "tag": "a",
+            "text": "Advanced"
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 861,
+                "top": 532,
+                "right": 961,
+                "bottom": 552,
+                "width": 100,
+                "height": 20
+            },
+            "tag": "a",
+            "text": "Cookie Notice"
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 133,
+                "top": 553,
+                "right": 289,
+                "bottom": 573,
+                "width": 156,
+                "height": 20
+            },
+            "tag": "a",
+            "text": "third-party companies"
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 436,
+                "top": 594,
+                "right": 634,
+                "bottom": 614,
+                "width": 198,
+                "height": 20
+            },
+            "tag": "a",
+            "text": "https://www.ebay.com/gdpr"
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 17,
+                "top": 669,
+                "right": 121,
+                "bottom": 703,
+                "width": 104,
+                "height": 34
+            },
+            "tag": "button",
+            "text": "Accept All"
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 129,
+                "top": 669,
+                "right": 237,
+                "bottom": 703,
+                "width": 108,
+                "height": 34
+            },
+            "tag": "button",
+            "text": "Decline All"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 253,
+                "top": 676,
+                "right": 409,
+                "bottom": 696,
+                "width": 156,
+                "height": 20
+            },
+            "tag": "a",
+            "text": "Customise my choices"
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 1251,
+                "top": 530,
+                "right": 1263,
+                "bottom": 550,
+                "width": 12,
+                "height": 20
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 25,
+                "top": 124,
+                "right": 78,
+                "bottom": 140,
+                "width": 53,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "eBay Live"
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 104,
+                "top": 124,
+                "right": 140,
+                "bottom": 140,
+                "width": 36,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Saved"
+        },
+        {
+            "keep": true,
+            "id": "AB",
+            "rects": {
+                "left": 166,
+                "top": 124,
+                "right": 207,
+                "bottom": 140,
+                "width": 41,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Motors"
+        },
+        {
+            "keep": true,
+            "id": "AC",
+            "rects": {
+                "left": 233,
+                "top": 124,
+                "right": 296,
+                "bottom": 140,
+                "width": 63,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Electronics"
+        },
+        {
+            "keep": true,
+            "id": "AD",
+            "rects": {
+                "left": 322,
+                "top": 124,
+                "right": 391,
+                "bottom": 140,
+                "width": 69,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Collectibles"
+        },
+        {
+            "keep": true,
+            "id": "AE",
+            "rects": {
+                "left": 417,
+                "top": 124,
+                "right": 510,
+                "bottom": 140,
+                "width": 93,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Home & Garden"
+        },
+        {
+            "keep": true,
+            "id": "AF",
+            "rects": {
+                "left": 536,
+                "top": 124,
+                "right": 712,
+                "bottom": 140,
+                "width": 176,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Clothing, Shoes & Accessories"
+        },
+        {
+            "keep": true,
+            "id": "AG",
+            "rects": {
+                "left": 738,
+                "top": 124,
+                "right": 764,
+                "bottom": 140,
+                "width": 26,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Toys"
+        },
+        {
+            "keep": true,
+            "id": "AH",
+            "rects": {
+                "left": 790,
+                "top": 124,
+                "right": 883,
+                "bottom": 140,
+                "width": 93,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Sporting Goods"
+        },
+        {
+            "keep": true,
+            "id": "AI",
+            "rects": {
+                "left": 909,
+                "top": 124,
+                "right": 1026,
+                "bottom": 140,
+                "width": 117,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Business & Industrial"
+        },
+        {
+            "keep": true,
+            "id": "AJ",
+            "rects": {
+                "left": 1052,
+                "top": 124,
+                "right": 1160,
+                "bottom": 140,
+                "width": 108,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Jewelry & Watches"
+        },
+        {
+            "keep": true,
+            "id": "AK",
+            "rects": {
+                "left": 1186,
+                "top": 124,
+                "right": 1255,
+                "bottom": 140,
+                "width": 69,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Refurbished"
+        },
+        {
+            "keep": true,
+            "id": "AL",
+            "rects": {
+                "left": 1136,
+                "top": 484,
+                "right": 1168,
+                "bottom": 516,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AM",
+            "rects": {
+                "left": 81,
+                "top": 365,
+                "right": 180,
+                "bottom": 407,
+                "width": 99,
+                "height": 42
+            },
+            "tag": "div",
+            "text": "Tune in "
+        },
+        {
+            "keep": true,
+            "id": "AN",
+            "rects": {
+                "left": 567,
+                "top": 83.828125,
+                "right": 1280,
+                "bottom": 612.171875,
+                "width": 713,
+                "height": 528.34375
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AO",
+            "rects": {
+                "left": 1176,
+                "top": 484,
+                "right": 1208,
+                "bottom": 516,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AP",
+            "rects": {
+                "left": 1216,
+                "top": 484,
+                "right": 1248,
+                "bottom": 516,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        }
+    ]
+}

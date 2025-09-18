@@ -1,0 +1,902 @@
+{
+    "raw_html": "<HTML class=\"tw-root--hover js-focus-visible tw-root--theme-light\" data-js-focus-visible=\"45BC23669385A75E494554FE6C805C48\" lang=\"en-US\"><DIV id=\"root\" class=\"root\"><DIV class=\"Layout-sc-1xcs6mc-0 bBgSPF\"><DIV class=\"Layout-sc-1xcs6mc-0 hodpZn\"><DIV class=\"Layout-sc-1xcs6mc-0 eLLosC\"><DIV class=\"Layout-sc-1xcs6mc-0 fiHnFK consent-banner\"><DIV class=\"Layout-sc-1xcs6mc-0 jqmJUr\"><DIV class=\"Layout-sc-1xcs6mc-0 dYWNAk consent-banner__content--gdpr-v2\"><DIV class=\"Layout-sc-1xcs6mc-0 bndllM\"><IMG alt=\"Cookies\" class=\"tw-image\" src=\"https://assets.twitch.tv/assets/cookie_pink-0c7a47e3c9de4083001d.png\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 iqFGJY\"><P class=\"CoreText-sc-1txzju1-0 ScTitleText-sc-d9mj2s-0 bqyYtA lbYztg tw-title\"><text>Cookies and Advertising Choices</text></P><DIV class=\"Layout-sc-1xcs6mc-0 blwSXL\" style=\"overflow: auto;\"><P class=\"CoreText-sc-1txzju1-0 cWFBTs\"><text>Twitch uses personal data collected on our services, such as page visits, through</text><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 gNATRM kjAtAt\"><A class=\"ScCoreLink-sc-16kq0mq-0 gcA-DkW tw-link possible-clickable-element\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.twitch.tv/p/legal/cookie-policy/\" data-testid=\"A\"><text>cookies</text></A></DIV><text>and other device identifiers to generate personalized content, remember preferences, analyze usage to improve products, and measure the effectiveness of campaigns to acquire new users. If you agree, we will also permit other Amazon services and up to 14 trusted third party partners to obtain data from our services or store and access cookies on your device to deliver personalized ads, measure effectiveness, and create audience insights. We will also personalize the ads we show you on Twitch using cookies and personal information we may receive from third parties. The ads you see on other sites may also be personalized based on your use of Twitch. See our</text><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 gNATRM kjAtAt\"><A class=\"ScCoreLink-sc-16kq0mq-0 gcA-DkW tw-link possible-clickable-element\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.twitch.tv/p/legal/cookie-policy/\" data-testid=\"B\"><text>Cookie Notice</text></A></DIV><text>and</text><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 gNATRM kjAtAt\"><A class=\"ScCoreLink-sc-16kq0mq-0 gcA-DkW tw-link possible-clickable-element\" rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.twitch.tv/p/legal/privacy-notice/\" data-testid=\"C\"><text>Privacy Notice</text></A></DIV><text>to learn more. By clicking \"Accept\", you consent to these activities. Click “Reject” to decline, or “Customize” to make more detailed choices or to learn more. You can change your choices at any time.</text></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 leEeDl\"><DIV class=\"Layout-sc-1xcs6mc-0 eZzans\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><BUTTON data-a-target=\"consent-banner-accept\" class=\"ScCoreButton-sc-ocjdkq-0 gxYeIp\"><DIV class=\"ScCoreButtonLabel-sc-s7h2b7-0 kaIUar possible-clickable-element\" data-testid=\"D\"><DIV data-a-target=\"tw-core-button-label-text\" class=\"Layout-sc-1xcs6mc-0 bLZXTb\"><DIV class=\"Layout-sc-1xcs6mc-0 iqFGJY\"><text>Accept</text></DIV></DIV></DIV></BUTTON></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 eZzans\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><BUTTON data-a-target=\"consent-banner-manage-preferences\" class=\"ScCoreButton-sc-ocjdkq-0 cAajJv\"><DIV class=\"ScCoreButtonLabel-sc-s7h2b7-0 kaIUar possible-clickable-element\" data-testid=\"E\"><DIV data-a-target=\"tw-core-button-label-text\" class=\"Layout-sc-1xcs6mc-0 bLZXTb\"><DIV class=\"Layout-sc-1xcs6mc-0 iqFGJY\"><text>Customize</text></DIV></DIV></DIV></BUTTON></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 eZzans\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 cAajJv\"><DIV class=\"ScCoreButtonLabel-sc-s7h2b7-0 kaIUar possible-clickable-element\" data-testid=\"F\"><DIV data-a-target=\"tw-core-button-label-text\" class=\"Layout-sc-1xcs6mc-0 bLZXTb\"><DIV class=\"Layout-sc-1xcs6mc-0 iqFGJY\"><text>Reject</text></DIV></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV></DIV><NAV class=\"InjectLayout-sc-1i43xsx-0 kjJPRk top-nav\" data-a-target=\"top-nav-container\" style=\"height: 5rem;\"><DIV class=\"Layout-sc-1xcs6mc-0 cRMumF top-nav__menu\"><DIV class=\"Layout-sc-1xcs6mc-0 itDlPz\"><A data-a-target=\"home-link\" aria-label=\"Twitch Home\" class=\"ScCoreLink-sc-16kq0mq-0 jUiaVy InjectLayout-sc-1i43xsx-0 hEMSNZ tw-link\" href=\"/\"><DIV class=\"ScLogoContainer-sc-mx5axi-0 cQNZGg tw-animated-glitch-logo\"><FIGURE class=\"ScFigure-sc-mx5axi-1 fPRJhj\"><svg overflow=\"visible\" width=\"40px\" height=\"40px\" version=\"1.1\" viewBox=\"0 0 40 40\" x=\"0px\" y=\"0px\" class=\"ScSvg-sc-mx5axi-2 jpMUBG\"><g class=\"possible-clickable-element\" data-testid=\"G\"><polygon points=\"13 8 8 13 8 31 14 31 14 36 19 31 23 31 32 22 32 8\" class=\"ScBody-sc-mx5axi-3 dgOmAb\"></polygon><polygon points=\"26 25 30 21 30 10 14 10 14 25 18 25 18 29 22 25\" class=\"ScFace-sc-mx5axi-4 fUZLqr\"></polygon><g class=\"ScEyes-sc-mx5axi-5 ettoQp\"><path d=\"M20,14 L22,14 L22,20 L20,20 L20,14 Z M27,14 L27,20 L25,20 L25,14 L27,14 Z\" class=\"ScBody-sc-mx5axi-3 dgOmAb\"></path></g></g></svg></FIGURE></DIV></A><DIV class=\"Layout-sc-1xcs6mc-0 pbocV\"><DIV class=\"Layout-sc-1xcs6mc-0 fRzsnK\"><DIV class=\"Layout-sc-1xcs6mc-0 issCWA\"><A aria-label=\"Browse\" class=\"navigation-link\" link=\"2\" data-a-target=\"browse-link\" data-test-selector=\"top-nav__browse-link\" icon=\"Browse\" label=\"Browse\" href=\"/directory\"><DIV class=\"Layout-sc-1xcs6mc-0 bBIuqB\"><P class=\"CoreText-sc-1txzju1-0 ScTitleText-sc-d9mj2s-0 bqyYtA lbYztg InjectLayout-sc-1i43xsx-0 irzZLq tw-title possible-clickable-element\" data-testid=\"H\"><text>Browse</text></P></DIV></A></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 jNQxNh\"><DIV class=\"Layout-sc-1xcs6mc-0 bkOPih\"><DIV data-test-selector=\"toggle-balloon-wrapper__mouse-enter-detector\" style=\"display: inherit;\"><DIV class=\"InjectLayout-sc-1i43xsx-0 iDMNUO\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 iPkwTD ScButtonIcon-sc-9yap0r-0 dcNXJO possible-clickable-element\" aria-label=\"More Options\" data-a-target=\"ellipsis-button\" data-testid=\"I\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path d=\"M10 18a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0-6a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM8 4a2 2 0 1 0 4 0 2 2 0 0 0-4 0z\"></path></svg></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 hCMJIV\"><DIV class=\"Layout-sc-1xcs6mc-0 iXOjvk top-nav__search-container\"><DIV class=\"Layout-sc-1xcs6mc-0 search-box\" data-a-target=\"nav-search-box\"><DIV aria-haspopup=\"grid\" class=\"Layout-sc-1xcs6mc-0 dEtuSs\"><DIV class=\"Layout-sc-1xcs6mc-0 bMcAyM\"><DIV class=\"Layout-sc-1xcs6mc-0 fIxYas tw-combo-input\" data-a-target=\"tray-search-input\"><DIV class=\"ScInputWrapper-sc-1fxjr4l-0 krWfpF tw-combo-input__input\"><DIV class=\"ScInputContainer-sc-vu7u7d-3 eKplGl\"><DIV data-a-target=\"tray-search-input\" class=\"Layout-sc-1xcs6mc-0 AoXTY\"><INPUT id=\"tw-76b4e5ec9e77622d288226edcada1067\" aria-label=\"Search Input\" aria-haspopup=\"grid\" type=\"search\" class=\"ScInputBase-sc-vu7u7d-0 ScInput-sc-19xfhag-0 jwWicM dWLTZt InjectLayout-sc-1i43xsx-0 bEKQKp tw-input tw-input--large possible-clickable-element\" placeholder=\"Search\" autocapitalize=\"off\" autocorrect=\"off\" autocomplete=\"twitch-nav-search\" data-a-target=\"tw-input\" maxlength=\"65\" spellcheck=\"false\" value=\"45BC23669385A75E494554FE6C805C48\" data-testid=\"J\" style=\"45BC23669385A75E494554FE6C805C48\"></INPUT></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 eLLosC\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 jLHIWd InjectLayout-sc-1i43xsx-0 iUSlUt tw-combo-input__button-icon tw-combo-input__button-icon--large\" icon=\"NavSearch\" type=\"secondary\" aria-label=\"Search Button\" disabled=\"45BC23669385A75E494554FE6C805C48\"><DIV class=\"ScButtonIconWrapper-sc-1fxjr4l-1 fBOZNQ\"><DIV class=\"ScCoreButtonIcon-sc-ypak37-0 hGajFH tw-core-button-icon possible-clickable-element\" data-testid=\"K\"><DIV class=\"ScIconLayout-sc-1q25cff-0 kjQOIz\"><DIV class=\"ScAspectRatio-sc-18km980-1 jgpfbi tw-aspect\"><DIV class=\"ScAspectSpacer-sc-18km980-0 dYMszt\"></DIV><svg width=\"100%\" height=\"100%\" version=\"1.1\" viewBox=\"0 0 20 20\" x=\"0px\" y=\"0px\" data-a-selector=\"tw-core-button-icon\" class=\"ScIconSVG-sc-1q25cff-1 kXuCmW\"><path d=\"M13.192 14.606a7 7 0 1 1 1.414-1.414l3.101 3.1-1.414 1.415-3.1-3.1zM14 9A5 5 0 1 1 4 9a5 5 0 0 1 10 0z\" fill-rule=\"evenodd\"></path></svg></DIV></DIV></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bZYcrx\"><DIV class=\"Layout-sc-1xcs6mc-0 VxLcr top-nav__prime\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY prime-offers\"><DIV class=\"Layout-sc-1xcs6mc-0 bkOPih\"><DIV data-test-selector=\"toggle-balloon-wrapper__mouse-enter-detector\" style=\"display: inherit;\"><DIV class=\"InjectLayout-sc-1i43xsx-0 iDMNUO\"><DIV data-test-selector=\"test_selector_prime_tracking_button_wrapper\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 iPkwTD ScButtonIcon-sc-9yap0r-0 dcNXJO possible-clickable-element\" aria-label=\"Prime offers\" data-a-target=\"prime-offers-icon\" data-target=\"prime-offers-icon\" data-testid=\"L\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path fill-rule=\"evenodd\" d=\"M13.798 10.456 10 6.657l-3.798 3.799L4 8.805V13h12V8.805l-2.202 1.65zM18 5v8a2 2 0 0 1-2 2H4a2.002 2.002 0 0 1-2-2V5l4 3 4-4 4 4 4-3z\" clip-rule=\"evenodd\"></path></svg></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bAVEXw prime-offers__pill\"><DIV class=\"ScAnimation-sc-s60rmz-0 jGelnR tw-animation\" data-a-target=\"tw-animation-target\"><DIV class=\"Layout-sc-1xcs6mc-0 ScNumberBadgeMask-sc-qi0rbw-0 kjWTWh ewzioX tw-number-badge\"><DIV class=\"ScNumberBadge-sc-qi0rbw-1 bAgbYH tw-number-badge__badge\"><text>27</text></DIV></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 hdaUxc\"><DIV class=\"Layout-sc-1xcs6mc-0 inMpaR\"><DIV class=\"Layout-sc-1xcs6mc-0 inMpaR anon-user\" data-a-target=\"user-card\"><DIV class=\"Layout-sc-1xcs6mc-0 gJICsA\"><BUTTON data-a-target=\"login-button\" data-test-selector=\"anon-user-menu__login-button\" class=\"ScCoreButton-sc-ocjdkq-0 gGttfb\"><DIV class=\"ScCoreButtonLabel-sc-s7h2b7-0 kaIUar possible-clickable-element\" data-testid=\"M\"><DIV data-a-target=\"tw-core-button-label-text\" class=\"Layout-sc-1xcs6mc-0 bLZXTb\"><text>Log In</text></DIV></DIV></BUTTON></DIV><DIV class=\"Layout-sc-1xcs6mc-0 gJICsA\"><BUTTON data-a-target=\"signup-button\" data-test-selector=\"anon-user-menu__sign-up-button\" class=\"ScCoreButton-sc-ocjdkq-0 kJMgAB\"><DIV class=\"ScCoreButtonLabel-sc-s7h2b7-0 kaIUar possible-clickable-element\" data-testid=\"N\"><DIV data-a-target=\"tw-core-button-label-text\" class=\"Layout-sc-1xcs6mc-0 bLZXTb\"><text>Sign Up</text></DIV></DIV></BUTTON></DIV></DIV><DIV data-a-target=\"dropdown-up\" class=\"Layout-sc-1xcs6mc-0 hyoRML\"><DIV class=\"Layout-sc-1xcs6mc-0 bkOPih\"><DIV data-test-selector=\"toggle-balloon-wrapper__mouse-enter-detector\" style=\"display: inherit;\"><BUTTON data-a-target=\"user-menu-toggle\" data-test-selector=\"user-menu__toggle\" aria-label=\"User Menu\" aria-expanded=\"false\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 iPkwTD ScButtonIcon-sc-9yap0r-0 dcNXJO possible-clickable-element\" aria-label=\"User Menu\" data-testid=\"O\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path fill-rule=\"evenodd\" d=\"M5 7a5 5 0 1 1 6.192 4.857A2 2 0 0 0 13 13h1a3 3 0 0 1 3 3v2h-2v-2a1 1 0 0 0-1-1h-1a3.99 3.99 0 0 1-3-1.354A3.99 3.99 0 0 1 7 15H6a1 1 0 0 0-1 1v2H3v-2a3 3 0 0 1 3-3h1a2 2 0 0 0 1.808-1.143A5.002 5.002 0 0 1 5 7zm5 3a3 3 0 1 1 0-6 3 3 0 0 1 0 6z\" clip-rule=\"evenodd\"></path></svg></DIV></DIV></BUTTON></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV></DIV></NAV><DIV class=\"Layout-sc-1xcs6mc-0 ebWabz\"><DIV class=\"Layout-sc-1xcs6mc-0 kHqXhd side-nav side-nav--expanded\" data-test-selector=\"side-nav\" data-a-target=\"side-nav-bar\" role=\"complementary\"><DIV class=\"Layout-sc-1xcs6mc-0 LJevC\"><DIV class=\"scrollable-area Akwmp InjectLayout-sc-1i43xsx-0 side-nav__scrollable_content\" style=\"overflow-x: hidden;\"><DIV class=\"Layout-sc-1xcs6mc-0 jdNosq collapse-toggle\"><DIV class=\"InjectLayout-sc-1i43xsx-0 iDMNUO\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 iPkwTD ScButtonIcon-sc-9yap0r-0 dcNXJO possible-clickable-element\" aria-label=\"Collapse Side Nav\" data-a-target=\"side-nav-arrow\" data-testid=\"P\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path d=\"M16 16V4h2v12h-2zM6 9l2.501-2.5-1.5-1.5-5 5 5 5 1.5-1.5-2.5-2.5h8V9H6z\"></path></svg></DIV></DIV></BUTTON></DIV></DIV><DIV aria-label=\"Recommended Categories\" class=\"Layout-sc-1xcs6mc-0 iGMbNn side-nav-section\" role=\"group\"><DIV class=\"Layout-sc-1xcs6mc-0 fxkdFl side-nav-header\" data-a-target=\"side-nav-header-expanded\"><H3 class=\"CoreText-sc-1txzju1-0 dzXkjr\"><text>Recommended Categories</text></H3></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 cpWPwm tw-transition-group\"><DIV class=\"ScTransitionBase-sc-hx4quq-0 jaUBmE tw-transition\" aria-hidden=\"false\" style=\"transition-property: transform, opacity; transition-timing-function: ease;\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY side-nav-card\"><A aria-haspopup=\"dialog\" class=\"ScCoreLink-sc-16kq0mq-0 fytYW InjectLayout-sc-1i43xsx-0 cnzybN side-nav-card__link tw-link\" href=\"/directory/category/just-chatting\"><DIV class=\"Layout-sc-1xcs6mc-0 kErOMx side-nav-card__avatar\"><IMG src=\"https://static-cdn.jtvnw.net/ttv-boxart/509658-30x42.jpg\" alt=\"45BC23669385A75E494554FE6C805C48\" class=\"possible-clickable-element\" data-testid=\"Q\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bLlihH\"><DIV class=\"Layout-sc-1xcs6mc-0 dJfBsr\"><DIV data-a-target=\"side-nav-card-metadata\" class=\"Layout-sc-1xcs6mc-0 ffUuNa\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX side-nav-card__title\"><P title=\"Just Chatting\" data-a-target=\"side-nav-title\" class=\"CoreText-sc-1txzju1-0 dTdgXA InjectLayout-sc-1i43xsx-0 hnBAak possible-clickable-element\" data-testid=\"R\"><text>Just Chatting</text></P></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dWQoKW side-nav-card__metadata\" data-a-target=\"side-nav-game-title\"><P dir=\"auto\" class=\"CoreText-sc-1txzju1-0 iMyVXK\"><DIV class=\"Layout-sc-1xcs6mc-0 lghjmR side-nav-card__metadata\"><DIV class=\"InjectLayout-sc-1i43xsx-0 keosFZ\"><SPAN title=\"IRL\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"S\"><text>IRL</text></SPAN></DIV></DIV></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cXMAQb side-nav-card__live-status\" data-a-target=\"side-nav-live-status\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"ScChannelStatusIndicator-sc-bjn067-0 fJwlvq tw-channel-status-indicator possible-clickable-element\" data-testid=\"T\"></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dqfEBK\"><SPAN aria-hidden=\"true\" class=\"CoreText-sc-1txzju1-0 fYAAA-D possible-clickable-element\" data-testid=\"U\"><text>239K</text></SPAN><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"><text>239K live viewers</text></P></DIV></DIV></DIV></DIV></DIV></A></DIV></DIV><DIV class=\"ScTransitionBase-sc-hx4quq-0 jaUBmE tw-transition\" aria-hidden=\"false\" style=\"transition-property: transform, opacity; transition-timing-function: ease;\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY side-nav-card\"><A aria-haspopup=\"dialog\" class=\"ScCoreLink-sc-16kq0mq-0 fytYW InjectLayout-sc-1i43xsx-0 cnzybN side-nav-card__link tw-link\" href=\"/directory/category/league-of-legends\"><DIV class=\"Layout-sc-1xcs6mc-0 kErOMx side-nav-card__avatar\"><IMG src=\"https://static-cdn.jtvnw.net/ttv-boxart/21779-30x42.jpg\" alt=\"45BC23669385A75E494554FE6C805C48\" class=\"possible-clickable-element\" data-testid=\"V\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bLlihH\"><DIV class=\"Layout-sc-1xcs6mc-0 dJfBsr\"><DIV data-a-target=\"side-nav-card-metadata\" class=\"Layout-sc-1xcs6mc-0 ffUuNa\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX side-nav-card__title\"><P title=\"League of Legends\" data-a-target=\"side-nav-title\" class=\"CoreText-sc-1txzju1-0 dTdgXA InjectLayout-sc-1i43xsx-0 hnBAak possible-clickable-element\" data-testid=\"W\"><text>League of Legends</text></P></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dWQoKW side-nav-card__metadata\" data-a-target=\"side-nav-game-title\"><P dir=\"auto\" class=\"CoreText-sc-1txzju1-0 iMyVXK\"><DIV class=\"Layout-sc-1xcs6mc-0 lghjmR side-nav-card__metadata\"><DIV class=\"InjectLayout-sc-1i43xsx-0 jLHva-d\"><SPAN title=\"RPG,\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"X\"><text>RPG,</text></SPAN></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 keosFZ\"><SPAN title=\"Strategy\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"Y\"><text>Strategy</text></SPAN></DIV></DIV></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cXMAQb side-nav-card__live-status\" data-a-target=\"side-nav-live-status\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"ScChannelStatusIndicator-sc-bjn067-0 fJwlvq tw-channel-status-indicator possible-clickable-element\" data-testid=\"Z\"></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dqfEBK\"><SPAN aria-hidden=\"true\" class=\"CoreText-sc-1txzju1-0 fYAAA-D possible-clickable-element\" data-testid=\"AA\"><text>75.9K</text></SPAN><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"><text>75.9K live viewers</text></P></DIV></DIV></DIV></DIV></DIV></A></DIV></DIV><DIV class=\"ScTransitionBase-sc-hx4quq-0 jaUBmE tw-transition\" aria-hidden=\"false\" style=\"transition-property: transform, opacity; transition-timing-function: ease;\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY side-nav-card\"><A aria-haspopup=\"dialog\" class=\"ScCoreLink-sc-16kq0mq-0 fytYW InjectLayout-sc-1i43xsx-0 cnzybN side-nav-card__link tw-link\" href=\"/directory/category/borderlands-4\"><DIV class=\"Layout-sc-1xcs6mc-0 kErOMx side-nav-card__avatar\"><IMG src=\"https://static-cdn.jtvnw.net/ttv-boxart/1846512643_IGDB-30x42.jpg\" alt=\"45BC23669385A75E494554FE6C805C48\" class=\"possible-clickable-element\" data-testid=\"AB\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bLlihH\"><DIV class=\"Layout-sc-1xcs6mc-0 dJfBsr\"><DIV data-a-target=\"side-nav-card-metadata\" class=\"Layout-sc-1xcs6mc-0 ffUuNa\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX side-nav-card__title\"><P title=\"BORDERLANDS 4\" data-a-target=\"side-nav-title\" class=\"CoreText-sc-1txzju1-0 dTdgXA InjectLayout-sc-1i43xsx-0 hnBAak possible-clickable-element\" data-testid=\"AC\"><text>BORDERLANDS 4</text></P></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dWQoKW side-nav-card__metadata\" data-a-target=\"side-nav-game-title\"><P dir=\"auto\" class=\"CoreText-sc-1txzju1-0 iMyVXK\"><DIV class=\"Layout-sc-1xcs6mc-0 lghjmR side-nav-card__metadata\"><DIV class=\"InjectLayout-sc-1i43xsx-0 jLHva-d\"><SPAN title=\"FPS,\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"AD\"><text>FPS,</text></SPAN></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 keosFZ\"><SPAN title=\"Shooter\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"AE\"><text>Shooter</text></SPAN></DIV></DIV></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cXMAQb side-nav-card__live-status\" data-a-target=\"side-nav-live-status\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"ScChannelStatusIndicator-sc-bjn067-0 fJwlvq tw-channel-status-indicator possible-clickable-element\" data-testid=\"AF\"></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dqfEBK\"><SPAN aria-hidden=\"true\" class=\"CoreText-sc-1txzju1-0 fYAAA-D possible-clickable-element\" data-testid=\"AG\"><text>17K</text></SPAN><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"><text>17K live viewers</text></P></DIV></DIV></DIV></DIV></DIV></A></DIV></DIV><DIV class=\"ScTransitionBase-sc-hx4quq-0 jaUBmE tw-transition\" aria-hidden=\"false\" style=\"transition-property: transform, opacity; transition-timing-function: ease;\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY side-nav-card\"><A aria-haspopup=\"dialog\" class=\"ScCoreLink-sc-16kq0mq-0 fytYW InjectLayout-sc-1i43xsx-0 cnzybN side-nav-card__link tw-link\" href=\"/directory/category/irl\"><DIV class=\"Layout-sc-1xcs6mc-0 kErOMx side-nav-card__avatar\"><IMG src=\"https://static-cdn.jtvnw.net/ttv-boxart/509672-30x42.jpg\" alt=\"45BC23669385A75E494554FE6C805C48\" class=\"possible-clickable-element\" data-testid=\"AH\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bLlihH\"><DIV class=\"Layout-sc-1xcs6mc-0 dJfBsr\"><DIV data-a-target=\"side-nav-card-metadata\" class=\"Layout-sc-1xcs6mc-0 ffUuNa\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX side-nav-card__title\"><P title=\"IRL\" data-a-target=\"side-nav-title\" class=\"CoreText-sc-1txzju1-0 dTdgXA InjectLayout-sc-1i43xsx-0 hnBAak possible-clickable-element\" data-testid=\"AI\"><text>IRL</text></P></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dWQoKW side-nav-card__metadata\" data-a-target=\"side-nav-game-title\"><P dir=\"auto\" class=\"CoreText-sc-1txzju1-0 iMyVXK\"><DIV class=\"Layout-sc-1xcs6mc-0 lghjmR side-nav-card__metadata\"><DIV class=\"InjectLayout-sc-1i43xsx-0 keosFZ\"><SPAN title=\"IRL\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"AJ\"><text>IRL</text></SPAN></DIV></DIV></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cXMAQb side-nav-card__live-status\" data-a-target=\"side-nav-live-status\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"ScChannelStatusIndicator-sc-bjn067-0 fJwlvq tw-channel-status-indicator possible-clickable-element\" data-testid=\"AK\"></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dqfEBK\"><SPAN aria-hidden=\"true\" class=\"CoreText-sc-1txzju1-0 fYAAA-D possible-clickable-element\" data-testid=\"AL\"><text>44.4K</text></SPAN><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"><text>44.4K live viewers</text></P></DIV></DIV></DIV></DIV></DIV></A></DIV></DIV><DIV class=\"ScTransitionBase-sc-hx4quq-0 jaUBmE tw-transition\" aria-hidden=\"false\" style=\"transition-property: transform, opacity; transition-timing-function: ease;\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY side-nav-card\"><A aria-haspopup=\"dialog\" class=\"ScCoreLink-sc-16kq0mq-0 fytYW InjectLayout-sc-1i43xsx-0 cnzybN side-nav-card__link tw-link\" href=\"/directory/category/valorant\"><DIV class=\"Layout-sc-1xcs6mc-0 kErOMx side-nav-card__avatar\"><IMG src=\"https://static-cdn.jtvnw.net/ttv-boxart/516575-30x42.jpg\" alt=\"45BC23669385A75E494554FE6C805C48\" class=\"possible-clickable-element\" data-testid=\"AM\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bLlihH\"><DIV class=\"Layout-sc-1xcs6mc-0 dJfBsr\"><DIV data-a-target=\"side-nav-card-metadata\" class=\"Layout-sc-1xcs6mc-0 ffUuNa\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX side-nav-card__title\"><P title=\"VALORANT\" data-a-target=\"side-nav-title\" class=\"CoreText-sc-1txzju1-0 dTdgXA InjectLayout-sc-1i43xsx-0 hnBAak possible-clickable-element\" data-testid=\"AN\"><text>VALORANT</text></P></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dWQoKW side-nav-card__metadata\" data-a-target=\"side-nav-game-title\"><P dir=\"auto\" class=\"CoreText-sc-1txzju1-0 iMyVXK\"><DIV class=\"Layout-sc-1xcs6mc-0 lghjmR side-nav-card__metadata\"><DIV class=\"InjectLayout-sc-1i43xsx-0 jLHva-d\"><SPAN title=\"FPS,\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"AO\"><text>FPS,</text></SPAN></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 keosFZ\"><SPAN title=\"Shooter\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"AP\"><text>Shooter</text></SPAN></DIV></DIV></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cXMAQb side-nav-card__live-status\" data-a-target=\"side-nav-live-status\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"ScChannelStatusIndicator-sc-bjn067-0 fJwlvq tw-channel-status-indicator possible-clickable-element\" data-testid=\"AQ\"></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dqfEBK\"><SPAN aria-hidden=\"true\" class=\"CoreText-sc-1txzju1-0 fYAAA-D possible-clickable-element\" data-testid=\"AR\"><text>17.4K</text></SPAN><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"><text>17.4K live viewers</text></P></DIV></DIV></DIV></DIV></DIV></A></DIV></DIV><DIV class=\"ScTransitionBase-sc-hx4quq-0 jaUBmE tw-transition\" aria-hidden=\"false\" style=\"transition-property: transform, opacity; transition-timing-function: ease;\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY side-nav-card\"><A aria-haspopup=\"dialog\" class=\"ScCoreLink-sc-16kq0mq-0 fytYW InjectLayout-sc-1i43xsx-0 cnzybN side-nav-card__link tw-link\" href=\"/directory/category/rocket-league\"><DIV class=\"Layout-sc-1xcs6mc-0 kErOMx side-nav-card__avatar\"><IMG src=\"https://static-cdn.jtvnw.net/ttv-boxart/30921-30x42.jpg\" alt=\"45BC23669385A75E494554FE6C805C48\" class=\"possible-clickable-element\" data-testid=\"AS\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bLlihH\"><DIV class=\"Layout-sc-1xcs6mc-0 dJfBsr\"><DIV data-a-target=\"side-nav-card-metadata\" class=\"Layout-sc-1xcs6mc-0 ffUuNa\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX side-nav-card__title\"><P title=\"Rocket League\" data-a-target=\"side-nav-title\" class=\"CoreText-sc-1txzju1-0 dTdgXA InjectLayout-sc-1i43xsx-0 hnBAak possible-clickable-element\" data-testid=\"AT\"><text>Rocket League</text></P></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dWQoKW side-nav-card__metadata\" data-a-target=\"side-nav-game-title\"><P dir=\"auto\" class=\"CoreText-sc-1txzju1-0 iMyVXK\"><DIV class=\"Layout-sc-1xcs6mc-0 lghjmR side-nav-card__metadata\"><DIV class=\"InjectLayout-sc-1i43xsx-0 keosFZ\"><SPAN title=\"Driving/Racing Game\" class=\"CoreText-sc-1txzju1-0 DQKnt possible-clickable-element\" data-testid=\"AU\"><text>Driving/Racing Game</text></SPAN></DIV></DIV></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cXMAQb side-nav-card__live-status\" data-a-target=\"side-nav-live-status\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"ScChannelStatusIndicator-sc-bjn067-0 fJwlvq tw-channel-status-indicator possible-clickable-element\" data-testid=\"AV\"></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dqfEBK\"><SPAN aria-hidden=\"true\" class=\"CoreText-sc-1txzju1-0 fYAAA-D possible-clickable-element\" data-testid=\"AW\"><text>1.8K</text></SPAN><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"><text>1.8K live viewers</text></P></DIV></DIV></DIV></DIV></DIV></A></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 fxBSrn side-nav-show-more-toggle__button\"><BUTTON data-a-target=\"side-nav-show-more-button\" data-test-selector=\"ShowMore\" class=\"ScCoreLink-sc-16kq0mq-0 bmaSLQ tw-link possible-clickable-element\" data-testid=\"AX\"><SPAN class=\"CoreText-sc-1txzju1-0 fomEUL\"><text>Show More</text></SPAN></BUTTON></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 fxkdFl side-nav-header\" data-a-target=\"side-nav-header-expanded\"><H3 class=\"CoreText-sc-1txzju1-0 dzXkjr\"><text>Live Channels</text></H3></DIV><DIV class=\"ScTransitionBase-sc-hx4quq-0 jaUBmE tw-transition\" aria-hidden=\"false\" style=\"transition-property: transform, opacity; transition-timing-function: ease;\"><DIV class=\"Layout-sc-1xcs6mc-0 AoXTY side-nav-card\"><A data-a-id=\"recommended-channel-0\" data-test-selector=\"recommended-channel\" aria-haspopup=\"dialog\" class=\"ScCoreLink-sc-16kq0mq-0 fytYW InjectLayout-sc-1i43xsx-0 cnzybN side-nav-card__link tw-link\" href=\"/byilhann\"><DIV class=\"Layout-sc-1xcs6mc-0 kErOMx side-nav-card__avatar\"><DIV class=\"ScAvatar-sc-144b42z-0 dLsNfm tw-avatar\"><IMG class=\"InjectLayout-sc-1i43xsx-0 fAYJcN tw-image tw-image-avatar\" alt=\"45BC23669385A75E494554FE6C805C48\" src=\"https://static-cdn.jtvnw.net/jtv_user_pictures/ea4b608a-2f21-432a-afca-03da7920a8a6-profile_image-70x70.png\" style=\"object-fit: cover;\"></IMG></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bLlihH\"><DIV class=\"Layout-sc-1xcs6mc-0 dJfBsr\"><DIV data-a-target=\"side-nav-card-metadata\" class=\"Layout-sc-1xcs6mc-0 ffUuNa\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX side-nav-card__title\"><P title=\"byilhann\" data-a-target=\"side-nav-title\" class=\"CoreText-sc-1txzju1-0 dTdgXA InjectLayout-sc-1i43xsx-0 hnBAak\"><text>byilhann</text></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cXMAQb side-nav-card__live-status\" data-a-target=\"side-nav-live-status\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"ScChannelStatusIndicator-sc-bjn067-0 fJwlvq tw-channel-status-indicator\"></DIV><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"><text>Live</text></P><DIV class=\"Layout-sc-1xcs6mc-0 dqfEBK\"><SPAN aria-hidden=\"true\" class=\"CoreText-sc-1txzju1-0 fYAAA-D\"><text>20.3K</text></SPAN><P class=\"CoreText-sc-1txzju1-0 cWFBTs InjectLayout-sc-1i43xsx-0 cdydzE\"></P></DIV></DIV></DIV></DIV></DIV></A></DIV></DIV></DIV></DIV></DIV><MAIN class=\"InjectLayout-sc-1i43xsx-0 ggZLvP twilight-main\"><DIV class=\"scrollable-area root-scrollable root-scrollable__content\" data-a-target=\"root-scroller\" style=\"overflow-x: hidden;\"><DIV class=\"Layout-sc-1xcs6mc-0 igZqfU root-scrollable__wrapper\"><DIV class=\"Layout-sc-1xcs6mc-0 LJevC\"><DIV data-a-target=\"front-page-carousel\" class=\"Layout-sc-1xcs6mc-0 hpFekz front-page-carousel\"><DIV class=\"Layout-sc-1xcs6mc-0 hLlZub headliner-ad\"><DIV class=\"resize-detector\"><DIV class=\"resize-detector\"></DIV><DIV class=\"resize-detector\"></DIV></DIV><DIV data-a-target=\"frontpage-headliner-layout\" class=\"Layout-sc-1xcs6mc-0 hjMFgz\"><DIV style=\"width: 100%; height: 100%;\"></DIV></DIV></DIV><DIV class=\"featured-content-carousel__wrapper\" style=\"transform: scale(1); transform-origin: center center;\"><DIV class=\"Layout-sc-1xcs6mc-0 fqFBRv featured-content-carousel\"><DIV class=\"Layout-sc-1xcs6mc-0 cTbPVo carousel-player-nav-arrow__container\" data-test-selector=\"nav-arrow\"><DIV class=\"Layout-sc-1xcs6mc-0 cbxBks\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 lhAOjJ ScButtonIcon-sc-9yap0r-0 bYQKLq possible-clickable-element\" aria-label=\"Previous video\" data-test-selector=\"featured-content-carousel-left-arrow\" data-a-target=\"featured-item-left-button\" data-testid=\"AY\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 ikcDdj\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path d=\"M13.5 14.5 9 10l4.5-4.5L12 4l-6 6 6 6 1.5-1.5z\"></path></svg></DIV></DIV></BUTTON></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bgbOsj carousel-player-nav-arrow__container\" data-test-selector=\"nav-arrow\"><DIV class=\"Layout-sc-1xcs6mc-0 cbxBks\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 lhAOjJ ScButtonIcon-sc-9yap0r-0 bYQKLq possible-clickable-element\" aria-label=\"Next video\" data-test-selector=\"featured-content-carousel-right-arrow\" data-a-target=\"featured-item-right-button\" data-testid=\"AZ\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 ikcDdj\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path d=\"M6.5 5.5 11 10l-4.5 4.5L8 16l6-6-6-6-1.5 1.5z\"></path></svg></DIV></DIV></BUTTON></DIV></DIV><DIV class=\"featured-content-carousel__item-container featured-content-carousel__item-container--description featured-content-carousel__item-container--offset-2 featured-content-carousel__item-container--left-2\" style=\"position: absolute; top: 0px; inset-inline-start: calc(50% - 375px); z-index: 1; transform: translateX(-496px) translateX(50%) scale(0.7); transition: 450ms;\"><DIV class=\"featured-content-carousel-featured-item featured-content-carousel-featured-item--offset-2\"><DIV class=\"Layout-sc-1xcs6mc-0 bxLWl\"><DIV data-test-selector=\"featured-item-no-video-wrapper\" class=\"InjectLayout-sc-1i43xsx-0 eMRDgK featured-content-carousel-featured-item__overlay featured-content-carousel-featured-item__overlay--offset-2\"></DIV><IMG alt=\"45BC23669385A75E494554FE6C805C48\" data-test-selector=\"featured-item-image\" class=\"InjectLayout-sc-1i43xsx-0 biELcU tw-image\" src=\"https://static-cdn.jtvnw.net/previews-ttv/live_user_maximilian_dood-320x180.jpg\"></IMG></DIV></DIV></DIV><DIV class=\"featured-content-carousel__item-container featured-content-carousel__item-container--description featured-content-carousel__item-container--offset-1 featured-content-carousel__item-container--left-1\" style=\"position: absolute; top: 0px; inset-inline-start: calc(50% - 375px); z-index: 2; transform: translateX(-248px) translateX(25%) scale(0.85); transition: 450ms;\"><DIV class=\"featured-content-carousel-featured-item featured-content-carousel-featured-item--offset-1\"><DIV class=\"Layout-sc-1xcs6mc-0 bxLWl\"><DIV data-test-selector=\"featured-item-no-video-wrapper\" class=\"InjectLayout-sc-1i43xsx-0 eMRDgK featured-content-carousel-featured-item__overlay featured-content-carousel-featured-item__overlay--offset-1\"></DIV><IMG alt=\"45BC23669385A75E494554FE6C805C48\" data-test-selector=\"featured-item-image\" class=\"InjectLayout-sc-1i43xsx-0 biELcU tw-image\" src=\"https://static-cdn.jtvnw.net/previews-ttv/live_user_caedrel-320x180.jpg\"></IMG></DIV></DIV></DIV><DIV class=\"featured-content-carousel__item-container featured-content-carousel__item-container--description featured-content-carousel__item-container--offset-0 featured-content-carousel__item-container--center\" data-a-target=\"featured-item-index-0\" style=\"position: absolute; top: 0px; inset-inline-start: calc(50% - 375px); z-index: 3; transform: scale(1); transition: 450ms;\"><DIV data-a-target=\"featured-item\"><DIV class=\"featured-content-carousel-featured-item featured-content-carousel-featured-item--offset-0\"><DIV class=\"Layout-sc-1xcs6mc-0 bxLWl\"><DIV data-test-selector=\"featured-item-no-video-wrapper\" class=\"InjectLayout-sc-1i43xsx-0 eMRDgK featured-content-carousel-featured-item__overlay featured-content-carousel-featured-item__overlay--offset-0\"></DIV><DIV data-test-selector=\"featured-item-video\" class=\"Layout-sc-1xcs6mc-0 eUxjnZ\"><DIV class=\"InjectLayout-sc-1i43xsx-0 bWdpZH\" style=\"transition: opacity 450ms; opacity: 1;\"><DIV data-test-selector=\"featured-item-experiment-video-wrapper\" class=\"InjectLayout-sc-1i43xsx-0 fmlvtT\"><DIV class=\"Layout-sc-1xcs6mc-0 evZEik video-player__container\" data-test-selector=\"video-player__video-container\"><DIV class=\"resize-detector\"><DIV class=\"resize-detector\"></DIV><DIV class=\"resize-detector\"><DIV class=\"resize-detector__shrink\"></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 video-ref\" data-a-target=\"video-ref\"><VIDEO playsinline=\"45BC23669385A75E494554FE6C805C48\" webkit-playsinline=\"45BC23669385A75E494554FE6C805C48\"></VIDEO><DIV class=\"Layout-sc-1xcs6mc-0 fHKOqA video-player__overlay\"><DIV class=\"Layout-sc-1xcs6mc-0 yhHiQ\"><DIV data-a-target=\"ax-overlay\" class=\"Layout-sc-1xcs6mc-0 yhHiQ\"></DIV><DIV class=\"Layout-sc-1xcs6mc-0 gSwbdq\" style=\"min-width: 92px; width: 92px; min-height: 92px; height: 92px;\"></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bmlSdB player-overlay-background\"><DIV class=\"ScLoadingSpinner-sc-bvzaq8-0 hkMrZb tw-loading-spinner\"><DIV class=\"ScLoadingSpinnerCircle-sc-bvzaq8-1 lbjVdM\"></DIV></DIV></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 click-handler iHtxZC\" data-a-target=\"player-overlay-click-handler\"></DIV><DIV class=\"resize-detector\"><DIV class=\"resize-detector\"></DIV><DIV class=\"resize-detector\"><DIV class=\"resize-detector__shrink\"></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 bmlSdB player-overlay-background player-overlay-background--darkness-0 content-overlay-gate\"><DIV class=\"Layout-sc-1xcs6mc-0 jMZoAI content-overlay-gate__content content-overlay-gate__content--full\" data-a-target=\"player-overlay-content-gate\" role=\"dialog\" aria-labelledby=\"content-overlay-gate-text\"><DIV class=\"Layout-sc-1xcs6mc-0 cAIqCt\"><STRONG class=\"CoreText-sc-1txzju1-0 GodIU content-overlay-gate__allow-pointers\"><text>This video is either unavailable or not supported in this browser. (Error #4000)</text></STRONG></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dquNzJ top-bar\"></DIV><DIV data-a-target=\"player-controls\" class=\"Layout-sc-1xcs6mc-0 jwqxKt player-controls\" data-a-visible=\"false\" dir=\"ltr\"><SECTION class=\"Layout-sc-1xcs6mc-0 skip-to-target\" id=\"channel-player\" aria-label=\"Player Controls\" aria-hidden=\"false\"><DIV class=\"Layout-sc-1xcs6mc-0 eeHgUV\"><DIV class=\"Layout-sc-1xcs6mc-0 bIXKct player-controls__left-control-group\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 donXSX ScButtonIcon-sc-9yap0r-0 dsHcTg possible-clickable-element\" aria-label=\"Pause (space/k)\" aria-haspopup=\"menu\" data-a-target=\"player-play-pause-button\" data-a-player-state=\"playing\" disabled=\"45BC23669385A75E494554FE6C805C48\" data-testid=\"BA\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScIconLayout-sc-1q25cff-0 kjQOIz\"><DIV class=\"ScAspectRatio-sc-18km980-1 jgpfbi tw-aspect\"><DIV class=\"ScAspectSpacer-sc-18km980-0 dYMszt\"></DIV><svg width=\"100%\" height=\"100%\" version=\"1.1\" viewBox=\"0 0 20 20\" x=\"0px\" y=\"0px\" role=\"presentation\" aria-hidden=\"true\" focusable=\"false\" class=\"ScIconSVG-sc-1q25cff-1 kXuCmW\"><path d=\"M8 3H4v14h4V3zm8 0h-4v14h4V3z\"></path></svg></DIV></DIV></DIV></BUTTON></DIV><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"Layout-sc-1xcs6mc-0 dEKQxZ\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 donXSX ScButtonIcon-sc-9yap0r-0 dsHcTg possible-clickable-element\" aria-label=\"Mute (m)\" aria-haspopup=\"menu\" data-a-target=\"player-mute-unmute-button\" disabled=\"45BC23669385A75E494554FE6C805C48\" data-testid=\"BB\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path d=\"m5 7 4.146-4.146a.5.5 0 0 1 .854.353v13.586a.5.5 0 0 1-.854.353L5 13H4a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h1zm9 3a2 2 0 0 0-2-2v4a2 2 0 0 0 2-2z\"></path></svg></DIV></DIV></BUTTON></DIV></DIV><DIV class=\"ScTransitionBase-sc-hx4quq-0 ImlbB tw-transition volume-slider__slider-container\" aria-hidden=\"true\"><DIV class=\"Layout-sc-1xcs6mc-0 eOHCrm\"><DIV class=\"Layout-sc-1xcs6mc-0 kZLuaR\"><DIV class=\"Layout-sc-1xcs6mc-0 uRfV\"><LABEL for=\"player-volume-slider-43198ee9-b7e1-4937-8850-b3027ea8b005\" class=\"InjectLayout-sc-1i43xsx-0 cdydzE\"><text>Volume</text></LABEL><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><DIV class=\"Layout-sc-1xcs6mc-0 bMRWRT\"><INPUT id=\"player-volume-slider-43198ee9-b7e1-4937-8850-b3027ea8b005\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"50\" aria-valuetext=\"50%\" class=\"ScRangeInput-sc-q01wc3-0 ekgjut tw-range\" type=\"range\" min=\"0\" max=\"1\" step=\"0.01\" data-a-target=\"player-volume-slider\" data-a-visible=\"false\" value=\"0.5\" disabled=\"45BC23669385A75E494554FE6C805C48\" style=\"45BC23669385A75E494554FE6C805C48\"></INPUT><DIV class=\"ScRangeFill-sc-q01wc3-1 dAmfzO\"><DIV class=\"ScRangeFillContainer-sc-q01wc3-2 diueRz\"><DIV data-test-selector=\"tw-range__fill-value-selector\" class=\"ScRangeFillValue-sc-q01wc3-3 isXtHy possible-clickable-element\" data-testid=\"BC\" style=\"width: 50%;\"></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 iqRXAC player-controls__right-control-group\"><DIV class=\"Layout-sc-1xcs6mc-0\"><DIV class=\"Layout-sc-1xcs6mc-0\"><DIV class=\"InjectLayout-sc-1i43xsx-0 iDMNUO\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 iPkwTD ScButtonIcon-sc-9yap0r-0 dcNXJO possible-clickable-element\" aria-label=\"Settings\" aria-haspopup=\"menu\" data-a-target=\"player-settings-button\" data-testid=\"BD\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScIconLayout-sc-1q25cff-0 kjQOIz\"><DIV class=\"ScAspectRatio-sc-18km980-1 jgpfbi tw-aspect\"><DIV class=\"ScAspectSpacer-sc-18km980-0 dYMszt\"></DIV><svg width=\"100%\" height=\"100%\" version=\"1.1\" viewBox=\"0 0 20 20\" x=\"0px\" y=\"0px\" role=\"presentation\" aria-hidden=\"true\" focusable=\"false\" class=\"ScIconSVG-sc-1q25cff-1 kXuCmW\"><path d=\"M10 8a2 2 0 1 0 0 4 2 2 0 0 0 0-4z\"></path><path d=\"M9 2h2a2.01 2.01 0 0 0 1.235 1.855l.53.22a2.01 2.01 0 0 0 2.185-.439l1.414 1.414a2.01 2.01 0 0 0-.439 2.185l.22.53A2.01 2.01 0 0 0 18 9v2a2.01 2.01 0 0 0-1.855 1.235l-.22.53a2.01 2.01 0 0 0 .44 2.185l-1.415 1.414a2.01 2.01 0 0 0-2.184-.439l-.531.22A2.01 2.01 0 0 0 11 18H9a2.01 2.01 0 0 0-1.235-1.854l-.53-.22a2.009 2.009 0 0 0-2.185.438L3.636 14.95a2.009 2.009 0 0 0 .438-2.184l-.22-.531A2.01 2.01 0 0 0 2 11V9c.809 0 1.545-.487 1.854-1.235l.22-.53a2.009 2.009 0 0 0-.438-2.185L5.05 3.636a2.01 2.01 0 0 0 2.185.438l.53-.22A2.01 2.01 0 0 0 9 2zm-4 8 1.464 3.536L10 15l3.535-1.464L15 10l-1.465-3.536L10 5 6.464 6.464 5 10z\" fill-rule=\"evenodd\"></path></svg></DIV></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 iDMNUO\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 iPkwTD ScButtonIcon-sc-9yap0r-0 dcNXJO possible-clickable-element\" aria-label=\"Fullscreen (f)\" aria-haspopup=\"menu\" data-a-target=\"player-fullscreen-button\" data-testid=\"BE\"><DIV class=\"ButtonIconFigure-sc-1emm8lf-0 lnTwMD\"><DIV class=\"ScSvgWrapper-sc-wkgzod-0 kccyMt tw-svg\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" focusable=\"false\" aria-hidden=\"true\" role=\"presentation\"><path d=\"M7 3H2v5h2V5h3V3zm11 5V3h-5v2h3v3h2zm-5 9v-2h3v-3h2v5h-5zm-9-5H2v5h5v-2H4v-3z\"></path></svg></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV></SECTION></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 celebration__overlay csjPxT\"></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 cPRTWr\"><DIV class=\"Layout-sc-1xcs6mc-0 hebslq carousel-metadata\"><DIV class=\"Layout-sc-1xcs6mc-0 gLXJau\"><DIV class=\"Layout-sc-1xcs6mc-0 eLLosC\"><DIV class=\"ScAvatar-sc-144b42z-0 hLyXiq tw-avatar\"><IMG class=\"InjectLayout-sc-1i43xsx-0 fAYJcN tw-image tw-image-avatar\" alt=\"SYDsquadron Avatar\" src=\"https://static-cdn.jtvnw.net/jtv_user_pictures/711353f2-a001-4d85-a366-c98f3ffc085a-profile_image-150x150.png\" style=\"object-fit: cover;\"></IMG></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 ffIUSf\"><A aria-label=\"View SYDsquadron's profile\" class=\"ScCoreLink-sc-16kq0mq-0 jUiaVy tw-link\" href=\"/sydsquadron\"><STRONG title=\"SYDsquadron\" data-a-target=\"carousel-display-name\" class=\"CoreText-sc-1txzju1-0 hrNMGE InjectLayout-sc-1i43xsx-0 carousel-metadata--top-text ddPRMI possible-clickable-element\" data-testid=\"BF\"><text>SYDsquadron</text></STRONG></A><A dir=\"auto\" aria-label=\"Category: Microsoft Flight Simulator 2024\" class=\"ScCoreLink-sc-16kq0mq-0 jUiaVy InjectLayout-sc-1i43xsx-0 carousel-metadata--top-text ikEovp tw-link possible-clickable-element\" href=\"/directory/category/microsoft-flight-simulator-2024\" data-testid=\"BG\"><text>Microsoft Flight Simulator 2024</text></A><P class=\"CoreText-sc-1txzju1-0 cWFBTs\"><text>3K viewers</text></P></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 jLggkh\"><DIV class=\"InjectLayout-sc-1i43xsx-0 dwGPiE\" style=\"position: relative;\"><DIV class=\"resize-detector\"><DIV class=\"resize-detector\"></DIV><DIV class=\"resize-detector\"><DIV class=\"resize-detector__shrink\"></DIV></DIV></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 jLHva-d\"><A aria-label=\"Tag, 5090\" data-a-target=\"5090\" class=\"ScTag-sc-14s7ciu-0 eCrblY tw-tag\" href=\"/directory/all/tags/5090\"><DIV class=\"ScTagContent-sc-14s7ciu-1 kVhHfd\"><DIV class=\"ScTruncateText-sc-i3kjgq-0 iSVEtN\"><SPAN class=\"possible-clickable-element\" data-testid=\"BH\"><text>5090</text></SPAN></DIV></DIV></A></DIV><DIV class=\"InjectLayout-sc-1i43xsx-0 keosFZ\"><A aria-label=\"Tag, AU\" data-a-target=\"AU\" class=\"ScTag-sc-14s7ciu-0 eCrblY tw-tag\" href=\"/directory/all/tags/AU\"><DIV class=\"ScTagContent-sc-14s7ciu-1 kVhHfd\"><DIV class=\"ScTruncateText-sc-i3kjgq-0 iSVEtN\"><SPAN class=\"possible-clickable-element\" data-testid=\"BI\"><text>AU</text></SPAN></DIV></DIV></A></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 iBevXe carousel-metadata--fadeout\"></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 gpYOHX possible-clickable-element\" data-testid=\"BJ\"><DIV class=\"ScChannelStatusTextIndicator-sc-qtgrnb-0 ilvRlP tw-channel-status-text-indicator\"><SPAN class=\"CoreText-sc-1txzju1-0 eZDPwN\"><text>Live</text></SPAN></DIV></DIV><IMG alt=\"45BC23669385A75E494554FE6C805C48\" data-test-selector=\"featured-item-image\" class=\"InjectLayout-sc-1i43xsx-0 biELcU tw-image\" src=\"https://static-cdn.jtvnw.net/previews-ttv/live_user_sydsquadron-320x180.jpg\"></IMG></DIV></DIV></DIV></DIV><DIV class=\"featured-content-carousel__item-container featured-content-carousel__item-container--description featured-content-carousel__item-container--offset-1 featured-content-carousel__item-container--right-1\" style=\"position: absolute; top: 0px; inset-inline-start: calc(50% - 375px); z-index: 2; transform: translateX(248px) translateX(-25%) scale(0.85); transition: 450ms;\"><DIV class=\"featured-content-carousel-featured-item featured-content-carousel-featured-item--offset-1\"><DIV class=\"Layout-sc-1xcs6mc-0 bxLWl\"><DIV data-test-selector=\"featured-item-no-video-wrapper\" class=\"InjectLayout-sc-1i43xsx-0 eMRDgK featured-content-carousel-featured-item__overlay featured-content-carousel-featured-item__overlay--offset-1\"></DIV><IMG alt=\"45BC23669385A75E494554FE6C805C48\" data-test-selector=\"featured-item-image\" class=\"InjectLayout-sc-1i43xsx-0 biELcU tw-image\" src=\"https://static-cdn.jtvnw.net/previews-ttv/live_user_mitchriz-320x180.jpg\"></IMG></DIV></DIV></DIV><DIV class=\"featured-content-carousel__item-container featured-content-carousel__item-container--description featured-content-carousel__item-container--offset-2 featured-content-carousel__item-container--right-2\" style=\"position: absolute; top: 0px; inset-inline-start: calc(50% - 375px); z-index: 1; transform: translateX(496px) translateX(-50%) scale(0.7); transition: 450ms;\"><DIV class=\"featured-content-carousel-featured-item featured-content-carousel-featured-item--offset-2\"><DIV class=\"Layout-sc-1xcs6mc-0 bxLWl\"><DIV data-test-selector=\"featured-item-no-video-wrapper\" class=\"InjectLayout-sc-1i43xsx-0 eMRDgK featured-content-carousel-featured-item__overlay featured-content-carousel-featured-item__overlay--offset-2\"></DIV><IMG alt=\"45BC23669385A75E494554FE6C805C48\" data-test-selector=\"featured-item-image\" class=\"InjectLayout-sc-1i43xsx-0 biELcU tw-image\" src=\"https://static-cdn.jtvnw.net/previews-ttv/live_user_piratesoftware-320x180.jpg\"></IMG></DIV></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 dwTMew\"><DIV class=\"Layout-sc-1xcs6mc-0 ejFEXS\"><H2 id=\"843c1bf451a3ebb9\" class=\"CoreText-sc-1txzju1-0 ScTitleText-sc-d9mj2s-0 bqyYtA lbYztg tw-title\"><A class=\"ScCoreLink-sc-16kq0mq-0 jUiaVy tw-link possible-clickable-element\" href=\"/directory/all\" data-testid=\"BK\"><text>Live on Twitch</text></A></H2></DIV></DIV><DIV class=\"ScPositionCorner-sc-1shjvnv-1 cwtMFl\"><DIV class=\"ScChannelStatusTextIndicator-sc-qtgrnb-0 ilvRlP tw-channel-status-text-indicator\"><SPAN class=\"CoreText-sc-1txzju1-0 eZDPwN\"><text>LIVE</text></SPAN></DIV></DIV><DIV class=\"ScPositionCorner-sc-1shjvnv-1 cwtMFl\"><DIV class=\"ScChannelStatusTextIndicator-sc-qtgrnb-0 ilvRlP tw-channel-status-text-indicator\"><SPAN class=\"CoreText-sc-1txzju1-0 eZDPwN\"><text>LIVE</text></SPAN></DIV></DIV><DIV class=\"ScPositionCorner-sc-1shjvnv-1 cwtMFl\"><DIV class=\"ScChannelStatusTextIndicator-sc-qtgrnb-0 ilvRlP tw-channel-status-text-indicator\"><SPAN class=\"CoreText-sc-1txzju1-0 eZDPwN\"><text>LIVE</text></SPAN></DIV></DIV></DIV></DIV></DIV><DIV class=\"Layout-sc-1xcs6mc-0 CiGcG snackbar-list__container snackbar-overlay__list\" aria-live=\"polite\"></DIV></MAIN><DIV class=\"InjectLayout-sc-1i43xsx-0 celebration__overlay csjPxT\"></DIV></DIV><FOOTER id=\"twilight-sticky-footer-root\"><DIV class=\"Layout-sc-1xcs6mc-0\" style=\"position: relative;\"><ARTICLE class=\"Layout-sc-1xcs6mc-0 ffPTzE\"><DIV class=\"Layout-sc-1xcs6mc-0 ScLayoutCssVars-sc-1pn65j5-0 jfyitl kjAtAt\"><DIV class=\"Layout-sc-1xcs6mc-0 egqCnl\"><DIV class=\"Layout-sc-1xcs6mc-0 gPNLhS\"><DIV class=\"Layout-sc-1xcs6mc-0 dtSdDz\"><DIV class=\"ScCalloutMessage-sc-23utpo-0 hYyLfz tw-callout-message\"><DIV class=\"Layout-sc-1xcs6mc-0 bwtGga\"><DIV class=\"Layout-sc-1xcs6mc-0 kvrzxX\"><DIV class=\"Layout-sc-1xcs6mc-0 kFLrqZ\"><IMG alt=\"CoolCat\" class=\"tw-image upsell-bottom-banner__coolcat\" src=\"https://assets.twitch.tv/assets/coolcat-edacb6fbd813ce2f0272.png\"></IMG></DIV><DIV class=\"Layout-sc-1xcs6mc-0 kFLrqZ\"><STRONG class=\"CoreText-sc-1txzju1-0 dBjVUO\"><text>Join the Twitch community!</text></STRONG></DIV><P class=\"CoreText-sc-1txzju1-0 eKMTRC\"><text>Discover the best live streams anywhere.</text></P><DIV class=\"Layout-sc-1xcs6mc-0 kUhxNg\"><BUTTON class=\"ScCoreButton-sc-ocjdkq-0 kJMgAB InjectLayout-sc-1i43xsx-0 datCtY\"><DIV class=\"ScCoreButtonLabel-sc-s7h2b7-0 kaIUar possible-clickable-element\" data-testid=\"BL\"><DIV data-a-target=\"tw-core-button-label-text\" class=\"Layout-sc-1xcs6mc-0 bLZXTb\"><text>Sign Up</text></DIV></DIV></BUTTON></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></ARTICLE><DIV class=\"resize-detector\"><DIV class=\"resize-detector\"></DIV><DIV class=\"resize-detector\"></DIV></DIV></DIV></FOOTER></DIV></DIV></DIV></HTML>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <\n      div|\n      <p| Cookies and Advertising Choices >\n      <\n        div|\n        <p| Twitch uses personal data collected on our services, such as page visits, through >\n        <a[A]| cookies >\n        <text| and other device identifiers to generate personalized content, remember preferences, analyze usage to improve products, and measure the effectiveness of campaigns to acquire new users. If you agree, we will also permit other Amazon services and up to 14 trusted third party partners to obtain data from our services or store and access cookies on your device to deliver personalized ads, measure effectiveness, and create audience insights. We will also personalize the ads we show you on Twitch usin >\n        <a[B]| Cookie Notice >\n        <text| and >\n        <a[C]| Privacy Notice >\n        <text| to learn more. By clicking \"Accept\", you consent to these activities. Click “Reject” to decline, or “Customize” to make more detailed choices or to learn more. You can change your choices at any time. >\n      >\n    >\n    <\n      div|\n      <\n        div[D]|\n        <div| Accept >\n      >\n      <\n        div[E]|\n        <div| Customize >\n      >\n      <\n        div[F]|\n        <div| Reject >\n      >\n    >\n  >\n  <\n    div|\n    <g[G]| >\n    <p[H]| Browse >\n    <button[I]| >\n    <input[J]| 45BC23669385A75E494554FE6C805C48; Search >\n    <div[K]| >\n    <\n      div|\n      <button[L]| >\n      <div| 27 >\n      <\n        div|\n        <\n          div[M]|\n          <div| Log In >\n        >\n        <\n          div[N]|\n          <div| Sign Up >\n        >\n      >\n      <button[O]| >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <button[P]| >\n      <\n        div|\n        <h3| Recommended Categories >\n        <\n          div|\n          <img[Q]| >\n          <\n            div|\n            <\n              div|\n              <p[R]| Just Chatting Just Chatting >\n              <span[S]| IRL IRL >\n            >\n            <div[T]| >\n            <\n              div|\n              <span[U]| 239K >\n              <p| 239K live viewers >\n            >\n          >\n          <img[V]| >\n          <\n            div|\n            <\n              div|\n              <p[W]| League of Legends League of Legends >\n              <\n                div|\n                <span[X]| RPG, RPG, >\n                <span[Y]| Strategy Strategy >\n              >\n            >\n            <div[Z]| >\n            <\n              div|\n              <span[AA]| 75.9K >\n              <p| 75.9K live viewers >\n            >\n          >\n          <img[AB]| >\n          <\n            div|\n            <\n              div|\n              <p[AC]| BORDERLANDS 4 BORDERLANDS 4 >\n              <\n                div|\n                <span[AD]| FPS, FPS, >\n                <span[AE]| Shooter Shooter >\n              >\n            >\n            <div[AF]| >\n            <\n              div|\n              <span[AG]| 17K >\n              <p| 17K live viewers >\n            >\n          >\n          <img[AH]| >\n          <\n            div|\n            <\n              div|\n              <p[AI]| IRL IRL >\n              <span[AJ]| IRL IRL >\n            >\n            <div[AK]| >\n            <\n              div|\n              <span[AL]| 44.4K >\n              <p| 44.4K live viewers >\n            >\n          >\n          <img[AM]| >\n          <\n            div|\n            <\n              div|\n              <p[AN]| VALORANT VALORANT >\n              <\n                div|\n                <span[AO]| FPS, FPS, >\n                <span[AP]| Shooter Shooter >\n              >\n            >\n            <div[AQ]| >\n            <\n              div|\n              <span[AR]| 17.4K >\n              <p| 17.4K live viewers >\n            >\n          >\n          <img[AS]| >\n          <\n            div|\n            <\n              div|\n              <p[AT]| Rocket League Rocket League >\n              <span[AU]| Driving/Racing Game Driving/Racing Game >\n            >\n            <div[AV]| >\n            <\n              div|\n              <span[AW]| 1.8K >\n              <p| 1.8K live viewers >\n            >\n          >\n        >\n        <\n          button[AX]|\n          <span| Show More >\n        >\n      >\n      <h3| Live Channels >\n      <\n        div|\n        <p| byilhann byilhann >\n        <\n          div|\n          <p| Live >\n          <span| 20.3K >\n        >\n      >\n    >\n    <\n      div|\n      <button[AY]| >\n      <button[AZ]| >\n      <\n        div|\n        <\n          div|\n          <\n            div|\n            <strong| This video is either unavailable or not supported in this browser. (Error #4000) >\n            <button[BA]| >\n            <button[BB]| >\n            <\n              div|\n              <label| Volume >\n              <input| 0.5 >\n              <div[BC]| >\n            >\n            <button[BD]| >\n            <button[BE]| >\n          >\n          <\n            div|\n            <\n              div|\n              <strong[BF]| SYDsquadron SYDsquadron >\n              <a[BG]| Microsoft Flight Simulator 2024 >\n              <p| 3K viewers >\n            >\n            <\n              div|\n              <span[BH]| 5090 >\n              <span[BI]| AU >\n            >\n          >\n        >\n        <\n          div[BJ]|\n          <span| Live >\n        >\n      >\n      <a[BK]| Live on Twitch >\n      <span| LIVE >\n      <span| LIVE >\n      <span| LIVE >\n    >\n  >\n  <\n    div|\n    <strong| Join the Twitch community! >\n    <p| Discover the best live streams anywhere. >\n    <\n      div[BL]|\n      <div| Sign Up >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 724,
+                "top": 40.796875,
+                "right": 774,
+                "bottom": 57.796875,
+                "width": 50,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "cookies"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 680,
+                "top": 138.765625,
+                "right": 772,
+                "bottom": 155.765625,
+                "width": 92,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Cookie Notice"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 805,
+                "top": 138.765625,
+                "right": 901,
+                "bottom": 155.765625,
+                "width": 96,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Privacy Notice"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 1155,
+                "top": 55.265625,
+                "right": 1243,
+                "bottom": 69.265625,
+                "width": 88,
+                "height": 14
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 1142,
+                "top": 95.265625,
+                "right": 1256,
+                "bottom": 109.265625,
+                "width": 114,
+                "height": 14
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 1158,
+                "top": 135.265625,
+                "right": 1240,
+                "bottom": 149.265625,
+                "width": 82,
+                "height": 14
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 12,
+                "top": 225.546875,
+                "right": 36,
+                "bottom": 253.546875,
+                "width": 24,
+                "height": 28
+            },
+            "tag": "g",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 56,
+                "top": 229.84375,
+                "right": 102.921875,
+                "bottom": 245.234375,
+                "width": 46.921875,
+                "height": 15.390625
+            },
+            "tag": "p",
+            "text": "Browse"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 118.921875,
+                "top": 221.546875,
+                "right": 150.921875,
+                "bottom": 253.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 444,
+                "top": 219.546875,
+                "right": 798,
+                "bottom": 255.546875,
+                "width": 354,
+                "height": 36
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 805,
+                "top": 225.546875,
+                "right": 829,
+                "bottom": 249.546875,
+                "width": 24,
+                "height": 24
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 1041,
+                "top": 221.546875,
+                "right": 1073,
+                "bottom": 253.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 1081,
+                "top": 230.546875,
+                "right": 1147,
+                "bottom": 244.546875,
+                "width": 66,
+                "height": 14
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 1155,
+                "top": 230.546875,
+                "right": 1232,
+                "bottom": 244.546875,
+                "width": 77,
+                "height": 14
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 1240,
+                "top": 221.546875,
+                "right": 1272,
+                "bottom": 253.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 199,
+                "top": 270.546875,
+                "right": 231,
+                "bottom": 302.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 12,
+                "top": 311.140625,
+                "right": 42,
+                "bottom": 353.140625,
+                "width": 30,
+                "height": 42
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 50,
+                "top": 313.546875,
+                "right": 177,
+                "bottom": 328.9375,
+                "width": 127,
+                "height": 15.390625
+            },
+            "tag": "p",
+            "text": "Just Chatting"
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 50,
+                "top": 327.9375,
+                "right": 71,
+                "bottom": 344.9375,
+                "width": 21,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "IRL"
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 181,
+                "top": 319.34375,
+                "right": 189,
+                "bottom": 327.34375,
+                "width": 8,
+                "height": 8
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 193,
+                "top": 314.546875,
+                "right": 228,
+                "bottom": 331.546875,
+                "width": 35,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "239K"
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 12,
+                "top": 363.140625,
+                "right": 42,
+                "bottom": 405.140625,
+                "width": 30,
+                "height": 42
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 50,
+                "top": 365.546875,
+                "right": 173,
+                "bottom": 380.9375,
+                "width": 123,
+                "height": 15.390625
+            },
+            "tag": "p",
+            "text": "League of Legends"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 50,
+                "top": 379.9375,
+                "right": 82,
+                "bottom": 396.9375,
+                "width": 32,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "RPG, "
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 86,
+                "top": 379.9375,
+                "right": 143,
+                "bottom": 396.9375,
+                "width": 57,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "Strategy"
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 177,
+                "top": 371.34375,
+                "right": 185,
+                "bottom": 379.34375,
+                "width": 8,
+                "height": 8
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 189,
+                "top": 366.546875,
+                "right": 228,
+                "bottom": 383.546875,
+                "width": 39,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "75.9K"
+        },
+        {
+            "keep": true,
+            "id": "AB",
+            "rects": {
+                "left": 12,
+                "top": 415.140625,
+                "right": 42,
+                "bottom": 457.140625,
+                "width": 30,
+                "height": 42
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AC",
+            "rects": {
+                "left": 50,
+                "top": 417.546875,
+                "right": 184,
+                "bottom": 432.9375,
+                "width": 134,
+                "height": 15.390625
+            },
+            "tag": "p",
+            "text": "BORDERLANDS 4"
+        },
+        {
+            "keep": true,
+            "id": "AD",
+            "rects": {
+                "left": 50,
+                "top": 431.9375,
+                "right": 80,
+                "bottom": 448.9375,
+                "width": 30,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "FPS, "
+        },
+        {
+            "keep": true,
+            "id": "AE",
+            "rects": {
+                "left": 84,
+                "top": 431.9375,
+                "right": 135,
+                "bottom": 448.9375,
+                "width": 51,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "Shooter"
+        },
+        {
+            "keep": true,
+            "id": "AF",
+            "rects": {
+                "left": 188,
+                "top": 423.34375,
+                "right": 196,
+                "bottom": 431.34375,
+                "width": 8,
+                "height": 8
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AG",
+            "rects": {
+                "left": 200,
+                "top": 418.546875,
+                "right": 224,
+                "bottom": 435.546875,
+                "width": 24,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "17K"
+        },
+        {
+            "keep": true,
+            "id": "AH",
+            "rects": {
+                "left": 12,
+                "top": 467.140625,
+                "right": 42,
+                "bottom": 509.140625,
+                "width": 30,
+                "height": 42
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AI",
+            "rects": {
+                "left": 50,
+                "top": 469.546875,
+                "right": 172,
+                "bottom": 484.9375,
+                "width": 122,
+                "height": 15.390625
+            },
+            "tag": "p",
+            "text": "IRL"
+        },
+        {
+            "keep": true,
+            "id": "AJ",
+            "rects": {
+                "left": 50,
+                "top": 483.9375,
+                "right": 71,
+                "bottom": 500.9375,
+                "width": 21,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "IRL"
+        },
+        {
+            "keep": true,
+            "id": "AK",
+            "rects": {
+                "left": 176,
+                "top": 475.34375,
+                "right": 184,
+                "bottom": 483.34375,
+                "width": 8,
+                "height": 8
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AL",
+            "rects": {
+                "left": 188,
+                "top": 470.546875,
+                "right": 228,
+                "bottom": 487.546875,
+                "width": 40,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "44.4K"
+        },
+        {
+            "keep": true,
+            "id": "AM",
+            "rects": {
+                "left": 12,
+                "top": 519.140625,
+                "right": 42,
+                "bottom": 561.140625,
+                "width": 30,
+                "height": 42
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AN",
+            "rects": {
+                "left": 50,
+                "top": 521.546875,
+                "right": 177,
+                "bottom": 536.9375,
+                "width": 127,
+                "height": 15.390625
+            },
+            "tag": "p",
+            "text": "VALORANT"
+        },
+        {
+            "keep": true,
+            "id": "AO",
+            "rects": {
+                "left": 50,
+                "top": 535.9375,
+                "right": 80,
+                "bottom": 552.9375,
+                "width": 30,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "FPS, "
+        },
+        {
+            "keep": true,
+            "id": "AP",
+            "rects": {
+                "left": 84,
+                "top": 535.9375,
+                "right": 135,
+                "bottom": 552.9375,
+                "width": 51,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "Shooter"
+        },
+        {
+            "keep": true,
+            "id": "AQ",
+            "rects": {
+                "left": 181,
+                "top": 527.34375,
+                "right": 189,
+                "bottom": 535.34375,
+                "width": 8,
+                "height": 8
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AR",
+            "rects": {
+                "left": 193,
+                "top": 522.546875,
+                "right": 228,
+                "bottom": 539.546875,
+                "width": 35,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "17.4K"
+        },
+        {
+            "keep": true,
+            "id": "AS",
+            "rects": {
+                "left": 12,
+                "top": 571.140625,
+                "right": 42,
+                "bottom": 613.140625,
+                "width": 30,
+                "height": 42
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AT",
+            "rects": {
+                "left": 50,
+                "top": 573.546875,
+                "right": 184,
+                "bottom": 588.9375,
+                "width": 134,
+                "height": 15.390625
+            },
+            "tag": "p",
+            "text": "Rocket League"
+        },
+        {
+            "keep": true,
+            "id": "AU",
+            "rects": {
+                "left": 50,
+                "top": 587.9375,
+                "right": 188,
+                "bottom": 604.9375,
+                "width": 138,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "Driving/Racing Game"
+        },
+        {
+            "keep": true,
+            "id": "AV",
+            "rects": {
+                "left": 188,
+                "top": 579.34375,
+                "right": 196,
+                "bottom": 587.34375,
+                "width": 8,
+                "height": 8
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AW",
+            "rects": {
+                "left": 200,
+                "top": 574.546875,
+                "right": 228,
+                "bottom": 591.546875,
+                "width": 28,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "1.8K"
+        },
+        {
+            "keep": true,
+            "id": "AX",
+            "rects": {
+                "left": 12,
+                "top": 622.140625,
+                "right": 85,
+                "bottom": 645.9375,
+                "width": 73,
+                "height": 23.796875
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AY",
+            "rects": {
+                "left": 264,
+                "top": 410.546875,
+                "right": 300,
+                "bottom": 446.546875,
+                "width": 36,
+                "height": 36
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AZ",
+            "rects": {
+                "left": 1220,
+                "top": 410.546875,
+                "right": 1256,
+                "bottom": 446.546875,
+                "width": 36,
+                "height": 36
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BA",
+            "rects": {
+                "left": 393,
+                "top": 538.546875,
+                "right": 425,
+                "bottom": 570.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BB",
+            "rects": {
+                "left": 425,
+                "top": 538.546875,
+                "right": 457,
+                "bottom": 570.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BC",
+            "rects": {
+                "left": 457,
+                "top": 553.546875,
+                "right": 512,
+                "bottom": 555.546875,
+                "width": 55,
+                "height": 2
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BD",
+            "rects": {
+                "left": 843,
+                "top": 538.546875,
+                "right": 875,
+                "bottom": 570.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BE",
+            "rects": {
+                "left": 875,
+                "top": 538.546875,
+                "right": 907,
+                "bottom": 570.546875,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BF",
+            "rects": {
+                "left": 981,
+                "top": 287.546875,
+                "right": 1077,
+                "bottom": 304.546875,
+                "width": 96,
+                "height": 17
+            },
+            "tag": "strong",
+            "text": "SYDsquadron"
+        },
+        {
+            "keep": true,
+            "id": "BG",
+            "rects": {
+                "left": 981,
+                "top": 306.140625,
+                "right": 1121,
+                "bottom": 325.734375,
+                "width": 140,
+                "height": 19.59375
+            },
+            "tag": "a",
+            "text": "Microsoft Flight Simulator 2024"
+        },
+        {
+            "keep": true,
+            "id": "BH",
+            "rects": {
+                "left": 933,
+                "top": 355.328125,
+                "right": 965,
+                "bottom": 370.328125,
+                "width": 32,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "5090"
+        },
+        {
+            "keep": true,
+            "id": "BI",
+            "rects": {
+                "left": 989,
+                "top": 355.328125,
+                "right": 1007,
+                "bottom": 370.328125,
+                "width": 18,
+                "height": 15
+            },
+            "tag": "span",
+            "text": "AU"
+        },
+        {
+            "keep": true,
+            "id": "BJ",
+            "rects": {
+                "left": 393,
+                "top": 286.546875,
+                "right": 429,
+                "bottom": 307.34375,
+                "width": 36,
+                "height": 20.796875
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "BK",
+            "rects": {
+                "left": 264,
+                "top": 634.546875,
+                "right": 379.484375,
+                "bottom": 656.546875,
+                "width": 115.484375,
+                "height": 22
+            },
+            "tag": "a",
+            "text": "Live on Twitch"
+        },
+        {
+            "keep": true,
+            "id": "BL",
+            "rects": {
+                "left": 1155,
+                "top": 685,
+                "right": 1232,
+                "bottom": 699,
+                "width": 77,
+                "height": 14
+            },
+            "tag": "div",
+            "text": ""
+        }
+    ]
+}

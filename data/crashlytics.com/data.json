@@ -1,0 +1,188 @@
+{
+    "raw_html": "<HTML lang=\"en\" dir=\"ltr\"><BODY class=\"firebase-page-product firebase__bg--white firesite-lang--en viewport--desktop tenant--firebase color-scheme--light\" template=\"page\" theme=\"firebase-icy-theme\" type=\"article\" appearance=\"light\" layout=\"full\" free-trial=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" concierge=\"hide\" touch=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" ready=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" style=\"--devsite-panel-height: 0px; --devsite-js-header-height: 49px; --devsite-cookie-bar-height: 64px;\"><DIV class=\"glue-cookie-notification-bar\" id=\"glue-cookie-notification-bar-1\" aria-labelledby=\"glue-cookie-notification-bar-1-label\" role=\"region\" data-nosnippet=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" tabindex=\"-1\" style=\"font-size: 1rem;\"><P class=\"glue-cookie-notification-bar__text\"><SPAN id=\"glue-cookie-notification-bar-1-label\"><text>firebase.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.</text></SPAN><A href=\"https://policies.google.com/technologies/cookies?hl=en\" class=\"glue-cookie-notification-bar__more possible-clickable-element\" rel=\"noopener\" aria-describedby=\"glue-cookie-notification-bar-1-label\" target=\"_blank\" aria-label=\"Learn more about how Google uses cookies. Opens in a new tab.\" data-testid=\"A\"><text>Learn more</text></A><text>.</text></P><BUTTON class=\"glue-cookie-notification-bar__accept possible-clickable-element\" data-testid=\"B\"><text>Understood</text></BUTTON></DIV><DIV class=\"devsite-top-logo-row-wrapper-wrapper\"><DIV class=\"devsite-top-logo-row-wrapper\"><DIV class=\"devsite-top-logo-row\"><DIV class=\"devsite-product-name-wrapper\"><A href=\"/\" class=\"devsite-site-logo-link gc-analytics-event\" data-category=\"Site-Wide Custom Events\" data-label=\"Site logo\" track-type=\"globalNav\" track-name=\"firebase\" track-metadata-position=\"nav\" track-metadata-eventdetail=\"nav\"><IMG src=\"https://www.gstatic.com/devrel-devsite/prod/vf0eb6f8ebad49d1e3523c3ee6bef7563a09624802753ccc3d816c9b276e850fd/firebase/images/lockup.svg\" class=\"devsite-site-logo possible-clickable-element\" alt=\"Firebase\" data-testid=\"C\"></IMG></A></DIV><DIV class=\"devsite-top-logo-row-middle\"><DIV class=\"devsite-header-upper-tabs\"><DEVSITE-TABS class=\"upper-tabs\" connected=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\"><NAV class=\"devsite-tabs-wrapper\" aria-label=\"Upper tabs\"><TAB class=\"devsite-dropdown\"><A href=\"https://firebase.google.com/products-build\" class=\"devsite-tabs-content gc-analytics-event possible-clickable-element\" track-metadata-eventdetail=\"https://firebase.google.com/products-build\" track-type=\"nav\" track-metadata-position=\"nav - build\" track-metadata-module=\"primary nav\" data-category=\"Site-Wide Custom Events\" data-label=\"Tab: Build\" track-name=\"build\" data-testid=\"D\"><text>Build</text></A><BUTTON aria-haspopup=\"menu\" aria-expanded=\"false\" aria-label=\"Dropdown menu for Build\" track-type=\"nav\" track-metadata-eventdetail=\"https://firebase.google.com/products-build\" track-metadata-position=\"nav - build\" track-metadata-module=\"primary nav\" data-category=\"Site-Wide Custom Events\" data-label=\"Tab: Build\" track-name=\"build\" class=\"devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down possible-clickable-element\" data-testid=\"E\"></BUTTON></TAB><TAB class=\"devsite-dropdown\"><A href=\"https://firebase.google.com/products-run\" class=\"devsite-tabs-content gc-analytics-event possible-clickable-element\" track-metadata-eventdetail=\"https://firebase.google.com/products-run\" track-type=\"nav\" track-metadata-position=\"nav - run\" track-metadata-module=\"primary nav\" data-category=\"Site-Wide Custom Events\" data-label=\"Tab: Run\" track-name=\"run\" data-testid=\"F\"><text>Run</text></A><BUTTON aria-haspopup=\"menu\" aria-expanded=\"false\" aria-label=\"Dropdown menu for Run\" track-type=\"nav\" track-metadata-eventdetail=\"https://firebase.google.com/products-run\" track-metadata-position=\"nav - run\" track-metadata-module=\"primary nav\" data-category=\"Site-Wide Custom Events\" data-label=\"Tab: Run\" track-name=\"run\" class=\"devsite-tabs-dropdown-toggle devsite-icon devsite-icon-arrow-drop-down possible-clickable-element\" data-testid=\"G\"></BUTTON></TAB><TAB class=\"devsite-overflow-tab\"><BUTTON class=\"devsite-tabs-overflow-button devsite-icon devsite-icon-arrow-drop-down possible-clickable-element\" aria-haspopup=\"menu\" aria-expanded=\"false\" id=\"tab-overflow-button-gViR\" aria-label=\"Dropdown menu for Extended Navigation\" aria-controls=\"tab-overflow-menu-Oxdc\" data-testid=\"H\"><text>More</text></BUTTON></TAB></NAV></DEVSITE-TABS></DIV><DEVSITE-SEARCH enable-signin=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" enable-search=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" enable-suggestions=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" enable-query-completion=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" enable-search-summaries=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" project-name=\"Firebase\" tenant-name=\"Firebase\"><FORM class=\"devsite-search-form\" action=\"https://firebase.google.com/s/results\" method=\"GET\"><DIV class=\"devsite-search-container\"><DIV class=\"devsite-searchbox\"><INPUT aria-activedescendant=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" aria-autocomplete=\"list\" aria-label=\"Search\" aria-expanded=\"false\" aria-haspopup=\"listbox\" autocomplete=\"off\" class=\"devsite-search-field devsite-search-query possible-clickable-element\" name=\"q\" placeholder=\"Search\" role=\"combobox\" type=\"text\" value=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" aria-controls=\"devsite-search-popout-container-id-1\" data-testid=\"I\" style=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\"></INPUT><DIV class=\"devsite-search-image material-icons\" aria-hidden=\"true\"><svg class=\"devsite-search-ai-image\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><g clip-path=\"url(#clip0_6641_386)\"><path d=\"M19.6 21L13.3 14.7C12.8 15.1 12.225 15.4167 11.575 15.65C10.925 15.8833 10.2333 16 9.5 16C7.68333 16 6.14167 15.375 4.875 14.125C3.625 12.8583 3 11.3167 3 9.5C3 7.68333 3.625 6.15 4.875 4.9C6.14167 3.63333 7.68333 3 9.5 3C10.0167 3 10.5167 3.05833 11 3.175C11.4833 3.275 11.9417 3.43333 12.375 3.65L10.825 5.2C10.6083 5.13333 10.3917 5.08333 10.175 5.05C9.95833 5.01667 9.73333 5 9.5 5C8.25 5 7.18333 5.44167 6.3 6.325C5.43333 7.19167 5 8.25 5 9.5C5 10.75 5.43333 11.8167 6.3 12.7C7.18333 13.5667 8.25 14 9.5 14C10.6667 14 11.6667 13.625 12.5 12.875C13.35 12.1083 13.8417 11.15 13.975 10H15.975C15.925 10.6333 15.7833 11.2333 15.55 11.8C15.3333 12.3667 15.05 12.8667 14.7 13.3L21 19.6L19.6 21ZM17.5 12C17.5 10.4667 16.9667 9.16667 15.9 8.1C14.8333 7.03333 13.5333 6.5 12 6.5C13.5333 6.5 14.8333 5.96667 15.9 4.9C16.9667 3.83333 17.5 2.53333 17.5 0.999999C17.5 2.53333 18.0333 3.83333 19.1 4.9C20.1667 5.96667 21.4667 6.5 23 6.5C21.4667 6.5 20.1667 7.03333 19.1 8.1C18.0333 9.16667 17.5 10.4667 17.5 12Z\" fill=\"#5F6368\"></path></g><rect width=\"24\" height=\"24\" fill=\"white\"></rect></svg></DIV><KBD class=\"devsite-search-shortcut-icon\"><text>/</text></KBD></DIV></DIV></FORM></DEVSITE-SEARCH></DIV><BUTTON type=\"button\" aria-controls=\"menu\" aria-haspopup=\"true\" class=\"toggle\" aria-label=\"Appearance: Light theme\" data-appearance=\"light\" data-title=\"Appearance: Light theme\"></BUTTON><DEVSITE-LANGUAGE-SELECTOR aria-label=\"Select your language preference.\"><BUTTON type=\"button\" aria-controls=\"language-menu\" aria-haspopup=\"true\"><svg aria-hidden=\"true\" class=\"icon-language\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 22q-2.05 0-3.875-.788-1.825-.787-3.187-2.15-1.363-1.362-2.15-3.187Q2 14.05 2 12q0-2.075.788-3.887.787-1.813 2.15-3.175Q6.3 3.575 8.125 2.787 9.95 2 12 2q2.075 0 3.887.787 1.813.788 3.175 2.151 1.363 1.362 2.15 3.175Q22 9.925 22 12q0 2.05-.788 3.875-.787 1.825-2.15 3.187-1.362 1.363-3.175 2.15Q14.075 22 12 22Zm0-2.05q.65-.9 1.125-1.875T13.9 16h-3.8q.3 1.1.775 2.075.475.975 1.125 1.875Zm-2.6-.4q-.45-.825-.787-1.713Q8.275 16.95 8.05 16H5.1q.725 1.25 1.812 2.175Q8 19.1 9.4 19.55Zm5.2 0q1.4-.45 2.487-1.375Q18.175 17.25 18.9 16h-2.95q-.225.95-.562 1.837-.338.888-.788 1.713ZM4.25 14h3.4q-.075-.5-.113-.988Q7.5 12.525 7.5 12t.037-1.012q.038-.488.113-.988h-3.4q-.125.5-.188.988Q4 11.475 4 12t.062 1.012q.063.488.188.988Zm5.4 0h4.7q.075-.5.113-.988.037-.487.037-1.012t-.037-1.012q-.038-.488-.113-.988h-4.7q-.075.5-.112.988Q9.5 11.475 9.5 12t.038 1.012q.037.488.112.988Zm6.7 0h3.4q.125-.5.188-.988Q20 12.525 20 12t-.062-1.012q-.063-.488-.188-.988h-3.4q.075.5.112.988.038.487.038 1.012t-.038 1.012q-.037.488-.112.988Zm-.4-6h2.95q-.725-1.25-1.813-2.175Q16 4.9 14.6 4.45q.45.825.788 1.712.337.888.562 1.838ZM10.1 8h3.8q-.3-1.1-.775-2.075Q12.65 4.95 12 4.05q-.65.9-1.125 1.875T10.1 8Zm-5 0h2.95q.225-.95.563-1.838.337-.887.787-1.712Q8 4.9 6.912 5.825 5.825 6.75 5.1 8Z\"></path></svg><SPAN class=\"label\"><text>Language</text></SPAN><svg aria-hidden=\"true\" class=\"icon-arrow\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"m12 15-5-5h10Z\"></path></svg></BUTTON></DEVSITE-LANGUAGE-SELECTOR><A class=\"devsite-header-link devsite-top-button button gc-analytics-event possible-clickable-element\" href=\"//firebase.blog\" data-category=\"Site-Wide Custom Events\" data-label=\"Site header link: Blog\" data-testid=\"J\"><text>Blog</text></A><A class=\"devsite-header-link devsite-top-button button gc-analytics-event studio-button-with-icon possible-clickable-element\" href=\"//studio.firebase.google.com\" data-category=\"Site-Wide Custom Events\" data-label=\"Site header link: Studio\" data-testid=\"K\"><text>Studio</text></A><A class=\"devsite-header-link devsite-top-button button gc-analytics-event possible-clickable-element\" href=\"//console.firebase.google.com\" data-category=\"Site-Wide Custom Events\" data-label=\"Site header link: Go to console\" data-testid=\"L\"><text>Go to console</text></A><DEVSITE-USER enable-profiles=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" fp-auth=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" id=\"devsite-user\" sign-in-url=\"https://firebase.google.com/_d/signin?continue=https%3A%2F%2Ffirebase.google.com%2Fproducts%2Fcrashlytics%2F&prompt=select_account\" sign-out-url=\"https://firebase.google.com/_d/signout?continue=https%3A%2F%2Ffirebase.google.com%2Fproducts%2Fcrashlytics%2F\" url=\"https://firebase.google.com/_d/signout?continue=https%3A%2F%2Ffirebase.google.com%2Fproducts%2Fcrashlytics%2F\"><DIV class=\"ogb-wrapper ogb-si\"><A href=\"https://firebase.google.com/_d/signin?continue=https%3A%2F%2Ffirebase.google.com%2Fproducts%2Fcrashlytics%2F&prompt=select_account\" id=\"devsite-signin-btn\" class=\"devsite-user-signin button devsite-top-button possible-clickable-element\" track-type=\"globalNav\" track-name=\"signIn\" track-metadata-eventdetail=\"nav\" track-metadata-position=\"nav\" data-testid=\"M\"><text>Sign in</text></A></DIV></DEVSITE-USER></DIV></DIV></DIV><DIV class=\"content-wrapper background--dark\"><SECTION class=\"product-header-new\" id=\"track-prioritize-and-fix-app-crashes-faster\"><HEADER class=\"product-header-new__wrapper\"><DIV class=\"product-header-new__content\"><H5 class=\"product-header-new__name light no-link\" id=\"firebase-crashlytics\" data-text=\"Firebase Crashlytics\" tabindex=\"-1\"><text>Firebase Crashlytics</text></H5><H1 id=\"product-header-title\" data-text=\"Track, prioritize, and fix app crashes faster\" tabindex=\"-1\"><text>Track, prioritize, and fix app crashes faster</text></H1><H2 class=\"product-header-new__body\" id=\"realtime-crash-and-error-reporting-with-analysis-to-help-keep-your-apps-running-flawlessly.-easily-integrates-with-android,-apple,-flutter-and-unity-apps.\" data-text=\"Realtime crash and error reporting with analysis to help keep your apps running flawlessly. Easily integrates with Android, Apple, Flutter and Unity apps.\" tabindex=\"-1\"><text>Realtime crash and error reporting with analysis to help keep your apps running flawlessly. Easily integrates with Android, Apple, Flutter and Unity apps.</text></H2><DIV class=\"product-header-new__ctas\"><A class=\"cta-button--outline-orange gc-analytics-event\" data-action=\"linkClick\" data-category=\"getStarted\" data-label=\"hero\" href=\"https://console.firebase.google.com/project/_/crashlytics\"><text>Get started</text></A><A class=\"cta-link--hover-orange gc-analytics-event\" data-action=\"linkClick\" data-category=\"viewDocs\" data-label=\"hero\" devsite=\"true\" href=\"/docs/crashlytics\"><text>View docs</text><I class=\"material-icons\" aria-hidden=\"true\" translate=\"no\"><text>arrow_forward</text></I></A></DIV></DIV><DIV aria-hidden=\"true\" class=\"product-header-new__illo\" role=\"presentation\"><IMG alt=\"Crashlytics illustration\" aria-hidden=\"true\" class=\"window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });\" role=\"presentation\" src=\"/static/images/products/crashlytics/crashlytics-hero_1x.png\" srcset=\"https://firebase.google.com/static/images/products/crashlytics/crashlytics-hero_2x.png 2x,https://firebase.google.com/static/images/products/crashlytics/crashlytics-hero_1x.png 1x\"></IMG></DIV></HEADER></SECTION></DIV></BODY></HTML>",
+    "parsed_html": "\n<\n  body|\n  <\n    div|\n    <\n      p|\n      <span| firebase.google.com uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. >\n      <a[A]| Learn more >\n      <text| . >\n    >\n    <button[B]| Understood >\n  >\n  <\n    div|\n    <img[C]| >\n    <\n      div|\n      <\n        nav|\n        <a[D]| Build >\n        <button[E]| >\n        <a[F]| Run >\n        <button[G]| >\n        <button[H]| More >\n      >\n      <\n        div|\n        <input[I]| window.addEventListener('message', function(event) { if (event.origin != 'https://firebase.google.com' && event.origin != 'https://firebase.google.cn') { return; }; window['dataLayer'].push(event.data); });; Search >\n        <kbd| / >\n      >\n    >\n    <span| Language >\n    <a[J]| Blog >\n    <a[K]| Studio >\n    <a[L]| Go to console >\n    <a[M]| Sign in >\n  >\n  <\n    div|\n    <h5| Firebase Crashlytics >\n    <h1| Track, prioritize, and fix app crashes faster >\n    <h2| Realtime crash and error reporting with analysis to help keep your apps running flawlessly. Easily integrates with Android, Apple, Flutter and Unity apps. >\n    <\n      div|\n      <a| Get started >\n      <\n        a|\n        <text| View docs >\n        <i| arrow_forward >\n      >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 857,
+                "top": 677.5625,
+                "right": 937,
+                "bottom": 696.5625,
+                "width": 80,
+                "height": 19
+            },
+            "tag": "a",
+            "text": "Learn more"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 1131,
+                "top": 668,
+                "right": 1264,
+                "bottom": 708,
+                "width": 133,
+                "height": 40
+            },
+            "tag": "button",
+            "text": "Understood"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 24,
+                "top": 8,
+                "right": 140,
+                "bottom": 40,
+                "width": 116,
+                "height": 32
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 188,
+                "top": 0,
+                "right": 238,
+                "bottom": 48,
+                "width": 50,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "\n    Build\n  \n    "
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 238,
+                "top": 0,
+                "right": 286,
+                "bottom": 48,
+                "width": 48,
+                "height": 48
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 286,
+                "top": 0,
+                "right": 329,
+                "bottom": 48,
+                "width": 43,
+                "height": 48
+            },
+            "tag": "a",
+            "text": "\n    Run\n  \n    "
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 329,
+                "top": 0,
+                "right": 377,
+                "bottom": 48,
+                "width": 48,
+                "height": 48
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 377,
+                "top": 0,
+                "right": 453,
+                "bottom": 48,
+                "width": 76,
+                "height": 48
+            },
+            "tag": "button",
+            "text": "More"
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 482,
+                "top": 6,
+                "right": 682,
+                "bottom": 42,
+                "width": 200,
+                "height": 36
+            },
+            "tag": "input",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 907,
+                "top": 6,
+                "right": 952,
+                "bottom": 42,
+                "width": 45,
+                "height": 36
+            },
+            "tag": "a",
+            "text": "\n  Blog\n"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 968,
+                "top": 6,
+                "right": 1054,
+                "bottom": 42,
+                "width": 86,
+                "height": 36
+            },
+            "tag": "a",
+            "text": "\n  Studio\n"
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 1070,
+                "top": 6,
+                "right": 1174,
+                "bottom": 42,
+                "width": 104,
+                "height": 36
+            },
+            "tag": "a",
+            "text": "\n  Go to console\n"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 1190,
+                "top": 6,
+                "right": 1248,
+                "bottom": 42,
+                "width": 58,
+                "height": 36
+            },
+            "tag": "a",
+            "text": "\n  Sign in\n"
+        }
+    ]
+}

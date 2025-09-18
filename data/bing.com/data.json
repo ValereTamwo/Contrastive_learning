@@ -1,0 +1,482 @@
+{
+    "raw_html": "<HTML lang=\"fr\" dir=\"ltr\"><DIV id=\"bnp_container\" class=\"bnp_container\"><DIV class=\"bnp_title_container\"><DIV class=\"b_logo bnp_icon\"></DIV></DIV><DIV class=\"bnp_content\"><DIV class=\"bnp_content_desc\"><DIV class=\"bnp_desc_left\"><text>Microsoft et ses fournisseurs tiers utilisent des cookies et des technologies similaires pour fournir, mettre à jour et améliorer ses services et annonces. Si vous l’acceptez, nous utiliserons ces données pour personnaliser les annonces et procéder à des analyses dans ce domaine.</text></DIV><DIV class=\"bnp_desc_right\"><text>Vous pouvez sélectionner « Accepter » pour accepter ces utilisations, « Refuser » pour refuser ces utilisations ou cliquer sur ‘Plus d’options’ pour passer en revue vos options. Vous pouvez modifier votre sélection sous « Gérer les Préférences de cookie » en bas de cette page.</text><A href=\"https://go.microsoft.com/fwlink/?LinkId=521839\" target=\"_blank\" id=\"bnp_desc_left_privacy\" class=\"bnp_desc_left_privacy possible-clickable-element\" data-testid=\"A\"><text>Déclaration de confidentialité</text></A></DIV></DIV><DIV class=\"bnp_action_container\"><DIV id=\"bnp_btn_accept\" class=\"bnp_btn_accept\"><A href=\"javascript: void(0)\" h=\"ID=Bnp,5007.1\" class=\"possible-clickable-element\" data-testid=\"B\"><text>Accepter</text></A></DIV><DIV id=\"bnp_btn_reject\" class=\"bnp_btn_reject\"><A href=\"javascript: void(0)\" h=\"ID=Bnp,5008.1\" class=\"possible-clickable-element\" data-testid=\"C\"><text>Refuser</text></A></DIV><A class=\"bnp_btn_preference\" id=\"bnp_btn_preference\" href=\"javascript: void(0)\" h=\"ID=Bnp,5009.1\"><SPAN class=\"bnp_btn_preference_text possible-clickable-element\" data-testid=\"D\"><text>Plus d’options</text></SPAN></A></DIV></DIV></DIV><DIV class=\"hpapp\" id=\"hp_app\"><DIV class=\"hp_body\"><DIV class=\"hp_top_cover_container hp_top_cover_contrast\" data-priority=\"2\"><DIV class=\"shaders\"><DIV class=\"topLeft\"></DIV><DIV class=\"topRight\"></DIV></DIV><DIV class=\"hp_top_cover\" id=\"hp_top_cover\" style=\"display: block; background-image: url(\"blob:https://www.bing.com/2d441922-dca3-4ff6-9c59-32e7fa16b49c\");\"><DIV class=\"hp_top_cover_dim\" style=\"opacity: 0;\"></DIV></DIV></DIV><DIV class=\"hp_media_container\"><DIV class=\"hp_media_container_gradient\"></DIV><DIV class=\"shaders\"><DIV class=\"bottom\"></DIV></DIV><DIV class=\"img_cont\" id=\"img_cont\" data-priority=\"2\" style=\"display: block; background-image: url(\"blob:https://www.bing.com/2d441922-dca3-4ff6-9c59-32e7fa16b49c\");\"><DIV class=\"hp_top_cover_dim\" data-priority=\"2\" style=\"opacity: 0;\"></DIV></DIV></DIV><DIV class=\"hpl hp_cont\" role=\"main\"><HEADER class=\"header header-full\" id=\"hdr\" data-priority=\"2\"><DIV class=\"head_cont\" id=\"headCont\"><H1 class=\"logo_cont\" aria-labelledby=\"bLogo\" title=\"Tendances maintenant sur Bing\"><svg id=\"bLogo\" role=\"img\" class=\"logo\" viewBox=\"0 0 154 28\" aria-label=\"Image du logo Microsoft\" tabindex=\"0\"><svg class=\"squares\" aria-hidden=\"true\"><path class=\"top_l possible-clickable-element\" d=\"M11.35 0H0v11.35h11.35z\" data-testid=\"E\"></path><path class=\"top_r possible-clickable-element\" d=\"M23.88 0H12.53v11.35h11.35z\" data-testid=\"F\"></path><path class=\"bom_l possible-clickable-element\" d=\"M11.35 12.53H0v11.35h11.35z\" data-testid=\"G\"></path><path class=\"bom_r possible-clickable-element\" d=\"M23.88 12.53H12.53v11.35h11.35z\" data-testid=\"H\"></path></svg><path class=\"ms_text possible-clickable-element\" d=\"M46.55 4.77V19.1h-2.48V7.87h-.05L39.59 19.1h-1.65L33.37 7.87h-.03V19.1h-2.3V4.77h3.57l4.11 10.62h.06l4.35-10.62zm2.08 1.1c0-.4.15-.74.44-1.01.29-.27.63-.4 1.03-.4a1.44 1.44 0 011.48 1.4c0 .4-.14.73-.43 1-.28.26-.64.4-1.05.4s-.76-.14-1.04-.41c-.29-.27-.43-.6-.43-.99zm2.67 2.96V19.1h-2.42V8.83zm7.34 8.51c.35 0 .75-.08 1.18-.24.44-.17.84-.39 1.2-.66v2.24c-.38.22-.82.4-1.3.5a7.2 7.2 0 01-1.62.17 4.97 4.97 0 01-3.7-1.43A4.99 4.99 0 0153 14.26c0-1.65.48-3.01 1.45-4.08.96-1.07 2.33-1.6 4.1-1.6a5.62 5.62 0 012.48.58v2.31a5 5 0 00-1.14-.63 3.32 3.32 0 00-1.2-.23c-.95 0-1.72.31-2.3.93s-.89 1.46-.89 2.51c0 1.04.29 1.85.85 2.43.56.58 1.33.86 2.3.86zm9.27-8.68a2.54 2.54 0 01.91.14v2.45a2.56 2.56 0 00-1.44-.4c-.6 0-1.1.26-1.5.76s-.62 1.27-.62 2.3v5.2h-2.42V8.82h2.42v1.62h.04c.22-.56.56-1 1-1.31.45-.32.98-.48 1.6-.48zm1.04 5.46c0-1.7.48-3.05 1.44-4.04s2.3-1.49 4-1.49c1.6 0 2.85.48 3.76 1.43s1.35 2.25 1.35 3.88c0 1.66-.48 2.99-1.44 3.97a5.22 5.22 0 01-3.92 1.48c-1.59 0-2.85-.47-3.79-1.4a5.17 5.17 0 01-1.4-3.83zm2.52-.08c0 1.07.24 1.89.73 2.46s1.18.84 2.09.84c.87 0 1.54-.28 2-.84s.7-1.41.7-2.52c0-1.1-.24-1.94-.72-2.5a2.48 2.48 0 00-2-.85c-.89 0-1.57.3-2.06.88-.5.6-.74 1.44-.74 2.53zm11.63-2.51c0 .35.1.62.33.82.22.2.7.44 1.46.74.96.39 1.64.82 2.03 1.3.39.49.58 1.07.58 1.76 0 .96-.37 1.74-1.11 2.33s-1.75.88-3.01.88a7.25 7.25 0 01-2.73-.56v-2.37c.44.3.91.55 1.42.73.5.18.97.27 1.38.27.55 0 .95-.08 1.21-.23.26-.16.39-.41.39-.77 0-.34-.14-.62-.4-.85-.28-.23-.79-.5-1.54-.8-.89-.37-1.52-.79-1.9-1.26s-.56-1.05-.56-1.77c0-.93.37-1.7 1.1-2.29.75-.6 1.7-.9 2.87-.9a7.06 7.06 0 012.33.44v2.3c-.32-.22-.7-.4-1.12-.56a3.74 3.74 0 00-1.27-.23c-.46 0-.82.1-1.07.27a.86.86 0 00-.4.75zm5.44 2.59c0-1.7.48-3.05 1.44-4.04a5.3 5.3 0 014-1.49c1.6 0 2.86.48 3.76 1.43s1.35 2.25 1.35 3.88c0 1.66-.48 2.99-1.44 3.97a5.22 5.22 0 01-3.91 1.48c-1.6 0-2.86-.47-3.8-1.4a5.17 5.17 0 01-1.4-3.83zm2.52-.08c0 1.07.24 1.89.73 2.46s1.18.84 2.1.84c.87 0 1.54-.28 2-.84s.7-1.41.7-2.52c0-1.1-.25-1.94-.72-2.5a2.48 2.48 0 00-2-.85c-.89 0-1.58.3-2.07.88a3.8 3.8 0 00-.74 2.53zm16.06-3.23h-3.6v8.3h-2.45v-8.3h-1.72V8.83h1.72V7.4a3.56 3.56 0 013.75-3.69c.3 0 .56.02.78.05.23.03.43.08.6.14v2.09a2.42 2.42 0 00-1.1-.27c-.51 0-.9.16-1.18.47-.27.32-.4.78-.4 1.4v1.25h3.6V6.53l2.42-.74v3.05H112v1.97h-2.45v4.8c0 .64.12 1.09.35 1.35.23.26.59.39 1.08.39a2.35 2.35 0 001.02-.34v2c-.15.09-.4.17-.76.24s-.7.1-1.06.1c-1.01 0-1.78-.26-2.29-.8-.5-.55-.76-1.36-.76-2.46v-5.28z\" data-testid=\"I\"></path><path class=\"b_text possible-clickable-element\" d=\"M117.5 19.24V5.07h4.5c1.37 0 2.46.3 3.26.9.8.6 1.2 1.38 1.2 2.34 0 .8-.23 1.5-.68 2.1a3.68 3.68 0 01-1.89 1.26v.04c.98.11 1.75.47 2.33 1.09.59.6.88 1.4.88 2.37 0 1.21-.48 2.2-1.43 2.94s-2.16 1.13-3.62 1.13zm2.35-12.28v4.03h1.52c.82 0 1.46-.2 1.92-.57.47-.4.7-.94.7-1.64 0-1.22-.81-1.82-2.43-1.82zm0 5.92v4.48h2c.88 0 1.56-.2 2.03-.6.48-.41.72-.97.72-1.68 0-1.47-1.01-2.2-3.05-2.2zM129.97 7c-.37 0-.7-.13-.96-.37-.27-.24-.4-.55-.4-.93s.13-.69.4-.94.59-.37.97-.37.71.12.98.37.4.57.4.94c0 .36-.13.66-.4.92-.27.25-.6.38-.99.38zm1.14 12.24h-2.29V9.12h2.3zM142.46 19.24h-2.29v-5.7c0-1.9-.67-2.84-2-2.84-.7 0-1.28.27-1.74.8a2.9 2.9 0 00-.68 1.97v5.77h-2.3V9.12h2.3v1.68h.04a3.6 3.6 0 013.28-1.92c1.1 0 1.94.36 2.52 1.08.58.71.87 1.74.87 3.1zM153.81 18.43c0 3.71-1.86 5.57-5.6 5.57a8.35 8.35 0 01-3.45-.66v-2.1c1.1.64 2.16.95 3.15.95 2.4 0 3.61-1.18 3.61-3.55v-1.1h-.04a3.71 3.71 0 01-3.42 1.93 3.72 3.72 0 01-2.98-1.34 5.49 5.49 0 01-1.13-3.63c0-1.72.4-3.08 1.22-4.1s1.92-1.52 3.34-1.52c1.33 0 2.32.55 2.97 1.64h.04v-1.4h2.3zm-2.27-3.82v-1.32c0-.71-.24-1.32-.71-1.82a2.3 2.3 0 00-1.76-.76c-.87 0-1.55.33-2.04.97a4.34 4.34 0 00-.74 2.69c0 1 .24 1.79.7 2.39.48.6 1.1.89 1.88.89.8 0 1.44-.29 1.93-.85.5-.58.74-1.3.74-2.2z\" data-testid=\"J\"></path></svg></H1><NAV class=\"scope_cont\"><UL class=\"scopes\" role=\"menubar\"><LI class=\"scope\" id=\"codex\" role=\"menuitem\" aria-haspopup=\"false\"><A href=\"/chat?FORM=hpcodx\" data-h=\"ID=HpApp,7818.1\" target=\"_blank\" class=\"customIcon\" rel=\"noopener\"><DIV class=\"icon\"><IMG src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKFSURBVHgBrVJBaxNBFP7ezGw2bZJmo/SkYCyICgoVvBQ85AcILUUvXkov4tFeBY3xD4gnbxIoXhTaglfR9OC5HnpSpCmtNMW2ydom2d3ZnedstKXBoz72zZth+b73fTMP+Meg482lN+3JTH5kGcxlZsAYRlpjP8Lu66+gnm66Ls3vvZ9qnCZQ6eK93Cl32skytw/L6TkFpp8Nij/twtGGc16mLEdVdQ8YIhDpYrSuhlHvQhR2oaOuPR+CtU9IfFbtAPkxB1TKIjo7WvEebnh/KSi63yvWDAlKWCBOK4Qw0C2i0BQh8g6F3giigstxLlO1kIWTO7i5uFgxJD4OQH+SEA+q/6W0sv3h6nyncaOzen+9bpzcXIQsNGcQs+joUNfUeP7b9IDJdpeUkO3MEslAzfh1Z2H9yb3O2p13lf5+a65rCgg5h4CzSIz0BJmqmnCbFSGYFSekyMCSQKVWjNl8dnupmZKPCX/aMZFtEFOGQowYl42w7sl46pq7NSnZIAWnQAlDNq0iXjn2WRQHMw7lyKHIKgg4sjtjW9pfn9UVtdOxkr0UJOk3WNlkJAOC/oNqOQmOyjLScC08RJdiZFILqe+GmpCtWpaSqhLGE0ggB2BRL071VtcqFa99tP3cO3MOmSBmFYbIaodja4aFIoZaodNvym9nq/gRP8VuAOyE3NpK4F65TKO5EnOgwJHNWBE0MSdiM//q8UUxNNd3l2rwdQd9gyRiMq6DwoQEFXskvB5kqQdRPGJR6hGVuo2TSRyKfV3njsbhT3tH4xkSYxZY7EN6/QGRLPVTsg2RD2onkzgUe/EL3+eZg0SWz9/KQhT64KxO5ZOMJbMWzaCL2fyjehP/I34BAVpFdp9EDL8AAAAASUVORK5CYII=\" height=\"16\" width=\"16\" role=\"presentation\" class=\"rms_img possible-clickable-element\" data-testid=\"K\"></IMG></DIV><DIV class=\"text possible-clickable-element\" data-testid=\"L\"><text>Copilot</text></DIV></A></LI><LI class=\"scope\" id=\"images\" role=\"menuitem\" aria-haspopup=\"false\"><A href=\"/images?FORM=Z9LH\" data-h=\"ID=HpApp,7808.1\" target=\"_blank\" class=\"possible-clickable-element\" rel=\"noopener\" data-testid=\"M\"><text>Images</text></A></LI><LI class=\"scope try_exp\" id=\"video\" role=\"menuitem\" aria-haspopup=\"false\"><A href=\"/videos?FORM=Z9LH1\" data-h=\"ID=HpApp,12468.1\" target=\"_blank\" class=\"possible-clickable-element\" rel=\"noopener\" data-testid=\"N\"><text>Vidéos</text></A></LI><LI class=\"scope try_exp\" id=\"shopping\" role=\"menuitem\" aria-haspopup=\"false\"><A href=\"/shop?FORM=Z9LHS4\" data-h=\"ID=HpApp,12468.1\" target=\"_blank\" class=\"possible-clickable-element\" rel=\"noopener\" data-testid=\"O\"><text>Achats</text></A></LI><LI class=\"scope try_exp\" id=\"local\" role=\"menuitem\" aria-haspopup=\"false\"><A href=\"/maps?FORM=Z9LH2\" data-h=\"ID=HpApp,6720.1\" target=\"_blank\" class=\"possible-clickable-element\" rel=\"noopener\" data-testid=\"P\"><text>Cartes</text></A></LI><LI class=\"scope try_exp\" id=\"news\" role=\"menuitem\" aria-haspopup=\"false\"><A href=\"/news/search?q=Articles+principaux&nvaug=%5bNewsVertical+Category%3d%22rt_MaxClass%22%5d&FORM=Z9LH3\" data-h=\"ID=HpApp,6720.1\" target=\"_blank\" class=\"possible-clickable-element\" rel=\"noopener\" data-testid=\"Q\"><text>Actualités</text></A></LI><LI class=\"scope dots\" id=\"dots_overflow_menu_container\" aria-haspopup=\"true\" aria-expanded=\"false\" role=\"menuitem\"><DIV class=\"dots_tab_selection tooltip possible-clickable-element\" tabindex=\"0\" aria-label=\"Plus\" role=\"tooltip\" data-testid=\"R\"></DIV></LI></UL></NAV></DIV><DIV class=\"identity_wrapper\"><DIV id=\"idCont\"><DIV id=\"id_h\" class=\"6FEDD79CF977AF479D89099DCD98E144\" role=\"complementary\" aria-label=\"Récompenses et préférences du compte\" data-priority=\"2\"><A id=\"id_l\" class=\"id_button linkBtn\" aria-haspopup=\"true\" aria-controls=\"id_d\" data-clarity-mask=\"true\" href=\"javascript:void(0)\" h=\"ID=SERP,5016.1\"><SPAN id=\"id_s\" aria-hidden=\"false\" class=\"possible-clickable-element\" data-testid=\"S\"><text>Connexion</text></SPAN><SPAN class=\"sw_spd id_avatar possible-clickable-element\" id=\"id_a\" aria-hidden=\"false\" data-testid=\"T\"></SPAN></A><A class=\"id_button tooltip linkBtn\" data-priority=\"6FEDD79CF977AF479D89099DCD98E144\" id=\"id_rh_w\" dir=\"ltr\" aria-label=\"Microsoft Rewards\" aria-expanded=\"false\" aria-controls=\"rewid-f\" aria-haspopup=\"true\" role=\"button\" tabindex=\"0\" href=\"javascript:void(0)\" h=\"ID=SERP,5024.1\"><DIV id=\"rh_rwm\" class=\"hp medallion\" data-rewards-widget=\"medallion\" data-content=\"eyJiYWxhbmNlIjowLCJnb2FsVHJhY2tFbmFibGVkIjp0cnVlLCJnb2FsVHJhY2tCYWxhbmNlIjoyMDAsInNsaW0iOmZhbHNlLCJhdXRvT3BlbkZseW91dElkU2VsZWN0b3IiOiJpZF9oIiwiaXNIb3ZlckVuYWJsZWQiOmZhbHNlLCJpc1N3ZWVwc3Rha2VzRW5hYmxlZCI6ZmFsc2UsIm5hdlVybCI6IiIsImlzRnJvemVuTWVkYWxsaW9uRW5hYmxlZCI6ZmFsc2UsImlzTmV3TGV2ZWxNZWRhbGxpb25FbmFibGVkIjpmYWxzZSwibmV3TGV2ZWxUcmVhdG1lbnQiOiIiLCJvY2VhbkNvbW1vdGlvbiI6eyJpc0VuYWJsZWQiOmZhbHNlfSwidG9vbHRpcCI6eyJieUZlYXR1cmUiOnt9fSwiaXNLdW1vSGVhZGVyRW5hYmxlZCI6ZmFsc2UsImlzTWVkYWxsaW9uT25Db3BpbG90U2VhcmNoRW5hYmxlZCI6ZmFsc2UsImlzQmFsYW5jZUFuaW1hdGlvbkRpc2FibGVkIjpmYWxzZSwiZ2FpbmluZ1BvaW50c0FuaW1hdGlvblR5cGUiOiIiLCJmbHlvdXQiOnsiaXNPcGVuQnlEZWZhdWx0RW5hYmxlZCI6ZmFsc2UsIm9wZW5CeURlZmF1bHRNb2RlIjoiZGlzYWJsZWQifX0=\"><DIV class=\"b_clickarea\" data-priority=\"2\"><SPAN class=\"points-container possible-clickable-element\" data-tag=\"RewardsHeader.Counter\" data-testid=\"U\"><text>Rewards</text></SPAN><DIV class=\"medal\"><DIV class=\"goal-tracking-container\" data-tag=\"RewardsHeader.Icon\"><svg class=\"goal-track-outer-circle\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" enable-background=\"new 0 0 32 32\"><circle stroke-width=\"2\" cx=\"16\" cy=\"16\" r=\"14\" fill=\"none\"></circle></svg><svg class=\"medal-goal-track-meter possible-clickable-element\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" enable-background=\"new 0 0 32 32\" data-testid=\"V\"><circle stroke-width=\"2\" stroke-dasharray=\"88\" stroke-dashoffset=\"88\" cx=\"16\" cy=\"16\" r=\"14\" fill=\"none\"></circle></svg><svg class=\"goal-track-medal-type\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 32 32\" enable-background=\"new 0 0 32 32\"><path d=\"M23 9h-14c-.552 0-1 .448-1 1v3.71c0 .538.288 1.034.756 1.303l4.877 2.778c-1.206.891-1.905 2.43-1.532 4.115.323 1.461 1.501 2.655 2.96 2.987 2.617.596 4.939-1.378 4.939-3.893 0-1.32-.647-2.481-1.633-3.209l4.877-2.779-.002.001c.471-.268.758-.767.758-1.303v-3.71c0-.552-.448-1-1-1zm-12 4.991l-1-.571v-2.42h1v2.991zm5 9.009c-1.103 0-2-.897-2-2s.897-2 2-2 2 .897 2 2-.897 2-2 2zm3-7.866l-2.472 1.537c-.323.201-.733.201-1.056 0l-2.472-1.537v-4.134h6v4.134zm3-1.714l-1 .571v-2.991h1v2.42z\"></path></svg></DIV></DIV></DIV></DIV></A><A id=\"id_mobile\" class=\"id_button\" role=\"button\" data-priority=\"2\" aria-label=\"Mobile\" target=\"_self\" href=\"#\" h=\"ID=SERP,5070.1\"><SPAN class=\"mobicontxt possible-clickable-element\" data-testid=\"W\"><text>Mobile</text></SPAN><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"33\" height=\"36\" viewBox=\"0 0 33 36\" fill=\"none\" class=\"6FEDD79CF977AF479D89099DCD98E144\"><path d=\"M11.9219 5C10.3082 5 9 6.30817 9 7.92187V29.5781C9 31.1918 10.3082 32.5 11.9219 32.5H22.5781C24.1918 32.5 25.5 31.1918 25.5 29.5781V7.92187C25.5 6.30817 24.1918 5 22.5781 5H11.9219ZM10.7187 7.92187C10.7187 7.25741 11.2574 6.71875 11.9219 6.71875H22.5781C23.2426 6.71875 23.7812 7.25741 23.7812 7.92187V29.5781C23.7812 30.2426 23.2426 30.7812 22.5781 30.7812H11.9219C11.2574 30.7812 10.7187 30.2426 10.7187 29.5781V7.92187ZM15.3594 26.6562C14.8848 26.6562 14.5 27.041 14.5 27.5156C14.5 27.9902 14.8848 28.375 15.3594 28.375H19.1406C19.6152 28.375 20 27.9902 20 27.5156C20 27.041 19.6152 26.6562 19.1406 26.6562H15.3594Z\"></path><circle class=\"possible-clickable-element\" cx=\"29.5\" cy=\"3.5\" r=\"3.5\" fill=\"#C80000\" data-testid=\"X\"></circle></svg></A><A id=\"id_sc\" class=\"idp_ham hphbtop linkBtn possible-clickable-element\" aria-label=\"Paramètres et liens rapides\" aria-expanded=\"false\" aria-controls=\"id_hbfo\" aria-haspopup=\"true\" role=\"button\" tabindex=\"0\" href=\"javascript:void(0)\" h=\"ID=SERP,5034.1\" data-testid=\"Y\"></A></DIV></DIV></DIV></HEADER><DIV class=\"dimmer cdxShowConv\"></DIV><DIV class=\"sbox_sl cdxShowConv centralized sbox_larger sb_expanded_wrapper\"><FORM data-h=\"ID=HpApp,21474.1\" class=\"sb_form hassbi c_show_form c_text c_show_keyboard fl c_show_c ntp_border sb_expanded hasmic\" id=\"sb_form\" action=\"/search\" role=\"search\"><LABEL aria-hidden=\"true\" for=\"sb_form_go\" class=\"search icon tooltip\" id=\"search_icon\" aria-label=\"Rechercher sur le Web\" tabindex=\"-1\"><svg aria-hidden=\"true\" width=\"25\" height=\"24\" viewBox=\"0 0 25 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"possible-clickable-element\" data-testid=\"Z\"><path class=\"gray70_fill_sb\" d=\"M10.4167 0C15.7555 0 20.0833 4.32792 20.0833 9.66667C20.0833 11.9759 19.2736 14.0959 17.9227 15.7584L24.4571 22.2929C24.8476 22.6835 24.8476 23.3165 24.4571 23.7071C24.1021 24.0621 23.5465 24.0944 23.1551 23.8039L23.0429 23.7071L16.5084 17.1727C14.8459 18.5236 12.7259 19.3333 10.4167 19.3333C5.07792 19.3333 0.75 15.0055 0.75 9.66667C0.75 4.32792 5.07792 0 10.4167 0ZM10.4167 2C6.18248 2 2.75 5.43248 2.75 9.66667C2.75 13.9008 6.18248 17.3333 10.4167 17.3333C14.6508 17.3333 18.0833 13.9008 18.0833 9.66667C18.0833 5.43248 14.6508 2 10.4167 2Z\" fill=\"#767676\"></path></svg></LABEL><DIV id=\"sb_form_c\" class=\"sb_form_c tooltip\"><DIV class=\"sb_form_ic\"><TEXTAREA id=\"sb_form_q\" class=\"sb_form_q possible-clickable-element\" name=\"q\" type=\"search\" inputmode=\"search\" maxlength=\"2000\" autocomplete=\"off\" autofocus=\"6FEDD79CF977AF479D89099DCD98E144\" aria-autocomplete=\"both\" placeholder=\"6FEDD79CF977AF479D89099DCD98E144\" aria-label=\"0 caractères sur 2000\" style=\"width: 875px;\" spellcheck=\"false\" autocorrect=\"off\" autocapitalize=\"none\" rows=\"1\" enterkeyhint=\"search\" data-testid=\"AA\"></TEXTAREA></DIV></DIV><DIV class=\"camera icon hidden fl\" style=\"display: block;\"><DIV id=\"sbiarea\" data-priority=\"2\" data-idprefix=\"sb\" data-ptn=\"Homepage\"><DIV id=\"sb_sbip\" data-sbtip=\"Rechercher à l’aide d’une image\" data-lgdgevt=\"0\"><DIV id=\"sb_sbi\" tabindex=\"0\" role=\"button\" data-scrtl=\"1\" aria-label=\"Rechercher à l’aide d’une image\" data-openapp=\"6FEDD79CF977AF479D89099DCD98E144\" data-redirectid=\"6FEDD79CF977AF479D89099DCD98E144\" data-rdrctcddays=\"3\" data-rdrctcddtimes=\"2\" aria-expanded=\"false\" hsevt=\"1\"><IMG id=\"sbi_b\" class=\"rms_img\" role=\"none\" width=\"24\" height=\"24\" src=\"https://r.bing.com/rp/f21jlSMmEDN43OaavcdaB-7Phq0.svg\"></IMG></DIV></DIV></DIV></DIV><DIV class=\"clear icon tooltip show fl possible-clickable-element\" role=\"button\" aria-label=\"Effacer\" tabindex=\"0\" data-testid=\"AB\"><svg aria-hidden=\"true\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path class=\"gray70_fill_sb\" d=\"M6.15728 6.29033L6.21967 6.21967C6.49004 5.94931 6.91546 5.92851 7.20968 6.15728L7.28033 6.21967L12 10.9388L16.7197 6.21967C17.0126 5.92678 17.4875 5.92678 17.7803 6.21967C18.0732 6.51257 18.0732 6.98744 17.7803 7.28033L13.0613 12L17.7803 16.7197C18.0507 16.9901 18.0715 17.4155 17.8427 17.7097L17.7803 17.7803C17.51 18.0507 17.0846 18.0715 16.7903 17.8427L16.7197 17.7803L12 13.0613L7.28033 17.7803C6.98744 18.0732 6.51257 18.0732 6.21967 17.7803C5.92678 17.4875 5.92678 17.0126 6.21967 16.7197L10.9388 12L6.21967 7.28033C5.94931 7.00997 5.92851 6.58454 6.15728 6.29033L6.21967 6.21967L6.15728 6.29033Z\" fill=\"#767676\"></path></svg></DIV><DIV id=\"sw_as\" style=\"display: block; margin-left: 0px; margin-right: -10px;\"></DIV></FORM><A href=\"/chat?FORM=hpcodx\" data-h=\"ID=HpApp,15483.1\" target=\"_blank\" class=\"cdxConv_slsboxl\" aria-label=\"Ouvrir Copilot\"><DIV class=\"cdxCopilotIconBg\"><DIV class=\"cdxCopilotIcon cdxCopilotIconURI possible-clickable-element\" data-testid=\"AC\"></DIV></DIV></A></DIV></DIV><DIV class=\"bottom_row widget msnpeek nomvs\" data-priority=\"2\"><DIV class=\"mc_caro five_col\"><DIV class=\"hp_trivia_outer\"></DIV><DIV class=\"hp_trivia_inner\" data-iid=\"Trivia\" role=\"dialog\" aria-haspopup=\"true\"><DIV class=\"trivia\" role=\"group\" aria-labelledby=\"quizTitle\"><DIV class=\"title\"><IMG src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADRElEQVRYCb2XXUtUQRjH3dANJQUhZaOLCoK0IO+CLiKjNQL7FCoGQQSRQkhvFFEXSULd1OfoqsKtLLqriz5AUdobvZBa+FKn3/+ceXb3bOd4zu62/uHnzJmZ5+XMzpkZM00p5XneRoYegmOwF7Y4PMr38AFewD0oZDKZZcr6ReAc3IIFSKt5Bk5Bd1IGmbgBGGfpuwinoA0kvdU0FGAW9ObyodnYCpqhgyBbaQEm4QozsqKGVCK43voZmN5QGYJNSQ4Y0wGj8A5Mj6l0Jdn6/QzsAzNepj4O+v2rEjatMAErIL2GPWs6YYDe3IJ/pq7prEv4OAxfQVIS0euCjizYtCv4zroilxnjqwcsiSfUbY2URtF4FSRNe91vXvIc1PA5AKsgnQv106CpX1QPGg91/scHfJ/3I3jeD8rST8HDbdeh1V71gkubI77bYM7FmvLtFBBskxlK66zWccQ64RL4QtncxJ+jrmGJMvE7rzWw2RGjE+zTzG+gQ3u7NM1upZ2roSLGNwLMuCCDSqDPPRRcuR6FxdqlBHIuovb29ZLF2qEEdJBIOljWSxYrpwQ8FzX2ZGxgVotKwLKxmWhgvKJr24TmlYBuMpLO87rFJ9abwsk2N2ZWCbx0D7pM1CWCn8TBK8rhBEf9rv+pNqIjIOkQ6kgwjO3Gthd+g/QHIpOgvR206Ul5JZAF3eGk0dgIKTqwHwYFlyKToP203+t5HymDc4eKLpCSLiOtKWLFDsE+Ngn69LJvQbpQdMJDN9gsTBQ7aqzgKzIJ2q+D9BPsSwii0HBJPUgHRb7G2EUzfFQmcZM2WyO6aYdFZws8AknXp57wiOqf8FGehPxK9yF606OjC3RxlJTEQPVhwxb40JuXayw8ouKJkbvBktAdTtco+8ekYnT8IzZacNfApp2qL30dI/GW9DBgMxT84cGfOQrdZDrXNAxs9Z3rU7PVTtV7CGNQ/on6SUT/FoGjFoqzcAbaQVoFXSYKoCNV54gOM63o7dAP+8Gu3b+o6wY8yUVEiWhzuguKK7vkfQcjzcYN+A5ppfVzGf75d4y2EbCZuBM7A2QXEkbNNByAQdAtSqenLjPy8Ql0qD2HBzDDGy9RRkpJ0LEPjv8FY4TA6cLS3Z0AAAAASUVORK5CYII=\" class=\"image_q\" role=\"presentation\"></IMG><text>Questionnaire de la page d’accueil Bing</text></DIV><DIV class=\"question\" id=\"quizTitle\"><text>Quel est le principal objectif de la jetée de Dunquin ?</text></DIV><UL class=\"options\"><LI class=\"option\"><A href=\"/search?q=Acc%C3%A8s+aux+%C3%AEles+Blasket&filters=mgzv3configlist%3A%22BingQA_Quiz_Layout%22+IsConversation%3A%22True%22+btrequestsource%3A%22homepage%22+WQOskey%3A%22HPQuiz_20250918_DunquinIreland%22+WQId%3A%221%22+WQQI%3A%220%22+WQCI%3A%220%22+UserChoices%3A%220%22+ShowTimesTaskPaneTrigger%3A%22false%22+WQSCORE%3A%221%22&FORM=HPQUIZ\" data-h=\"ID=HpApp,28281.1\" target=\"_blank\" aria-label=\"Réponse : A, Accès aux îles Blasket\"><SPAN class=\"bullet\"><text>A</text></SPAN><SPAN class=\"answer\"><text>Accès aux îles Blasket</text></SPAN></A></LI><LI class=\"option\"><A href=\"/search?q=Acc%C3%A8s+aux+%C3%AEles+Blasket&filters=mgzv3configlist%3A%22BingQA_Quiz_Layout%22+IsConversation%3A%22True%22+btrequestsource%3A%22homepage%22+WQOskey%3A%22HPQuiz_20250918_DunquinIreland%22+WQId%3A%221%22+WQQI%3A%220%22+WQCI%3A%221%22+UserChoices%3A%221%22+ShowTimesTaskPaneTrigger%3A%22false%22+WQSCORE%3A%220%22&FORM=HPQUIZ\" data-h=\"ID=HpApp,28281.1\" target=\"_blank\" aria-label=\"Réponse : B, Port de pêche\"><SPAN class=\"bullet\"><text>B</text></SPAN><SPAN class=\"answer\"><text>Port de pêche</text></SPAN></A></LI><LI class=\"option\"><A href=\"/search?q=Acc%C3%A8s+aux+%C3%AEles+Blasket&filters=mgzv3configlist%3A%22BingQA_Quiz_Layout%22+IsConversation%3A%22True%22+btrequestsource%3A%22homepage%22+WQOskey%3A%22HPQuiz_20250918_DunquinIreland%22+WQId%3A%221%22+WQQI%3A%220%22+WQCI%3A%222%22+UserChoices%3A%222%22+ShowTimesTaskPaneTrigger%3A%22false%22+WQSCORE%3A%220%22&FORM=HPQUIZ\" data-h=\"ID=HpApp,28281.1\" target=\"_blank\" aria-label=\"Réponse : C, Station touristique\"><SPAN class=\"bullet\"><text>C</text></SPAN><SPAN class=\"answer\"><text>Station touristique</text></SPAN></A></LI></UL></DIV></DIV><DIV class=\"musCard\" aria-haspopup=\"true\"><DIV class=\"headline\"><DIV class=\"icon_text\"><A href=\"/search?q=Dunquin+Pier+Irlande&form=hpcapt&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"\" data-h=\"ID=HpApp,27763.1\" target=\"_blank\"><DIV class=\"icon\"><svg class=\"mappin\" height=\"16\" width=\"16\" viewBox=\"0 0 12 12\" aria-hidden=\"true\" role=\"presentation\"><path d=\"M0 0h12v12h-12z\" fill=\"none\"></path><path d=\"M6.5 3a1.5 1.5 0 1 0 1.5 1.5 1.5 1.5 0 0 0-1.5-1.5zm0-3a4.5 4.5 0 0 0-4.5 4.5 5.607 5.607 0 0 0 .087.873c.453 2.892 2.951 5.579 3.706 6.334a1 1 0 0 0 1.414 0c.755-.755 3.253-3.442 3.706-6.334a5.549 5.549 0 0 0 .087-.873 4.5 4.5 0 0 0-4.5-4.5zm3.425 5.218c-.36 2.296-2.293 4.65-3.425 5.782-1.131-1.132-3.065-3.486-3.425-5.782a4.694 4.694 0 0 1-.075-.718 3.5 3.5 0 0 1 7 0 4.634 4.634 0 0 1-.075.718z\" class=\"possible-clickable-element\" data-testid=\"AD\"></path></svg></DIV><H2 class=\"text possible-clickable-element\" id=\"headline\" data-testid=\"AE\"><text>Un ruban de pierre vers la mer</text></H2></A></DIV><DIV class=\"nav\"><A href=\"#\" data-h=\"ID=HpApp,19231.1\" target=\"6FEDD79CF977AF479D89099DCD98E144\" id=\"leftNav\" class=\"leftNav\" role=\"button\" aria-label=\"Image précédente\" aria-disabled=\"false\" title=\"Image précédente\" style=\"pointer-events: auto;\"><DIV class=\"nav-arrow possible-clickable-element\" aria-hidden=\"true\" data-testid=\"AF\"></DIV></A><A href=\"#\" data-h=\"ID=HpApp,21465.1\" target=\"6FEDD79CF977AF479D89099DCD98E144\" id=\"rightNav\" class=\"rightNav disabled possible-clickable-element\" role=\"button\" aria-label=\"Image suivante\" aria-disabled=\"true\" title=\"Image suivante\" style=\"pointer-events: auto;\" data-testid=\"AG\"><DIV class=\"nav-arrow\" aria-hidden=\"true\"></DIV></A></DIV></DIV></DIV></DIV><BUTTON id=\"sb_feedback\" class=\"feedback_button feedback-binded\" role=\"button\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M10.75 14c1.24 0 2.25 1 2.25 2.25v1.61c-.32 2.13-2.23 3.15-5.43 3.15C4.37 21 2.43 20 2 17.9L2 17.75v-1.5C2 15.01 3 14 4.25 14h6.5zM7.5 6a3.5 3.5 0 110 7 3.5 3.5 0 010-7zm12.25-4C20.99 2 22 3 22 4.25v3.5C22 8.99 21 10 19.75 10H18.2l-2.54 2.2a1 1 0 01-1.66-.75V10a2.25 2.25 0 01-2-2.24v-3.5C12 3.01 13 2 14.25 2h5.5z\"></path></svg></BUTTON><SECTION role=\"region\" aria-label=\"Tendance sur Bing\" class=\"carousel show five_col\" id=\"carousel\"><A href=\"#\" data-h=\"ID=HpApp,36373.1\" target=\"6FEDD79CF977AF479D89099DCD98E144\" class=\"down tooltip\" id=\"hideShowCaro\" role=\"button\" aria-label=\"Toggle feed area position\" aria-expanded=\"true\" title=\"Toggle feed area position\" tabindex=\"0\"><DIV class=\"nav-arrow possible-clickable-element\" aria-hidden=\"true\" data-testid=\"AH\"></DIV></A><UL id=\"crs_pane\"><LI class=\"pntile\"><A href=\"/search?q=%c2%ab+Le+toit+de+ma+BMW+a+explos%c3%a9+tout+seul+%c2%bb+%3a+une+automobiliste+s%e2%80%99en+prend+au+constructeur+apr%c3%a8s+un+incident&efirst=0&ecount=50&filters=tnTID%3a%22TOBP2_95FD308029D4396A62D47DF5D7396092%22+tnVersion%3a%22f484bbc2-e587-4461-8070-c298d74ddb02%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%220%22+tnOrder%3a%22274bb1e3-684b-466a-8edb-5bf23369f3f3%22&form=HPNN01\" data-h=\"ID=HpApp,27953.1\" target=\"_blank\" title=\"© Le Parisien\"><SPAN class=\"crs_item\"><H2 title=\"« Le toit de ma BMW a explosé tout seul » : une automobiliste s’en prend au constructeur après un incident\" class=\"hp_text\"><text>« Le toit de ma BMW a explosé tout seul » : u…</text></H2><IMG src=\"/th?id=OVFT.ZK1Iifv0mOTG9qHahfIefy&w=186&h=88&c=7&rs=2&qlt=80&pid=PopNow\" title=\"© Le Parisien\" alt=\"© Le Parisien\"></IMG></SPAN></A></LI><LI class=\"pntile\"><A href=\"/search?q=%e2%80%9cLe+chinois%e2%80%a6%e2%80%9d%2c+deuxi%c3%a8me+d%c3%a9rapage+de+Michel+Mary+en+trois+jours+sur+TBT9&efirst=0&ecount=50&filters=tnTID%3a%22TOBP2_8DE24B31589EC097891617DD52500C55%22+tnVersion%3a%22f484bbc2-e587-4461-8070-c298d74ddb02%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%221%22+tnOrder%3a%22274bb1e3-684b-466a-8edb-5bf23369f3f3%22&form=HPNN01\" data-h=\"ID=HpApp,27953.1\" target=\"_blank\" title=\"© Télé star\"><SPAN class=\"crs_item\"><H2 title=\"“Le chinois…”, deuxième dérapage de Michel Mary en trois jours sur TBT9\" class=\"hp_text\"><text>“Le chinois…”, deuxième dérapage de …</text></H2><IMG src=\"/th?id=OVFT.m3ooSvcmd-W8zLIL4QFFay&w=186&h=88&c=7&rs=2&qlt=80&pid=PopNow\" title=\"© Télé star\" alt=\"© Télé star\"></IMG></SPAN></A></LI><LI class=\"pntile\"><A href=\"/search?q=%c2%ab+Ma+femme+paye+tout+%c2%bb%2c+%c2%ab+Je+n%27ai+plus+de+revenus+%c2%bb+%3a+recal%c3%a9+de+TPMP%2c+Benjamin+Castaldi+se+confie+sur+ses+gal%c3%a8res&efirst=0&ecount=50&filters=tnTID%3a%22TOBP2_CEFB097237E5CF512B06F82D73786B87%22+tnVersion%3a%22f484bbc2-e587-4461-8070-c298d74ddb02%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%222%22+tnOrder%3a%22274bb1e3-684b-466a-8edb-5bf23369f3f3%22&form=HPNN01\" data-h=\"ID=HpApp,27953.1\" target=\"_blank\" title=\"© So Busy Girls\"><SPAN class=\"crs_item\"><H2 title=\"« Ma femme paye tout », « Je n'ai plus de revenus » : recalé de TPMP, Benjamin Castaldi se confie sur ses galères\" class=\"hp_text\"><text>« Ma femme paye tout », « Je n'ai plus d…</text></H2><IMG src=\"/th?id=OVFT.QEUfpWSys8R32zK5Y8zeGS&w=186&h=88&c=7&rs=2&qlt=80&pid=PopNow\" title=\"© So Busy Girls\" alt=\"© So Busy Girls\"></IMG></SPAN></A></LI><LI class=\"pntile\"><A href=\"/search?q=%c2%ab+Je+vais+peut-%c3%aatre+faire+le+plus+grand+bide+du+cin%c3%a9ma+fran%c3%a7ais+%c2%bb+%3a+Kad+Merad+se+confie+apr%c3%a8s+l%e2%80%99%c3%a9chec+du+film+%c2%ab+Papamobile+%c2%bb&efirst=0&ecount=50&filters=tnTID%3a%22TOBP2_C5BDE6B8577DEF03BE3FF79761BA3BFC%22+tnVersion%3a%22f484bbc2-e587-4461-8070-c298d74ddb02%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%223%22+tnOrder%3a%22274bb1e3-684b-466a-8edb-5bf23369f3f3%22&form=HPNN01\" data-h=\"ID=HpApp,27953.1\" target=\"_blank\" title=\"© Le Parisien\"><SPAN class=\"crs_item\"><H2 title=\"« Je vais peut-être faire le plus grand bide du cinéma français » : Kad Merad se confie après l’échec du film « Papamobile »\" class=\"hp_text\"><text>« Je vais peut-être faire le plus grand bide d…</text></H2><IMG src=\"/th?id=OVFT.re76ijXIbQ1YboorcEGIUC&w=186&h=88&c=7&rs=2&qlt=80&pid=PopNow\" title=\"© Le Parisien\" alt=\"© Le Parisien\"></IMG></SPAN></A></LI><LI class=\"pntile\"><A href=\"/search?q=Harry+favori+de+Charles+III+%3f+%22Le+roi+est+actuellement+moins+irrit%c3%a9+par+le+prodigue+Harry+qu%e2%80%99il+ne+l%e2%80%99est+par+son+a%c3%aen%c3%a9%22&efirst=0&ecount=50&filters=tnTID%3a%22TOBP2_1021AED5AA47D07F5A58F844613FEA44%22+tnVersion%3a%22f484bbc2-e587-4461-8070-c298d74ddb02%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%224%22+tnOrder%3a%22274bb1e3-684b-466a-8edb-5bf23369f3f3%22&form=HPNN01\" data-h=\"ID=HpApp,27953.1\" target=\"_blank\" title=\"© Purepeople\"><SPAN class=\"crs_item\"><H2 title=\"Harry favori de Charles III ? \"Le roi est actuellement moins irrité par le prodigue Harry qu’il ne l’est par son aîné\"\" class=\"hp_text\"><text>Harry favori de Charles III ? \"Le roi est actuell…</text></H2><IMG src=\"/th?id=OVFT.kD7MQpDMeThzfgsLhfxoDi&w=186&h=88&c=7&rs=2&qlt=80&pid=PopNow\" title=\"© Purepeople\" alt=\"© Purepeople\"></IMG></SPAN></A></LI><LI class=\"pntile\"><A href=\"/search?q=%c2%ab+12+missiles+en+moins+d%e2%80%99une+minute+%c2%bb+%3a+Ghazi+Hamad%2c+dirigeant+du+Hamas+vis%c3%a9+par+la+frappe+isra%c3%a9lienne+au+Qatar%2c+appara%c3%aet+sur+Al+Jazeera&efirst=0&ecount=50&filters=tnTID%3a%22TOBP2_63AB44B18233BB63AE890C0A076EF94A%22+tnVersion%3a%22f484bbc2-e587-4461-8070-c298d74ddb02%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%225%22+tnOrder%3a%22274bb1e3-684b-466a-8edb-5bf23369f3f3%22&form=HPNN01\" data-h=\"ID=HpApp,27953.1\" target=\"_blank\" title=\"© Le Parisien\"><SPAN class=\"crs_item\"><H2 title=\"« 12 missiles en moins d’une minute » : Ghazi Hamad, dirigeant du Hamas visé par la frappe israélienne au Qatar, apparaît sur Al Jazeera\" class=\"hp_text\"><text>« 12 missiles en moins d’une minute » : Gh…</text></H2><IMG src=\"/th?id=OVFT.zBOOhlOddHE3LIMjU6WoXy&w=186&h=88&c=7&rs=2&qlt=80&pid=PopNow\" title=\"© Le Parisien\" alt=\"© Le Parisien\"></IMG></SPAN></A></LI></UL></SECTION><DIV class=\"feed_header\"><text>RECHERCHER</text></DIV><DIV class=\"card-actions-button-container\"><BUTTON class=\"hide-card-button\" data-t=\"{\"n\":\"showFewer\",\"t\":11,\"a\":\"click\",\"b\":16,\"c.i\":\"AA1MJh7n\",\"c.t\":13,\"c.v\":\"actualite\",\"c.c\":\"france\",\"c.b\":\"Europe 1\",\"c.bi\":\"BBpkAml\",\"c.hl\":\"Référendum sur l'immigration : la pétition de Philippe de Villiers dépasse 1,5 million de signatures\"}\" title=\"Masquer cet article\" aria-label=\"Masquer cet article\"><IMG alt=\"6FEDD79CF977AF479D89099DCD98E144\" aria-hidden=\"true\" src=\"https://assets.msn.com/staticsb/statics//latest/fluent-icons/dismiss_20_regular.svg\"></IMG></BUTTON><BUTTON class=\"card-actions-button\" data-t=\"{\"n\":\"Card Action Ellipsis\",\"t\":11,\"b\":12,\"c.i\":\"AA1MJh7n\",\"c.t\":13,\"c.v\":\"actualite\",\"c.c\":\"france\",\"c.b\":\"Europe 1\",\"c.bi\":\"BBpkAml\",\"c.hl\":\"Référendum sur l'immigration : la pétition de Philippe de Villiers dépasse 1,5 million de signatures\"}\" title=\"Afficher d’autres éléments\" aria-label=\"Afficher d’autres éléments\"><IMG alt=\"6FEDD79CF977AF479D89099DCD98E144\" aria-hidden=\"true\" src=\"https://assets.msn.com/staticsb/statics//latest/fluent-icons/more_horizontal_20_regular.svg\"></IMG></BUTTON></DIV><RESPONSIVE-HEADER slot=\"header\" exportparts=\"sd-card-header, more-actions-button, more-actions-icon\" href=\"https://www.msn.com/fr-fr/channel/topic/S%C3%A9lection%20de%20la%20r%C3%A9daction/tp-Y_b43a59b1-5014-48d4-be06-75d3cf7da630?cvid=933f8e4bd76c42a78b95540b6c08f00e&ocid=BingHp01\"><DIV part=\"sd-card-header\" class=\"sd-card-header\" data-t=\"{\"n\":\"header\",\"b\":1,\"c.t\":1,\"c.c\":\"topstories\",\"ext\":{\"cid\":\"2\",\"cid1s\":\"CanonicalName-topstories\",\"co\":2,\"col\":3,\"ct1s\":\"TopicFeed\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300},\"c.hl\":\"À la une\"}\"><DIV class=\"header-icon\"><IMG alt=\"6FEDD79CF977AF479D89099DCD98E144\" src=\"https://assets.msn.com/staticsb/statics//latest/icons/NtpTopStories.svg\"></IMG></DIV><A id=\"title\" class=\"title\" part=\"title\" href=\"https://www.msn.com/fr-fr/channel/topic/S%C3%A9lection%20de%20la%20r%C3%A9daction/tp-Y_b43a59b1-5014-48d4-be06-75d3cf7da630?cvid=933f8e4bd76c42a78b95540b6c08f00e&ocid=BingHp01\" target=\"_blank\" data-t=\"{\"n\":\"title\",\"a\":\"click\",\"b\":1,\"c.t\":1,\"c.c\":\"topstories\",\"ext\":{\"cid\":\"2\",\"cid1s\":\"CanonicalName-topstories\",\"co\":2,\"col\":3,\"ct1s\":\"TopicFeed\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300},\"c.hl\":\"À la une\"}\"><SPAN role=\"heading\" aria-level=\"2\"><text>À la une</text></SPAN></A><DIV part=\"more-actions\" class=\"more-actions-container\"><BUTTON class=\"more-actions\" part=\"more-actions-button\" aria-expanded=\"false\" aria-label=\"Plus d'options\" title=\"Plus d'options\" data-t=\"{\"n\":\"cardactionellipsis\",\"t\":11,\"a\":\"click\",\"b\":8,\"c.t\":1,\"c.c\":\"topstories\",\"ext\":{\"cid\":\"2\",\"cid1s\":\"CanonicalName-topstories\",\"co\":2,\"col\":3,\"ct1s\":\"TopicFeed\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300}}\"><IMG alt=\"6FEDD79CF977AF479D89099DCD98E144\" class=\"icon-img\" part=\"more-actions-icon\" src=\"https://assets.msn.com/staticsb/statics/latest/fluent-icons/more_horizontal_16_regular.svg\"></IMG></BUTTON></DIV></DIV></RESPONSIVE-HEADER><SPAN slot=\"image\" class=\"articleTag breaking\"><text>Alerte info</text></SPAN><IMG aria-hidden=\"true\" class=\"attribution-image\" part=\"image\" slot=\"image\" alt=\"Europe 1\" decoding=\"6FEDD79CF977AF479D89099DCD98E144\" loading=\"6FEDD79CF977AF479D89099DCD98E144\" src=\"https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBpO6Gw.img?w=16&h=16&q=60&m=6&f=jpg&u=t\" title=\"Europe 1\"></IMG><SPAN part=\"content\" class=\"content\"><SPAN style=\"unicode-bidi: embed;\" class=\"attribution-text\" title=\"Europe 1\"><text>Europe 1</text></SPAN><SPAN aria-hidden=\"true\" class=\"divider\" focusable=\"false\"><text>·</text></SPAN><SPAN class=\"time\"><text>2h</text></SPAN></SPAN><RESPONSIVE-HEADER slot=\"header\" exportparts=\"sd-card-header, more-actions-button, more-actions-icon\" href=\"https://www.msn.com/fr-fr/sport/tennis/ence-moment/sp-id-2589?ocid=BingHp01&cvid=933f8e4bd76c42a78b95540b6c08f00e\"><DIV part=\"sd-card-header\" class=\"sd-card-header\" data-t=\"{\"n\":\"header\",\"a\":\"view\",\"b\":1,\"d\":\"https://www.msn.com/fr-fr/sport/tennis/ence-moment/sp-id-2589?ocid=BingHp01&cvid=933f8e4bd76c42a78b95540b6c08f00e\",\"c.i\":\"Tennis_USOpenMenSingles\",\"c.t\":1,\"c.v\":\"sports\",\"c.c\":\"ATP - US Open\",\"c.bi\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"ext\":{\"cid\":\"3\",\"cid1s\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"co\":3,\"col\":4,\"ct1s\":\"SportsMatch\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300,\"id\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"bv\":0,\"ch\":\"BB010865\",\"cs\":0.2249,\"ds\":null,\"ms\":\"v1.0:0.12494;\",\"sv\":\"v5.0\",\"rb\":32,\"ei\":0,\"nr\":0,\"he\":0,\"fv\":0,\"hp\":0,\"hs\":null,\"ie\":0,\"il\":0,\"iv\":0,\"nc\":null,\"np\":0.1245,\"rd\":null,\"rp\":0.166,\"rs\":2,\"td\":-1.607753,\"pc\":0,\"mk\":\"fr-fr\",\"ex\":0,\"us\":0,\"ul\":0,\"uc\":2,\"sg\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69a\",\"bi\":0,\"pl\":0.083,\"es\":0,\"el\":0,\"ts\":0,\"ss\":0,\"tl\":0,\"sl\":0,\"sf\":0,\"tf\":1,\"lf\":0,\"signature\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7_BB01086591FD36E6\"},\"c.hl\":\"ATP - US Open\"}\"><DIV class=\"header-icon\"><IMG src=\"//www.bing.com/th?id=OSB.k5du4jKq1J7QoN1gZA84Rg--.png&pid=MSports&w=72&h=72&qlt=90&c=0&rs=1&dpr=1&p=1\" alt=\"ATP - US Open\"></IMG></DIV><A id=\"title\" class=\"title\" part=\"title\" href=\"https://www.msn.com/fr-fr/sport/tennis/ence-moment/sp-id-2589?ocid=BingHp01&cvid=933f8e4bd76c42a78b95540b6c08f00e\" target=\"_blank\" data-t=\"{\"n\":\"title\",\"a\":\"click\",\"b\":1,\"d\":\"https://www.msn.com/fr-fr/sport/tennis/ence-moment/sp-id-2589?ocid=BingHp01&cvid=933f8e4bd76c42a78b95540b6c08f00e\",\"c.i\":\"Tennis_USOpenMenSingles\",\"c.t\":1,\"c.v\":\"sports\",\"c.c\":\"ATP - US Open\",\"c.bi\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"ext\":{\"cid\":\"3\",\"cid1s\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"co\":3,\"col\":4,\"ct1s\":\"SportsMatch\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300,\"id\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"bv\":0,\"ch\":\"BB010865\",\"cs\":0.2249,\"ds\":null,\"ms\":\"v1.0:0.12494;\",\"sv\":\"v5.0\",\"rb\":32,\"ei\":0,\"nr\":0,\"he\":0,\"fv\":0,\"hp\":0,\"hs\":null,\"ie\":0,\"il\":0,\"iv\":0,\"nc\":null,\"np\":0.1245,\"rd\":null,\"rp\":0.166,\"rs\":2,\"td\":-1.607753,\"pc\":0,\"mk\":\"fr-fr\",\"ex\":0,\"us\":0,\"ul\":0,\"uc\":2,\"sg\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69a\",\"bi\":0,\"pl\":0.083,\"es\":0,\"el\":0,\"ts\":0,\"ss\":0,\"tl\":0,\"sl\":0,\"sf\":0,\"tf\":1,\"lf\":0,\"signature\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7_BB01086591FD36E6\"},\"c.hl\":\"ATP - US Open\"}\"><SPAN role=\"heading\" aria-level=\"2\"><text>ATP - US Open</text></SPAN></A><BUTTON appearance=\"neutral\" aria-haspopup=\"true\" class=\"interest-menu-button\" slot=\"menu-button\" aria-label=\"Autres centres d’intérêt\" aria-expanded=\"false\" data-t=\"{\"n\":\"interestmenubutton\",\"t\":15,\"a\":\"mouseenter\",\"b\":8,\"c.i\":\"Tennis_USOpenMenSingles\",\"c.t\":1,\"c.v\":\"sports\",\"c.c\":\"ATP - US Open\",\"c.bi\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"ext\":{\"cid\":\"3\",\"cid1s\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"co\":3,\"col\":4,\"ct1s\":\"SportsMatch\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300,\"id\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"bv\":0,\"ch\":\"BB010865\",\"cs\":0.2249,\"ds\":null,\"ms\":\"v1.0:0.12494;\",\"sv\":\"v5.0\",\"rb\":32,\"ei\":0,\"nr\":0,\"he\":0,\"fv\":0,\"hp\":0,\"hs\":null,\"ie\":0,\"il\":0,\"iv\":0,\"nc\":null,\"np\":0.1245,\"rd\":null,\"rp\":0.166,\"rs\":2,\"td\":-1.607753,\"pc\":0,\"mk\":\"fr-fr\",\"ex\":0,\"us\":0,\"ul\":0,\"uc\":2,\"sg\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69a\",\"bi\":0,\"pl\":0.083,\"es\":0,\"el\":0,\"ts\":0,\"ss\":0,\"tl\":0,\"sl\":0,\"sf\":0,\"tf\":1,\"lf\":0,\"signature\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7_BB01086591FD36E6\"},\"c.hl\":\"Tennis\"}\" title=\"Autres centres d’intérêt\"><IMG alt=\"6FEDD79CF977AF479D89099DCD98E144\" class=\"icon-img\" src=\"https://assets.msn.com/staticsb/statics/latest/fluent-icons/chevron_down_12_regular.svg\"></IMG></BUTTON><DIV part=\"more-actions\" class=\"more-actions-container\"><FLUENT-BUTTON icon-only=\"6FEDD79CF977AF479D89099DCD98E144\" class=\"more-actions neutral\" appearance=\"neutral\" aria-describedby=\"info-tooltip\" aria-label=\"Populaire dans votre zone\" current-value=\"6FEDD79CF977AF479D89099DCD98E144\" data-t=\"{\"n\":\"headerInfoButton\",\"t\":1,\"a\":\"mouseenter\",\"b\":8,\"c.i\":\"Tennis_USOpenMenSingles\",\"c.t\":1,\"c.v\":\"sports\",\"c.c\":\"ATP - US Open\",\"c.bi\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"ext\":{\"cid\":\"3\",\"cid1s\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"co\":3,\"col\":4,\"ct1s\":\"SportsMatch\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300,\"id\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"bv\":0,\"ch\":\"BB010865\",\"cs\":0.2249,\"ds\":null,\"ms\":\"v1.0:0.12494;\",\"sv\":\"v5.0\",\"rb\":32,\"ei\":0,\"nr\":0,\"he\":0,\"fv\":0,\"hp\":0,\"hs\":null,\"ie\":0,\"il\":0,\"iv\":0,\"nc\":null,\"np\":0.1245,\"rd\":null,\"rp\":0.166,\"rs\":2,\"td\":-1.607753,\"pc\":0,\"mk\":\"fr-fr\",\"ex\":0,\"us\":0,\"ul\":0,\"uc\":2,\"sg\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69a\",\"bi\":0,\"pl\":0.083,\"es\":0,\"el\":0,\"ts\":0,\"ss\":0,\"tl\":0,\"sl\":0,\"sf\":0,\"tf\":1,\"lf\":0,\"signature\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7_BB01086591FD36E6\"},\"c.hl\":\"Tennis\"}\"><BUTTON class=\"control\" part=\"control\" value=\"6FEDD79CF977AF479D89099DCD98E144\" aria-describedby=\"info-tooltip\" aria-label=\"Populaire dans votre zone\"><SPAN class=\"content\" part=\"content\"><IMG alt=\"6FEDD79CF977AF479D89099DCD98E144\" class=\"icon-img\" src=\"https://assets.msn.com/staticsb/statics/latest/fluent-icons/info_16_regular.svg\"></IMG></SPAN></BUTTON></FLUENT-BUTTON><BUTTON class=\"more-actions\" part=\"more-actions-button\" aria-expanded=\"false\" aria-label=\"Plus d'options\" title=\"Plus d'options\" data-t=\"{\"n\":\"cardactionellipsis\",\"t\":11,\"a\":\"click\",\"b\":8,\"c.i\":\"Tennis_USOpenMenSingles\",\"c.t\":1,\"c.v\":\"sports\",\"c.c\":\"ATP - US Open\",\"c.bi\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"ext\":{\"cid\":\"3\",\"cid1s\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"co\":3,\"col\":4,\"ct1s\":\"SportsMatch\",\"height\":304,\"row\":1,\"slot\":0,\"traceIdIndex\":0,\"width\":300,\"id\":\"40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7\",\"bv\":0,\"ch\":\"BB010865\",\"cs\":0.2249,\"ds\":null,\"ms\":\"v1.0:0.12494;\",\"sv\":\"v5.0\",\"rb\":32,\"ei\":0,\"nr\":0,\"he\":0,\"fv\":0,\"hp\":0,\"hs\":null,\"ie\":0,\"il\":0,\"iv\":0,\"nc\":null,\"np\":0.1245,\"rd\":null,\"rp\":0.166,\"rs\":2,\"td\":-1.607753,\"pc\":0,\"mk\":\"fr-fr\",\"ex\":0,\"us\":0,\"ul\":0,\"uc\":2,\"sg\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69a\",\"bi\":0,\"pl\":0.083,\"es\":0,\"el\":0,\"ts\":0,\"ss\":0,\"tl\":0,\"sl\":0,\"sf\":0,\"tf\":1,\"lf\":0,\"signature\":\"SportsMatch_Tennis_40dacb9f-44dd-4d30-b8fd-bdfd69ac38f7_BB01086591FD36E6\"},\"c.hl\":\"Tennis\"}\"><IMG alt=\"6FEDD79CF977AF479D89099DCD98E144\" class=\"icon-img\" part=\"more-actions-icon\" src=\"https://assets.msn.com/staticsb/statics/latest/fluent-icons/more_horizontal_16_regular.svg\"></IMG></BUTTON></DIV></DIV></RESPONSIVE-HEADER><DIV class=\"participant\"><DIV class=\"participant-image\"><IMG role=\"presentation\" src=\"//img-s-msn-com.akamaized.net/tenant/amp/entityid/BBt5T92?w=72&h=72&q=60&m=6&f=png&u=t\"></IMG></DIV><DIV class=\"participant-name\" title=\"Sinner, Jannik\"><text>Sinner, Jannik</text></DIV><DIV class=\"score-container\"><DIV class=\"participant-score\"><text>2 6 1 4</text></DIV><DIV class=\"winner-tag\"></DIV></DIV></DIV><DIV class=\"match-details\"><DIV class=\"detail-attributes post-game\"><DIV class=\"game-state\" title=\"Terminé\"><text>Terminé</text></DIV></DIV></DIV></DIV></DIV></DIV></HTML>",
+    "parsed_html": "\n<\n  body|\n  <\n    div|\n    <\n      div|\n      <div| Microsoft et ses fournisseurs tiers utilisent des cookies et des technologies similaires pour fournir, mettre à jour et améliorer ses services et annonces. Si vous l’acceptez, nous utiliserons ces données pour personnaliser les annonces et procéder à des analyses dans ce domaine. >\n      <\n        div|\n        <text| Vous pouvez sélectionner « Accepter » pour accepter ces utilisations, « Refuser » pour refuser ces utilisations ou cliquer sur ‘Plus d’options’ pour passer en revue vos options. Vous pouvez modifier votre sélection sous « Gérer les Préférences de cookie » en bas de cette page. >\n        <a[A]| Déclaration de confidentialité >\n      >\n    >\n    <\n      div|\n      <a[B]| Accepter >\n      <a[C]| Refuser >\n      <span[D]| Plus d’options >\n    >\n  >\n  <\n    div|\n    <\n      div|\n      <\n        header|\n        <\n          div|\n          <\n            h1| Tendances maintenant sur Bing\n            <path[E]| >\n            <path[F]| >\n            <path[G]| >\n            <path[H]| >\n            <path[I]| >\n            <path[J]| >\n          >\n          <\n            ul|\n            <img[K]| >\n            <div[L]| Copilot >\n            <a[M]| Images >\n            <a[N]| Vidéos >\n            <a[O]| Achats >\n            <a[P]| Cartes >\n            <a[Q]| Actualités >\n            <div[R]| >\n          >\n        >\n        <\n          div|\n          <span[S]| Connexion >\n          <span[T]| >\n          <span[U]| Rewards >\n          <svg[V]| >\n          <span[W]| Mobile >\n          <circle[X]| >\n          <a[Y]| >\n        >\n      >\n      <svg[Z]| >\n      <textarea[AA]| 6FEDD79CF977AF479D89099DCD98E144 >\n      <div[AB]| >\n      <div[AC]| >\n    >\n    <\n      div|\n      <\n        div|\n        <\n          div|\n          <div| Questionnaire de la page d’accueil Bing >\n          <div| Quel est le principal objectif de la jetée de Dunquin ? >\n          <\n            ul|\n            <\n              a|\n              <span| A >\n              <span| Accès aux îles Blasket >\n            >\n            <\n              a|\n              <span| B >\n              <span| Port de pêche >\n            >\n            <\n              a|\n              <span| C >\n              <span| Station touristique >\n            >\n          >\n        >\n        <\n          div|\n          <path[AD]| >\n          <h2[AE]| Un ruban de pierre vers la mer >\n          <\n            div|\n            <\n              a| Image précédente\n              <div[AF]| >\n            >\n            <a[AG]| Image suivante >\n          >\n        >\n      >\n      <\n        section|\n        <\n          a| Toggle feed area position\n          <div[AH]| >\n        >\n        <\n          ul|\n          <\n            a| © Le Parisien\n            <\n              span|\n              <h2| « Le toit de ma BMW a explosé tout seul » : une automobiliste s’en prend au constructeur après un incident « Le toit de ma BMW a explosé tout seul » : u… >\n              <img| © Le Parisien >\n            >\n          >\n          <\n            a| © Télé star\n            <\n              span|\n              <h2| “Le chinois…”, deuxième dérapage de Michel Mary en trois jours sur TBT9 “Le chinois…”, deuxième dérapage de … >\n              <img| © Télé star >\n            >\n          >\n          <\n            a| © So Busy Girls\n            <\n              span|\n              <h2| « Ma femme paye tout », « Je n'ai plus de revenus » : recalé de TPMP, Benjamin Castaldi se confie sur ses galères « Ma femme paye tout », « Je n'ai plus d… >\n              <img| © So Busy Girls >\n            >\n          >\n          <\n            a| © Le Parisien\n            <\n              span|\n              <h2| « Je vais peut-être faire le plus grand bide du cinéma français » : Kad Merad se confie après l’échec du film « Papamobile » « Je vais peut-être faire le plus grand bide d… >\n              <img| © Le Parisien >\n            >\n          >\n          <\n            a| © Purepeople\n            <\n              span|\n              <h2| Harry favori de Charles III ? Harry favori de Charles III ? \"Le roi est actuell… >\n              <img| © Purepeople >\n            >\n          >\n          <\n            a| © Le Parisien\n            <\n              span|\n              <h2| « 12 missiles en moins d’une minute » : Ghazi Hamad, dirigeant du Hamas visé par la frappe israélienne au Qatar, apparaît sur Al Jazeera « 12 missiles en moins d’une minute » : Gh… >\n              <img| © Le Parisien >\n            >\n          >\n        >\n      >\n      <div| RECHERCHER >\n      <\n        div|\n        <button| Masquer cet article >\n        <button| Afficher d’autres éléments >\n      >\n      <\n        div|\n        <span| À la une >\n        <button| Plus d'options >\n      >\n      <span| Alerte info >\n      <img| Europe 1 >\n      <\n        span|\n        <span| Europe 1 Europe 1 >\n        <span| · >\n        <span| 2h >\n      >\n      <\n        div|\n        <span| ATP - US Open >\n        <button| Autres centres d’intérêt >\n        <\n          div|\n          <button| 6FEDD79CF977AF479D89099DCD98E144 >\n          <button| Plus d'options >\n        >\n      >\n      <\n        div|\n        <div| Sinner, Jannik Sinner, Jannik >\n        <div| 2 6 1 4 >\n      >\n      <div| Terminé Terminé >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 879.078125,
+                "top": 593,
+                "right": 982.25,
+                "bottom": 610,
+                "width": 103.171875,
+                "height": 17
+            },
+            "tag": "a",
+            "text": "Déclaration de confidentialité"
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 164.109375,
+                "top": 672,
+                "right": 222.875,
+                "bottom": 688,
+                "width": 58.765625,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Accepter"
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 334.921875,
+                "top": 672,
+                "right": 386.0625,
+                "bottom": 688,
+                "width": 51.140625,
+                "height": 16
+            },
+            "tag": "a",
+            "text": "Refuser"
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 454,
+                "top": 669,
+                "right": 550.453125,
+                "bottom": 685,
+                "width": 96.453125,
+                "height": 16
+            },
+            "tag": "span",
+            "text": "Plus d’options"
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 24.439998626708984,
+                "top": 20.079999923706055,
+                "right": 35.72514343261719,
+                "bottom": 31.365142822265625,
+                "width": 11.285144805908203,
+                "height": 11.28514289855957
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 36.898399353027344,
+                "top": 20.079999923706055,
+                "right": 48.18354415893555,
+                "bottom": 31.365142822265625,
+                "width": 11.285144805908203,
+                "height": 11.28514289855957
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 24.439998626708984,
+                "top": 32.53839874267578,
+                "right": 35.72514343261719,
+                "bottom": 43.823543548583984,
+                "width": 11.285144805908203,
+                "height": 11.285144805908203
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 36.898399353027344,
+                "top": 32.53839874267578,
+                "right": 48.18354415893555,
+                "bottom": 43.823543548583984,
+                "width": 11.285144805908203,
+                "height": 11.285144805908203
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 55.30263137817383,
+                "top": 23.76361846923828,
+                "right": 135.79999160766602,
+                "bottom": 39.329368591308594,
+                "width": 80.49736022949219,
+                "height": 15.565750122070312
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 141.2685546875,
+                "top": 24.444913864135742,
+                "right": 177.38101196289062,
+                "bottom": 43.94503402709961,
+                "width": 36.112457275390625,
+                "height": 19.500120162963867
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 250,
+                "top": 26.5,
+                "right": 266,
+                "bottom": 42.5,
+                "width": 16,
+                "height": 16
+            },
+            "tag": "img",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "L",
+            "rects": {
+                "left": 274,
+                "top": 14,
+                "right": 314.46875,
+                "bottom": 53,
+                "width": 40.46875,
+                "height": 39
+            },
+            "tag": "div",
+            "text": "Copilot"
+        },
+        {
+            "keep": true,
+            "id": "M",
+            "rects": {
+                "left": 350.46875,
+                "top": 26,
+                "right": 393.109375,
+                "bottom": 41,
+                "width": 42.640625,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Images"
+        },
+        {
+            "keep": true,
+            "id": "N",
+            "rects": {
+                "left": 429.109375,
+                "top": 26,
+                "right": 468.625,
+                "bottom": 41,
+                "width": 39.515625,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Vidéos"
+        },
+        {
+            "keep": true,
+            "id": "O",
+            "rects": {
+                "left": 504.625,
+                "top": 26,
+                "right": 544.375,
+                "bottom": 41,
+                "width": 39.75,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Achats"
+        },
+        {
+            "keep": true,
+            "id": "P",
+            "rects": {
+                "left": 580.375,
+                "top": 26,
+                "right": 618.671875,
+                "bottom": 41,
+                "width": 38.296875,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Cartes"
+        },
+        {
+            "keep": true,
+            "id": "Q",
+            "rects": {
+                "left": 654.671875,
+                "top": 26,
+                "right": 711.046875,
+                "bottom": 41,
+                "width": 56.375,
+                "height": 15
+            },
+            "tag": "a",
+            "text": "Actualités"
+        },
+        {
+            "keep": true,
+            "id": "R",
+            "rects": {
+                "left": 747.046875,
+                "top": 21.6875,
+                "right": 765.109375,
+                "bottom": 41.1875,
+                "width": 18.0625,
+                "height": 19.5
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "S",
+            "rects": {
+                "left": 884.25,
+                "top": 14,
+                "right": 946.40625,
+                "bottom": 53,
+                "width": 62.15625,
+                "height": 39
+            },
+            "tag": "span",
+            "text": "Connexion"
+        },
+        {
+            "keep": true,
+            "id": "T",
+            "rects": {
+                "left": 952.40625,
+                "top": 17,
+                "right": 984.40625,
+                "bottom": 49,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "span",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "U",
+            "rects": {
+                "left": 1011.40625,
+                "top": 15,
+                "right": 1070.703125,
+                "bottom": 54,
+                "width": 59.296875,
+                "height": 39
+            },
+            "tag": "span",
+            "text": "\n    \n        Rewards\n    \n  "
+        },
+        {
+            "keep": true,
+            "id": "V",
+            "rects": {
+                "left": 1074.703125,
+                "top": 18.5,
+                "right": 1106.703125,
+                "bottom": 50.5,
+                "width": 32,
+                "height": 32
+            },
+            "tag": "svg",
+            "text": "\n      \n  "
+        },
+        {
+            "keep": true,
+            "id": "W",
+            "rects": {
+                "left": 1132.703125,
+                "top": 14,
+                "right": 1171,
+                "bottom": 53,
+                "width": 38.296875,
+                "height": 39
+            },
+            "tag": "span",
+            "text": "Mobile"
+        },
+        {
+            "keep": true,
+            "id": "X",
+            "rects": {
+                "left": 1197,
+                "top": 14.5,
+                "right": 1204,
+                "bottom": 21.5,
+                "width": 7,
+                "height": 7
+            },
+            "tag": "circle",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Y",
+            "rects": {
+                "left": 1220,
+                "top": 14,
+                "right": 1240,
+                "bottom": 53,
+                "width": 20,
+                "height": 39
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "Z",
+            "rects": {
+                "left": 168.5,
+                "top": 158,
+                "right": 192.5,
+                "bottom": 182,
+                "width": 24,
+                "height": 24
+            },
+            "tag": "svg",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AA",
+            "rects": {
+                "left": 200.5,
+                "top": 158,
+                "right": 1075.5,
+                "bottom": 180,
+                "width": 875,
+                "height": 22
+            },
+            "tag": "textarea",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AB",
+            "rects": {
+                "left": 1083.5,
+                "top": 158,
+                "right": 1107.5,
+                "bottom": 182,
+                "width": 24,
+                "height": 24
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AC",
+            "rects": {
+                "left": 1146.5,
+                "top": 155,
+                "right": 1174.5,
+                "bottom": 183,
+                "width": 28,
+                "height": 28
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AD",
+            "rects": {
+                "left": 958.3541870117188,
+                "top": 400,
+                "right": 970.3541870117188,
+                "bottom": 415.9997253417969,
+                "width": 12,
+                "height": 15.999725341796875
+            },
+            "tag": "path",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AE",
+            "rects": {
+                "left": 983.6875,
+                "top": 388,
+                "right": 1178,
+                "bottom": 428,
+                "width": 194.3125,
+                "height": 40
+            },
+            "tag": "h2",
+            "text": "Un ruban de pierre vers la mer"
+        },
+        {
+            "keep": true,
+            "id": "AF",
+            "rects": {
+                "left": 1197.428955078125,
+                "top": 400.9289245605469,
+                "right": 1211.571044921875,
+                "bottom": 415.0710754394531,
+                "width": 14.14208984375,
+                "height": 14.14215087890625
+            },
+            "tag": "div",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AG",
+            "rects": {
+                "left": 1226,
+                "top": 388,
+                "right": 1266,
+                "bottom": 428,
+                "width": 40,
+                "height": 40
+            },
+            "tag": "a",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "AH",
+            "rects": {
+                "left": 44.928932189941406,
+                "top": 398.4289245605469,
+                "right": 59.071067810058594,
+                "bottom": 412.5710754394531,
+                "width": 14.142135620117188,
+                "height": 14.14215087890625
+            },
+            "tag": "div",
+            "text": ""
+        }
+    ]
+}

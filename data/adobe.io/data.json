@@ -1,0 +1,160 @@
+{
+    "raw_html": "<DIV class=\"css-ca6x7r\"><HEADER role=\"banner\" daa-lh=\"header\" class=\"css-1p7tb2x\"><NAV role=\"navigation\" aria-label=\"Global\" class=\"css-13udsys\"><DIV class=\"css-17rxrrc\"><DIV class=\"css-1fymgmu\"><BUTTON daa-ll=\"toggleSideNav\" class=\"spectrum-ActionButton spectrum-ActionButton--sizeM spectrum-ActionButton--quiet possible-clickable-element\" data-testid=\"A\"><svg aria-hidden=\"true\" role=\"img\" viewBox=\"0 0 36 36\" class=\"spectrum-Icon spectrum-Icon--sizeS\"><rect height=\"4\" rx=\"1\" ry=\"1\" width=\"28\" x=\"4\" y=\"16\"></rect><rect height=\"4\" rx=\"1\" ry=\"1\" width=\"28\" x=\"4\" y=\"6\"></rect><rect height=\"4\" rx=\"1\" ry=\"1\" width=\"28\" x=\"4\" y=\"26\"></rect></svg></BUTTON></DIV><DIV class=\"css-pum2c\"><DIV class=\"css-wm3npa\"><DIV class=\"css-wm3npa\"><A href=\"/\" tabindex=\"0\" daa-ll=\"adobeIcon\" id=\"adobeIcon\" class=\"css-klgm2z\"><DIV class=\"css-s5xdrg\"><svg aria-hidden=\"true\" role=\"img\" viewBox=\"0 0 30 26\" fill=\"#FA0F00\" aria-label=\"Adobe\" class=\"css-ysytq\"><polygon points=\"19,0 30,0 30,26\"></polygon><polygon points=\"11.1,0 0,0 0,26\" class=\"possible-clickable-element\" data-testid=\"B\"></polygon><polygon points=\"15,9.6 22.1,26 17.5,26 15.4,20.8 10.2,20.8\" class=\"possible-clickable-element\" data-testid=\"C\"></polygon></svg><STRONG class=\"spectrum-Heading spectrum-Heading--sizeXXS css-ewwltr\"><SPAN class=\"css-ppngqo possible-clickable-element\" data-testid=\"D\"><text>Adobe</text></SPAN><text>Developer</text></STRONG></DIV></A></DIV></DIV></DIV><DIV class=\"css-2mytqp\"><DIV class=\"css-13d1d42 spectrum-Tabs spectrum-Tabs--sizeM spectrum-Tabs--horizontal spectrum-Tabs--quiet\"><A aria-current=\"page\" id=\"tabindex0\" selected=\"/search-frame/dev-site-assets/e0375de92e239aa3da11.js\" daa-ll=\"Home\" aria-selected=\"false\" autofocus=\"/search-frame/dev-site-assets/e0375de92e239aa3da11.js\" tabindex=\"0\" href=\"/\" class=\"isSelected css-1nkch47 spectrum-Tabs-item\"><SPAN class=\"spectrum-Tabs-itemLabel possible-clickable-element\" data-testid=\"E\"><text>Home</text></SPAN></A><A href=\"/apis/\" id=\"tabindex1\" daa-ll=\"Products\" aria-selected=\"false\" autofocus=\"/search-frame/dev-site-assets/e0375de92e239aa3da11.js\" tabindex=\"0\" class=\"css-1xdhyk6 spectrum-Tabs-item\"><SPAN class=\"spectrum-Tabs-itemLabel possible-clickable-element\" data-testid=\"F\"><text>Products</text></SPAN></A><DIV tabindex=\"0\" id=\"tabindex2\" index=\"2\" aria-controls=\"menu id81\" aria-label=\"Community\" daa-ll=\"Community\" aria-selected=\"false\" autofocus=\"/search-frame/dev-site-assets/e0375de92e239aa3da11.js\" class=\"css-1jjjg2j spectrum-Tabs-item\"><SPAN class=\"spectrum-Tabs-itemLabel possible-clickable-element\" data-testid=\"G\"><text>Community</text></SPAN><svg aria-hidden=\"true\" role=\"img\" class=\"css-1km5zkl spectrum-Icon spectrum-UIIcon-ChevronDown100\"><path d=\"M3 9.95a.875.875 0 01-.615-1.498L5.88 5 2.385 1.547A.875.875 0 013.615.302L7.74 4.377a.876.876 0 010 1.246L3.615 9.698A.872.872 0 013 9.95z\" class=\"spectrum-UIIcon--medium\"></path></svg><DIV aria-hidden=\"true\" class=\"spectrum-Popover spectrum-Popover--bottom css-1e9p6hj\" style=\"/search-frame/dev-site-assets/e0375de92e239aa3da11.js\"><UL role=\"menubar\" class=\"spectrum-Menu\"><A href=\"https://blog.developer.adobe.com/\" role=\"menuitem\" tabindex=\"0\" id=\"menuIndex2-0\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" daa-ll=\"Adobe Developers Blog\" class=\"spectrum-Link spectrum-Link--quiet css-b71vjq\"><DIV class=\"css-lvgdvp\"><DIV class=\"css-udpsni\"></DIV></DIV><SPAN class=\"spectrum-Menu-itemLabel\"><DIV class=\"css-bet2sj\"><text>Adobe Developers Blog</text></DIV></SPAN></A><A href=\"/open/\" role=\"menuitem\" tabindex=\"0\" id=\"menuIndex2-1\" daa-ll=\"Open Source at Adobe\" class=\"spectrum-Link spectrum-Link--quiet css-b71vjq\"><DIV class=\"css-lvgdvp\"><DIV class=\"css-udpsni\"></DIV></DIV><SPAN class=\"spectrum-Menu-itemLabel\"><DIV class=\"css-bet2sj\"><text>Open Source at Adobe</text></DIV></SPAN></A><A href=\"https://github.com/adobe\" role=\"menuitem\" tabindex=\"0\" id=\"menuIndex2-2\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" daa-ll=\"Adobe on GitHub\" class=\"spectrum-Link spectrum-Link--quiet css-b71vjq\"><DIV class=\"css-lvgdvp\"><DIV class=\"css-udpsni\"></DIV></DIV><SPAN class=\"spectrum-Menu-itemLabel\"><DIV class=\"css-bet2sj\"><text>Adobe on GitHub</text></DIV></SPAN></A><A href=\"/developer-support/\" role=\"menuitem\" tabindex=\"0\" id=\"menuIndex2-3\" daa-ll=\"Adobe Developer Support\" class=\"spectrum-Link spectrum-Link--quiet css-b71vjq\"><DIV class=\"css-lvgdvp\"><DIV class=\"css-udpsni\"></DIV></DIV><SPAN class=\"spectrum-Menu-itemLabel\"><DIV class=\"css-bet2sj\"><text>Adobe Developer Support</text></DIV></SPAN></A><A href=\"https://community.adobe.com/\" role=\"menuitem\" tabindex=\"0\" id=\"menuIndex2-4\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" daa-ll=\"Community Forums\" class=\"spectrum-Link spectrum-Link--quiet css-b71vjq\"><DIV class=\"css-lvgdvp\"><DIV class=\"css-udpsni\"></DIV></DIV><SPAN class=\"spectrum-Menu-itemLabel\"><DIV class=\"css-bet2sj\"><text>Community Forums</text></DIV></SPAN></A><A href=\"https://developer.adobe.com/cpp/\" role=\"menuitem\" tabindex=\"0\" id=\"menuIndex2-5\" target=\"_blank\" rel=\"noopener noreferrer nofollow\" daa-ll=\"C++ at Adobe\" class=\"spectrum-Link spectrum-Link--quiet css-b71vjq\"><DIV class=\"css-lvgdvp\"><DIV class=\"css-udpsni\"></DIV></DIV><SPAN class=\"spectrum-Menu-itemLabel\"><DIV class=\"css-bet2sj\"><text>C++ at Adobe</text></DIV></SPAN></A></UL></DIV></DIV><DIV class=\"spectrum-Tabs-selectionIndicator css-1slktfw\" style=\"transition: none; transform: translate(0px, 0px); width: 35px;\"></DIV></DIV></DIV><DIV class=\"css-1tnsek5\"><DIV class=\"css-zjik7\"><BUTTON id=\"aio-Search-close\" aria-label=\"Search\" tabindex=\"0\" daa-ll=\"searchButton\" class=\"css-bprlbp spectrum-ActionButton spectrum-ActionButton--sizeM spectrum-ActionButton--quiet possible-clickable-element\" data-testid=\"H\"><svg aria-hidden=\"true\" role=\"img\" viewBox=\"0 0 36 36\" class=\"spectrum-Icon spectrum-Icon--sizeM\"><path d=\"M33.173 30.215L25.4 22.443a12.826 12.826 0 10-2.957 2.957l7.772 7.772a2.1 2.1 0 002.958-2.958zM6 15a9 9 0 119 9 9 9 0 01-9-9z\"></path></svg></BUTTON><DIV class=\"css-ppngqo\"><A href=\"/console\" role=\"button\" id=\"consoleId\" tabindex=\"0\" class=\"spectrum-Button spectrum-Button--sizeM spectrum-Button--primary spectrum-Button--undefined possible-clickable-element\" data-testid=\"I\"><text>Console</text></A></DIV><DIV class=\"css-8iojpf\"><BUTTON variant=\"primary\" tabindex=\"0\" daa-ll=\"imsButton\" class=\"css-1bdlzr0 spectrum-ActionButton spectrum-ActionButton--sizeM spectrum-ActionButton--quiet\"><SPAN class=\"spectrum-ActionButton-label css-18ll2s4 possible-clickable-element\" data-testid=\"J\"><text>Sign in</text></SPAN></BUTTON></DIV></DIV></DIV></DIV></NAV></HEADER></DIV><SECTION class=\"index-hero spectrum--dark css-1adi3c8\" daa-lh=\"index-hero\"><P class=\"spectrum-Body spectrum-Body--sizeM css-hhxssz\"><SPAN style=\"position:relative;display:block;margin-left:auto;margin-right:auto;max-width:1280px;\" class=\"gatsby-resp-image-wrapper\"><SPAN style=\"padding-bottom: 34.6875%; position: relative; bottom: 0px; left: 0px; display: block; transition: opacity 0.5s 0.5s; pointer-events: none; opacity: 0;\" class=\"gatsby-resp-image-background-image\"></SPAN><IMG src=\"/static/add5a1be06b58f28f7cc3c89139d7ea1/bbbf7/F_Illu_DevEcoHomepage_1440x500_2x.png\" alt=\"F Illu DevEcoHomepage 1440x500 2x\" title=\"F Illu DevEcoHomepage 1440x500 2x\" loading=\"eager\" style=\"width: 100%; height: 100%; margin: 0px; vertical-align: middle; position: absolute; opacity: 1; transition: opacity 0.5s; color: inherit; top: 0px; left: 0px;\" class=\"gatsby-resp-image-image\"></IMG></SPAN></P><DIV class=\"css-1xptr5z\"><H1 id=\"the-most-memorable-digital-experiences-are-unleashed-by-developer-creativity\" class=\"spectrum-Heading--sizeXXL spectrum-Heading--serif css-1bsb7la\"><text>The most memorable digital experiences are unleashed by developer creativity</text></H1><P class=\"spectrum-Body spectrum-Body--sizeL css-100pq0h\"><text>Adobe products and services empower developers</text></P><DIV class=\"css-14iqgy0\"><A href=\"/apis\" role=\"button\" aria-label=\"Explore our APIs\" class=\"spectrum-Button spectrum-Button--sizeM spectrum-Button--accent spectrum-Button--fill possible-clickable-element\" daa-ll=\"Explore our APIs\" data-testid=\"K\"><SPAN class=\"spectrum-Button-label\"><text>Explore our APIs</text></SPAN></A></DIV></DIV></SECTION><DIV id=\"gatsby-announcer\" style=\"position:absolute;top:0px;width:1px;height:1px;padding:0px;overflow:hidden;clip:rect(0, 0, 0, 0);white-space:nowrap;border:0px;\" aria-live=\"assertive\" aria-atomic=\"true\"></DIV>",
+    "parsed_html": "\n<\n  div|\n  <\n    div|\n    <button[A]| >\n    <polygon[B]| >\n    <polygon[C]| >\n    <\n      strong|\n      <span[D]| Adobe >\n      <text| Developer >\n    >\n    <\n      div|\n      <\n        a| /search-frame/dev-site-assets/e0375de92e239aa3da11.js\n        <span[E]| Home >\n      >\n      <span[F]| Products >\n      <\n        div|\n        <span[G]| Community >\n        <\n          ul|\n          <div| Adobe Developers Blog >\n          <div| Open Source at Adobe >\n          <div| Adobe on GitHub >\n          <div| Adobe Developer Support >\n          <div| Community Forums >\n          <div| C++ at Adobe >\n        >\n      >\n    >\n    <\n      div|\n      <button[H]| >\n      <a[I]| Console >\n      <span[J]| Sign in >\n    >\n  >\n  <\n    section|\n    <img| F Illu DevEcoHomepage 1440x500 2x >\n    <\n      div|\n      <h1| The most memorable digital experiences are unleashed by developer creativity >\n      <p| Adobe products and services empower developers >\n      <\n        a[K]|\n        <span| Explore our APIs >\n      >\n    >\n  >\n>",
+    "items": [
+        {
+            "keep": true,
+            "id": "A",
+            "rects": {
+                "left": 8,
+                "top": 20,
+                "right": 30,
+                "bottom": 44,
+                "width": 22,
+                "height": 24
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "B",
+            "rects": {
+                "left": 48.61538314819336,
+                "top": 22,
+                "right": 56.29999923706055,
+                "bottom": 40,
+                "width": 7.6846160888671875,
+                "height": 18
+            },
+            "tag": "polygon",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "C",
+            "rects": {
+                "left": 55.67692184448242,
+                "top": 28.646154403686523,
+                "right": 63.91538619995117,
+                "bottom": 40,
+                "width": 8.23846435546875,
+                "height": 11.353845596313477
+            },
+            "tag": "polygon",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "D",
+            "rects": {
+                "left": 78,
+                "top": 21.25,
+                "right": 122,
+                "bottom": 40.25,
+                "width": 44,
+                "height": 19
+            },
+            "tag": "span",
+            "text": "Adobe "
+        },
+        {
+            "keep": true,
+            "id": "E",
+            "rects": {
+                "left": 236,
+                "top": 7,
+                "right": 271,
+                "bottom": 55,
+                "width": 35,
+                "height": 48
+            },
+            "tag": "span",
+            "text": " Home "
+        },
+        {
+            "keep": true,
+            "id": "F",
+            "rects": {
+                "left": 295,
+                "top": 7,
+                "right": 343,
+                "bottom": 55,
+                "width": 48,
+                "height": 48
+            },
+            "tag": "span",
+            "text": " Products "
+        },
+        {
+            "keep": true,
+            "id": "G",
+            "rects": {
+                "left": 367,
+                "top": 7,
+                "right": 433,
+                "bottom": 55,
+                "width": 66,
+                "height": 48
+            },
+            "tag": "span",
+            "text": "Community"
+        },
+        {
+            "keep": true,
+            "id": "H",
+            "rects": {
+                "left": 1093,
+                "top": 16,
+                "right": 1117,
+                "bottom": 48,
+                "width": 24,
+                "height": 32
+            },
+            "tag": "button",
+            "text": ""
+        },
+        {
+            "keep": true,
+            "id": "I",
+            "rects": {
+                "left": 1133,
+                "top": 16,
+                "right": 1214,
+                "bottom": 48,
+                "width": 81,
+                "height": 32
+            },
+            "tag": "a",
+            "text": "Console"
+        },
+        {
+            "keep": true,
+            "id": "J",
+            "rects": {
+                "left": 1241,
+                "top": 22.5,
+                "right": 1277,
+                "bottom": 39.5,
+                "width": 36,
+                "height": 17
+            },
+            "tag": "span",
+            "text": "Sign in"
+        },
+        {
+            "keep": true,
+            "id": "K",
+            "rects": {
+                "left": 607,
+                "top": 487.65625,
+                "right": 737,
+                "bottom": 519.84375,
+                "width": 130,
+                "height": 32.1875
+            },
+            "tag": "a",
+            "text": ""
+        }
+    ]
+}
