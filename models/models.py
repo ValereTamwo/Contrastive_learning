@@ -1,6 +1,6 @@
 import torch 
 import torch.nn as nn
-from torch.utils.data import Dataset,Dataloader
+from torch.utils.data import Dataset,DataLoader
 import torch.optim as optim
 from transformers import AutoModel, AutoTokenizer,ViTImageProcessor,ViTModel
 from PIL import Image
