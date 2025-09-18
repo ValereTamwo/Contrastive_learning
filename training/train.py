@@ -40,8 +40,8 @@ def main(args):
         for batch in progress_bar:
             with accelerator.accumulate(model):
                 # Extraire les features
-                image_features = model.module.encode_image(batch['pixel_values'], batch['coordinates'])
-                text_features = model.module.encode_text(batch['input_ids'], batch['attention_mask'])
+                image_features = model.encode_image(batch['pixel_values'], batch['coordinates'])
+                text_features = model.encode_text(batch['input_ids'], batch['attention_mask'])
 
                 # Calculer la perte
                 loss = contrastive_loss(image_features, text_features)
