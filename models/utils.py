@@ -6,7 +6,8 @@ def contrastive_loss(image_features, text_features, temperature=0.07):
     text_features = text_features / text_features.norm(dim=1, keepdim=True)
 
     # Matrice de similarité cosinus
-    logit_scale = (1 / temperature).exp()
+    logit_scale = torch.exp(torch.tensor(1.0 / temperature, device=image_features.device))
+
     logits_per_image = logit_scale * image_features @ text_features.t()
     logits_per_text = logits_per_image.t()
 
