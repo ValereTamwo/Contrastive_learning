@@ -13,7 +13,7 @@ from models.models import VisionTextAlignmentModel, ContrastiveDataset
 from models.utils import contrastive_loss
 
 def main(args):
-    accelerator = Accelerator()
+    accelerator = Accelerator(mixed_precision="fp16")
 
     # --- Modèles et Tokenizers ---
     tokenizer = AutoTokenizer.from_pretrained(args.text_model)
