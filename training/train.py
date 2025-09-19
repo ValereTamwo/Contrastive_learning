@@ -27,6 +27,7 @@ def main(args):
     # --- Dataset ---
     dataset = ContrastiveDataset(args.dataset_path, tokenizer, image_processor)
     dataloader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True)
+    print("dataset loaded..")
 
     # --- Optimiseur ---
     # On entraîne uniquement les poids du connecteur
@@ -42,12 +43,9 @@ def main(args):
         for batch in progress_bar:
             with accelerator.accumulate(model):
                 # Extraire les features en une seule passe avant (forward pass)
-                image_features, text_features = model(
-                    pixel_values=batch['pixel_values'],
-                    coordinates=batch['coordinates'],
-                    input_ids=batch['input_ids'],
-                    attention_mask=batch['attention_mask']
-                )
+                image_features = model.encode_image(batch['pixel_values'], batch['coordinates'])
+                text_features = model.encode_text(batch['input_ids'], batch['attention_mask'])
+
 
                 # Calculer la perte
                 loss = contrastive_loss(image_features, text_features)
