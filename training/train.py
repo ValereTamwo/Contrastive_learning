@@ -31,7 +31,10 @@ def main(args):
 
     # --- Optimiseur ---
     # On entraîne uniquement les poids du connecteur
-    optimizer = optim.AdamW(model.connector.parameters(), lr=args.learning_rate)
+    optimizer = optim.AdamW(
+        list(model.connector.parameters()) + [model.logit_scale], 
+        lr=args.learning_rate
+    )
 
     # --- Préparation avec Accelerate ---
     model, optimizer, dataloader = accelerator.prepare(model, optimizer, dataloader)
@@ -48,7 +51,10 @@ def main(args):
 
 
                 # Calculer la perte
-                loss = contrastive_loss(image_features, text_features)
+                #loss = contrastive_loss(image_features, text_features)
+                unwrapped_model = accelerator.unwrap_model(model)
+                loss = contrastive_loss(image_features, text_features, unwrapped_model.logit_scale)
+
 
                 accelerator.backward(loss)
                 optimizer.step()

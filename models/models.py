@@ -6,7 +6,7 @@ from transformers import AutoModel, ViTModel
 from PIL import Image
 import json
 import os
-
+import numpy as np
 # Architecture du Modèle
 class VisionTextAlignmentModel(nn.Module):
     def __init__(self, text_model_name, vision_model_name, projection_dim=4096):
@@ -31,6 +31,7 @@ class VisionTextAlignmentModel(nn.Module):
             nn.Dropout(0.1),                 
             nn.Linear(projection_dim * 2, projection_dim),
         )
+        self.logit_scale = nn.Parameter(torch.ones([]) * np.log(1 / 0.07))
     
     def encode_text(self, input_ids, attention_mask):
         outputs = self.text_model(input_ids=input_ids, attention_mask=attention_mask)

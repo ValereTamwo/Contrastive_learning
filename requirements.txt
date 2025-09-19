@@ -6,7 +6,7 @@ transformers
 accelerate
 datasets
 sentencepiece
-
+numpy
 # Utilities
 tqdm
 Pillow
